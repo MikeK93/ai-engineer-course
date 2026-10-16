@@ -1,0 +1,2407 @@
+ 
+4 
+ 
+ 
+PART II 
+OFFERING MEMORANDUM DATED SEPTEMBER 8, 2023 
+ 
+ 
+ 
+Symphony Tower 
+750 B Street 
+Suite 1930 
+San Diego, CA 92101 
+www.diversyfund.com 
+ 
+Up to $5,000,000 of Class B Common Stock 
+Minimum Investment Amount: $550 (250 shares) 
+ 
+ 
+DiversyFund, Inc. (“DiversyFund” “the company,” “we,” or “us”), is offering up to $5,000,000 worth of its Class B 
+Common Stock (the “Shares” or “Securities”), at a purchase price of $2.20 per Share pursuant to Regulation CF 
+(such offering, the “Offering”).      The minimum target amount under this Regulation CF offering is $10,450 (the 
+“Target Amount”). The company must reach its Target Amount of $10,450 by April 30, 2024, the end date of the 
+offering. Unless the company raises at least the Target Amount of $10,450 under the Regulation CF offering by 
+April 30, 2024, no securities will be sold in this offering, investment commitments will be cancelled, and committed 
+funds will be returned.  
+ 
+The Offering is being made through DealMaker Securities LLC (the "Intermediary"). The Intermediary will be 
+entitled to receive fees related to the purchase and sale of the Securities. Purchasers of the Securities must 
+complete the purchase process through the Intermediary. All committed funds will be held in escrow with 
+Enterprise Bank & Trust, a Missouri chartered trust company with banking powers (the “Escrow Agent”) until the 
+Target Offering Amount has been met or exceeded and one or more closings occur. You may cancel an investment 
+commitment until up to 48 hours prior to April 30, 2024 (the “Offering Deadline”), or such earlier time as the 
+Company designates, pursuant to Regulation CF, using the cancellation mechanism provided by the Intermediary.  
+The Intermediary has the ability to reject any investment commitment and may cancel or rescind the Company’s 
+offer to sell the Offered Shares at any time for any reason. 
+ 
+The Company is offering bonus shares to investors who make an investment in this Offering of at least $5,000: 
+ 
+• 
+Invest $5,000 and receive 5% bonus shares 
+ 
+5 
+ 
+• 
+Invest $10,000 and receive 10% bonus shares 
+• 
+Invest $25,000 and receive 20% bonus shares 
+ 
+However, investors who make an investment in this Offering of at least $750 during the special bonus offering 
+period beginning at 12:01 am Pacific Time (7:01 am UTC (UTC+7)) on December 4 and ending at 11:59 pm Pacific 
+time (6:59 am UTC the next day (UTC+7)) on December 10 will receive 5% bonus shares. 
+ 
+In addition, investors who make an investment in this Offering of at least $750 during a second special bonus 
+offering period beginning at 12:01 am Pacific Time (7:01 am UTC (UTC+7)) on December 24 and ending at 11:59 pm 
+Pacific time (6:59 am UTC the next day (UTC+7)) on December 31 will receive 5% bonus shares. 
+ 
+The Intermediary and affiliated entities are providing services in exchange for a $14,000 advance onboarding setup 
+fee for diligence and asset creation, a monthly subscription fee of $2,000, and a six percent (6%) commission cash 
+fee from the gross proceeds of the Offering. 
+ 
+A crowdfunding investment involves risk. You should not invest any funds in this offering unless you can afford 
+to lose your entire investment. 
+In making an investment decision, investors must rely on their own examination of the issuer and the terms of 
+the offering, including the merits and risks involved. These securities have not been recommended or approved 
+by any federal or state securities commission or regulatory authority. Furthermore, these authorities have not 
+passed upon the accuracy or adequacy of this document. 
+The U.S. Securities and Exchange Commission does not pass upon the merits of any securities offered or the 
+terms of the offering, nor does it pass upon the accuracy or completeness of any offering document or 
+literature. 
+These securities are offered under an exemption from registration; however, the U.S. Securities and Exchange 
+Commission has not made an independent determination that these securities are exempt from registration. 
+This disclosure document contains forward-looking statements and information relating to, among other things, 
+the company, its business plan and strategy, and its industry. These forward-looking statements are based on 
+the beliefs of, assumptions made by, and information currently available to the company’s management. When 
+used in this disclosure document and the company offering materials, the words “estimate”, “project”, 
+“believe”, “anticipate”, “intend”, “expect”, and similar expressions are intended to identify forward-looking 
+statements. These statements reflect management’s current views with respect to future events and are subject 
+to risks and uncertainties that could cause the company’s action results to differ materially from those 
+contained in the forward-looking statements. Investors are cautioned not to place undue reliance on these 
+forward-looking statements to reflect events or circumstances after such state or to reflect the occurrence of 
+unanticipated events. 
+ 
+In the event that we become a reporting company under the Securities Exchange Act of 1934, we intend to take 
+advantage of the provisions that relate to “Emerging Growth Companies” under the JOBS Act of 2012, including 
+electing to delay compliance with certain new and revised accounting standards under the Sarbanes-Oxley Act of 
+2002.  
+ 
+ 
+ 
+6 
+ 
+TABLE OF CONTENTS 
+ 
+THE COMPANY AND ITS BUSINESS 
+7 
+RISK FACTORS 
+19 
+DIRECTORS, EXECUTIVE OFFICERS, AND EMPLOYEES 
+33 
+OWNERSHIP AND CAPITAL STRUCTURE 
+34 
+USE OF PROCEEDS 
+35 
+FINANCIAL DISCUSSION 
+36 
+RELATED PARTY TRANSACTIONS 
+39 
+RECENT OFFERINGS OF SECURITIES 
+41 
+SECURITIES BEING OFFERED AND RIGHTS OF THE SECURITIES OF THE COMPANY 
+42 
+DILUTION 
+45 
+REGULATORY INFORMATION 
+47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+THE COMPANY AND ITS BUSINESS 
+Overview 
+ 
+The Company is a corporation organized under the laws of the State of Delaware. We are an online investment 
+technology company that owns and operates a real estate direct investment platform located at 
+www.diversyfund.com (the “DiversyFund Platform”). We believe that technology-powered investment is a more 
+efficient mechanism than the conventional financial system for investing in commercial and residential real estate. 
+Enabled by our proprietary technology, we aggregate investments from thousands of individuals from across the 
+United States to create the scale of an institutional investor without the multimillion-dollar minimum investments, 
+high fees and complexity typical of the traditional real estate investment business. Individuals can access the 
+commercial and residential real estate markets through the DiversyFund Platform for what we believe is a more 
+convenient, transparent and straightforward experience. Investors use the DiversyFund Platform to diversify their 
+investment portfolios and potentially earn attractive risk-adjusted returns from asset classes that have long been 
+closed to most investors and available only to very high net worth investors and institutions. We generate revenues 
+from, among other activities, the sponsorship of, and fees charged to, investment opportunities that are offered to 
+investors through the DiversyFund Platform. 
+Management 
+ 
+The Company is managed by a Board of Directors (the “Board”), consisting of two directors (the “Directors”): Craig 
+Cecilio and Alan Lewis. The Board has appointed the following officers of the Company (the “Officers”): Craig Cecilio, 
+as Chief Executive Officer, Alan Lewis, as Chief Investment Officer, Kevin Smith as Chief Legal and Compliance Officer 
+and Isaac Dixon as Senior Vice President of Real Estate. The Officers are responsible for operating the day-to-day 
+affairs of the Company and have authority, subject to the provisions of the Company’s governing documents and 
+the Board, to manage all of the Company’s activities. Investors will not have any control over the Company’s day-to-
+day operations. 
+ 
+Philosophy and Background 
+ 
+DiversyFund was created to give every American an opportunity to build wealth. DiversyFund does this through its 
+tech-enabled DiversyFund Platform by taking advantage of new securities regulations passed under the Jumpstart 
+Our Business Startups Act of 2012 (known as the “JOBS Act”). Prior to the JOBS Act, investing in alternative 
+investments, investments like commercial real estate that are alternatives to traditional stock market investing, was 
+reserved for venture capitalists, hedge funds, family offices and accredited investors. The JOBS Act changed those 
+limitations. Formerly “off-limit” investments can now be accessed by everyday investors for potential investment 
+portfolio growth. The new form of investing (through amended Regulation A, which was enacted in May 2015, and 
+Regulation Crowdfunding, which was enacted in 2016) is starting to shift the power from Wall Street to Main Street. 
+We were among the first in this space and we believe we have a unique opportunity to continue leveraging new 
+regulation to expand access to a powerful asset class for everyday Americans. 
+ 
+We created the DiversyFund Platform to help solve wealth inequality in the U.S. and to provide access to a historically 
+high-performing asset class that has long been closed to the average investor. We developed a proof of concept, 
+ 
+8 
+ 
+built new technology, launched multiple investment products and now we are ready to pick up the pace of growth. 
+We are scaling by building a community of people—friends, families, neighbors and average investors across the 
+country—who have become our advocates and by working hard to offer investors access to private investment 
+opportunities usually reserved for the wealthy. We began by offering opportunities to invest in multifamily real 
+estate projects where the barrier to entry is significant. Our teams source, underwrite, purchase, improve, manage 
+and, when we believe the time is right, sell these assets. As our community of investors grows, it further augments 
+our purchasing power, increasing our ability to select top performing assets.  
+ 
+In order to scale the Company by recruiting superior talent, growing our investor community, enhancing our online 
+technology and data applications, and scouring the country for promising investment opportunities, we are looking 
+for additional capital to accelerate this growth. We believe with the right funding we will be able to grow this 
+Company into a leading champion of everyday investors across the country. 
+Significant Milestones 
+• 
+2014 – The idea was born.  After years of making money for others the traditional way, Craig Cecilio saw how 
+everyday investors kept getting locked out of an entire asset class, one that has long fed the wealthy. In 2014, 
+Craig decided there had to be a way to break the cycle and came up with the idea that became DiversyFund. He 
+wanted to open up wealth-building opportunities to all Americans, no matter their economic status. 
+• 
+May 2015 – Open to all. An amendment to the JOBS Act allowed companies like DiversyFund to open up 
+investments to everyone (including non-accredited investors). This was a huge step in allowing every investor 
+to invest easily and conveniently online. 
+• 
+August 2016 – Partnering with the right people. Craig partnered with Alan Lewis to form and launch DiversyFund, 
+Inc. With Alan’s corporate transactions background as a corporate lawyer and investment banker on Wall Street, 
+he and Craig share the same mission of democratizing investing for everyone. 
+• 
+2016-2018 – Laying the groundwork. We were successful in raising our initial funds through a series of 
+convertible note offerings, creating a brand and building a team and developing our tech-enabled investment 
+platform. 
+• 
+November 2018 –DF Growth REIT I offering qualified by the SEC. DiversyFund began offering shares of DF Growth 
+REIT I to investors (including non-accredited investors) in its first SEC-qualified Regulation A offering. DF Growth 
+REIT I files annual and semi-annual reports including audited financial statements, information on business 
+operations, related party transactions, and management discussion and analysis of DF Growth REIT I’s 
+performance. 
+• 
+April 2019 – Platform launch. We publicly launched our DiversyFund Platform, allowing individuals to invest in 
+DF Growth REIT I at a $2,500 minimum entry point. 
+• 
+June 2019 – Open to all. We significantly lowered the minimum investment amount in DF Growth REIT I to $500, 
+opening up the opportunity to invest in commercial multifamily real estate to even more everyday investors. 
+• 
+November 2019 – Building our community. We reached nearly 3,000 investments by a community of more than 
+2,000 investors on the DiversyFund Platform. Many of DF Growth REIT I’s investors made multiple investments 
+through the newly-added auto-deposit feature. 
+ 
+9 
+ 
+• 
+March 2020 – Enhancing and expanding our technology platform. We launched our mobile version of the 
+DiversyFund Platform and added new features to the investor dashboard, making investing in commercial real 
+estate even easier and more convenient for the everyday investor. 
+• 
+January 2021 – DF Growth REIT II offering qualified by the SEC. DiversyFund began offering shares of DF Growth 
+REIT II to investors, including non-accredited investors, in its second SEC-qualified Regulation A offering.  
+• 
+November 2021 – DF Growth REIT I closed. DF Growth REIT I reached its maximum offering amount and was 
+closed to new investors. 
+• 
+December 2021 – DiversyFund reaches new AUM milestone. DiversyFund exceeded $100,000,000 in multifamily 
+real estate assets under management with properties in states across the Sun Belt. 
+• 
+July 2022 – Value Add Growth REIT III Offering Launched. DiversyFund filed an Offering Memorandum with the 
+SEC under Regulation Crowdfunding and began offering shares of Value Add Growth REIT III to investors, 
+including non-accredited investors, in its third fund offering.  
+• 
+October 2022 – DF Growth REIT IV Offering Circular filed with the SEC. DiversyFund began seeking SEC 
+qualification of its DF Growth REIT IV offering to investors, including non-accredited investors, in its fourth 
+Regulation A offering.  
+• 
+November 2022 – Value Add Growth REIT III Offering Closed.  Value Add Growth REIT III reached its maximum 
+offering amount and was closed to new investors.  
+• 
+November 2022 – Building our community. Our community topped 300,000 with nearly 28,000 active investors 
+on the DiversyFund Platform.  
+• 
+December 2022 – DiversyFund reaches new AUM Milestone. DiversyFund exceeded $180,000,000 in multifamily 
+real estate assets under management with properties in states across the Sun Belt. 
+• 
+January 2023 – Premier Plan Single Asset Offerings Launched. DiversyFund began again offering shares of single 
+asset funds to accredited investors in its Regulation D offering, DF Village Creek Partners, LLC.  
+• 
+February 2023 – DiversyFund Continues Growing the Team. DiversyFund made significant additions to its 
+technology, legal, compliance, product and marketing leadership, establishing a new foundation for growth in 
+2023.  
+• 
+April 2023 – Premier Plan Opportunities Fund Launched. DiversyFund began offering shares of its new DF 
+Distressed Opportunities Fund to accredited investors in its first Regulation D fund offering. 
+• 
+July 2023 – Amendment to DF Growth REIT IV Offering Circular filed with the SEC.  
+Addressable Market and Target Customers 
+ 
+We are helping democratize investing in commercial and residential real estate for everyday investors, giving people 
+the ability to build wealth regardless of their economic status. Our total addressable market is composed of all U.S. 
+residents with available income to invest, and we are prioritizing one key target segment of the population: the 
+middle class – a group concerned with rising costs of living and long-term financial stability. 
+ 
+ 
+10 
+ 
+This market segment comprises a significant portion of the population1, with average household incomes for the 
+middle class ranging between approximately $80,000-$200,000 across the country. With much of this population 
+segment already invested in the public stock markets, either through employer-sponsored plans or through 
+individual accounts, the transition to alternative investing is easy to make. 
+Our value proposition for the everyday investor: 
+ 
+භ 
+We educate them on the importance of diversification and the role of alternative assets in building balanced 
+investment portfolios; 
+භ 
+We offer access to previously inaccessible investments; and 
+භ 
+We make the process easy, convenient and 100% online. 
+Data and Technology Platform  
+The first version of the DiversyFund Platform launched and began accepting investments online in December 2016. 
+As we started the process to get SEC qualification of our Regulation A offering to all non-accredited investors, we 
+began to expand our DiversyFund Platform and enhance user experience to permit processing investments at scale. 
+We built a team of experienced product designers and engineers and rebuilt the platform, launching version 2.0 of 
+the DiversyFund Platform in April 2019. 
+ 
+Since public launch of the DiversyFund Platform in 2019, our marketing and product teams have worked closely 
+together to continue developing new key features and improving platform capabilities and user experience. Some 
+of the features we have added to our portal for our customers: 
+ 
+භ 
+Data integrations with Customer Data Platform; 
+භ 
+Mobile payment options; 
+භ 
+Recurring auto-deposit; 
+භ 
+Mobile application; 
+භ 
+Integrated compliance checks; 
+භ 
+Advanced user analytics; 
+භ 
+Customer experience platform; and 
+භ 
+Expanded knowledge library for users. 
+We use data analysis to optimize costs and to more efficiently build and service our community. For example, we 
+partner with Experian to enrich customer profiles in our customer relationship management platform. Expanded 
+customer profiles allow us to respond more efficiently to customer needs and preferences. We have also partnered 
+ 
+. 
+ 
+11 
+ 
+with an AI-driven data service to build custom customer acquisition models based on our proprietary first-party data. 
+This enables us to focus marketing ad spend on priority audiences, increase our conversion rates and reduce cost 
+per customer acquisition. As we continue to grow the size of our investor base and data set, this software leverages 
+machine learning to update our custom lead generation models and improve their efficiency.  
+ 
+Investment Programs 
+ 
+Currently, our principle Investing Program (“Program”) is the Premier Offerings for accredited investors, including 
+direct single asset investments in multifamily value add assets and an opportunity fund focused on multifamily value 
+add assets. We also anticipate launching the Value Add Growth REIT IV in the third quarter of 2023 following SEC 
+qualification. Like our earlier REITs, Value Add Growth REIT IV will be offered to non-accredited as well as accredited 
+investors.  
+ 
+Our current and previous REIT offerings invest in real estate projects across the United States, primarily multifamily 
+projects where we believe we can add significant value (often referred to as “value-add” opportunities in the 
+terminology of the real estate industry). Value-add investing consists of purchasing older apartment properties and 
+then renovating the property in order to increase rents, cash flows and overall property value.  Successful value add 
+investment projects typically generate higher returns than core investments, although their risk profile is higher as 
+well since such properties are often not fully occupied and require improvements to maximize rents. 
+ 
+Our REITs are managed by DF Manager which is a wholly-owned subsidiary of the Company. These REITs make 
+investments in real estate through “special purpose entities” (SPEs), each of which only owns a particular real estate 
+asset. The REITs primarily invest as a limited partner in such SPEs, with the Company or a subsidiary (such as DWB 
+Capital, LLC) acting as the general partner/sponsor in most instances, but are also permitted to provide general 
+partner equity and to make secured bridge loans. The REITs allow our customers to invest in a diversified portfolio 
+of real estate assets with a primary focus on multifamily value add assets. 
+ 
+The Company through DF Manager is entitled to a monthly asset management fee from each REIT (which the 
+Company waived for DF Growth REIT I). In addition, the Company acts as general partner, sponsor and manager on 
+most SPEs for which it typically receives fees and other compensation such as developer or acquisition fees, financing 
+fees, disposition fees, and construction management fees, in addition to a share of SPE profits in the form of a carried 
+interest. The Company does not own any real estate, directly or indirectly, and only functions as the sponsor of the 
+real estate assets owned by Company affiliates such as the REITs.  The Company does, however, receive a contingent 
+profit interest in exchange for its role as sponsor, which interest is often referred to as a “carried interest” or a 
+“promote”. All promoted interests are payable to the Company and not to stockholders or to our founders, Mr. 
+Cecilio or Mr. Lewis. 
+ 
+We expect to launch additional REITs (such as Value Add Growth REIT IV described above) that will continue to target 
+value-add real estate projects as well as leveraged, stable, fully leased, single or multi-tenant properties (often 
+referred to as “core plus” opportunities in the terminology of the real estate industry).  
+Our Structure  
+ 
+The chart below shows the relationship among us and our affiliates as of the date of this Memorandum. 
+ 
+12 
+ 
+ 
+ 
+ 
+The Company owns and operates the DiversyFund Platform, which allows investors to become equity owners in 
+alternative investment opportunities. The Company also acts as the non-member manager of various special 
+purpose entities (SPEs). 
+ 
+DiversyFund Income Fund, LLC, a California limited liability company, is a small income fund that serves as issuer of 
+promissory notes tied to the performance of specific real estate assets, which is sponsored by the Company and is 
+in its wind-down phase. 
+ 
+DiversyFund Growth Fund, LLC, a Delaware limited liability company, is a small equity fund, which is sponsored by 
+the Company and is in its wind-down phase. 
+ 
+DF Manager, LLC, a Delaware limited liability company and a wholly-owned subsidiary of the Company, acts as the 
+non-member manager of various REITs. 
+ 
+DWB Capital, LLC, a Delaware limited liability company and a wholly-owned subsidiary of the Company, acts as the 
+non-member manager of various SPEs. 
+ 
+NCP Port, LLC Delaware 
+LLC 
+EIN: 87-2547151
+Borrower
+31.1% REIT I Ownership
+31.1% REIT II Ownership
+37.8% 3rd Party
+++ **
+* Minority owned, less than 50% 
+ownership
+** 3rd Party Ownership
++   Managed by DiversyFund, Inc.
+++ Managed by DWB Capital, LLC
++++ Managed by 3rd Party
+#  100% Owned by 3rd Party Investors
+DiversyFund 
+Park Blvd, LLC 
+Delaware LLC 
+EIN: 82-1126942
+Borrower
+57.1% REIT I 
+30.7% REIT II
+12.1% 3rd Party                         
++ *
+Swaying Oaks One, LLC
+Utah LLC
+EIN:
+Borrower
+45.4% REIT I                                     
+41.7% REIT II
+12.9% 3rd Party
++++ **
+North Charleston 
+Townhomes, LLC 
+Delaware LLC 
+EIN: 85-3846488
+Borrower
+94.4%  REIT I
+1.4% REIT II
+4.2% 3rdParty
++ **
+Mission Villas SA, LLC
+Delaware LLC 
+EIN:87-2547151
+Borrower
+74% REIT I
+26% REIT II
++
+524 SW St.
+Lucie, LLC 
+Delaware LLC 
+EIN: 85-4282124
+Borrower
+100% REIT I
++
+DiversyFund, Inc.
+Delaware Corp
+EIN: 81-3674036
+Manager
+(100% Ownership)
+DF Independent  
+Partners LLC
+Delaware LLC
+EIN: 92-1369643
+Borrower
+100% Ownership
++ **
+P10 HGH – Village 
+Creek LLC
+Texas LLC
+EIN:
+Borrower
+78% REIT I            
+22% 3rd Party 
++++ **
+6050 Oakland Hills, 
+LLC
+Texas LLC
+EIN: 86-3646472
+Borrower
+100% REIT I
++++
+2425 Durant 
+Avenue LLC
+California LLC
+EIN:
+Borrower
+31.6% REIT I                  
+31.8% REIT II                 
+36.4% 3rdParty
++++ **
+DF Growth REIT II, LLC 
+Delaware LLC
+EIN: 85-2600369
+Non-Managing 
+Member ++
+Guarantor
+DF Growth REIT, LLC 
+Delaware LLC
+EIN: 83-1263155
+Non-Managing Member 
+++
+Guarantor
+Value Add Growth 
+REIT IV, LLC
+Delaware LLC
+EIN: 88-3116249
+Non-Managing 
+Member ++
+Guarantor
+REIT Investors 
+100%Owner
+Non-Managing Member
+Value Add Growth 
+REIT III, LLC 
+Delaware LLC
+EIN: 88-1426921
+Non-Managing 
+Member ++
+Guarantor
+DF Village Creek 
+Partners, LLC
+Delaware LLC
+EIN: 88-3670260
+Non-Managing 
+Member +
+Guarantor
+DiversyFund 
+Granito, LLC
+Delaware LLC
+EIN: 82-1501030
+#
+DiversyFund 
+Income Fund, LLC
+California LLC
+EIN: 46-1949789
+#
+DiversyFund 
+Growth Fund, 
+LLC
+Delaware LLC
+EIN: 82-
+4819249
+#
+DWB Capital, 
+LLC
+Delaware LLC
+EIN: 87-3461626
+Manager
+(No Ownership)
+DF Manager, LLC
+Delaware LC
+EIN: 83-1240533
+Manager
+(No Ownership)
+DF Distressed 
+Opportunities 
+Fund I, LLC
+Delaware LLC
+EIN: 92-1670839
+#
+Onyx on Park Mezz LLC
+Delaware LLC
+EIN:88-2051528
+Non-Managing Member +
+Guarantor
+201 SW Joan Jefferson 
+Way, LLC
+Delaware LLC
+EIN:86-1396244
+Borrower
+100% REIT I
++ 
+1)   DiversyFund, Inc. is controlled 
+by its Board of Directors, which 
+Board is comprised of two Directors, 
+Craig Cecilio and Alan Lewis. The 
+remaining ownership interest of 
+DiversyFund is owned by 260+ 
+shareholders (“minority 
+shareholders”).
+2) No single investor currently owns 
+more than 15%.
+3)) Except as shown, there are no 
+other (i) non-U.S. individuals or 
+entities that have a 10% or greater 
+direct or indirect aggregate ownership 
+interest (“Non-U.S. Equity Holders”) 
+in Borrower or any proposed 
+Guarantor not in the Borrower’s 
+organizational structure, and (ii) U.S. 
+individuals or entities that have a 25% 
+or greater direct or indirect aggregate 
+ownership interest in Borrower or any 
+proposed Guarantor.
+ 
+13 
+ 
+DF Growth REIT, LLC, a Delaware limited liability company, is a “real estate investment trust” sponsored by the 
+Company and previously offered for investment through the DiversyFund Platform. 
+ 
+DiversyFund Park Blvd. LLC is a Delaware limited liability company that functions as an SPE and is currently a limited 
+partner investor in a joint venture that owns a multifamily ground up real estate project in San Diego, California. 
+ 
+DiversyFund Granito, LLC is a Delaware limited liability company that functions as an SPE and is a limited partner 
+investor in a certain residential real estate land asset in Los Angeles, California. 
+ 
+DF Growth REIT II, LLC, a Delaware limited liability company, is a “real estate investment trust” sponsored by the 
+Company and previously offered for investment through the DiversyFund Platform. 
+Value Add Growth REIT III, LLC, a Delaware limited liability company, is a “real estate investment trust” sponsored 
+by the Company and previously offered for investment thorough the DiversyFund Platform. 
+ 
+DF Village Creek Partners, LLC is a Delaware limited liability company that functions as an SPE and is a limited partner 
+investor in a joint venture that owns and operates a multifamily real estate asset in Fort Worth, Texas. 
+ 
+DF Independent Partners, LLC is a Delaware limited liability company that functions as an SPE and owns and operates 
+a multifamily real estate asset near Monterey, California. 
+ 
+DF Colony Partners, LLC, a Delaware limited liability company, was formed to purchase and operate certain real 
+estate in San Antonio, Texas. 
+ 
+DF Distressed Opportunities Fund I, LLC, a Delaware limited liability company, is a real estate investment fund 
+sponsored by the Company offered for investment via the DiversyFund Platform. 
+ 
+Value Add Growth REIT IV, LLC, a Delaware limited liability company, is a “real estate investment trust” sponsored 
+by the Company and expected to be offered for investment soon, following qualification by the SEC, through the 
+DiversyFund Platform. 
+NCP Port LLC is a Delaware limited liability company that functions as an SPE and is a limited partner investor in a 
+joint venture that owns and operates a multifamily real estate asset in North Charleston, South Carolina. 
+North Charleston Townhomes, LLC is a Delaware limited liability company that functions as an SPE and is a limited 
+partner investor in a joint venture that owns and operates a multifamily real estate asset in North Charleston, South 
+Carolina. 
+Swaying Oaks One, LLC, a Utah limited liability company, functions as an SPE and is a joint venture that owns and 
+operates a multifamily real estate asset in San Antonio, Texas. 
+ 
+14 
+ 
+Mission Villas SA, LLC is a Delaware limited liability company that functions as an SPE and owns and operates a 
+multifamily real estate asset in San Antonio, Texas. 
+P10 HGH – Village Creek, LLC is a Delaware limited liability company that functions as an SPE and is a joint venture 
+that owns and operates a multifamily real estate asset in Fort Worth, Texas. 
+6050 Oakland Hills, LLC is a Delaware limited liability company that functions as an SPE and is a joint venture that 
+owns and operates a multifamily real estate asset in Dallas, Texas. 
+201 SW Joan Jefferson Way, LLC, LLC, a Delaware limited liability company that functions as an SPE and owns and 
+operates a multifamily real estate asset in Stuart, Florida. 
+524 SW St. Lucie, LLC, a Delaware limited liability company, functions as an SPE and owns and operates a multifamily 
+real estate asset in Port St. Lucie, Florida. 
+2425 Durant Avenue, LLC a Delaware limited liability company, functions as an SPE and is a joint venture that owns 
+and operates a multifamily real estate asset in Berkeley, California. 
+Marketing and Sales 
+ 
+A large portion of the proceeds of this offering will be used to continue building our community. We deploy an omni-
+channel marketing approach that relies on partnerships, content, automation, highly targeted media and continuous 
+testing to build a lean, data-driven marketing operation that scales customer acquisition in a cost-efficient way. We 
+leverage best-in-class technologies including Hubspot (CRM), Braze (Marketing Automation), Plaid (Secure 
+Integrated Bank Data), Tealium (Customer Data Platform), Parallel Markets (Accredited Investor Verification) and 
+Zendesk (Customer Support) to create an integrated and data-driven customer marketing ecosystem. 
+ 
+Community Building  
+ 
+We define community building as our customer experience. There is a critical difference between audience and 
+community. A community engages in a two-way conversation–a chance for us to interact with our customers and 
+potential customers. Developing our community of advocates is key to increasing our lifetime customer value and 
+lowering our consumer acquisition cost. Developing and servicing our online community has multiple benefits: 
+ 
+භ 
+Providing real time customer support; 
+භ 
+Promoting shareable content to increase awareness and education; 
+භ 
+Collecting user generated content; 
+භ 
+Developing and spreading the referral program; and 
+භ 
+Growing the number of DiversyFund advocates. 
+ 
+ 
+15 
+ 
+Building a Digital Experience Focused on User Behaviors  
+ 
+A digital-first mindset is a foundational value of DiversyFund. Users everywhere have become more comfortable 
+conducting various traditional activities online, such as banking, investing and learning. We want to be at the 
+forefront of these trends and are committed to providing the best experience for our users to manage their 
+alternative investing activities 100% online. As when we began DiversyFund, our goal is still to build out a largely 
+self-service customer support platform that will:  
+ 
+• 
+Give customers faster access to the answers and information they need; 
+භ 
+Allow customers to control their experience by making changes without needing to call or email. For example, 
+a bank might let their customers change their daily withdrawal limit online; 
+භ 
+Offer a clear path to contact a live customer support team when necessary; and 
+භ 
+Free up customer service staff to answer more complex questions and have more meaningful interactions. 
+ 
+Not only does this approach match user expectations for increasingly fast support and self-directed assistance, but 
+it also allows us to maintain a lean internal team and keep overhead costs low. We rely on our technology, content 
+and community to build our customer experience instead of outdated sales teams and call centers. 
+ 
+Competitive Advantages  
+ 
+Unlike most real estate investment platforms, we operate as an investment platform while performing all asset 
+acquisitions and management in-house for better quality control and investor reporting. We believe this vertical 
+integration approach creates an advantage for DiversyFund compared to competitors in the space since we, as the 
+investment manager and sponsor, receive acquisition fee revenue and are building up a portfolio of contingent profit 
+interests related to the real estate assets that we sponsor and/or manage. For each real estate asset that we acquire 
+and manage, DiversyFund captures the sponsor’s profit on the asset, if any, after it is sold and investors have received 
+their portion of any profits. For assets with large profit margins driven by both forced appreciation from renovations 
+and market pricing appreciation, this asset profit to DiversyFund can be quite significant. 
+ 
+Company Overview  
+ 
+The Company is a privately-held Delaware c-corporation. We own and operate the DiversyFund Platform, an online, 
+direct investment platform located at www.diversyfund.com. We believe technology-powered real estate 
+investment is a more efficient mechanism than the conventional financial system to invest in real estate and other 
+alternative assets. Enabled by our proprietary technology, we aggregate tens of thousands of individuals from across 
+the country to create the scale of an institutional investor without the high investment minimums and overhead 
+typical of the old-fashioned investment business. Individuals can invest through the DiversyFund Platform at low 
+minimum investments for what we believe is a better, more transparent and more convenient web-based 
+experience. Investors use the DiversyFund Platform to potentially earn attractive risk-adjusted returns from asset 
+classes that have generally been closed to many investors and only available to high net worth investors and 
+institutions. Investors invest in our Investment Programs through the DiversyFund Platform: 
+ 
+ 
+16 
+ 
+• 
+Premier Plan Direct Single Asset Investments offered to accredited investors include 
+o 
+DF Village Creek Partners, LLC, an SPE that owns and operates a multifamily real estate in Fort Worth, Texas. 
+o 
+DF Independent Partners, LLC, an SPE that owns and operates a multifamily real estate near Monterey, 
+California 
+o 
+DF Colony Partners, LLC, an SPE that owns and operates a multifamily real estate in San Antonio, Texas. 
+• 
+Premier Plan Fund Investments offered to accredited investors include 
+o 
+DF Distressed Opportunities Fund I, LLC, an investment fund sponsored by the Company that targets value 
+add and opportunistic multifamily real estate assets for investment, renovation and sale following 
+stabilization and capital appreciation. 
+• 
+Real Estate Investment Trusts (REITs) offered to non-accredited and accredited investors include 
+o 
+Value Add Growth REIT IV, a “real estate investment trust” sponsored by the Company and expected to be 
+offered for investment following qualification by the SEC that focuses on long-term capital appreciation 
+from the renovation and repositioning of apartment buildings and single- and multifamily properties. Value 
+Add Growth REIT IV will be offered to non-accredited as well as accredited investors under Regulation A, 
+allowing any U.S. investor–not just high net worth individuals—to invest directly in a diversified portfolio of 
+multifamily real estate assets. 
+o 
+Value Add Growth REIT III, LLC is a REIT focused on long-term capital appreciation from the renovation and 
+repositioning of apartment buildings and single- and multifamily properties. Value Add Growth REIT III 
+conducted an offering pursuant to Regulation Crowdfunding, raising nearly $5,000,000 in 2022. 
+o 
+DF Growth REIT II, LLC is a REIT focused on long-term capital appreciation from the renovation and 
+repositioning of apartment buildings and single- and multifamily properties that was offered to non-
+accredited as well as accredited investors under Regulation A. DF Growth REIT II raised nearly $9,000,000 
+in 2022. 
+o 
+DF Growth REIT, LLC is a REIT focused on long-term capital appreciation from the renovation and 
+repositioning of apartment buildings and single- and multifamily properties that was offered to non-
+accredited as well as accredited investors under Regulation A.  DF Growth REIT raised nearly $70,000,000 
+before it closed in 2021. 
+We experienced significant growth since the launch of DF Growth REIT in April 2019 as measured by growth in the 
+size of our investor community and increase in the number of investments made through the platform. As of August 
+15, 2023, we had an investor community of more than 325,000 and nearly 28,000 investors had made at least one 
+investment in one of our Programs. From the Company’s launch to the date of this Memorandum, we have 
+sponsored more than $200 million of multifamily value add real estate assets, based on pro forma exit values over 
+a 2 to 5 year hold period.  
+ 
+We generate the majority of our revenue from fees paid by our Programs including: (i) asset management fees, (ii) 
+acquisition or developer fees, (iii) real property disposition fees, (iv) financing fees, and (v) construction management 
+fees. For the years ended December 31, 2022, 2021, 2020, 2019 and 2018, our total gross revenue was $11,638,312; 
+$9,435,504; $3,035,789; $990,08; and $141,380.00, respectively. 
+ 
+17 
+ 
+ 
+Our REITs and other Programs typically pay us a monthly asset management fee equal to 0.1667% of investors’ 
+aggregate capital as of the last day of each calendar monthly, or approximately 2% per year. Where a Program owns 
+property directly or is the sole owner of an entity that owns property, we typically charge it an acquisition fee of up 
+to 4% of the total project costs, including both “hard” costs (e.g., the cost of land, buildings, construction, and 
+renovation) and “soft” costs (e.g., professional fees). 
+ 
+Where a Program owns property directly or is the sole owner of an entity that owns property, we may receive a 
+disposition fee equal to 1% of the total sale price of each property. Where property is owned by a joint venture 
+between a Program and another financial partner, we might be entitled to a similar disposition fee to the extent 
+negotiated with the financial partners in such joint venture (which could be higher than the 1% disposition fee for 
+direct investment). The amount of the disposition fees will depend on the selling price of assets by the Programs and 
+any joint ventures and, in the case of joint ventures, the terms we can negotiate with joint venture partners. 
+Accordingly, we cannot make a reasonable estimate of such disposition fees at this time. 
+ 
+Where a Program owns property directly or is the sole owner of an entity that owns property, we may receive a 
+financing fee equal to 1.0% of the amount of each loan placed on a property, whether at the time of acquisition or 
+pursuant to a refinancing. This financing fee is in addition to any fees paid to other parties, such as mortgage brokers. 
+Where property is owned by a joint venture between a Program and another financial partner, we may be entitled 
+to a similar financing fee to the extent negotiated with the financial partners in such joint venture, which could be 
+higher than the 1% financing fee for direct investment. The amount of the financing fees depends on the amount of 
+loans obtained by the Programs and any joint ventures and, in the case of joint ventures, the terms we negotiate 
+with joint venture partners.  
+ 
+Where a Program owns property directly or is the sole owner of an entity that owns property, we may provide 
+construction and/or construction management services with respect to such property pursuant to one or more 
+written agreements containing terms and conditions that are standard in the construction industry, as determined 
+by us based on our experience. The amount of our compensation, and the manner in which it is calculated, is 
+consistent with industry standards, as determined by us, provided that it is fair to the Program, and no greater than 
+would be paid to an unrelated party at arm’s length. Where property is owned by a joint venture between a Program 
+and another financial partner, we may provide similar construction and/or construction management services to 
+such joint venture to the extent negotiated with the financial partners in such joint venture. The amount of 
+compensation (if any) that we receive for construction or construction management services depends largely on the 
+number of projects for which our services are retained and the size and nature of those services and, in the case of 
+joint ventures, the terms we negotiate with joint venture partners.  
+ 
+For any entity of a Program that purchases a property using a loan requiring one or more individual guarantors (e.g., 
+by signing certain industry standard “bad boy” carve-outs), such individual(s) may charge the entity a guaranty fee 
+of up to 0.5% of the loan amount, whether such individual(s) are principals of the Company, such as Mr. Cecilio or 
+Mr. Lewis, or non-affiliated guarantor. In certain instances the Company rather than the SPE may pay the guaranty 
+fee. 
+ 
+ 
+18 
+ 
+As sponsor, the Company also expects to receive a contingent profit interest, or “promoted interest”, on the 
+disposition of real estate assets once all investors in those assets have received a return at or above a specified 
+return threshold.   
+ 
+The core elements of our growth strategy include enrolling new investors, developing the size of our community, 
+broadening our origination capabilities, enhancing our technology infrastructure, expanding our product offerings, 
+and extending customer lifetime value. We plan to continue to invest significant resources to accomplish these goals, 
+and we anticipate that our operating expenses, particularly our sales and marketing, technology, and origination 
+expenses, will continue to increase for the foreseeable future. These investments are intended to contribute to our 
+long-term growth, but they may affect our near term profitability. We anticipate that our future growth will depend 
+in part on attracting new investors to our Programs. We plan to increase our sales and marketing spending to attract 
+these customers. As we invest more funds in our digital marketing efforts, we expect to increase our Programs’ 
+investments at a faster rate than in the past. 
+  
+Employees 
+ 
+The company currently has 14 full-time employees and 6 contract employees. 
+ 
+Litigation 
+  
+The company is not involved in any litigation, and its management is not aware of any pending or threatened legal 
+actions relating to its intellectual property, conduct of its business activities, or otherwise. 
+ 
+SEC Administrative Proceedings Against an Affiliate 
+ 
+An affiliate of the Company was a respondent in an administrative proceeding with the SEC. In November 2021 the 
+SEC began an investigation of DF Growth REIT II, LLC (“REIT II)” and in January 2022 the SEC suspended REIT II’s 
+offering and commenced an administrative proceeding to make the suspension permanent. The SEC alleged two 
+violations (failure to begin the offering within two calendar days of qualification and use of an offering circular 
+supplement instead of a post-qualification amendment to increase the maximum offering amount from $50 million 
+to $75 million) and three types of misleading statements on the Sponsor’s website (related to the affiliation of DF 
+Growth REIT, LLC with REIT II, to how much capital REIT II needed to raise from investors and to the fees charged to 
+REIT II by the sponsor of REIT II). None of the SEC’s allegations involved financial or accounting misconduct or 
+wrongdoing. On June 9, 2023, the administrative proceeding was settled when REIT II and the SEC agreed to a 
+settlement that permanently suspended REIT II’s exemption under Regulation A.  REIT II was not required to pay any 
+fines or penalties. On August 10, 2023, the SEC notified REIT II that it was also concluding its investigation and did 
+not intend to recommend an enforcement action against DiversyFund, REIT I, REIT II, DF Manager, Mr. Cecilio or Mr. 
+Lewis. 
+  
+Property 
+  
+Pursuant to a lease agreement dated October 11, 2018, the Company leases an office in Symphony Tower at 750 B 
+Street, Suite 1930, San Diego CA and pays monthly rent of $19,349. 
+ 
+RISK  FACTORS 
+ 
+The SEC requires the company to identify risks that are specific to its business and its financial condition. The 
+company is still subject to all the same risks that all companies in its business, and all companies in the economy, 
+are exposed to. These include risks relating to economic downturns, political and economic events and 
+ 
+19 
+ 
+technological developments (such as hacking and the ability to prevent hacking). Additionally, early-stage 
+companies are inherently more risky than more developed companies. You should consider general risks as well as 
+specific risks when deciding whether to invest. 
+Risks Related to our Business 
+ 
+WE ARE INCURRING NET LOSSES AND EXPECT TO CONTINUE INCURRING NET LOSSES IN THE FUTURE. Our failure to become profitable 
+could impair the operations of the DiversyFund Platform by limiting our access to working capital required to operate 
+the DiversyFund Platform. In addition, we expect our operating expenses to increase in the near term as we expand 
+operations and build up our team. We may not have sufficient revenue growth to meet increasing expenses, and 
+our revenue could decline. If our operating expenses exceed our expectations, our financial performance would be 
+adversely affected and if our revenue does not grow to offset these increased expenses, we will fail to become 
+profitable. In future periods, we may not have any revenue growth, or our revenue could decline, and the Company 
+could fail, which could result in the loss of some or all of your investment in the Company. 
+ 
+THE SUCCESS OF OUR BUSINESS DEPENDS IN LARGE PART ON OUR ABILITY TO RAISE CAPITAL. There can be no assurance the 
+Maximum Offering Amount will ultimately be raised or, even if the Maximum Offering Amount is raised, that such 
+amount will be adequate to meet future costs for our business activities as currently planned. Our ability to raise 
+capital from investors depends on a number of factors, including many that are outside our control. If we determine 
+that we require additional financing for managing, maintaining, or otherwise dealing with any of our business 
+operations, or for any other purpose, and we are unable to obtain sufficient financing, such inability would have a 
+significant negative effect on our ability to grow or even to continue our business, and as a result an investor may 
+lose a portion or even all of his/her/its investment. 
+ 
+WE EXPECT TO ISSUE ADDITIONAL EQUITY INTERESTS, WHICH COULD ADVERSELY AFFECT INVESTORS IN THIS OFFERING. We may issue 
+additional equity, including securities that are convertible into or exchangeable for, or that represent the right to 
+receive, equity. Investors will not have preemptive rights to any additional debt or equity interests of the Company 
+issued in the future. Accordingly, we may issue, without Investor approval, additional or debt equity interests with 
+rights that could dilute the value of your shares upon conversion.  
+ 
+FUTURE OFFERINGS OF DEBT OR PREFERRED EQUITY SECURITIES, WHICH WOULD BE SENIOR TO OUR COMMON STOCK UPON LIQUIDATION, 
+MAY ADVERSELY AFFECT INVESTORS IN THIS OFFERING. In the future, we may attempt to increase our capital resources by 
+making additional offerings of debt or preferred equity securities. Upon any liquidation, holders of our debt 
+securities and shares of preferred stock would receive distributions of our available assets before holders of our 
+common stock. Holders of our common stock are not entitled to preemptive rights or other protections against 
+dilution and additional equity offerings may dilute the holdings of our existing stockholders.  
+ 
+YOU MAY LOSE YOUR MONEY: When you buy a certificate of deposit from a bank, the Federal government (through the 
+FDIC) guaranties you will get your money back. Buying Class B Common Shares is not like that at all. The ability of the 
+Company to return capital to Investors or to make distributions depends on a number of factors, including some 
+beyond our control. Nobody guaranties that you will receive payments and you might lose some or all of your money. 
+ 
+THE COMPANY IS A STARTUP BUSINESS: Although the principals of the Company have been engaged in the real estate and 
+finance industries for years, the Company is a brand new business. Like any new business, the Company faces 
+challenges on a number of fronts, including attracting and retaining qualified employees, designing and 
+implementing new business systems, technology systems, marketing, and capital formation. If the Company failed 
+in any of these or other key areas, the whole business could fail and Investors could lose some or all of their money. 
+ 
+ 
+20 
+ 
+OUR TRACK RECORD DOES NOT GUARANTY FUTURE PERFORMANCE: There is no guaranty that the Company will do as well in 
+the future as it has in the past. Like most sectors of the national and global economy, the early stage technology and real 
+estate markets were  negatively impacted by the spread of COVID-19 and its resulting economic fallout, including the 
+rapid rise in interest rates and negative impact on the commercial as well residential real estate markets. As a result, 
+there is significant market uncertainty and we might not be able to adapt successfully.  
+ 
+EARLY STAGE TECHNOLOGY AND REAL ESTATE INVESTING ARE SPECULATIVE: Technology and real estate investing can be risky 
+and unpredictable. For example, many experienced, informed people lost money when the real estate market 
+declined in 2007-8 and in various technology sector downturns. Some of the risks of investing in technology and real 
+estate investment companies include rising interest rates; overinvestment in certain technology subsectors; 
+changing laws including environmental laws; floods, fires, and other Acts of God, some of which can be uninsurable; 
+changes in national or local economic conditions; changes in government policies; and domestic and international 
+crises. You should invest in the Company only if you can afford to lose your investment and are willing to live with 
+the ups and downs of the early stage technology and real estate industries. 
+ 
+THE PRICE OF OUR SHARES WAS DETERMINED ARBITRARILY: The initial price of our Class B Common Shares was determined 
+arbitrarily and was not determined by an independent appraisal of the Company’s value, and bears no relationship to 
+traditional measures of value such as EBITDA (earnings before interest, taxes, depreciation, and amortization), cash 
+flow, revenue, or book value. 
+ 
+OUR GROWTH FOCUS INCREASES RISK: The Company intends to continue to focus on real estate projects on the “growth” 
+side of the growth/income spectrum. By definition, these projects will tend to carry greater risk, along with the 
+potential for higher profits. 
+ 
+THERE ARE POTENTIAL CONFLICTS OF INTEREST. We have engaged, and have the authority to engage, various contracting 
+parties, including affiliates of the Company, the Directors and the Officers. Directors and Officers may have a conflict 
+of interest between their responsibilities to manage the business for the benefit of the Company and its investors 
+and the interests of affiliates in establishing and maintaining relationships with us and in obtaining compensation 
+for services rendered to us. With respect to such affiliates, there may be an absence of arms’ length negotiations 
+with respect to our fee structure. 
+ 
+WE WOULD BE ADVERSELY AFFECTED BY THE LOSS OF KEY PERSONNEL. We are substantially dependent on the services of the 
+Directors and the Officers (“Key Personnel”) and our ability to attract and retain qualified management professionals 
+is critical to our success. In the event of the death, disability, departure or insolvency of any Key Personnel, the 
+business may be adversely affected. The Key Personnel devote such time and effort as they deem necessary for the 
+management and administration of the Business. Past performance of the Key Personnel, or the past performance 
+of investments or projects over which they have exercised any control, cannot be relied upon as an indicator of 
+future performance. 
+ 
+WE MAY BE UNABLE TO ATTRACT AND RETAIN QUALIFIED PERSONNEL. Our ability to grow and provide our customers with 
+quality products and services is partially dependent on our ability to attract and retain highly motivated people with 
+the skills to serve our customers. To the extent we are unable to attract and retain highly skilled and motivated 
+personnel, expected results from our operations may suffer. 
+ 
+THE DIRECTORS AND OFFICERS OF THE COMPANY HAVE RIGHTS TO INDEMNITY BY THE COMPANY. The Certificate of Incorporation 
+provides that a Director of the Company will not be liable to the Company or its stockholders for monetary damages 
+for any breach of fiduciary duty as a Director, except for breaches of the Director’s duty of loyalty to the Company 
+or its stockholders, intentional misconduct or a knowing violation of law or acts or omissions not in good faith, 
+unlawful payments of dividends or unlawful stock purchases or redemptions, and transactions for which the Director 
+derived an improper personal benefit. Furthermore, the Company is required to indemnify any Director or Officer 
+of the Company, who was or is a party, or is threatened to be made a party, to any threatened, pending or completed 
+action, suit or proceeding, whether civil, criminal, administrative or investigative (including any action by or in the 
+right of the Company) by reason of any acts, omissions or alleged acts or omissions of such person in connection 
+ 
+21 
+ 
+with the Company, against expenses for which such person has not otherwise been reimbursed (including attorneys’ 
+fees, judgments, fines and amounts paid in settlement) actually and reasonably incurred in connection with such 
+action, suit or proceeding, so long as such act or omission was done in good faith and in a manner such person 
+reasonably believed to be in or not opposed to the best interests of the Company, and with respect to any criminal 
+action or proceeding, had no reasonable cause to believe the person’s conduct was unlawful. Accordingly, certain 
+actions brought against the Directors or Officers or against the Company will be satisfied solely by the Company.  
+ 
+IF THE COMPANY DISSOLVES OR IS TERMINATED, ANY ASSETS WILL BE DISTRIBUTED TO CREDITORS AND TO HOLDERS OF PREFERRED STOCK 
+BEFORE ANY DISTRIBUTIONS CAN BE MADE TO STOCKHOLDERS. In the event of dissolution and termination of the Company, 
+stockholders’ share of the proceeds realized from the liquidation of assets, if any, will be distributed to the 
+stockholders, proportionately, only after the satisfaction of claims of applicable creditors and preferred 
+stockholders. Accordingly, the ability of an Investor to recover all or any portion of its investment under such 
+circumstances will depend on the amount of assets remaining after satisfying creditor claims. 
+ 
+OUR BUSINESS AND OPERATIONS ARE SUBJECT TO RAPID CHANGE. IF WE FAIL TO EFFECTIVELY MANAGE THE CHANGING MARKET, OUR 
+BUSINESS AND OPERATING RESULTS COULD BE HARMED. Our business is subject to rapid change in terms of the scope of our 
+operations and the industry in which we operate. This change may place significant demands on our management, 
+as well as our financial and operational resources. If we do not effectively manage changes in the market and their 
+effects on our business, the efficiency of our operations and the quality of our services could suffer, which could 
+adversely affect our business and operating results. To effectively manage these changes, we will need to continue 
+to take measures which are difficult to guarantee, including measures to: 
+ 
+භ 
+implement appropriate operational, financial and management controls, systems and procedures;  
+භ 
+adapt the nature and scope of our services; 
+භ 
+change our sales, marketing and distribution infrastructure and capabilities; and  
+භ 
+ provide adequate training and supervision to maintain high quality standards. 
+ 
+POLITICAL AND ECONOMIC FACTORS MAY ADVERSELY AFFECT OUR BUSINESS AND FINANCIAL RESULTS. Trade, monetary and fiscal 
+policies, and political and economic conditions may substantially change. When there is a slowdown in the economy, 
+employment levels and interest rates may decrease with a corresponding impact on our business. Customers may 
+react to worsening conditions by reducing their spending on the products and services we intend to offer. If any of 
+these circumstances remain in effect for an extended period, there could be a material adverse effect on our financial 
+results. 
+ 
+THE OCCURRENCE OF A CYBER INCIDENT, OR A DEFICIENCY IN OUR CYBER SECURITY, COULD NEGATIVELY IMPACT OUR BUSINESS BY CAUSING 
+A DISRUPTION TO OUR OPERATIONS, A COMPROMISE OR CORRUPTION OF OUR CONFIDENTIAL INFORMATION, OR DAMAGE TO OUR 
+BUSINESS RELATIONSHIPS AND REPUTATION, ALL OF WHICH COULD NEGATIVELY IMPACT OUR FINANCIAL RESULTS. The DiversyFund 
+Platform processes certain confidential information provided by our customers, including investors’ bank 
+information and other personally-identifiable sensitive data. While we take commercially reasonable measures to 
+protect our investors’ confidential information and maintain appropriate cybersecurity, the security of the 
+DiversyFund Platform, the Company’s information technology systems or those of our affiliates or our service 
+providers could be breached, causing increased risks, including risk of fraud or identity theft. Because techniques 
+used to obtain unauthorized access or to sabotage systems are inherently difficult to foresee and may not be 
+recognized until they are launched against a target, we may be unable to anticipate these techniques or to 
+implement adequate preventive measures.  
+ 
+FAILURE TO MEET CUSTOMERS’ EXPECTATIONS IN THE DELIVERY OF NEW PRODUCTS AND SERVICES COULD RESULT IN REDUCED REVENUES. 
+If the products and services we offer fail to meet the expectations of the targeted audience, then our revenues may 
+be delayed, decreased or lost due to the inability to attract or retain customers. 
+ 
+ 
+ 
+22 
+ 
+THE GROWTH OF OUR BUSINESS DEPENDS IN LARGE PART ON OUR ABILITY TO RAISE CAPITAL FROM INVESTORS USING EXEMPTIONS FROM 
+THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT, AND IF WE ARE UNABLE TO RAISE CAPITAL FROM NEW OR EXISTING INVESTORS 
+USING EXEMPTIONS FROM REGISTRATION UNDER THE SECURITIES ACT, WE WILL BE UNABLE TO FUND THE COMPANY’S OPERATIONS OR TO 
+DEPLOY CAPITAL INTO INVESTMENTS, WHICH WOULD HAVE A SIGNIFICANT NEGATIVE EFFECT ON OUR ABILITY TO GENERATE REVENUE, OR 
+EVEN TO SURVIVE AS A COMPANY. As described in “SEC Administrative Proceedings Against an Affiliate” above, an affiliate 
+of the Company, DF Growth REIT II, LLC, was the subject of an investigation and Administrative Proceeding by the 
+SEC. Recently the Company settled the Administrative Proceeding with no fines or penalties beyond agreeing that 
+the DF Growth REIT II, LLC’s exemption under Regulation A would remain permanently suspended. If the SEC were 
+to find in the future that the Company or any of its affiliates were “bad actors” as defined in Rule 506(d) of Regulation 
+D of the Securities Act, the Company could be disqualified from use of exemptions from registration of securities 
+offered under Regulation A, Regulation D or Regulation Crowdfunding of the Securities Act and unable to raise 
+sufficient capital for the Company’s operations or for any of its Investment Programs. If the Company were unable 
+to raise capital to fund its operations or to invest in its Programs, it would be unable to survive as a going concern 
+and investors in the Company would lose all of their investment. 
+ 
+Our ability to raise capital from investors depends on a number of other factors, including many that are outside our 
+control. Investors may choose not to make investments with alternative asset managers, including sponsors of real 
+estate investment funds, and may choose to invest in asset classes and fund strategies that we do not offer. Poor 
+performance of our investments could also make it more difficult for us to raise new capital. Investors and potential 
+investors continually assess the performance of our investment funds independently and relative to market 
+benchmarks and our competitors, and our ability to raise capital for existing and future investment opportunities 
+depends on our performance. If economic and market conditions deteriorate, we may be unable to raise sufficient 
+amounts of capital to support the investment activities of our current and future investments, which would have a 
+material adverse effect on our ability to generate revenue. 
+ 
+THE INVESTMENT MANAGEMENT BUSINESS IS INTENSELY COMPETITIVE. The investment management business is intensely 
+competitive, with competition based on a variety of factors, including investment performance, continuity of 
+investment professionals and relationships with key persons in the real estate market, the quality of services 
+provided to partner real estate operators, corporate positioning, business reputation and continuity of differentiated 
+products. A number of factors, including the following, serve to increase our competitive risks: (i) many of our 
+competitors have greater financial, technical, marketing and other resources, including a lower cost of capital and 
+better access to funding sources, more established name recognition and more personnel than we do; (ii) there are 
+relatively low barriers impeding entry to new investment funds, including a relatively low cost of entering these 
+businesses; (iii) the recent trend toward consolidation in the investment management industry, and the securities 
+business in general, has served to increase the size and strength of our competitors; (iv) some competitors may 
+invest according to different investment styles or in alternative asset classes that the markets may perceive as more 
+attractive than our investment approach; (v) some competitors may have higher risk tolerances or different risk 
+assessments than we or our investment funds have; (vi) other industry participants, private real estate funds and 
+alternative asset managers may seek to recruit our qualified investment professionals; and (vii) we have a limited 
+operating history and investors may choose conventional platforms with more operating experience and name 
+recognition. If we are unable to compete effectively, our revenue will be reduced and our business would be 
+adversely affected. 
+ 
+POOR PERFORMANCE OF OUR INVESTMENT FUNDS WOULD CAUSE A DECLINE IN OUR REVENUES AND RESULTS OF OPERATIONS AND COULD 
+ADVERSELY AFFECT OUR ABILITY TO RAISE CAPITAL FOR FUTURE INVESTMENT OPPORTUNITIES. If any of our Investment Programs 
+performs poorly, either by incurring losses or underperforming benchmarks, as compared to our competitors or 
+otherwise, our investment record would suffer. As a result, our revenues may be adversely affected and the value 
+of our assets under management could decrease, which may, in turn, reduce our fees. Moreover, we may experience 
+losses on investments of our own capital in our Programs as a result of poor investment performance. If any of our 
+investments performs poorly, we will receive little income or possibly incur losses from our own equity interests in 
+such investments. Poor performance of our investments could also make it more difficult for us to raise new capital. 
+Investors may decline to invest in future offerings we form as a result of poor performance. Accordingly, poor 
+performance may deter future investment in our investment funds and single asset offerings and thereby decrease 
+ 
+23 
+ 
+capital invested s and, ultimately, our revenues. Alternatively, in the face of poor performance of our Programs, 
+investors could demand lower fees or fee concessions for existing or future investment offerings which would 
+likewise decrease our revenues. 
+ 
+THE PERFORMANCE OF OUR INVESTMENT PROGRAMS DEPENDS PRIMARILY ON THE PERFORMANCE AND NET VALUE OF THE UNDERLYING 
+PROPERTIES THAT OUR PROGRAMS OWN OR IN WHICH OUR PROGRAMS MAKE DEBT OR EQUITY INVESTMENTS, AND POOR PERFORMANCE 
+BY ANY OF THESE PROPERTIES MAY ADVERSELY AFFECT THE PERFORMANCE OF OUR PROGRAMS, OUR FINANCIAL CONDITION AND RESULTS 
+OF OPERATIONS. The performance and net value of these properties is subject to risks typically associated with real 
+estate, which include the following, many of which are partially or completely outside of our control:  
+ 
+• 
+climate change, pandemics, natural disasters such as hurricanes, earthquakes and floods, or acts of war or 
+terrorism, including the consequences of terrorist attacks such as those that occurred on September 11, 
+2001, may result in substantial damage to the properties;  
+ 
+• 
+adverse changes in national and local economic and real estate conditions, including potential increases in 
+interest rates and declines in real estate values, may adversely affect the investments of our Programs;  
+ 
+• 
+an oversupply of (or a reduction in demand for) space in the areas where particular properties are located 
+and the attractiveness of competing properties to prospective tenants may limit our Programs’ ability to 
+attract or retain tenants;  
+ 
+• 
+changes in governmental laws and regulations, fiscal policies and zoning ordinances may adversely affect 
+the use of or rental income generated by the properties, and the related costs of compliance and the 
+potential for liability under applicable laws may result in losses to our Programs; 
+ 
+• 
+remediation and liabilities associated with environmental conditions affecting properties may result in 
+significant costs to our Programs; 
+ 
+• 
+uninsured or underinsured property losses, increased property insurance premiums or an unanticipated 
+increase in property taxes may result in losses to our Programs; 
+ 
+• 
+an inability to realize estimated market rents may adversely affect the financial conditions of our Programs; 
+ 
+• 
+the geographic concentration of investments in a limited number of regions may expose our Programs to 
+adverse conditions in such regions; 
+ 
+• 
+properties that have significant vacancies could be difficult to sell, which could diminish the return on these 
+properties; 
+ 
+• 
+lease defaults or terminations by tenants could reduce our Programs’ net income;  
+ 
+• 
+loan defaults could cause loss of a property to foreclosure;  
+ 
+• 
+potential development and construction delays and resultant increased costs and risks may hinder our 
+Programs’ results of operations and decrease net income;  
+ 
+• 
+actions of any joint venture partners that our Programs may have could reduce the returns on joint venture 
+investments;  
+ 
+• 
+prepayments can adversely affect the yields on any debt investments our Programs may make; 
+ 
+ 
+24 
+ 
+• 
+the profitability of investments in any retail properties will be significantly impacted by the success and 
+economic viability of the retail tenants;  
+ 
+• 
+many of our Programs’ investments are illiquid and our Programs may not be able to vary their portfolios 
+in response to changes in economic and other conditions; and  
+• 
+if our Programs overestimate the value or income-producing ability or incorrectly price the risks of 
+investments, they may experience losses. 
+ 
+HISTORICAL RETURNS ATTRIBUTABLE TO OUR PROGRAMS MAY VARY SIGNIFICANTLY FROM FUTURE RESULTS PROVIDED BY OUR 
+PROGRAMS, OUR INVESTMENT STRATEGIES, OUR OPERATIONS OR ANY RETURNS EXPECTED ON AN INVESTMENT IN OUR SHARES. The 
+returns of our Programs are not directly linked to returns on our debt or equity securities, since an investment in 
+our shares is not an investment in any of our Programs (although we typically invest a limited amount of capital in 
+our Programs to create an alignment of interest with investors in our Programs). Therefore, you should not conclude 
+that continued positive performance of our Programs will necessarily result in positive returns on an investment in 
+the Company. However, poor performance of our Programs would cause a decline in our revenue from such 
+Programs and would have a negative effect on our performance. Moreover, the historical returns of our Programs 
+should not be considered indicative of, and may vary significantly from, the future returns of these or any future 
+Programs we may form, in part because our Programs’ returns have benefited from investment opportunities and 
+general market conditions that may not repeat themselves, including the availability of debt capital on attractive 
+terms, and there can be no assurance that our current or future Programs will be able to avail themselves of 
+profitable investment opportunities.  
+ 
+In addition, the internal rate of return, or IRR, for any current or future Program may vary considerably from the 
+historical IRR generated by any particular Programs, or for our Programs as a whole. Future returns will also be 
+affected by the risks described elsewhere in this offering circular, including risks of the industries and businesses in 
+which a particular Program invests.  
+ 
+OUR INVESTMENT PROGRAMS FACE COMPETITION FOR INVESTMENT OPPORTUNITIES, WHICH COULD REDUCE RETURNS AND RESULT IN 
+LOSSES AND REDUCE OUR REVENUES. Our funds and single asset offerings compete for the acquisition of properties and 
+other investments with other companies, including other REITs, online investment platforms, insurance companies, 
+commercial banks, private investment funds, hedge funds, specialty finance companies and other investors. Many 
+of our competitors are substantially larger and have considerably greater financial, technical and marketing 
+resources than we do. For example, some competitors may have a lower cost of capital and access to funding sources 
+that are not available to us. In addition, some of our competitors may have higher risk tolerances or different risk 
+assessments than we have. These characteristics could allow our competitors to consider a wider variety of 
+investments, establish more relationships and offer better pricing and more flexible structuring than we are able to 
+do. We may lose investment opportunities if we do not match our competitors’ pricing, terms and structure. If we 
+are forced to match our competitors’ pricing, terms and/or structure, we may not be able to achieve acceptable 
+returns on investments for our funds and single asset offerings or such investments may bear substantial risk of 
+capital loss, particularly relative to the returns to be achieved. Furthermore, a significant increase in the number 
+and/or the size of our competitors in our target market could force us to accept less attractive investment terms. 
+ 
+OPERATIONAL RISKS MAY DISRUPT OUR BUSINESS, RESULT IN LOSSES AND LIMIT OUR GROWTH. We are heavily dependent on the 
+capacity and reliability of the technology systems supporting our operations, whether owned and operated by us or 
+by outside parties. Operational risks such as interruption of our financial, accounting, compliance and other data 
+processing systems, whether caused by fire, other natural disaster, power or telecommunications failure, cyber-
+attacks or other cyber incidents, act of terrorism or war or otherwise, could result in a disruption of our business, 
+liability to investors, regulatory intervention or reputational damage. If any of these systems do not operate properly 
+or are disabled for any reason or if there is any unauthorized disclosure of data, whether as a result of tampering, a 
+breach of our network security systems, a cyber-incident or attack or otherwise, we could suffer financial loss, a 
+disruption of our businesses, liability to our Programs, regulatory intervention or reputational damage. Insurance 
+and other safeguards might be unavailable or might only partially reimburse us for our losses. Although we have 
+ 
+25 
+ 
+back-up systems in place, our back-up procedures and capabilities in the event of a failure or interruption may not 
+be adequate.  
+ 
+The inability of our systems to accommodate an increasing volume of transactions also could constrain our ability to 
+expand our businesses. Additionally, any upgrades or expansions to our operations or technology may require 
+significant expenditures and may increase the probability that we will suffer system degradations and failures.  
+ 
+IF ANY OF OUR INVESTMENT FUNDS QUALIFIED AS REITS FAILS TO SATISFY THE REQUIREMENTS NECESSARY TO PERMIT THIS FAVORABLE 
+TAX TREATMENT, WE COULD BE SUBJECT TO CLAIMS BY INVESTORS AND OUR REPUTATION FOR STRUCTURING THESE FUNDS WOULD BE 
+NEGATIVELY AFFECTED, WHICH WOULD HAVE AN ADVERSE EFFECT ON OUR FINANCIAL CONDITION AND RESULTS OF OPERATIONS. We have 
+structured our REITs as public non-traded REITs. We intend to sponsor additional funds that will be qualified as REITs. 
+A REIT is generally not subject to federal corporate income tax on its net income that is distributed, which 
+substantially eliminates the “double taxation” (i.e., taxation at both the corporate and stockholder levels) treatment 
+that generally results from an investment in a corporation. This treatment permits REITs to make larger distributions 
+to investors (i.e., without reduction for federal corporate income tax). If a REIT fails to satisfy the complex 
+requirements for qualification and taxation as a REIT under the Internal Revenue Code of 1986, as amended, we 
+could be subject to claims by investors as a result of such REIT being subject to federal corporate income (and 
+possibly increased state and local) tax and a reduction in the funds available for distribution to investors in our funds. 
+In addition, any failure to satisfy applicable tax REIT requirements in structuring our funds would negatively affect 
+our reputation, which would in turn affect our ability to earn additional fees from new funds. Claims by investors 
+could lead to losses and any reduction in our fees would have an adverse effect on our revenues. 
+ 
+THE FINANCIAL SERVICES AND REAL ESTATE INDUSTRIES FACE SUBSTANTIAL LITIGATION AND REGULATORY RISKS THAT COULD ADVERSELY 
+AFFECT OUR BUSINESS, FINANCIAL CONDITION OR RESULTS OF OPERATIONS OR CAUSE SIGNIFICANT REPUTATIONAL HARM TO US. The 
+Company is subject to claims and lawsuits in the ordinary course of business including litigation and class actions, 
+some of which include claims for unspecified damages, and was also the subject of an investigation and 
+administrative law proceeding by regulatory agencies. In November 2021 the SEC began an investigation of DF 
+Growth REIT II, LLC (“REIT II)” and in January 2022 the SEC suspended REIT II’s offering and commenced an 
+administrative proceeding to make the suspension permanent. The SEC alleged two violations (failure to begin the 
+offering within two calendar days of qualification and use of an offering circular supplement instead of a post-
+qualification amendment to increase the maximum offering amount from $50 million to $75 million) and three types 
+of misleading statements on the Sponsor’s website (related to the affiliation of DF Growth REIT, LLC with REIT II, to 
+how much capital REIT II needed to raise from investors and to the fees charged to REIT II by the sponsor of REIT II). 
+None of the SEC’s allegations involved financial or accounting misconduct or wrongdoing. On June 9, 2023, the 
+administrative proceeding was settled when REIT II and the SEC agreed to a settlement that permanently suspended 
+REIT II’s exemption under Regulation A. REIT II was not required to pay any fines or penalties. On August 10, 2023, 
+the SEC notified REIT II that it was also concluding its investigation and did not intend to recommend an enforcement 
+action against DiversyFund, REIT I, REIT II, DF Manager, Mr. Cecilio or Mr. Lewis. 
+ 
+Related to the SEC’s inquiry, in December 2022 attorneys for three stockholders in the Company brought a putative 
+class action against the Company; DF Growth REIT, LLC; and Craig Cecilio and Alan Lewis as principals of DiversyFund, 
+Inc. The suit largely piggybacked on the SEC’s claims in the Administrative Proceeding, alleging that the named 
+stockholders were thereby misled, and seeks compensation for their losses as well as reimbursement of all attorneys’ 
+fees, costs and interest on those fees. In the event of a favorable verdict, California law provides reimbursement of 
+actual economic losses or a right of rescission if no economic loss has been sustained. The Company has engaged 
+defense counsel experienced in defending securities litigation as well as securities class action suits who have filed 
+a motion to dismiss the complaint as without merit and intends to defend aggressively against these claims, which 
+we believe are wholly without merit. 
+ 
+In addition, we depend to a large extent on our network of relationships and on our reputation in order to attract 
+and retain investors. If an investor in our funds or single asset offerings is not satisfied with our products or services, 
+such dissatisfaction, especially communicated to others, may be more damaging to our business than to other types 
+of businesses. We make investment decisions on behalf of investors in our funds and single asset offerings that could 
+ 
+26 
+ 
+result in substantial losses to them. If investors suffer significant losses, or are otherwise dissatisfied with our 
+services, we could be subject to the risk of legal liabilities or actions alleging negligent misconduct, breach of fiduciary 
+duty, breach of contract, unjust enrichment or fraud. These risks are often difficult to assess or quantify and their 
+existence and magnitude often remain unknown for substantial periods of time, even after an action has been 
+commenced. We may incur significant legal expenses in defending against litigation. Substantial legal liability or 
+significant regulatory action against us could cause significant reputational harm to us and could adversely affect our 
+business, financial condition or results of operations. 
+ 
+WE ARE SUBJECT TO A VARIETY OF NEW AND EXISTING U.S. AND FOREIGN GOVERNMENT LAWS AND REGULATIONS WHICH COULD SUBJECT 
+US TO CLAIMS, JUDGMENTS, MONETARY LIABILITIES AND OTHER REMEDIES, AND LIMITATIONS ON OUR BUSINESS PRACTICES. We are 
+subject to regulations and laws directly applicable to our business. The application of existing domestic and 
+international laws and regulations to us relating to issues such as user privacy and data protection, real estate and 
+securities laws, including real estate or securities licensing or registration laws, defamation, pricing, advertising, 
+taxation, consumer protection, accessibility, content regulation, quality of services, telecommunications, mobile, 
+and intellectual property ownership and infringement in many instances is unclear or unsettled. In addition, we will 
+also be subject to any new laws and regulations directly applicable to our domestic and international activities. 
+Internationally, we may also be subject to laws regulating our activities in foreign countries and to foreign laws and 
+regulations that are inconsistent from country to country. We may incur substantial liabilities for expenses necessary 
+to defend such litigation or to comply with these laws and regulations, as well as potential substantial penalties for 
+any failure to comply. Compliance with these laws and regulations may also cause us to change or limit our business 
+practices in a manner adverse to our business. A number of U.S. federal laws, including those referenced herein, 
+impact our business. The cost of compliance with these and any other laws or regulations may increase in the future 
+as a result of changes in the laws or regulations or the interpretation of them. Further, any failure on our part to 
+comply with any relevant laws or regulations may subject us to significant liabilities. 
+ 
+WE FACE INCREASED COMPETITION FROM EXISTING COMPETITORS AND NEW ENTRANTS INTO THE MARKET. Our competitors include 
+Cadre, Yieldstreet, Fundrise, Realty Mogul and others. We expect to continue to face competition from existing 
+competitors and new market entrant, some of which are better capitalized than we. We may be unable to compete 
+effectively with these existing or new competitors, many of whom may have significant financial or other competitive 
+advantages, and any ability to compete successfully with our competitors could have a material adverse effect on 
+our financial condition and results of operations. 
+ 
+OUR INTELLECTUAL PROPERTY RIGHTS ARE VALUABLE, AND ANY INABILITY TO PROTECT THEM COULD REDUCE THE VALUE OF OUR BRAND 
+IMAGE AND HARM OUR BUSINESS AND OUR OPERATING RESULTS. We own the rights to the DiversyFund trade names and 
+trademarks and rights to certain domain names, which we believe are valuable assets. We seek to protect our 
+intellectual property assets through trademark and other intellectual property laws of the United States, and 
+through contractual provisions wherever possible. The efforts we have taken to protect our intellectual property 
+and proprietary rights may not be sufficient or effective to prevent or curtail unauthorized use of those rights. In 
+addition, effective trademark and intellectual property protection may not be available or cost-effective in any other 
+country in which our website and media properties are made available through the Internet. There may be instances 
+where we are not able to fully protect or utilize our intellectual property assets in a manner to maximize competitive 
+advantages. Further, while we will attempt to ensure that the quality of our brand is maintained, negative publicity 
+or failure to provide a level of services that meets the expectations of our clientele could impair the value of our 
+brand, our proprietary rights or the reputation of our services. Any impairment of our brand could negatively impact 
+our business. In addition, protecting our intellectual property and other proprietary rights is expensive and time 
+consuming. Any unauthorized use of our intellectual property could make it more expensive for us to do business 
+and consequently harm our operating results. 
+ 
+IF WE ARE UNABLE TO GROW OUR COMMUNITY OF INVESTORS, OUR REVENUE MAY BE ADVERSELY AFFECTED. The success of our 
+business depends in part on our ability to increase the number of potential investors who use our products and 
+services, particularly as we continue to grow our marketplace. If potential investors decide that utilizing our products 
+and services fails to provide an effective means of facilitating investment into historically “off-limit” investments, 
+ 
+27 
+ 
+they may not use, or they may decrease the use, of our products and services.  This could adversely affect our 
+revenue and gross profit. 
+ 
+THE FAILURE TO OBTAIN AND MAINTAIN REQUIRED GOVERNMENTAL LICENSES, PERMITS AND APPROVALS COULD HAVE A SUBSTANTIAL 
+ADVERSE EFFECT ON OUR OPERATIONS. We must obtain and maintain various state and local governmental licenses, 
+permits and approvals in order to operate. We may not be successful in obtaining or maintaining any necessary 
+license, permit or approval. Further, as we seek to expand our operations into new markets, regulatory and licensing 
+requirements may delay our entry into new markets, or make entry into new markets cost prohibitive. We cannot 
+assure you that we will be able to obtain or, once obtained, maintain our licenses or registrations in any states where 
+we are required to be licensed or registered to operate the Business. Our activities in states where necessary licenses 
+or registrations are not available could be curtailed pending processing of an application, and we may be required 
+to cease operating in states where we do not have valid licenses or registrations. We could also become subject to 
+civil or criminal penalties for operating without required licenses or registrations. These costs may be substantial 
+and may materially impair our prospects, business, financial condition and results of operation. 
+ 
+ANY SIGNIFICANT DISRUPTION IN SERVICE ON THE DIVERSYFUND PLATFORM OR IN ITS TECHNOLOGY SYSTEMS COULD REDUCE THE 
+ATTRACTIVENESS OF THE DIVERSYFUND PLATFORM AND RESULT IN A LOSS OF CUSTOMERS. If a catastrophic event resulted in a 
+platform outage or physical data loss, the DiversyFund Platform’s ability to perform its functions would be adversely 
+affected. The satisfactory performance, reliability, and availability of our technology and our underlying hosting 
+services infrastructure are critical to our operations, level of customer service, reputation and ability to attract new 
+customers and retain existing customers. Our hosting services infrastructure is provided by an outside hosting 
+provider (the “Hosting Provider”). We also maintain a backup system at a separate location that is owned and 
+operated by a third party. The Hosting Provider does not guarantee that customers’ access to the DiversyFund 
+Platform will be uninterrupted, error-free or secure. Our operations depend on the Hosting Provider’s ability to 
+protect its and our systems in its facilities against damage or interruption from natural disasters, power or 
+telecommunications failures, air quality, temperature, humidity and other environmental concerns, computer 
+viruses or other attempts to harm our systems, criminal acts and similar events. If our arrangement with the Hosting 
+Provider is terminated, or there is a lapse of service or damage to its facilities, we could experience interruptions in 
+our service as well as delays and additional expense in arranging new facilities. Any interruptions or delays in our 
+service, whether as a result of an error by the Hosting Provider or other third-party error, our own error, natural 
+disasters or security breaches, whether accidental or willful, could harm the success of this Offering, our Programs’ 
+ability to perform any services for project investments or maintain accurate accounts, our relationships with our 
+customers and our reputation. Additionally, in the event of damage or interruption, our insurance policies may not 
+adequately compensate us for any losses that we may incur. Our disaster recovery plan has not been tested under 
+actual disaster conditions, and it may not have sufficient capacity to recover all data and services in the event of an 
+outage at a facility operated by the Hosting Provider. These factors could prevent our Programs from processing or 
+posting payments on the corresponding investments, damage our brand and reputation, divert our employees’ 
+attention, and cause members to abandon the DiversyFund Platform. 
+ 
+WE RELY ON BANK AND OTHER SERVICE PROVIDERS AND ON COMPUTER HARDWARE AND SOFTWARE VENDORS AND SERVICE SUPPLIERS. IF 
+WE ARE UNABLE TO CONTINUE UTILIZING THESE SERVICES, OUR BUSINESS AND OUR ABILITY TO SERVICE PROJECT LOANS AND EQUITY 
+INVESTMENTS MAY BE ADVERSELY AFFECTED. Our funds and single asset offerings and the DiversyFund Platform rely on 
+FDIC-insured depository institutions to process their transactions, including payments of equity investments and 
+distributions to stockholders. Additionally, we rely on such institutions to process subscriptions under this Offering. 
+Under the Automated Clearing House (ACH) rules, if we experience a high rate of reversed transactions (known as 
+“chargebacks”), we may be subject to sanctions and potentially disqualified from using the system to process 
+payments. We also rely on third-party service providers to perform certain compliance functions include verification 
+of investors’ accredited investor status. In addition, the DiversyFund Platform relies on computer hardware 
+purchased and software licensed from other parties. This purchased or licensed hardware and software may be 
+physically located off-site, as is often the case with “cloud services.” This purchased or licensed hardware and 
+software may not continue to be available on commercially reasonable terms, or at all. If the DiversyFund Platform 
+cannot continue to obtain such services elsewhere, or if it cannot transition to another processor quickly, our and 
+ability to process payments will suffer. 
+ 
+28 
+ 
+ 
+LOSS OF UNINSURED BANK DEPOSITS: Any cash the Company has on hand from time to time will likely be held in regular 
+bank accounts. While the FDIC insures deposits up to a specified amount, it is possible that the amount of cash in the 
+Company’s account would exceed the FDIC limits, resulting in a loss if the bank failed. 
+ 
+THE OFFERINGS OF SOME OF OUR SPONSORED FUNDS AND SINGLE ASSET OFFERINGS RELY ON RELATIVELY NEW REGULATORY REGIMES, 
+NOTABLY REGULATION A AND REGULATION CROWDFUNDING PROMULGATED PURSUANT TO THE JUMPSTART OUR BUSINESS ACT, AND 
+WE FACE HEIGHTENED REGULATORY UNCERTAINTY REGARDING THE CONDUCT OF SUCH OFFERINGS, AS WELL AS POTENTIAL ENFORCEMENT 
+ACTIONS FROM STATE AND FEDERAL REGULATORS REGARDING THE COMPLIANCE OF SUCH OFFERINGS WITH APPLICABLE REGULATORY 
+REGIMES. There remains a significant amount of regulatory uncertainty in regards to how the SEC or individual state 
+securities regulators will regulate both the offer and sale of securities as well as any ongoing compliance to which 
+issuers relying on these new regulations may be subject. While we endeavor to comply with all regulatory regimes 
+with regard to our Regulation A and Regulation Crowdfunding offerings, as a result of the novelty of our business 
+practices surrounding such offerings, we expect to be subject to heightened regulatory focus while the regulatory 
+norms and precedents surrounding Regulation A and Regulation Crowdfunding offerings become established, which 
+may result in inquiries, investigations, or other enforcement actions from state or federal regulators, which could 
+severely affect the value of the Shares. 
+ 
+IF WE WERE REQUIRED TO REGISTER AS AN “INVESTMENT COMPANY” UNDER THE INVESTMENT COMPANY ACT OF 1940, AS AMENDED 
+(THE “INVESTMENT COMPANY ACT”), APPLICABLE RESTRICTIONS COULD MAKE IT IMPRACTICAL FOR US TO CONTINUE OUR BUSINESS AS 
+CONTEMPLATED AND COULD HAVE AN ADVERSE EFFECT ON OUR BUSINESS. Section 3(a)(1) of the Investment Company Act 
+provides that an investment company is any issuer which: (i) is or holds itself out as being engaged primarily, or 
+proposes to engage primarily, in the business of investing, reinvesting or trading in securities; (ii) is engaged or 
+proposes to engage in the business of issuing face-amount certificates of the installment type; or (iii) owns or 
+proposes to acquire investment securities having a value exceeding 40% of the value of its total assets (exclusive of 
+U.S. government securities and cash items) on an unconsolidated basis. As used in Section 3(a), “investment 
+securities” includes all securities except U.S. government securities; securities issued by employees’ securities 
+companies; and securities issued by majority-owned subsidiaries of the owner which are not investment companies 
+and are not relying on the exception from the definition of investment company in Sections 3(c)(1) or 3(c)(7) of the 
+Investment Company Act. 
+ 
+We believe that we are engaged primarily in the business of providing asset management services and not in the 
+business of investing, reinvesting or trading in securities. We do not issue face-amount certificates of the installment 
+type. We hold ourselves out as an asset manager and do not propose to engage primarily in the business of investing, 
+reinvesting or trading in securities. Accordingly, we do not believe we meet the definition of investment company 
+as used in Section 3(a)(1)(A) and 3(a)(1)(B) of the Investment Company Act. We also believe we do not meet the 
+definition of investment company as used in Section 3(a)(1)(C) of the Investment Company Act. Substantially all of 
+our assets are equity interests in certain wholly-owned subsidiaries which themselves do not meet the definition of 
+investment company as used in Section 3(a)(1)(C) of the Investment Company Act. We also currently and in the 
+future may hold investment securities but we will monitor our holdings to ensure that the value of such investment 
+securities will not exceed 40% of the total value of our assets (exclusive of U.S. government securities and cash items) 
+on an unconsolidated basis. Similarly, certain of our wholly-owned subsidiaries currently and may in the future hold 
+investment securities. We will also monitor the holdings of those wholly-owned subsidiaries to ensure that the value 
+of each subsidiary’s investment securities will not exceed 40% of the value of its total assets (exclusive of U.S. 
+government securities and cash items) on an unconsolidated basis. 
+ 
+AS WE LAUNCH ADDITIONAL FUNDS AND SINGLE ASSET INVESTMENTS IN THE FUTURE, THERE MAY BE CONFLICTS OF INTERESTS AMONG THE 
+VARIOUS OFFERINGS THAT MAY RESULT IN OPPORTUNITIES THAT WOULD BENEFIT SOME OVER OTHERS. OUR FAILURE TO ADEQUATELY 
+ADDRESS SUCH CONFLICTS OF INTEREST COULD DAMAGE OUR REPUTATION AND ADVERSELY AFFECT OUR BUSINESS. We expect to 
+establish and sponsor additional investment offerings and to continue to offer investment opportunities primarily 
+through the DiversyFund Platform, including offerings that will acquire or invest in commercial real estate equity 
+investments, commercial real estate loans, and other select real estate-related assets. Our investment programs 
+may have overlapping investment objectives and potential conflicts of interest may arise with respect to our 
+ 
+29 
+ 
+decisions regarding how to allocate investment opportunities among them. While we will endeavor to allocate 
+investment opportunities in a fair and equitable manner, any of our investment programs could be adversely 
+affected to the extent investment opportunities are allocated to others. There is no guarantee that we will make the 
+correct decision in such allocation. Potential, perceived or actual conflicts of interest, such as those described above, 
+could give rise to investor dissatisfaction, litigation or regulatory enforcement actions. Adequately addressing 
+conflicts of interest is complex and difficult and we could suffer significant reputational harm if we fail, or appear to 
+fail, to adequately address potential, perceived or actual conflicts of interest. This could result in a loss of assets 
+under management and adversely affect our business and financial condition. 
+ 
+WE ARE AN “EMERGING GROWTH COMPANY” UNDER THE JOBS ACT: Today, the Company qualifies as an “emerging growth 
+company” under the JOBS Act. If the Company were to become a public company (e.g., following an IPO) and 
+continued to qualify as an emerging growth company, it would be able to take advantage of certain exemptions from 
+the reporting requirements under the Securities Exchange Act of 1934 and exemptions from certain investor 
+protection measures under the Sarbanes Oxley Act of 2002. Using these exemptions could benefit the Company by 
+reducing compliance costs, but could also mean that investors receive less information and receive fewer protections 
+than they would otherwise. However, these exemptions – and the status of the Company as an “emerging growth 
+company” in the first place – will not be relevant unless the Company becomes a public reporting company, which 
+we do not plan or foresee. 
+ 
+THE COMPANY DOES NOT COMPLY WITH REGULATIONS OF THE INVESTMENT COMPANY ACT. If the Company were treated as an 
+“investment company” under the Investment Company Act of 1940, we would be required to comply with a number 
+of special rules and regulations and incur significant cost doing so. In addition, if it were determined that the 
+Company had operated as an investment company without registering as such, we could be subject to significant 
+penalties and, among other things, any contracts the Company had entered into could be rendered unenforceable. 
+We intend to conduct our business so that we are not treated as an investment company. However, we might not be 
+successful. 
+ 
+Risks Related to the Offering 
+ 
+THERE IS NO TRADING MARKET FOR THE SHARES AND OUR SHARES HAVE LIMITED LIQUIDITY. There is no trading market for our 
+Shares and we do not anticipate that an active market will develop. Because you will be unable to sell the Shares, 
+you should consider whether you may need to liquidate your investment in the future. You should be prepared to 
+hold the Shares for an indefinite period of time. The Shares will not be registered under the Securities Act and will 
+be offered and sold in reliance upon certain exemptions from registration included in the Securities Act. Investors 
+will not have the right to require registration of the Shares nor is it likely or contemplated that such registration will 
+take place. 
+ 
+THE SHARES ARE SUBJECT TO RESTRICTIONS ON TRANSFER AND OTHER COVENANTS CONTAINED IN THE SHAREHOLDERS AGREEMENT. THESE 
+RESTRICTIONS AND COVENANTS MAY NEGATIVELY AFFECT THE VALUE OF THE SHARES AND LIMIT LIQUIDITY. As part of the Offering, 
+you agree to become a party to the Shareholders Agreement which grants the co-founders certain rights with respect 
+to the shares. These rights include, among other things, rights of first refusal and drag-along rights. These restrictions 
+and rights could have an adverse effect on the marketability of the shares, which could decrease the value of the 
+shares. In addition, the drag-along right allows the co-founders to force the holders of the shares to join in a sale of 
+the Company. Thus if the co-founders propose to sell the Company, then they will have the right to require each 
+stockholder to join in such sale by selling a pro rata portion of their shares on the same terms as the co-founders. 
+ 
+HOLDERS OF OUR CLASS B COMMON HAVE NO VOTING RIGHTS, EXCEPT UNDER LIMITED CIRCUMSTANCES, AND YOUR ABILITY TO INFLUENCE 
+THE OUTCOME OF IMPORTANT TRANSACTIONS OF THE COMPANY, INCLUDING A CHANGE IN CONTROL, WILL BE LIMITED. Holders of our 
+Class B Common Stock do not have voting rights, except as may be required by Delaware law, and will have no right 
+to vote for any members of our board of directors or increases in the number of authorized shares of common stock, 
+including the number of shares designated as Class B Common Shares. The holders of our Class A Common Stock are 
+entitled to vote on all matters submitted to a vote of stockholders. The holders of Class A Common Stock control the 
+voting power of our capital stock and therefore will control all matters submitted to our stockholders for approval. 
+ 
+30 
+ 
+This concentrated control may have the effect of delaying, preventing or deterring a change in control of our 
+company, could deprive our stockholders of an opportunity to receive a premium for their shares as part of a sale of 
+our company and might ultimately affect the market price of our Class B Common Stock.  
+ 
+WE WILL CONTINUE TO BE CONTROLLED BY OUR CO-FOUNDERS WHO HOLD SHARES OF OUR CAPITAL STOCK, AND THEIR INTERESTS MAY 
+CONFLICT WITH THOSE OF OUR OTHER STOCKHOLDERS. Upon the completion of this offering, our co-founders will continue 
+to hold more than 50% of the combined voting power of our capital stock. So long as our co-founders continue to 
+hold, directly or indirectly, shares of capital stock representing more than 50% of the voting power of our capital 
+stock, they will be able to exercise control over all matters requiring stockholder approval, including the election of 
+directors (and therefore our management and policies), amendment of our amended and restated certificate of 
+incorporation and approval of significant corporate transactions. The control exercised by our executive officers may 
+have the effect of delaying or preventing a change in control of our Company or discouraging others from making 
+tender offers for our shares, which could prevent stockholders from receiving a premium for their shares. These 
+actions may be taken even if other stockholders oppose them. The interests of our co-founders may not always 
+coincide with the interests of other stockholders, and our co-founders may act in a manner that advances their best 
+interests and not necessarily those of our other stockholders.  
+ 
+OUR CHARTER PERMITS OUR BOARD OF DIRECTORS TO ISSUE STOCK WITH TERMS THAT MAY SUBORDINATE THE RIGHTS OF OUR COMMON 
+STOCKHOLDERS. Our board of directors may classify or reclassify any unissued common stock or preferred stock and 
+establish preferences, conversion or other rights, voting powers, restrictions, limitations as to dividends and other 
+distributions, qualifications and terms or conditions of redemption of any such stock. Thus, our board of directors 
+may authorize the issuance of preferred stock with priority as to distributions and amounts payable upon liquidation 
+over the rights of the holders of our common stock. Such preferred stock could also have the effect of delaying, 
+deferring or preventing a change in control of us, including an extraordinary transaction (such as a merger, tender 
+offer or sale of all or substantially all of our assets) that might provide a premium price to holders of our common 
+stock. 
+ 
+YOUR INTEREST IN US WILL BE DILUTED IF WE ISSUE ADDITIONAL SHARES IN THE FUTURE, WHICH COULD REDUCE THE OVERALL VALUE OF 
+YOUR INVESTMENT. Potential investors in this offering do not have preemptive rights to any shares we issue in the 
+future. Under our amended and restated certificate of incorporation, we have authority to issue an aggregate of 
+191,844,911 shares of capital stock, consisting of 166,844,911 shares of common stock (of which 136,674,136 are 
+Class A Common Stock and 30,170,775 are Class B Common Stock) and 25,000,000 shares of preferred stock, and, 
+subject to certain protective provisions, our stockholders may amend our amended and restated certificate of 
+incorporation to increase the number of authorized shares. After your purchase in this offering, our board of 
+directors may elect to issue or sell additional shares in future public or private offerings. To the extent we issue 
+additional shares after your purchase in this offering, your percentage ownership interest in us will be diluted. In 
+addition, depending upon the terms and pricing of any additional offerings and the value of our investments, you 
+may also experience dilution in the book value of your shares.  
+  
+INVESTMENTS IN SMALL CAPITALIZATION COMPANIES PRESENT GREATER RISKS THAN INVESTMENTS IN LARGER, MORE ESTABLISHED 
+COMPANIES. Investments in securities of companies with smaller revenues and capitalizations may offer greater 
+opportunity for capital appreciation than larger companies, but investments in such companies also present greater 
+risks than investments in securities of larger, more established companies. 
+ 
+LOW LEVELS OF INITIAL CAPITALIZATION MAY LIMIT INVESTORS’ ABILITY TO RECOVER THEIR INVESTMENTS FROM THE CAPITAL AND ASSETS 
+OF THE COMPANY. As of the date of the Memorandum, the Company has received minimal equity investments, 
+consisting of funding provided by the current stockholders and noteholders of the Company. To the extent we are 
+unable to generate revenues from our business operations, we may possess insufficient equity capital and assets to 
+which Investors will be able to look to recover all or any portion of their investment. 
+ 
+WE MAY NEVER PAY DIVIDENDS. Although we hope to be able to pay dividends to our stockholders, payment of such 
+dividends is premised on our achieving certain financial benchmarks which we may never attain. Accordingly, there 
+is no guarantee that any Investor will ever receive dividends in relation to his/her/its investment in the shares.  
+ 
+31 
+ 
+ 
+WE MAY NEVER ACHIEVE A SUCCESSFUL EXIT FOR OUR INVESTORS. Although we hope to be able provide a successful return on 
+investment to our stockholders through a public offering of shares or through an acquisition, our ability to do so 
+depend on reaching certain growth targets which we may never attain. Accordingly, there is no guarantee that any 
+Investor will ever receive a return on his/her/its investment in the shares of Class B Common Stock.  
+ 
+OUR TARGET OFFERING AMOUNT IS ARBITRARY: We will begin to deploy the proceeds of this Offering when we have raised 
+as little as $10,000. However, if we raise only $10,000 or anything close to that we will not be able to achieve any 
+of our business goals and the Company might not survive. Hence, investors who invest early will take substantively 
+more risk than those who invest later. 
+ 
+FAILURE TO COMPLY WITH APPLICABLE FEDERAL AND STATE SECURITIES LAWS MAY RESULT IN LITIGATION AND LOSSES THAT COULD HAVE 
+A SUBSTANTIAL ADVERSE EFFECT ON OUR OPERATIONS. This Offering has not been registered under the Securities Act in 
+reliance on the exemptions provided by Regulation Crowdfunding. Similar reliance has been placed on exemptions 
+from securities registration requirements under various state securities laws. No assurance is given that the offering 
+currently qualifies or will continue to qualify under one or more of those exemption provisions due to, among other 
+things, the adequacy of disclosure and the manner of distribution, the existence of similar offerings in the past or in 
+the future, or the retroactive change of any securities law or regulation. If, and to the extent that, claims or suits for 
+rescission are brought and successfully concluded for failure to register this Offering or other offerings or for acts or 
+omissions constituting offenses under the Securities Act, the Exchange Act, or applicable state securities laws, we 
+could be materially and adversely affected, jeopardizing our ability to operate successfully. Furthermore, our human 
+and capital resources could be adversely affected by the need to defend actions under these laws, even if we are 
+ultimately successful in our defense. 
+ 
+THE COMPANY IS NOT PROVIDING ATTORNEY OR ACCOUNTANT REPRESENTATION TO INVESTORS. We are not providing Investors 
+with representation by attorneys and accountants. The Company and the Board are not represented by separate 
+counsel. Our legal counsel and accountants have not been retained, and will not be available, to provide legal counsel 
+or tax advice to Investors. Therefore, prospective Investors should retain their own legal and tax advisors. 
+ 
+YOU WILL HAVE NO RIGHT TO A JURY TRIAL: The Investment Agreement provides that legal claims will be decided only by 
+a judge, not by a jury. Having legal claims decided by a judge rather than by a jury could be favorable or unfavorable 
+to the interests of an owner of Class B Common Shares, depending on the parties and the nature of the legal claims 
+involved. It is possible that a judge would find the waiver of a jury trial unenforceable and allow an owner of Class B 
+Common Shares to have his, her, or its legal claim decided by a jury. In any case, the waiver of a jury trial in both the 
+Investment Agreement does not apply to claims arising under the Federal securities laws. 
+ 
+FORUM SELECTION PROVISION: Our Investment Agreement provides that disputes will be handled solely in the state or 
+federal courts located in Delaware. We included this provision primarily because (i) the Company is organized under 
+Delaware law, (ii) Delaware courts have developed significant expertise and experience in corporate and commercial 
+law matters and investment-related disputes (which typically involve very complex legal questions), particularly with 
+respect to alternative entities (such as LLCs), and have developed a reputation for resolving disputes in these areas 
+in an efficient manner, and (iii) Delaware has a large and well-developed body of case law in the areas of corporate 
+and alternative entities law and investment-related disputes, providing predictability and stability for the Company 
+and its Investors. This provision could be unfavorable to an Investor to the extent a court in a different jurisdiction 
+would be more likely to find in favor of an Investor or be more geographically convenient to an Investor. It is possible 
+that a judge would find this provision unenforceable and allow an Investor to file a lawsuit in a different jurisdiction. 
+Section 27 of the Exchange Act provides that Federal courts have exclusive jurisdiction over lawsuits brought under 
+the Exchange Act, and that such lawsuits may be brought in any Federal district where the defendant is found or is 
+an inhabitant or transacts business. Section 22 of the Securities Act provides that Federal courts have concurrent 
+jurisdiction with State courts over lawsuits brought under the Securities Act, and that such lawsuits may be brought 
+in any Federal district where the defendant is found or is an inhabitant or transacts business. Investors cannot waive 
+our (or their) compliance with Federal securities laws. Hence, to the extent the forum selection provisions of the 
+Investment Agreement or the LLC Agreement conflict with these Federal statutes, the Federal statutes would prevail. 
+ 
+ 
+32 
+ 
+LIMITATIONS ON RIGHTS IN INVESTMENT AGREEMENT: To purchase Class B Common Shares, you are required to sign our 
+Investment Agreement. The Investment Agreement would limit your rights in several important ways if you believe 
+you have claims against us arising from the purchase of your Class B Common Shares: 
+ 
+භ 
+Any claims arising from your purchase of Class B Common Shares or the Investment Agreement must be 
+brought in the state or federal courts located in San Diego, California, which might not be convenient to 
+you. 
+ 
+භ 
+You would not be entitled to a jury trial. 
+ 
+භ 
+You would not be entitled to recover any lost profits or special, consequential, or punitive damages. 
+ 
+භ 
+If you lost your claim against us, you would be required to pay our expenses, including reasonable attorneys’ 
+fees. If you won, we would be required to pay yours. 
+ 
+LIMITS ON TRANSFERABILITY: There are several obstacles to selling or otherwise transferring your Class B Common 
+Shares: 
+ 
+භ 
+There will be no established market for your Class B Common Shares, meaning you could have difficulty 
+finding a buyer. 
+ 
+භ 
+Under the Company’s Certificate of Incorporation and the Shareholders’ Agreement, the Class B Common 
+Shares may not be transferred in some circumstances. 
+ 
+Taking this into account, you should plan to own your Class B Common Shares indefinitely. 
+ 
+RISK OF FAILURE TO COMPLY WITH SECURITIES LAWS: Affiliates of the Company have previously sold securities relying on the 
+exemptions under Regulation D and Regulation A, and the current Offering by the Company relies on the exemption 
+under Regulation Crowdfunding. In all cases, we have relied on the advice of securities lawyers and believe we qualify 
+for the exemption. If we did not qualify, we could be liable to penalties imposed by the Federal government and 
+State regulators, as well as to lawsuits from investors. 
+ 
+REDUCED DISCLOSURE REQUIREMENTS UNDER THE JOBS ACT:  The Class B Common Shares are being offered pursuant 
+to Regulation Crowdfunding, as amended pursuant to the Jumpstart Our Business Startups Act of 2012 (known as the 
+“JOBS Act”). Regulation Crowdfunding does not require us to provide you with all of the information that would be 
+required in a registration statement in connection with an initial public offering (IPO) of securities. As a Regulation 
+Crowdfunding issuer, we are also not subject to the same level of ongoing reporting obligations as a typical public 
+reporting company, including, but not limited to, many of the disclosure requirements applicable to public reporting 
+companies under the Securities Exchange Act of 1934. 
+  
+ 
+ 
+ 
+33 
+ 
+DIRECTORS, EXECUTIVE OFFICERS AND EMPLOYEES  
+This table shows the principal people on the company’s team: 
+Name 
+Position 
+Term of Office 
+Approx. hours per week (if 
+not full time) 
+Executive Officers: 
+Craig Cecilio 
+Chief Executive Officer 
+Indefinite 
+Full Time 
+Alan Lewis 
+Chief Financial Officer 
+Indefinite 
+Full Time 
+Directors: 
+Craig Cecilio 
+Director 
+Indefinite 
+n/a 
+Alan Lewis 
+Director 
+Indefinite 
+n/a 
+ 
+Craig Cecilio, CEO and Director. Mr. Cecilio has been Co-Founder, Chief Executive Officer and Director for the Company 
+since its funding in 2016. Mr. Cecilio has worked in the real estate industry for nearly 23 years. Over the course of 
+his career, Mr. Cecilio has participated in the development of over 1,000 single family and commercial properties as 
+either a joint venture equity partner, lender, or sponsor. Previously, Mr. Cecilio owned a real estate investment 
+business, Coastal California Funding Group, Inc., which underwrote, financed and developed commercial and 
+residential properties principally in California markets such as San Diego, Orange County, Los Angeles and San Francisco, 
+and a loan servicing business. Additionally, Mr. Cecilio founded a real estate debt fund in 2013, which manages a 
+portfolio of mainly real estate-backed bridge loans. In some cases, the fund was used to “pre-fund” some of the 
+Company’s real estate projects. Since 1997, Mr. Cecilio has financed nearly $500 million of real estate assets and has 
+developed and managed over $50 million of commercial and residential property (renovations and ground-up). Mr. 
+Cecilio has a Bachelor of Arts from the University of Colorado at Boulder. 
+ 
+Alan R. Lewis, CFO and Director. Mr. Lewis has been Co-Founder, Chief Investment Officer and Director for the Company 
+since its founding in 2016. Prior to co-founding the Company, he was the head of the real estate private equity 
+division of a real estate investment and development firm based in Salt Lake City, Utah, where he oversaw capital 
+raising, deal structuring and development work for multifamily projects and master-planned residential communities. 
+Previously, Mr. Lewis worked for nearly ten years on Wall Street as both an investment banker and a corporate 
+lawyer, most recently as Managing Director of the Investment Banking Division of Brill Securities where Mr. Lewis 
+provided financial advisory and capital raising services for high-growth companies along with real estate and oil and 
+gas projects. Prior to joining Brill Securities in 2010, Mr. Lewis practiced as a corporate attorney at Davis Polk & 
+Wardwell, a Tier 1 ranked Wall Street law firm. His practice included IPOs, mergers and acquisitions, and commercial 
+real estate including the acquisition and refinancing of several Fifth Avenue commercial buildings and acquisitions 
+and portfolio restructurings for a $6 billion real estate private equity fund. Over his career, Mr. Lewis has led 
+transactions totaling over $41 billion. Mr. Lewis has a Bachelor of Arts from Brigham Young University and a Juris 
+Doctor from Columbia Law School. 
+ 
+ 
+ 
+34 
+ 
+OWNERSHIP AND CAPITAL STRUCTURE 
+ 
+Ownership 
+The following table shows who owns more than 20% of company’s voting securities as of August 15, 2023: 
+ 
+Name of Beneficial 
+owner 
+Amount and class of securities 
+held 
+Percent of voting power prior to the 
+Offering 
+Craig Cecilio 
+52,034,287 shares of Class A 
+Common Stock 
+38.07% 
+Alan Lewis 
+37,965,713 shares of Class A 
+Common Stock 
+27.78% 
+ 
+The following table describes our capital structure as of August 15, 2023: 
+Class of Equity 
+Authorized Limit* 
+Issued and 
+Outstanding 
+Committed, Not-
+issued** 
+Available* 
+Class A Common 
+Stock 
+136,674,136 
+136,674,136 
+0 
+0 
+Class B Common 
+Stock 
+30,170, 775 
+403,636 
+68,182 
+29,698,957 
+Preferred Stock 
+25,000,000 
+0 
+0 
+25,000,000 
+Convertible Notes 
+Principal Amount: 
+$150,000 
+Interest Rate: 2% 
+Maturity Date: 180 
+days after issuance 
+ 
+ 
+*As set forth in the Second Amended and Restated Company’s Certificate of Incorporation 
+**To be issued on conversion of convertible notes 
+ 
+ 
+ 
+ 
+35 
+ 
+USE OF PROCEEDS 
+The company anticipates using the proceeds from this offering in the following manner: 
+ 
+% of Capital if 
+Target Offering 
+Amount Raised 
+Amount if 
+Target Offering 
+Amount Raised 
+% of Capital if 
+Maximum Offering 
+Amount 
+Raised 
+Amount if Maximum 
+Offering Amount 
+Raised 
+Intermediary Commission Fee(1) 
+6.0% 
+$627 
+6.0% 
+$300,000 
+Offering Expenses 
+94.0% 
+$9,823 
+1.0% 
+$50,000 
+Marketing and Sales 
+0.0% 
+$0 
+55.0% 
+$2,650,000 
+Technology and Data Applications 
+0.0% 
+$0 
+4.0% 
+$200,000 
+Employee Recruiting and Hiring 
+0.0% 
+$0 
+20.0% 
+$1,000,000 
+General Corporate Purposes and 
+Working Capital 
+$0 
+$0 
+16.0% 
+$800,000 
+Total 
+100% 
+$10,450 
+100% 
+$5,000,000 
+ 
+*Figures above representing dollar amounts have been rounded to the nearest whole dollar. 
+(1) the Company shall pay the Intermediary a commission of 6% as well as 14,000 onboarding setup fee, and 
+$2,000/monthly subscription fee.  The commission is the only fee referenced in use of proceeds above. 
+The identified uses of proceeds are subject to change at the sole direction of the officers and directors based on 
+the business needs of the company. 
+ 
+ 
+ 
+ 
+36 
+ 
+FINANCIAL DISCUSSION 
+Financial statements 
+Our financial statements can be found in Exhibit B to the Form C of which this Offering Memorandum forms a part.  
+The financial statements were audited by Dunes and Foote. The following discussion should be read in conjunction 
+with our audited financial statements and the related notes included in this Offering Statement.   
+ 
+DiversyFund, Inc. is a finance technology company providing an investment platform for everyday investors who are 
+interested in diversifying their investments through private real estate. The Company is a corporation organized 
+under the laws of the State of Delaware and was founded in August of 2016.  
+ 
+Operating Results 
+ 
+Revenue 
+We generate revenues from our real estate and investment income. For the year ended December 31, 2022 (“Fiscal 
+2022”), we generated $2,908,459 from income from real estate compared to $7,646,244 for the year ended 
+December 31, 2021 (“Fiscal 2021”). This decrease is due to the Company’s suspension of REIT II’s offering and the 
+resulting decrease in the amount of acquisition and disposition fees received by the Company as sponsor. In Fiscal 
+2022, we generated $8,729,853 in revenue from investment income compared to $1,789,260 in Fiscal 2021. This 
+increase was primarily driven by an increase in the amount of promoted interest received by the Company as 
+sponsor. As a result, our total revenue for Fiscal 2022 was $11,638,312 compared to $9,435,504 for Fiscal 2021. 
+ 
+Operating Expenses 
+Our operating expenses consist of salaries and wages, payroll taxes, employee benefits, contractors, advertising and 
+promotion, bank charges, education and training, licenses and fees, professional fees, legal fees and expenses, 
+recruiting, computer expense, financing expense, bad debt expense, interest expense, depreciation expense, 
+amortization expense, equity kicker expense, and other operating expenses. Total operating expenses decreased to 
+$12,003,065 during Fiscal 2022 from $15,342,381 during Fiscal 2021. This increase was largely driven by the 
+following: 
+• 
+Advertising and promotion expenses decreased to $1,597,902 in Fiscal 2022 from $5,121,835 for 
+Fiscal 2021 due to the Company’s suspension of REIT II’s offering and the termination of marketing 
+campaigns related to that offering.  
+• 
+Equity kicker expenses decreased to $1,259,750 in Fiscal 2022 from $3,343,475 for Fiscal 2021. This 
+decrease was primarily driven by a decrease in the amount of equity kickers offered to investors in 
+the Company.   
+• 
+Interest expenses decreased to $298,170 in Fiscal 2022 compared to $644,361 in Fiscal 2021 as a 
+result of the repayment of certain loans.  
+• 
+Contractor expenses decreased to $1,236,609 in Fiscal 2022 from $1,562,952 in Fiscal 2021 due to a 
+decrease in the number of marketing and product development contractors engaged by the 
+Company.  
+• 
+These decreases were offset in part by an increase of $2,225,595 in legal fees, from $518,984 in Fiscal 
+2021 to $2,744, 579 in Fiscal 2022. This increase was primarily driven by the SEC’s investigation and 
+enforcement actions, described above.  
+• 
+Additionally, salaries and wages expense increased to $2,932,764 in Fiscal 2022 from $2,393,621 in 
+Fiscal 2021 as a result of new hires, particularly in the marketing, finance, product development and 
+legal and compliance teams. 
+ 
+ 
+37 
+ 
+Net Loss 
+ 
+As a result of the foregoing, we incurred a net loss of $367,571 in Fiscal 2022, compared to a net loss of $5,902,296 
+in Fiscal 2021. 
+ 
+Liquidity and Capital Resources 
+ 
+As of December 31, 2022, the Company had $2,900,479 in cash and cash equivalents on hand. Accounts receivable 
+at that date were $461,339.  The Company’s operations have been financed to date through a combination of 
+revenues generated from management fees and the issuance of equity securities and convertible notes. We believe 
+that the proceeds from this offering, together with our cash and cash equivalent balances will be adequate to meet 
+our liquidity and capital expenditure requirements for the next 8-12 months. If these sources are not sufficient to 
+meet our cash requirements, we will need to seek additional capital, potentially through private placements of 
+equity or debt, to fund our plan of operations.  
+ 
+Indebtedness 
+ 
+The Company had a line of credit and absorbed a line of credit with a financial institution as part of the structured 
+disposition of real estate during the winding down of operations of a related party, DF Growth Fund, LLC. The first 
+line of credit bears interest at approximately 16.25% and the second line of credit bears no interest. The total balance 
+of the lines of credit was $77,841 and $45,718 as of December 31, 2022 and 2021, respectively. The lines of credit 
+are closed to future draws, and the balances are in the process of being retired. 
+ 
+The Company has a note payable due to related party DF Income Fund, LLC that was entered into in December of 
+2016. The note bears interest at 6.0%, compounding monthly. Principal and unpaid interest are due upon maturity 
+on December 31, 2026. The balance, including unpaid interest, was $1,553,902 and $1,480,248 as of December 31, 
+2022 and 2021, respectively. 
+ 
+The Company purchased units in DiversyFund Growth Fund, LLC from an investor for $400,000. This agreement was 
+entered between the Company and the investor on December 14, 2020. The Company issued a five-year promissory 
+note for the purchase of the units. The promissory note carries a 5% annual simple interest rate, payment of which 
+is due quarterly. The note matures on December 14, 2025. The Company has the option to prepay the principal. 
+ 
+The Company purchased units in DiversyFund Income Fund, LLC from an investor for $100,000. This agreement was 
+entered between the Company and the investor on December 14, 2020. The Company issued a five-year promissory 
+note for the purchase of the units. The promissory note carries a 5% annual simple interest rate, payment of which 
+is due quarterly. The note matures on December 14, 2025. The Company has the option to prepay the principal. 
+ 
+The Company promised to pay an investor $200,000 due to a financing arrangement. The note bears simple interest 
+at 6.535% that is paid quarterly. The note was originated on February 5, 2019 and has a maturity date of December 
+31, 2025. The principal balance of the note remains outstanding. 
+ 
+The Company promised to pay an investor $200,000 due to a financing arrangement. The note bears simple interest 
+at 6.535% that is paid quarterly. The note was originated on September 18, 2018 and has a maturity date of 
+December 31, 2025. The principal balance of the note remains outstanding. 
+ 
+The Company promised to pay an investor $418,288 due to a financing arrangement. The note bears simple interest 
+at 18.0%. Interest is required to be partially paid on a quarterly basis. The note was originated on September 17, 
+2018 and has a maturity date of December 31, 2025. The principal balance of the note remains outstanding. 
+ 
+The Company entered into a note payable with related party DF Growth REIT, LLC, in the amount of $2,000,000 in 
+June of 2021, which bears interest at 4.0% on an annual basis. Principal and unpaid interest are due upon maturity 
+on December 31, 2023. The balance, including unpaid interest, was $469,096 and $1,234,301 as of December 31, 
+ 
+38 
+ 
+2022 and 2021, respectively. The Company entered into an additional note payable with related party DF Growth 
+REIT, LLC, in the amount of $500,000 in August of 2021, which bears interest at 4.0% on an annual basis. Principal 
+and unpaid interest are due upon maturity on December 31, 2023. The balance, including unpaid interest, was 
+$527,014 and $507,014 as of December 31, 2022 and 2021, respectively. 
+ 
+Trends 
+ 
+To combat high inflation, in 2022 and 2023 the Federal Reserve conducted its steepest series of interest rate hikes 
+ever. As expected, this plan to slow down the economy and remove liquidity from the market through the use of 
+monetary policy also led to a sharp decline in asset values across most sectors. While no asset is immune to these 
+trends, hard assets such as real estate generally tend to perform better in inflationary environments than 
+traditional investments such as stocks and bonds and multifamily real estate often responds better (from an 
+investor’s point of view) to inflationary pressures than other real estate subsectors as potential home buyers get 
+pushed by high interest rates into the rental market. 
+ 
+Looking ahead, we expect the coming year to continue to be challenging for the broader economy with the 
+possibility of economic conditions worsening before they improve and overall real estate markets experiencing 
+another year of downward performance.  We believe that we may be approaching the bottom of the market cycle, 
+with the next twelve months presenting compelling investment opportunities.  
+ 
+We seek to identify and make investments based in part on major macroeconomic trends because we believe 
+those trends are likely to drive outsized growth which in turn can deliver better than average performance. We 
+expect the following factors to contribute to performance in the coming 12-24 months: 
+ 
+  
+භ Interest rate hikes by the Federal Reserve to combat record high inflation; 
+  
+භ Continuing rent increases caused by a post pandemic spike in demand, inflation and ongoing 
+limitations on the supply of housing; 
+  
+භ Ongoing sunbelt growth in which existing dynamics of strong population and job growth is 
+accelerated by migration of people and companies to the region; and 
+  
+භ Increasing demand for well-located, cash-flowing real estate assets. 
+ 
+ 
+ 
+ 
+39 
+ 
+RELATED PARTY TRANSACTIONS 
+The Company acts as Sponsor to affiliated funds including REITs and special purpose entities (SPEs) and receives fees 
+for services provided to these funds as Sponsor. 
+ 
+The Company entered into a note payable with related party DF Growth REIT, LLC, in the amount of $2,000,000 in 
+June of 2021, which bears interest at 4.0% on an annual basis. Principal and unpaid interest are due upon maturity 
+on December 31, 2023. The balance, including unpaid interest, was $469,096 and $1,234,301 as of December 31, 
+2022 and 2021, respectively. The Company entered into an additional note payable with related party DF Growth 
+REIT, LLC, in the amount of $500,000 in August of 2021, which bears interest at 4.0% on an annual basis. Principal 
+and unpaid interest are due upon maturity on December 31, 2023. The balance, including unpaid interest, was 
+$527,014 and $507,014 as of December 31, 2022 and 2021, respectively. 
+ 
+The following summarizes the fees that the Company, as Sponsor, may receive from affiliated funds: 
+ 
+Type of Fee 
+Description and Amount 
+Organization & Offering Expense 
+Reimbursement 
+The Sponsor is reimbursed for direct expenses incurred by the Sponsor and its 
+affiliates to organize and operate the funds and conduct offerings of fund securities, 
+including: 
+ 
+Ɣ 
+Marketing expenses paid to vendors, contractors, and consultants; 
+ 
+Ɣ 
+Payroll expenses of marketing employees; 
+ 
+Ɣ 
+Software costs; 
+ 
+Ɣ 
+Fees paid to vendors, contractors, and consultants relating to the 
+Sponsor’s online fintech platform and smartphone applications; used to market and 
+operate the Company; and 
+ 
+Ɣ 
+Payroll expenses and software costs from product and tech employees 
+working on the fintech platform and smartphone applications. 
+Asset Management Fee 
+The Sponsor charges affiliated funds an annual asset management fee equal to 2% of 
+the capital raised from the sale of fund shares.  
+ 
+Acquisition Fee 
+The Sponsor receives from each Project Entity (or from a fund itself, if the fund 
+owns real estate directly) an acquisition fee of between 1% and 4% of the total project 
+costs, including both “hard” costs (e.g., the cost of property) and “soft” costs (e.g., 
+professional fees). 
+ 
+Where property is owned by an entity in which there is another financial partner – a 
+joint venture – the Sponsor might be entitled to a similar acquisition fee to the extent 
+negotiated with the financial partners in such joint venture (which could be higher 
+than the 1-4% acquisition fee for direct investment). 
+ 
+40 
+ 
+Property Disposition Fee 
+Where a fund owns property directly or is the sole owner of a Project Entity, the 
+Sponsor receives a property disposition fee equal to 1% of the total sale price of 
+each property. 
+Where property is owned by an entity in which there is another financial partner – a 
+joint venture – the Sponsor may be entitled to a similar disposition fee to the extent 
+negotiated with the financial partners in such joint venture (which could be higher 
+than the 1% disposition fee for direct investment). 
+ 
+Financing Fee 
+Where a fund owns property directly, or is the sole owner of a Project Entity, the 
+Sponsor receives a financing fee equal to 1.0% of the amount of each loan placed on 
+a property, whether at the time of acquisition or pursuant to a refinancing. This 
+financing fee will be in addition to any fees paid to third parties, such as mortgage 
+brokers. 
+ 
+Where property is owned by an entity in which there is another financial partner – a 
+joint venture – the Sponsor might be entitled to a similar financing fee to the extent 
+negotiated with the financial partners in such joint venture (which could be higher 
+than the 1% financing fee for direct investment).  
+Construction Management 
+Fee 
+The Sponsor may provide construction management services. If so, the Sponsor is entitled 
+to a construction management fee equal to 7.5% of actual construction costs. 
+ 
+Guaranty Fee 
+If the Sponsor or an affiliate guaranties indebtedness of a fund or a Project Entity, including 
+guaranties of any so-called “bad boy” carveouts, the guarantor will be entitled to a guaranty fee 
+equal to 0.5% of the loan. 
+Other Fees 
+A fund or Project Entities may engage the Sponsor or its affiliates to perform other services. The 
+compensation paid to the Sponsor or its affiliates in each case must be (i) fair to the Company 
+and the Project Entities, (ii) comparable to the compensation that would be paid to an unrelated 
+party, and (iii) disclosed to Investors. 
+ 
+ 
+Recently, in June 2023 the Company entered into notes payable with related parties Craig Cecilio and Laurian Cecilio 
+in a total amount of $400,000. The notes bear interest at 8.0% on an annual basis and mature in June 2025. Interest 
+is required to be partially paid on a quarterly basis and principal and unpaid interest are due upon maturity. 
+ 
+The Company also entered into notes payable with REIT I for $225,000 in May 2023 and for $250,000 in July 2023.  
+Each note bears interest at a rate of 7% annually and has a maturity date of December 31, 2024. Full payment of 
+principal and interest is due upon maturity. 
+ 
+The Company as Sponsor, Mr. Cecilio, Mr. Lewis, and parties related to them may also invest in the Company by purchasing 
+shares of Class B Common Stock, along with other Investors. 
+ 
+ 
+41 
+ 
+RECENT OFFERINGS OF SECURITIES 
+Since May 2023 the Company has conducted a private placement of its securities pursuant to the exemption from 
+registration offered by Section 4(a)(2) and Regulation D of the United States Securities Act of 1933.  The Company has 
+raised $740,000 in exchange for 403,636 shares (including bonus shares) of Class B Common Stock and $150,000 in 
+exchange for convertible notes that bear interest at an annual rate of 2%. The convertible notes have a maturity date 
+of 180 days after issuance and are convertible to shares of Class B Common Stock at a conversion price of $2.20. 
+Proceeds of the private placement are used primarily for marketing, product development and compliance expenses 
+related to the launch of REIT IV. 
+ 
+ 
+42 
+ 
+SECURITIES OFFERED AND RIGHTS OF SECURITIES OF THE COMPANY 
+The following descriptions summarize important terms of our capital stock. This summary reflects the Company’s 
+Certificate of Incorporation and does not purport to be complete and is qualified in its entirety by the Certificate of 
+Incorporation and its Bylaws. For a complete description the company’s capital stock, you should refer to our 
+Certificate of Incorporation and our Bylaws and applicable provisions of Delaware General Corporation Law. 
+General  
+The Company’s authorized securities consist of up to 166,844,911 shares of common stock, of which 136,674,136 
+are Class A Common Stock and 30,170,775 are Class B Common Stock, and 25,000,000 shares of Preferred Stock.  
+As of August 15, 2023, there were 136,674,136 shares of Class A Voting Common Stock outstanding, 403,636 
+shares of Class B Common Stock outstanding and no shares of Preferred Stock outstanding. 
+Class B Common Stock has the same rights and powers of, ranks equally to, shares ratably with and is identical in 
+all respects to Class A Common Stock; except that Class B Common Stock is non-voting and is not entitled to any 
+votes on any matter that is submitted to a vote of our stockholders, except as required by Delaware Law. 
+ 
+Common Stock 
+ 
+Dividend Rights 
+ 
+Subject to preferences that may be applicable to any then outstanding preferred stock, holders of Common Stock 
+are entitled to receive such dividends, on a pro rata basis, as may be declared from time to time by the board of 
+directors out of legally available funds. The company has never declared or paid cash dividends on any of its capital 
+stock and currently does not anticipate paying any cash dividends. 
+ 
+Voting Rights 
+ 
+The holders of shares of Class A Common Stock are entitled to one vote for each share on all matters submitted to 
+a vote of the stockholders, including the election of directors. The holders of Class B Common Stock are not 
+entitled to vote at any meeting of stockholders unless required by law. 
+ 
+Right to Receive Liquidation Distributions 
+ 
+In the event of the company's liquidation, dissolution, or winding up, holders of its Common Stock will be entitled 
+to share ratably in the net assets legally available for distribution to stockholders after the payment of all of the 
+company's debts and other liabilities and payment of preferential amounts required to be paid to holders of shares 
+of Preferred Stock. 
+ 
+Rights and Preferences 
+ 
+Holders of the company's Common Stock have no preemptive, conversion, or other rights, and there are no 
+redemptive or sinking fund provisions applicable to the company's Common Stock. 
+ 
+The rights, preferences and privileges of the holders of the company’s Common Stock are subject to and may be 
+adversely affected by, the rights of the holders of shares of any series of Preferred Stock and any additional classes 
+of preferred stock that we may designate in the future. 
+ 
+Preferred Stock  
+ 
+Dividend Rights  
+ 
+ 
+43 
+ 
+Holders of Preferred Stock are entitled to receive dividends, if any, as may be declared by the board of directors at 
+any time out of legally available funds. We have never declared or paid cash dividends on any of our capital stock 
+and currently do not anticipate paying any cash dividends after this offering or in the foreseeable future. 
+ 
+Voting Rights  
+ 
+The holders of shares Preferred Stock are not entitled to vote at any meeting of stockholders unless required by 
+law. 
+ 
+Right to Receive Liquidation Distributions  
+ 
+In the event of our liquidation, dissolution, or winding up, holders of our Preferred Stock will be entitled to receive 
+distributions prior and in preference to the holders of Common Stock. 
+ 
+Convertible Promissory Notes 
+ 
+Interest Rate and Maturity 
+ 
+The issued convertible promissory notes of the company bear an interest rate of 2% and have a maturity date of 
+180 days following issuance.  
+ 
+Conversion terms 
+ 
+The notes will automatically convert to shares of the Company’s Class B Common Stock if, prior to the maturity 
+date of the notes, the Company closes an equity investment transaction that results in gross proceeds to the 
+Company of at least $2,000,000.  
+ 
+Stockholders Agreement 
+ 
+Investors who purchase shares of the Company’s Class B Common Stock in this offering will be required to enter 
+into the First Amended and Restated Stockholders Agreement (the “Stockholders Agreement”), which is attached 
+as an exhibit to this Memorandum. 
+ 
+Transfer Restrictions 
+ 
+In general, stockholders will not be permitted to transfer their shares without the permission of the Company 
+except in a public offering; to a family member, a trust or charitable remainder trust under which distributions may 
+be made only to the stockholder; to an entity the stockholders, partners or managers of which are the stockholder 
+and/or the stockholder’s family members; or in accordance with the procedures described in Article 3 of the 
+Stockholders Agreement. 
+ 
+ 
+Drag-Along Rights 
+ 
+Stockholders are subject to a drag-along provision pursuant to which each stockholder agrees that, if one or more 
+of the Company’s founders holding a majority of the issued and outstanding common stock proposes to 
+consummate a sale of the Company, then all stockholders will vote in favor of the Company sale and if requested 
+perform any action reasonably required to transfer their shares.  
+ 
+Tag-Along Rights 
+ 
+If one or more of the Company’s founders proposes to sell any of its shares, the other founder and each 
+stockholder will be permitted to participate in such sale.  
+ 
+44 
+ 
+Waiver of Information Rights 
+ 
+Stockholders waive their information rights including rights granted to stockholders pursuant to Section 220 of the 
+Delaware General Corporate Law. 
+ 
+What it Means to be a Minority Holder 
+As an investor in Class B Common Stock of the Company, you will not have any rights in regard to the corporate 
+actions of the company, including additional issuances of securities, company repurchases of securities, a sale of 
+the company or its significant assets, or company transactions with related parties.  
+Transferability of securities 
+For a year, the securities can be resold only: 
+භ 
+in an IPO or other public offering registered with the SEC; 
+භ 
+to the company; 
+භ 
+to an accredited investor; and 
+භ 
+to a member of the family of the purchaser or the equivalent, to a trust controlled by the purchaser, 
+to a trust created for the benefit of a member of the family of the purchaser or the equivalent, or in 
+connection with the death or divorce of the purchaser or other similar circumstance. 
+In addition, the Stockholders Agreement contains restrictions on transfer described above. 
+Transfer Agent 
+The company has selected DealMaker Transfer Agent LLC, an SEC-registered securities transfer agent, to act as its 
+transfer agent. They will be responsible for keeping track of who owns the company’s securities.   
+ 
+ 
+ 
+ 
+45 
+ 
+DILUTION 
+Investors should understand the potential for dilution. The investor’s stake in a company could be diluted due to 
+the company issuing additional shares. In other words, when the company issues more shares, the percentage of 
+the company that you own will go down, even though the value of the company may go up. You will own a smaller 
+piece of a larger company. This increase in number of shares outstanding could result from a stock offering (such 
+as an initial public offering, another crowdfunding round, a venture capital round, angel investment), employees 
+exercising stock options, or by conversion of certain instruments (e.g., convertible bonds, preferred shares or 
+warrants) into stock. 
+If the company decides to issue more shares, an investor could experience value dilution, with each share being 
+worth less than before, and control dilution, with the total percentage an investor owns being less than before. 
+There may also be earnings dilution, with a reduction in the amount earned per share (though this typically occurs 
+only if the company offers dividends, and most early-stage companies are unlikely to offer dividends, preferring to 
+invest any earnings into the company).  
+The type of dilution that hurts early-stage investors most occurs when the company sells more shares in a “down 
+round,” meaning at a lower valuation than in earlier offerings. An example of how this might occur is as follows 
+(numbers are for illustrative purposes only):  
+භ 
+In June 2023 Jane invests $20,000 for shares that represent 2% of a company valued at $1 million. 
+භ 
+In December the company is doing very well and sells $5 million in shares to venture capitalists on a 
+valuation (before the new investment) of $10 million. Jane now owns only 1.3% of the company but her 
+stake is worth $200,000. 
+භ 
+In June 2024 the company has run into serious problems and in order to stay afloat it raises $1 million at a 
+valuation of only $2 million (the “down round”). Jane now owns only 0.89% of the company and her stake 
+is worth only $26,660. 
+This type of dilution might also happen upon conversion of convertible notes into shares. Typically, the terms of 
+convertible notes issued by early-stage companies provide that in the event of another round of financing, the 
+holders of the convertible notes get to convert their notes into equity at a “discount” to the price paid by the new 
+investors, i.e., they get more shares than the new investors would for the same price. Additionally, convertible 
+notes may have a “price cap” on the conversion price, which effectively acts as a share price ceiling. Either way, 
+the holders of the convertible notes get more shares for their money than new investors. In the event that the 
+financing is a “down round” the holders of the convertible notes will dilute existing equity holders, and even more 
+than the new investors do, because they get more shares for their money. Investors should pay careful attention 
+to the aggregate total amount of convertible notes that the company has issued (and may issue in the future, and 
+the terms of those notes.  
+If you are making an investment expecting to own a certain percentage of the company or expecting each share to 
+hold a certain amount of value, it’s important to realize how the value of those shares can decrease by actions 
+taken by the company. Dilution can make drastic changes to the value of each share, ownership percentage, voting 
+control, and earnings per share. 
+Valuation 
+As discussed in “Dilution” above, the valuation of the company will determine the amount by which the investor’s 
+stake is diluted in the future. An early-stage company typically sells its shares (or grants options over its shares) to 
+its founders and early employees at a very low cash cost, because they are, in effect, putting their “sweat equity” 
+into the company. When the company seeks cash investments from outside investors, like you, the new investors 
+typically pay a much larger sum for their shares than the founders or earlier investors, which means that the cash 
+ 
+46 
+ 
+value of your stake is immediately diluted because each share of the same type is worth the same amount, and 
+you paid more for your shares than earlier investors did for theirs. 
+There are several ways to value a company, and none of them is perfect and all of them involve a certain amount 
+of guesswork.  The same method can produce a different valuation if used by a different person. 
+Liquidation Value —  The amount for which the assets of the company can be sold, minus the liabilities owed, e.g., 
+the assets of a bakery include the cake mixers, ingredients, baking tins, etc.  The liabilities of a bakery include the 
+cost of rent or mortgage on the bakery.  However, this value does not reflect the potential value of a business, e.g., 
+the value of the secret recipe.  The value for most startups lies in their potential, as many early-stage companies 
+do not have many assets (they probably need to raise funds through a securities offering in order to purchase 
+some equipment). 
+Book Value —  This is based on analysis of the company’s financial statements, usually looking at the  company’s 
+balance sheet as prepared by its accountants.  However, the balance sheet only looks at costs (i.e., what was paid 
+for the asset), and does not consider whether the asset has increased in value over time. In addition, some 
+intangible assets, such as patents, trademarks or trade names, are very valuable but are not usually represented at 
+their market value on the balance sheet. 
+Earnings Approach —  This is based on what the investor will pay (the present value) for what the investor expects 
+to obtain in the future (the future return), taking into account inflation, the lost opportunity to participate in other 
+investments, the risk of not receiving the return.  However, predictions of the future are uncertain and valuation of 
+future returns is a best guess. 
+Different methods of valuation produce a different answer as to what your investment is worth.  Typically, 
+liquidation value and book value will produce a lower valuation than the earnings approach.  However, the 
+earnings approach is also most likely to be risky as it is based on many assumptions about the future, while the 
+liquidation value and book value are much more conservative. 
+Future investors (including people seeking to acquire the company) may value the company differently.  They may 
+use a different valuation method, or different assumptions about the company’s business and its market.  Different 
+valuations may mean that the value assigned to your investment changes.  It frequently happens that when a large 
+institutional investor such as a venture capitalist makes an investment in a company, it values the company at a 
+lower price than the initial investors did.  If this happens, the value of the investment will go down. 
+How we determined the offering price 
+The offering price of $2.20 per share of Class B Common Stock was determined based on a valuation study we 
+commissioned which looked at online investment companies and compared revenue, size of community and 
+investor base, total assets under management and growth rates. 
+ 
+ 
+ 
+47 
+ 
+REGULATORY INFORMATION 
+Disqualification 
+Neither the company nor any of its officers or managing members are disqualified from relying on Regulation 
+Crowdfunding.  
+Annual reports 
+The company is required to file a report electronically with the SEC annually and post the report on its website no 
+later than 120 days after its fiscal year end (December 31). Once posted, the annual report may be found on the 
+company’s website at www.diversyfund.com/annual-reports. 
+The company must continue to comply with the ongoing reporting requirements until: 
+(1) 
+it is required to file reports under Section 13(a) or Section 15(d) of the Exchange Act; 
+(2) 
+it has filed at least one annual report pursuant to Regulation Crowdfunding and has fewer than three 
+hundred holders of record and has total assets that do not exceed $10,000,000; 
+(3) 
+it has filed at least three  annual reports pursuant to Regulation Crowdfunding; 
+(4) 
+it or another party repurchases all of the securities issued in reliance on Section 4(a)(6) of the Securities 
+Act, including any payment in full of debt securities or any complete redemption of redeemable securities; or 
+(5) 
+it liquidates or dissolves its business in accordance with state law. 
+Compliance failure 
+The company has not previously failed to comply with the requirements of Regulation Crowdfunding. 
+INVESTING PROCESS 
+Information Regarding Length of Time of Offering 
+ 
+Investment Confirmation Process: In order to purchase the Securities, you must make a commitment to purchase 
+by completing the subscription process hosted by the Intermediary, including complying with the Intermediary’s 
+know your customer (KYC) and anti-money laundering (AML) policies. If an Investor makes an investment 
+commitment under a name that is not their legal name, they may be unable to redeem their Security indefinitely, 
+and neither the Intermediary nor the Company are required to correct any errors or omissions made by the 
+Investor.  
+ 
+Investor funds will be held in escrow with the Escrow Agent until the Target Offering Amount has been met or 
+exceeded and one or more closings occur. Investors may cancel an investment commitment until up to 48 hours 
+prior to the Offering Deadline, or such earlier time as such earlier time the Company designates pursuant to 
+Regulation CF, using the cancellation mechanism provided by the Intermediary. If an investor does not cancel an 
+investment commitment before the 48-hour period prior to the Offering Deadline, the funds will be released to the 
+issuer upon closing of the offering and the investor will receive securities in exchange for his or her investment.  
+ 
+ 
+Investment Cancellations: Investors will have up to 48 hours prior to the end of the offering period to change their 
+minds and cancel their investment commitments for any reason. Once the offering period is within 48 hours of 
+ending, investors will not be able to cancel for any reason, even if they make a commitment during this period. 
+ 
+ 
+48 
+ 
+Notifications: Investors will receive periodic notifications regarding certain events pertaining to this offering, such 
+as the company reaching its offering target, the company making an early closing, the company making material 
+changes to its Form C, and the offering closing at its target date. 
+ 
+Material Changes: Material changes to an offering include but are not limited to: A change in minimum offering 
+amount, change in security price, change in management, etc. If an issuing company makes a material change to 
+the offering terms or other information disclosed, including a change to the offering deadline, investors will be 
+given five business days to reconfirm their investment commitment. If investors do not reconfirm, their investment 
+will be cancelled, and the funds will be returned. 
+ 
+Rolling and Early Closings: The company may elect to undertake rolling closings, or an early closing after it has 
+received investment interests for its target offering amount. During a rolling closing, those investors that have 
+committed funds will be provided five days’ notice prior to acceptance of their subscriptions, release of funds to 
+the company, and issuance of securities to the investors. During this time, the company may continue soliciting 
+investors and receiving additional investment commitments. Investors should note that if investors have already 
+received their securities, they will not be required to reconfirm upon the filing of a material amendment to the 
+Form C. In an early closing, the offering will terminate upon the new target date, which must be at least five days 
+from the date of the notice. 
+ 
+Investor Limitations 
+ 
+Investors are limited in how much they can invest on all crowdfunding offerings during any 12-month period. The 
+limitation on how much they can invest depends on their net worth (excluding the value of their primary 
+residence) and annual income. If either their annual income or net worth is less than $124,000, then during any 12-
+month period, they can invest up to the greater of either $2,500 or 5% of the greater of their annual income or Net 
+worth. If both their annual income and net worth are equal to or more than $124,000, then during any 12-month 
+period, they can invest up to 10% of annual income or net worth, whichever is greater, but their investments 
+cannot exceed $124,000. If the investor is an “accredited investor” as defined under Rule 501 of Regulation D 
+under the Securities Act, as amended, no investment limits apply. 
+ 
+Updates 
+Information regarding updates to the offering and to subscribe can be found at www.diversyfund.com/lp/cf-
+venture-investment-opportunity.  
+ 
