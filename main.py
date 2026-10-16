@@ -1,9 +1,25 @@
 import argparse
 import json
+from dataclasses import replace
+from pathlib import Path
 
-from src.config import GOLDEN, load_config
+from src.config import GOLDEN, PDFS, ROOT, load_config
 from src.documents import extract_text, list_sources
-from src.config import PDFS
+
+
+def _golden_sources() -> list[str]:
+    rows = json.loads(GOLDEN.read_text(encoding="utf-8"))
+    return [r["source_file"] for r in rows if r["source_file"] != "SCHEMA"]
+
+
+def _score(run_dir: Path) -> None:
+    from src.evaluate import evaluate, write_report
+
+    try:
+        write_report(run_dir, evaluate(run_dir))
+        print(f"Report: {run_dir / 'report.md'}")
+    except ValueError:
+        print("No golden-set documents in this run; skipping scoring")
 
 
 def cmd_extract(_):
@@ -16,38 +32,72 @@ def cmd_run(args):
     from src.pipeline import run
 
     cfg = load_config(args.config)
-    sources = list_sources()
-    if args.golden:
-        sources = [r["source_file"] for r in json.loads(GOLDEN.read_text(encoding="utf-8")) if r["source_file"] != "SCHEMA"]
+    sources = _golden_sources() if args.golden else list_sources()
     if args.limit:
         sources = sources[: args.limit]
     out = run(cfg, sources)
     print(f"Results: {out}")
+    _score(out)
 
 
 def cmd_eval(args):
-    from pathlib import Path
-
     from src.evaluate import evaluate, write_report
 
     run_dir = Path(args.run_dir)
-    metrics = evaluate(run_dir)
-    write_report(run_dir, metrics)
+    write_report(run_dir, evaluate(run_dir))
     print((run_dir / "report.md").read_text(encoding="utf-8"))
+
+
+def cmd_grid(args):
+    from src.pipeline import run
+
+    config_paths = args.configs or sorted(str(p) for p in (ROOT / "configs").glob("*.yaml"))
+    sources = list_sources() if args.all else _golden_sources()
+    if args.limit:
+        sources = sources[: args.limit]
+    for path in config_paths:
+        base = load_config(path)
+        for prompt in args.prompts or [base.prompt_version]:
+            cfg = base if not args.prompts else replace(base, prompt_version=prompt, name=f"{base.name}_{prompt}")
+            print(f"\n== {cfg.name}: {cfg.model} | {cfg.input_mode} | {cfg.prompt_version} | t={cfg.temperature} top_p={cfg.top_p}")
+            out = run(cfg, sources)
+            _score(out)
+    print("\nDone. Build the summary with: python main.py report --all")
+
+
+def cmd_report(_):
+    from src.report import build_report
+
+    print(f"Updated {build_report()}")
 
 
 def main():
     parser = argparse.ArgumentParser(description="Structured extraction service")
     sub = parser.add_subparsers(dest="cmd", required=True)
+
     sub.add_parser("extract", help="Extract and cache text from all PDFs").set_defaults(fn=cmd_extract)
-    p = sub.add_parser("run", help="Run extraction with a config")
+
+    p = sub.add_parser("run", help="Run extraction with a config, then score it")
     p.add_argument("--config", required=True)
     p.add_argument("--golden", action="store_true", help="Only the golden-set documents")
     p.add_argument("--limit", type=int, help="Only the first N documents")
     p.set_defaults(fn=cmd_run)
+
     p = sub.add_parser("eval", help="Score a run against the golden set and write its report")
     p.add_argument("run_dir")
     p.set_defaults(fn=cmd_eval)
+
+    p = sub.add_parser("grid", help="Run several configs (and prompt versions) on the golden set")
+    p.add_argument("--configs", nargs="+", help="Config files; default is every file in configs/")
+    p.add_argument("--prompts", nargs="+", help="Prompt versions to run for each config, e.g. v1 v2")
+    p.add_argument("--all", action="store_true", help="Run on all documents instead of the golden set")
+    p.add_argument("--limit", type=int, help="Only the first N documents")
+    p.set_defaults(fn=cmd_grid)
+
+    p = sub.add_parser("report", help="Aggregate all scored runs into REPORT.md")
+    p.add_argument("--all", action="store_true", required=True, help="Include every run in results/")
+    p.set_defaults(fn=cmd_report)
+
     args = parser.parse_args()
     args.fn(args)
 

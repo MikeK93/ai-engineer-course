@@ -83,7 +83,7 @@ def evaluate(run_dir: Path) -> dict:
     ]
     records = [r for r in records if r["source_file"] in golden]
     if not records:
-        raise SystemExit("No golden-set documents in this run")
+        raise ValueError("No golden-set documents in this run")
 
     correct, total = Counter(), Counter()
     false_null, hallucinated, errors = Counter(), Counter(), []

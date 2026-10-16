@@ -1,0 +1,13 @@
+name: local_t07
+model_env: LOCAL_MODEL
+input_mode: text
+prompt_version: v1
+sampling:
+  temperature: 0.7
+  top_p: 0.9
+max_pages: 10
+max_tokens: 6000
+timeout: 600
+max_retries: 2
+extra_params:
+  num_ctx: 8192
