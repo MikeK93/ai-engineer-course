@@ -10,3 +10,6 @@
 ## Schema updates (2026-10-18)
 - `Location.country`: description now says to infer from other address fields when possible, else None.
 - `RealEstateListing.name`: description now says property name only, None if not stated, never use the address as the name.
+
+## Schema update after v2 test run (2026-10-18)
+- Numeric fields (`per_sf`, `per_unit`, `amount`, `sf`, `units`, `acreage`, `sqm`, `hectares`) changed from `float` to `int | float` so whole numbers no longer serialize as e.g. `37879.0`; the v2 prompt instruction alone did not prevent it.

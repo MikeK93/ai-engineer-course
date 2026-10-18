@@ -4,9 +4,12 @@ If the source text does not state a field, return None. Never guess.
 """
 
 from enum import Enum
-from typing import Optional
+from typing import Optional, Union
 
 from pydantic import BaseModel, Field
+
+# int-or-float so whole numbers serialize without a trailing ".0"
+Number = Union[int, float]
 
 
 class DealType(str, Enum):
@@ -48,11 +51,11 @@ class PricePeriod(str, Enum):
 
 
 class Price(BaseModel):
-    per_sf: Optional[float] = Field(None, description="Price per square foot")
+    per_sf: Optional[Number] = Field(None, description="Price per square foot")
     per_sf_currency: Optional[str] = Field(
         None, description="ISO 4217 currency code for the per-square-foot price"
     )
-    per_unit: Optional[float] = Field(None, description="Price per unit")
+    per_unit: Optional[Number] = Field(None, description="Price per unit")
     per_unit_currency: Optional[str] = Field(
         None, description="ISO 4217 currency code for the per-unit price"
     )
@@ -62,7 +65,7 @@ class TotalPrice(BaseModel):
     label: Optional[str] = Field(
         None, description="Text such as 'Negotiable' when no numeric price is stated if available instead of the actual price"
     )
-    amount: Optional[float] = Field(None, description="Numeric total price only")
+    amount: Optional[Number] = Field(None, description="Numeric total price only")
     currency: Optional[str] = Field(None, description="ISO 4217 currency code")
     period: Optional[PricePeriod] = Field(
         None, description="Time period or payment basis for the total price"
@@ -70,11 +73,11 @@ class TotalPrice(BaseModel):
 
 
 class PropertySize(BaseModel):
-    sf: Optional[float] = Field(None, description="Area in square feet")
-    units: Optional[float] = Field(None, description="Number of property units")
-    acreage: Optional[float] = Field(None, description="Area in acres")
-    sqm: Optional[float] = Field(None, description="Area in square meters")
-    hectares: Optional[float] = Field(None, description="Area in hectares")
+    sf: Optional[Number] = Field(None, description="Area in square feet")
+    units: Optional[Number] = Field(None, description="Number of property units")
+    acreage: Optional[Number] = Field(None, description="Area in acres")
+    sqm: Optional[Number] = Field(None, description="Area in square meters")
+    hectares: Optional[Number] = Field(None, description="Area in hectares")
 
 
 class Location(BaseModel):

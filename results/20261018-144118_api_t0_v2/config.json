@@ -1,0 +1,13 @@
+{
+  "name": "api_t0_v2",
+  "model": "gemini/gemini-2.5-flash",
+  "input_mode": "text",
+  "prompt_version": "v2",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "max_pages": 20,
+  "max_tokens": 12000,
+  "timeout": 120,
+  "max_retries": 3,
+  "extra_params": {}
+}
