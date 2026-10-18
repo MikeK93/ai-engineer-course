@@ -80,14 +80,20 @@ class PropertySize(BaseModel):
 class Location(BaseModel):
     city: Optional[str] = None
     state: Optional[str] = Field(None, description="State, province, or region")
-    country: Optional[str] = None
+    country: Optional[str] = Field(
+        None,
+        description="Country; infer from other address fields when possible, but use None if it cannot be determined",
+    )
     zip: Optional[str] = None
     street1: Optional[str] = Field(None, description="Street address as written")
     street2: Optional[str] = Field(None, description="Additional address details")
 
 
 class RealEstateListing(BaseModel):
-    name: Optional[str] = Field(None, description="Property or listing name as written")
+    name: Optional[str] = Field(
+        None,
+        description="Property name as written, if stated; otherwise leave None. Do not use the address as the name.",
+    )
     deal_type: Optional[DealType] = Field(None, description="Sale, lease, or other")
     type: Optional[PropertyType] = Field(
         None, description="Best matching property category; use 'other' if none fits"
