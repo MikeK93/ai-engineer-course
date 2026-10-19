@@ -5,7 +5,7 @@ Extracts structured data (see `src/schema.py`) from commercial real estate PDFs,
 ## Requirements
 
 - Python 3.11+
-- An API key for one provider supported by [LiteLLM](https://docs.litellm.ai/docs/providers) (Gemini, OpenAI, Anthropic, ...)
+- An API key for one provider supported by [LiteLLM](https://docs.litellm.ai/docs/providers) (Gemini, OpenAI, Anthropic, OpenRouter, ...)
 - [Ollama](https://ollama.com) for the local model
 
 ## Setup
@@ -23,8 +23,8 @@ ollama list                 # check Ollama is running before local runs
 
 | Variable | Purpose |
 |---|---|
-| `GEMINI_API_KEY` / `OPENAI_API_KEY` / `ANTHROPIC_API_KEY` | Key for the provider you use |
-| `EXTRACT_MODEL` | API model as a LiteLLM string, e.g. `gemini/gemini-2.5-flash`, `openai/gpt-4o-mini` |
+| `GEMINI_API_KEY` / `OPENROUTER_API_KEY` / `OPENAI_API_KEY` / `ANTHROPIC_API_KEY` | Key for the provider you use |
+| `EXTRACT_MODEL` | API model as a LiteLLM string, e.g. `gemini/gemini-2.5-flash`, `openai/gpt-4o-mini`, `openrouter/google/gemini-2.5-flash` |
 | `LOCAL_MODEL` | Local model, e.g. `ollama_chat/qwen2.5:3b` |
 | `OLLAMA_API_BASE` | Ollama URL, default `http://localhost:11434` |
 
