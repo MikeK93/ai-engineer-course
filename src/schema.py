@@ -65,7 +65,7 @@ class TotalPrice(BaseModel):
     label: Optional[str] = Field(
         None, description="Text such as 'Negotiable' when no numeric price is stated if available instead of the actual price"
     )
-    amount: Optional[Number] = Field(None, description="Numeric total price only")
+    amount: Optional[Number] = Field(None, description="Numeric total price only. AKA asking price for the listed property.")
     currency: Optional[str] = Field(None, description="ISO 4217 currency code")
     period: Optional[PricePeriod] = Field(
         None, description="Time period or payment basis for the total price"
@@ -95,14 +95,15 @@ class Location(BaseModel):
 class RealEstateListing(BaseModel):
     name: Optional[str] = Field(
         None,
-        description="Property name as written, if stated; otherwise leave None. Do not use the address as the name.",
+        description="Property name as written, if stated; otherwise leave None. Do not use the address as the name. Property name can be near the address on the first page.",
     )
     deal_type: Optional[DealType] = Field(None, description="Sale, lease, or other")
     type: Optional[PropertyType] = Field(
         None, description="Best matching property category; use 'other' if none fits"
     )
     type_other: Optional[str] = Field(
-        None, description="Property category details when stated"
+        None,
+        description="Property category details when stated. The raw value of property type after mapping to type enum.",
     )
     price: Optional[Price] = None
     total_price: Optional[TotalPrice] = None
@@ -112,7 +113,9 @@ class RealEstateListing(BaseModel):
     )
     floor: Optional[int] = None
     floors_total: Optional[int] = None
-    condition: Optional[Condition] = None
+    condition: Optional[Condition] = Field(
+        None, description="If not specified explicitly, infer from content."
+    )
     location: Optional[Location] = None
     seller: Optional[str] = Field(None, description="Broker or seller as written")
 

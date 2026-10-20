@@ -13,3 +13,12 @@
 
 ## Schema update after v2 test run (2026-10-18)
 - Numeric fields (`per_sf`, `per_unit`, `amount`, `sf`, `units`, `acreage`, `sqm`, `hectares`) changed from `float` to `int | float` so whole numbers no longer serialize as e.g. `37879.0`; the v2 prompt instruction alone did not prevent it.
+
+## Schema update (2026-10-20)
+- `RealEstateListing.name`: description adds that the name can be near the address on the first page.
+- `RealEstateListing.type_other`: description now says it is the raw property type value after mapping to the `type` enum.
+- `TotalPrice.amount`: description adds "AKA asking price for the listed property."
+- `RealEstateListing.condition`: new description; if not specified explicitly, infer from content.
+
+## v3 (2026-10-20)
+- "Never guess" now also excepts `condition`, which may be inferred from content when not stated explicitly (matches the schema description). `v1` and `v2` left unchanged.
