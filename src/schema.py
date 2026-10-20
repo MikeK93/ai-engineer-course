@@ -73,7 +73,7 @@ class TotalPrice(BaseModel):
 
 
 class PropertySize(BaseModel):
-    sf: Optional[Number] = Field(None, description="Area in square feet")
+    sf: Optional[Number] = Field(None, description="Area in square feet. Aka Lot size.")
     units: Optional[Number] = Field(None, description="Number of property units")
     acreage: Optional[Number] = Field(None, description="Area in acres")
     sqm: Optional[Number] = Field(None, description="Area in square meters")

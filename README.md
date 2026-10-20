@@ -67,9 +67,9 @@ Every run creates `results/<run_id>/` with:
 | Command | Options | Description |
 |---|---|---|
 | `python main.py extract` | | Extract text from every PDF in `data/pdfs/` and cache it in `data/texts/` |
-| `python main.py run` | `--config FILE` (required), `--golden`, `--limit N` | Extract structured data for the documents, then score the run if it contains golden documents. `--golden` restricts to the golden-set documents, `--limit` to the first N |
-| `python main.py eval RUN_DIR` | | Score a run against `data/golden.json` and write `metrics.json` and `report.md` into the run folder |
-| `python main.py grid` | `--configs FILE...`, `--prompts V...`, `--all`, `--limit N` | Run several configs on the golden set and score each. Default is every file in `configs/`. `--prompts v1 v2` repeats each config per prompt version. `--all` uses all documents |
+| `python main.py run` | `--config FILE` (required), `--golden`, `--limit N`, `--golden-version V` | Extract structured data for the documents, then score the run if it contains golden documents. `--golden` restricts to the golden-set documents, `--limit` to the first N |
+| `python main.py eval RUN_DIR` | `--golden-version V` (`v1` = `golden.json`, otherwise `golden_V.json`) | Score a run against `data/golden.json` and write `metrics.json` and `report.md` into the run folder |
+| `python main.py grid` | `--configs FILE...`, `--prompts V...`, `--all`, `--limit N`, `--golden-version V` | Run several configs on the golden set and score each. Default is every file in `configs/`. `--prompts v1 v2` repeats each config per prompt version. `--all` uses all documents |
 | `python main.py report --all` | | Aggregate every scored run in `results/` into the table in `REPORT.md`; hand-written sections are kept |
 
 ## Configs (`configs/*.yaml`)

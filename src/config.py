@@ -10,6 +10,14 @@ DATA = ROOT / "data"
 PDFS = DATA / "pdfs"
 TEXTS = DATA / "texts"
 GOLDEN = DATA / "golden.json"
+
+
+def golden_path(version: str | None = None) -> Path:
+    """v1 (or None) is golden.json; any other version is golden_<version>.json."""
+    if not version or version == "v1":
+        return GOLDEN
+    return DATA / f"golden_{version}.json"
+
 PROMPTS = ROOT / "prompts"
 RESULTS = ROOT / "results"
 

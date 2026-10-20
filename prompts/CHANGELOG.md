@@ -19,6 +19,8 @@
 - `RealEstateListing.type_other`: description now says it is the raw property type value after mapping to the `type` enum.
 - `TotalPrice.amount`: description adds "AKA asking price for the listed property."
 - `RealEstateListing.condition`: new description; if not specified explicitly, infer from content.
+- `PropertySize.sf`: description adds "Aka Lot size."
 
 ## v3 (2026-10-20)
 - "Never guess" now also excepts `condition`, which may be inferred from content when not stated explicitly (matches the schema description). `v1` and `v2` left unchanged.
+- Added instruction to ignore "Opportunity" and "Comparables" sections and focus on details about the listed property.

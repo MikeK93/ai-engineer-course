@@ -7,7 +7,7 @@ from typing import get_args
 
 from pydantic import BaseModel
 
-from .config import GOLDEN
+from .config import golden_path
 from .schema import RealEstateListing
 
 
@@ -69,13 +69,13 @@ def _percentile(values: list[float], p: float) -> float:
     return s[min(len(s) - 1, math.ceil(p / 100 * len(s)) - 1)]
 
 
-def load_golden() -> dict[str, dict]:
-    rows = json.loads(GOLDEN.read_text(encoding="utf-8"))
+def load_golden(version: str | None = None) -> dict[str, dict]:
+    rows = json.loads(golden_path(version).read_text(encoding="utf-8"))
     return {r["source_file"]: r["expected"] for r in rows if r["source_file"] != "SCHEMA"}
 
 
-def evaluate(run_dir: Path) -> dict:
-    golden = load_golden()
+def evaluate(run_dir: Path, golden_version: str | None = None) -> dict:
+    golden = load_golden(golden_version)
     records = [
         json.loads(p.read_text(encoding="utf-8"))
         for p in sorted(run_dir.glob("*.json"))
@@ -110,6 +110,7 @@ def evaluate(run_dir: Path) -> dict:
     cfg = json.loads((run_dir / "config.json").read_text(encoding="utf-8"))
     return {
         "run_id": run_dir.name,
+        "golden_version": golden_version or "v1",
         "model": cfg["model"],
         "input_mode": cfg["input_mode"],
         "prompt_version": cfg["prompt_version"],
@@ -135,9 +136,9 @@ def write_report(run_dir: Path, m: dict, top_errors: int = 5) -> None:
     lines = [
         f"# Run {m['run_id']}",
         "",
-        "| model | input | prompt | temp | top_p | docs |",
-        "|---|---|---|---|---|---|",
-        f"| {m['model']} | {m['input_mode']} | {m['prompt_version']} | {m['temperature']} | {m['top_p']} | {m['documents']} |",
+        "| model | input | prompt | golden | temp | top_p | docs |",
+        "|---|---|---|---|---|---|---|",
+        f"| {m['model']} | {m['input_mode']} | {m['prompt_version']} | {m.get('golden_version', 'v1')} | {m['temperature']} | {m['top_p']} | {m['documents']} |",
         "",
         "## Metrics",
         "",

@@ -25,14 +25,14 @@ def _table() -> str:
     for path in sorted(RESULTS.glob("*/metrics.json")):
         m = json.loads(path.read_text(encoding="utf-8"))
         rows.append(
-            f"| [{m['run_id']}](results/{m['run_id']}/report.md) | {m['model']} | {m['input_mode']} | {m['prompt_version']} "
+            f"| [{m['run_id']}](results/{m['run_id']}/report.md) | {m['model']} | {m['input_mode']} | {m['prompt_version']} | {m.get('golden_version', 'v1')} "
             f"| {m['temperature']} / {m['top_p']} | {m['documents']} | {m['field_accuracy_pct']:.1f} "
             f"| {m['valid_pct']:.0f} ({m['valid_first_try_pct']:.0f}) | {m['latency_p50_s']:.1f} / {m['latency_p95_s']:.1f} "
             f"| {m['cost_per_1000_docs_usd']:.2f} |"
         )
     header = [
-        "| run | model | input | prompt | temp / top_p | docs | field acc % | valid % (first try) | latency p50 / p95 s | $ per 1000 docs |",
-        "|---|---|---|---|---|---|---|---|---|---|",
+        "| run | model | input | prompt | golden | temp / top_p | docs | field acc % | valid % (first try) | latency p50 / p95 s | $ per 1000 docs |",
+        "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     return "\n".join(header + rows) if rows else "_No scored runs yet. Run `python main.py run` or `grid`._"
 
