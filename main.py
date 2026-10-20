@@ -28,10 +28,16 @@ def cmd_extract(_):
         print(f"{len(pages):4} pages  {name}")
 
 
+def _with_input(cfg, input_mode: str | None):
+    if not input_mode:
+        return cfg
+    return replace(cfg, input_mode=input_mode, name=f"{cfg.name}_{input_mode}")
+
+
 def cmd_run(args):
     from src.pipeline import run
 
-    cfg = load_config(args.config)
+    cfg = _with_input(load_config(args.config), args.input)
     sources = _golden_sources(args.golden_version) if args.golden else list_sources()
     if args.limit:
         sources = sources[: args.limit]
@@ -56,7 +62,7 @@ def cmd_grid(args):
     if args.limit:
         sources = sources[: args.limit]
     for path in config_paths:
-        base = load_config(path)
+        base = _with_input(load_config(path), args.input)
         for prompt in args.prompts or [base.prompt_version]:
             cfg = base if not args.prompts else replace(base, prompt_version=prompt, name=f"{base.name}_{prompt}")
             print(f"\n== {cfg.name}: {cfg.model} | {cfg.input_mode} | {cfg.prompt_version} | t={cfg.temperature} top_p={cfg.top_p}")
@@ -82,6 +88,7 @@ def main():
     p.add_argument("--golden", action="store_true", help="Only the golden-set documents")
     p.add_argument("--limit", type=int, help="Only the first N documents")
     p.add_argument("--golden-version", default="v1", help="Golden set version: v1 = golden.json, vN = golden_vN.json")
+    p.add_argument("--input", choices=["text", "pdf"], help="Override input_mode from the config")
     p.set_defaults(fn=cmd_run)
 
     p = sub.add_parser("eval", help="Score a run against the golden set and write its report")
@@ -95,6 +102,7 @@ def main():
     p.add_argument("--all", action="store_true", help="Run on all documents instead of the golden set")
     p.add_argument("--limit", type=int, help="Only the first N documents")
     p.add_argument("--golden-version", default="v1", help="Golden set version: v1 = golden.json, vN = golden_vN.json")
+    p.add_argument("--input", choices=["text", "pdf"], help="Override input_mode from each config")
     p.set_defaults(fn=cmd_grid)
 
     p = sub.add_parser("report", help="Aggregate all scored runs into REPORT.md")

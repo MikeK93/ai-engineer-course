@@ -1,0 +1,88 @@
+{
+  "run_id": "20261020-161038_api_t0_v3",
+  "golden_version": "v2",
+  "model": "gemini/gemini-2.5-flash",
+  "input_mode": "text",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "documents": 2,
+  "valid_pct": 100.0,
+  "valid_first_try_pct": 100.0,
+  "failed": 0,
+  "field_accuracy_pct": 91.07142857142857,
+  "per_field_accuracy_pct": {
+    "name": 50.0,
+    "deal_type": 100.0,
+    "type": 100.0,
+    "type_other": 50.0,
+    "price.per_sf": 100.0,
+    "price.per_sf_currency": 100.0,
+    "price.per_unit": 100.0,
+    "price.per_unit_currency": 100.0,
+    "total_price.label": 100.0,
+    "total_price.amount": 50.0,
+    "total_price.currency": 100.0,
+    "total_price.period": 100.0,
+    "size.sf": 100.0,
+    "size.units": 100.0,
+    "size.acreage": 100.0,
+    "size.sqm": 100.0,
+    "size.hectares": 100.0,
+    "amenities": 50.0,
+    "floor": 100.0,
+    "floors_total": 100.0,
+    "condition": 100.0,
+    "location.city": 100.0,
+    "location.state": 100.0,
+    "location.country": 100.0,
+    "location.zip": 100.0,
+    "location.street1": 100.0,
+    "location.street2": 100.0,
+    "seller": 50.0
+  },
+  "false_null": {
+    "name": 1
+  },
+  "hallucinated": {
+    "type_other": 1,
+    "amenities": 1
+  },
+  "latency_p50_s": 8.585846399888396,
+  "latency_p95_s": 11.647636600071564,
+  "cost_per_1000_docs_usd": 6.068350000000001,
+  "errors": [
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "name",
+      "expected": "33 Unit Multifamily Development",
+      "predicted": null
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "total_price.amount",
+      "expected": 5531760,
+      "predicted": 1250000
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "type_other",
+      "expected": null,
+      "predicted": "Multifamily"
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "amenities",
+      "expected": [],
+      "predicted": [
+        "Parking: 36 Spaces, Two Level Type I-A Subterranean"
+      ]
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "seller",
+      "expected": "Ghobadi Multifamily Investment Team - Colliers",
+      "predicted": "Colliers"
+    }
+  ]
+}
