@@ -1,47 +1,5 @@
 [
     {
-        "source_file": "SCHEMA",
-        "expected": {
-            "name": "string or null",
-            "deal_type": "enum: sale, lease, other",
-            "type": "enum: land, multifamily, residential, commercial, industrial, mixed_use, office, retail, building, hotel, warehouse, agricultural other",
-            "type_other": "string or null",
-            "price": {
-                "per_sf": "number or null",
-                "per_sf_currency": "enum: ISO code or null",
-                "per_unit": "number or null",
-                "per_unit_currency": "enum: ISO code or null"
-            },
-            "total_price": {
-                "amount": "number or null",
-                "currency": "enum: ISO code or null",
-                "period": "enum: monthly, yearly, one_time"
-            },
-            "size": {
-                "sf": "number or null",
-                "units": "number or null",
-                "acreage": "number or null",
-                "sqm": "number or null",
-                "hectares": "number or null"
-            },
-            "amenities": [
-                "string"
-            ],
-            "floor": "integers or null",
-            "floors_total": "integers or null",
-            "condition": "enum: new_build, under_construction, renovated, needs_renovation, unknown",
-            "location": {
-                "city": "string or null",
-                "state": "string or null",
-                "country": "string or null",
-                "zip": "string or null",
-                "street1": "string or null",
-                "street2": "string or null"
-            },
-            "seller": "string or null"
-        }
-    },
-    {
         "source_file": "gs01_33 Unit Multifamily Development.pdf",
         "expected": {
             "name": "33 Unit Multifamily Development",
