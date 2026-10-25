@@ -24,3 +24,10 @@
 ## v3 (2026-10-20)
 - "Never guess" now also excepts `condition`, which may be inferred from content when not stated explicitly (matches the schema description). `v1` and `v2` left unchanged.
 - Added instruction to ignore "Opportunity" and "Comparables" sections and focus on details about the listed property.
+
+## Schema update (2026-10-21)
+- `RealEstateListing.type`: description adds "Actual type of the listed property."
+- `RealEstateListing.total_price`: new description "Asking price."
+
+## Golden set v3 (2026-10-21)
+- New `data/golden_v3.json`, copied from `golden_v2.json`. `gs01` (33 Unit Multifamily Development): added the missing `amenities` (washer/dryer hookups, patio/balcony, 9-10 foot ceilings, covered parking, fully enclosed building, elevator). Use with `--golden-version v3`.

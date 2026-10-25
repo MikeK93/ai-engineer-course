@@ -1,0 +1,126 @@
+{
+  "run_id": "20261021-172003_api_t0_pdf_v3",
+  "golden_version": "v3",
+  "model": "gemini/gemini-2.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "documents": 2,
+  "valid_pct": 100.0,
+  "valid_first_try_pct": 100.0,
+  "failed": 0,
+  "field_accuracy_pct": 83.92857142857143,
+  "per_field_accuracy_pct": {
+    "name": 50.0,
+    "deal_type": 100.0,
+    "type": 50.0,
+    "type_other": 0.0,
+    "price.per_sf": 50.0,
+    "price.per_sf_currency": 100.0,
+    "price.per_unit": 50.0,
+    "price.per_unit_currency": 100.0,
+    "total_price.label": 100.0,
+    "total_price.amount": 100.0,
+    "total_price.currency": 100.0,
+    "total_price.period": 100.0,
+    "size.sf": 100.0,
+    "size.units": 100.0,
+    "size.acreage": 100.0,
+    "size.sqm": 100.0,
+    "size.hectares": 100.0,
+    "amenities": 0.0,
+    "floor": 100.0,
+    "floors_total": 100.0,
+    "condition": 100.0,
+    "location.city": 100.0,
+    "location.state": 100.0,
+    "location.country": 100.0,
+    "location.zip": 100.0,
+    "location.street1": 100.0,
+    "location.street2": 100.0,
+    "seller": 50.0
+  },
+  "false_null": {
+    "name": 1
+  },
+  "hallucinated": {
+    "type_other": 1,
+    "amenities": 1
+  },
+  "latency_p50_s": 19.510748700005934,
+  "latency_p95_s": 32.59264789998997,
+  "cost_per_1000_docs_usd": 8.43504,
+  "errors": [
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "name",
+      "expected": "33 Unit Multifamily Development",
+      "predicted": null
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "type",
+      "expected": "land",
+      "predicted": "multifamily"
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "type_other",
+      "expected": "Fully Entitled Development Land",
+      "predicted": "Multifamily Development"
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "price.per_sf",
+      "expected": 36.68,
+      "predicted": 174.39
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "price.per_unit",
+      "expected": 37879,
+      "predicted": 167629
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "amenities",
+      "expected": [
+        "washer/dryer hookups",
+        "patio/balcony",
+        "9-10 foot ceilings",
+        "covered parking",
+        "fully enclosed building",
+        "elevator"
+      ],
+      "predicted": [
+        "washer/dryer hookups",
+        "patio/balcony",
+        "9-10 foot ceilings",
+        "covered parking",
+        "elevator"
+      ]
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "type_other",
+      "expected": null,
+      "predicted": "Multifamily"
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "amenities",
+      "expected": [],
+      "predicted": [
+        "Subterranean parking",
+        "36 parking spaces"
+      ]
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "seller",
+      "expected": "Ghobadi Multifamily Investment Team - Colliers",
+      "predicted": "Colliers"
+    }
+  ]
+}

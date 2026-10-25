@@ -99,14 +99,15 @@ class RealEstateListing(BaseModel):
     )
     deal_type: Optional[DealType] = Field(None, description="Sale, lease, or other")
     type: Optional[PropertyType] = Field(
-        None, description="Best matching property category; use 'other' if none fits"
+        None,
+        description="Best matching property category; use 'other' if none fits. Actual type of the listed property.",
     )
     type_other: Optional[str] = Field(
         None,
         description="Property category details when stated. The raw value of property type after mapping to type enum.",
     )
     price: Optional[Price] = None
-    total_price: Optional[TotalPrice] = None
+    total_price: Optional[TotalPrice] = Field(None, description="Asking price.")
     size: Optional[PropertySize] = None
     amenities: list[str] = Field(
         default_factory=list, description="Stated amenities; empty list if none are stated"

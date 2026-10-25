@@ -1,0 +1,441 @@
+[
+    {
+        "source_file": "gs01_33 Unit Multifamily Development.pdf",
+        "expected": {
+            "name": "33 Unit Multifamily Development",
+            "deal_type": "sale",
+            "type": "land",
+            "type_other": "Fully Entitled Development Land",
+            "price": {
+                "per_sf": 36.68,
+                "per_sf_currency": "USD",
+                "per_unit": 37879,
+                "per_unit_currency": "USD"
+            },
+            "total_price": {
+                "amount": 5531760,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 34076,
+                "units": 33,
+                "acreage": 0.78,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": ["washer/dryer hookups", "patio/balcony", "9-10 foot ceilings", "covered parking", "fully enclosed building", "elevator"],
+            "floor": null,
+            "floors_total": null,
+            "condition": "new_build",
+            "location": {
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA",
+                "zip": "80231",
+                "street1": "9850 East Girard Avenue",
+                "street2": null
+            },
+            "seller": "Marcus & Millichap"
+        }
+    },
+    {
+        "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+        "expected": {
+            "name": null,
+            "deal_type": "sale",
+            "type": "multifamily",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": null,
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "amount": 6450000,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 9506,
+                "units": 33,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [],
+            "floor": null,
+            "floors_total": 6,
+            "condition": "under_construction",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90012",
+                "street1": "708-712 New Depot Street",
+                "street2": null
+            },
+            "seller": "Ghobadi Multifamily Investment Team - Colliers"
+        }
+    },
+    {
+        "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+        "expected": {
+            "name": "Bunker Height's Apartment Homes",
+            "deal_type": "sale",
+            "type": "multifamily",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": null,
+                "per_unit": 459324,
+                "per_unit_currency": "USD"
+            },
+            "total_price": {
+                "amount": 1699500,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 12197,
+                "units": 37,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "Controlled Access with Private Underground Parking. Two levels of Underground Parking",
+                "Elevator",
+                "High Speed Internet Access",
+                "Closed-Circuit Security System",
+                "In-Unit Washers & Dryers",
+                "Central A/C and Heat",
+                "Fitness Center",
+                "Kitchen Island",
+                "Key Fob Entry",
+                "Video Patrol",
+                "EV Chargers in Parking Spaces",
+                "Designer Granite Countertops",
+                "Balconies with Fantastic Views of Downtown Los Angeles, the San Gabriel",
+                "Mountains and Dodger Stadium",
+                "Walking Distance to Union Station",
+                "Rooftop Lounge Area with View of L.A. Downtown and Dodger Stadium",
+                "Leasing Office"
+            ],
+            "floor": null,
+            "floors_total": 12,
+            "condition": "new_build",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90012",
+                "street1": "849 North Bunker Hill Avenue",
+                "street2": null
+            },
+            "seller": "Ghobadi Multifamily Investment Team - Colliers"
+        }
+    },
+    {
+        "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+        "expected": {
+            "name": null,
+            "deal_type": "sale",
+            "type": "multifamily",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": "USD",
+                "per_unit": 300000,
+                "per_unit_currency": "USD"
+            },
+            "total_price": {
+                "amount": 4200000,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 12615,
+                "units": 14,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "string"
+            ],
+            "floor": null,
+            "floors_total": null,
+            "condition": "needs_renovation",
+            "location": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90042",
+                "street1": "5623 Meridian Avenue",
+                "street2": null
+            },
+            "seller": "Ghobadi Multifamily Investment Team - Colliers"
+        }
+    },
+    {
+        "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+        "expected": {
+            "name": null,
+            "deal_type": "sale",
+            "type": "multifamily",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": "USD",
+                "per_unit": 111111,
+                "per_unit_currency": "USD"
+            },
+            "total_price": {
+                "amount": 1000000,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 2960,
+                "units": 9,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "Only a few miles from the famous Joshua Tree State Park",
+                "Only blocks away from Freedom Plaza, the heart of Downtown Twentynine Palms",
+                "New Plumbing, Electrical, Roofs, AC, Windows, Stucco", "Paint, & Full Gut Interior Rehab"
+            ],
+            "floor": null,
+            "floors_total": null,
+            "condition": "renovated",
+            "location": {
+                "city": "Twentynine Palms",
+                "state": "CA",
+                "country": "USA",
+                "zip": "92277",
+                "street1": "6535 OASIS AVENUE",
+                "street2": null
+            },
+            "seller": "Commertial Asset Advisors"
+        }
+    },
+    {
+        "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+        "expected": {
+            "name": "8000 Wisconsin",
+            "deal_type": "sale",
+            "type": "multifamily/mixed_use",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": null,
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "amount": null,
+                "currency": null,
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 40788,
+                "units": 437,
+                "acreage": 0.94,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "311 Parking Spaces Spaces",
+                "Bicycle Room for 102 Bicycles",
+                "Parking Spaces"
+            ],
+            "floor": null,
+            "floors_total": null,
+            "condition": "new_build",
+            "location": {
+                "city": "Bethesda",
+                "state": "MD",
+                "country": "USA",
+                "zip": "20814",
+                "street1": "8000 Wisconsin Avenue",
+                "street2": null
+            },
+            "seller": "Newmark"
+        }
+    },
+    {
+        "source_file": "gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf",
+        "expected": {
+            "name": null,
+            "deal_type": "lease",
+            "type": "industrial",
+            "type_other": null,
+            "price": {
+                "per_sf": 1.49,
+                "per_sf_currency": "USD",
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "amount": 41720,
+                "currency": "USD",
+                "period": "monthly"
+            },
+            "size": {
+                "sf": 28000,
+                "units": null,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [],
+            "floor": null,
+            "floors_total": null,
+            "condition": "unknown",
+            "location": {
+                "city": "Buena Park",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90620",
+                "street1": "6310 Caballero Blvd",
+                "street2": null
+            },
+            "seller": "CBRE - Newport Beach"
+        }
+    },
+    {
+        "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+        "expected": {
+            "name": "67 Acres Galveston",
+            "deal_type": "sale",
+            "type": "land",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": null,
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "label": "Negotiable",
+                "amount": null,
+                "currency": null,
+                "period": null
+            },
+            "size": {
+                "sf": 2918520,
+                "units": null,
+                "acreage": 67.16,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [],
+            "floor": null,
+            "floors_total": null,
+            "condition": null,
+            "location": {
+                "city": "La Marque",
+                "state": "TX",
+                "country": "USA",
+                "zip": "77568",
+                "street1": "5766 Gulf Fwy",
+                "street2": null
+            },
+            "seller": "Texas Commercial Properties"
+        }
+    },
+    {
+        "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+        "expected": {
+            "name": null,
+            "deal_type": "lease",
+            "type": "industrial",
+            "type_other": null,
+            "price": {
+                "per_sf": 2.94,
+                "per_sf_currency": "USD",
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "amount": 7937,
+                "currency": "USD",
+                "period": "monthly"
+            },
+            "size": {
+                "sf": 7510,
+                "units": null,
+                "acreage": 0.17,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "Excellent Street to Alley Access",
+                "Huge Secured Concrete Yard",
+                "Kitchenette",
+                "Convenient Access to the 91 and 710 Freeways"
+            ],
+            "floor": null,
+            "floors_total": null,
+            "condition": "unknown",
+            "location": {
+                "city": "Paramount",
+                "state": "CA",
+                "country": "USA",
+                "zip": "90723",
+                "street1": "16213 Illinois Ave",
+                "street2": null
+            },
+            "seller": "Daum Commercial"
+        }
+    },
+    {
+        "source_file": "gs10_document.pdf",
+        "expected": {
+            "name": "IMAGO Galleries",
+            "deal_type": "sale",
+            "type": "commercial",
+            "type_other": null,
+            "price": {
+                "per_sf": null,
+                "per_sf_currency": null,
+                "per_unit": null,
+                "per_unit_currency": null
+            },
+            "total_price": {
+                "amount": 10000000,
+                "currency": "USD",
+                "period": "one_time"
+            },
+            "size": {
+                "sf": 37312,
+                "units": null,
+                "acreage": null,
+                "sqm": null,
+                "hectares": null
+            },
+            "amenities": [
+                "Climate-conscious service zones",
+                "Reinforced terrace",
+                "Gallery-grade art storage",
+                "Glulam beams & shear walls"
+            ],
+            "floor": null,
+            "floors_total": null,
+            "condition": null,
+            "location": {
+                "city": "Palm Desert",
+                "state": "CA",
+                "country": "USA",
+                "zip": "92260",
+                "street1": "45-450 CA-74",
+                "street2": null
+            },
+            "seller": "TheAgencyRE"
+        }
+    }
+]
