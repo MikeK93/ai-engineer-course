@@ -1,0 +1,62 @@
+{
+  "source_file": "gs01_33 Unit Multifamily Development.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "33 Unit Multifamily Development",
+    "deal_type": "sale",
+    "type": "land",
+    "type_other": "Fully Entitled Development Land",
+    "price": {
+      "per_sf": 36.68,
+      "per_sf_currency": "USD",
+      "per_unit": 37879,
+      "per_unit_currency": "USD"
+    },
+    "total_price": {
+      "label": null,
+      "amount": 1250000,
+      "currency": "USD",
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 34076,
+      "units": 33,
+      "acreage": 0.78,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "washer/dryer hookups",
+      "patio/balcony",
+      "9-10 foot ceilings",
+      "covered parking",
+      "elevator"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "zip": "80231",
+      "street1": "9850 East Girard Avenue",
+      "street2": null
+    },
+    "seller": "Marcus & Millichap"
+  },
+  "error": null,
+  "latency_s": 14.69904820001102,
+  "prompt_tokens": 10337,
+  "completion_tokens": 1982,
+  "cost_usd": 0.0333435,
+  "pages_used": 15,
+  "pages_total": 15,
+  "doc_tokens": 0
+}

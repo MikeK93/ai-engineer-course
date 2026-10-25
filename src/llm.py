@@ -36,6 +36,23 @@ def build_messages(system_prompt: str, doc: Document) -> list[dict]:
     return [{"role": "system", "content": system_prompt}, {"role": "user", "content": user}]
 
 
+def _completion_cost_usd(resp) -> float:
+    """OpenRouter returns usage.cost; direct providers use LiteLLM's price table."""
+    usage = resp.usage
+    if usage is not None:
+        cost = getattr(usage, "cost", None)
+        if isinstance(cost, (int, float)):
+            return float(cost)
+    hidden = getattr(resp, "_hidden_params", None) or {}
+    response_cost = hidden.get("response_cost")
+    if isinstance(response_cost, (int, float)):
+        return float(response_cost)
+    try:
+        return float(litellm.completion_cost(completion_response=resp))
+    except Exception:
+        return 0.0
+
+
 def complete(cfg: RunConfig, messages: list[dict]) -> LLMResult:
     """Single structured-output call; retries and timeout are handled by LiteLLM."""
     start = time.perf_counter()
@@ -50,10 +67,7 @@ def complete(cfg: RunConfig, messages: list[dict]) -> LLMResult:
         **cfg.extra_params,
     )
     latency = time.perf_counter() - start
-    try:
-        cost = litellm.completion_cost(completion_response=resp)
-    except Exception:
-        cost = 0.0  # unknown pricing, e.g. local models
+    cost = _completion_cost_usd(resp)
     usage = resp.usage
     return LLMResult(
         content=resp.choices[0].message.content or "",

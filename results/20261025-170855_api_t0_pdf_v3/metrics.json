@@ -1,0 +1,454 @@
+{
+  "run_id": "20261025-170855_api_t0_pdf_v3",
+  "golden_version": "latest",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "documents": 10,
+  "valid_pct": 100.0,
+  "valid_first_try_pct": 100.0,
+  "failed": 0,
+  "field_accuracy_pct": 83.21428571428571,
+  "per_field_accuracy_pct": {
+    "name": 90.0,
+    "deal_type": 90.0,
+    "type": 80.0,
+    "type_other": 60.0,
+    "price.per_sf": 90.0,
+    "price.per_sf_currency": 90.0,
+    "price.per_unit": 90.0,
+    "price.per_unit_currency": 90.0,
+    "total_price.label": 100.0,
+    "total_price.amount": 80.0,
+    "total_price.currency": 90.0,
+    "total_price.period": 80.0,
+    "size.sf": 60.0,
+    "size.units": 100.0,
+    "size.acreage": 100.0,
+    "size.sqm": 100.0,
+    "size.hectares": 100.0,
+    "amenities": 10.0,
+    "floor": 100.0,
+    "floors_total": 60.0,
+    "condition": 60.0,
+    "location.city": 100.0,
+    "location.state": 90.0,
+    "location.country": 100.0,
+    "location.zip": 100.0,
+    "location.street1": 80.0,
+    "location.street2": 100.0,
+    "seller": 40.0
+  },
+  "false_null": {
+    "name": 1,
+    "deal_type": 1,
+    "price.per_unit": 1,
+    "price.per_unit_currency": 1,
+    "total_price.amount": 1,
+    "total_price.currency": 1,
+    "total_price.period": 2,
+    "price.per_sf_currency": 1,
+    "amenities": 1
+  },
+  "hallucinated": {
+    "amenities": 2,
+    "price.per_sf": 1,
+    "floors_total": 3,
+    "type_other": 3,
+    "condition": 2
+  },
+  "latency_p50_s": 5.4084402000007685,
+  "latency_p95_s": 9.014381899993168,
+  "cost_per_1000_docs_usd": 1.6662149999999998,
+  "errors": [
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "type",
+      "expected": "land",
+      "predicted": "multifamily"
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "type_other",
+      "expected": "Fully Entitled Development Land",
+      "predicted": "Multifamily - 33 Units"
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "total_price.amount",
+      "expected": 5531760,
+      "predicted": 1250000
+    },
+    {
+      "source_file": "gs01_33 Unit Multifamily Development.pdf",
+      "field": "amenities",
+      "expected": [
+        "washer/dryer hookups",
+        "patio/balcony",
+        "9-10 foot ceilings",
+        "covered parking",
+        "fully enclosed building",
+        "elevator"
+      ],
+      "predicted": [
+        "washer/dryer hookups",
+        "patio/balcony",
+        "9-10 foot ceilings",
+        "covered parking",
+        "elevator"
+      ]
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "amenities",
+      "expected": [],
+      "predicted": [
+        "Parking: 36 Spaces",
+        "Two Level Type I-A Subterranean"
+      ]
+    },
+    {
+      "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "field": "seller",
+      "expected": "Ghobadi Multifamily Investment Team - Colliers",
+      "predicted": "Colliers"
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "name",
+      "expected": "Bunker Height's Apartment Homes",
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "deal_type",
+      "expected": "sale",
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "price.per_unit",
+      "expected": 459324,
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "price.per_unit_currency",
+      "expected": "USD",
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "total_price.amount",
+      "expected": 1699500,
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "total_price.currency",
+      "expected": "USD",
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "total_price.period",
+      "expected": "one_time",
+      "predicted": null
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "size.sf",
+      "expected": 12197,
+      "predicted": 30660
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "amenities",
+      "expected": [
+        "Controlled Access with Private Underground Parking. Two levels of Underground Parking",
+        "Elevator",
+        "High Speed Internet Access",
+        "Closed-Circuit Security System",
+        "In-Unit Washers & Dryers",
+        "Central A/C and Heat",
+        "Fitness Center",
+        "Kitchen Island",
+        "Key Fob Entry",
+        "Video Patrol",
+        "EV Chargers in Parking Spaces",
+        "Designer Granite Countertops",
+        "Balconies with Fantastic Views of Downtown Los Angeles, the San Gabriel",
+        "Mountains and Dodger Stadium",
+        "Walking Distance to Union Station",
+        "Rooftop Lounge Area with View of L.A. Downtown and Dodger Stadium",
+        "Leasing Office"
+      ],
+      "predicted": [
+        "Elevator",
+        "High Speed Internet Access",
+        "Closed-Circuit Security System",
+        "In-Unit Washers & Dryers",
+        "Central A/C and Heat",
+        "Fitness Center",
+        "Kitchen Island",
+        "Key Fob Entry",
+        "Video Patrol",
+        "EV Chargers in Parking Spaces",
+        "Designer Granite Countertops",
+        "Balconies with Fantastic Views of Downtown Los Angeles, the San Gabriel Mountains and Dodger Stadium",
+        "Walking Distance to Union Station",
+        "Rooftop Lounge Area with View of L.A. Downtown and Dodger Stadium",
+        "Leasing Office",
+        "Separately Metered for All Utilities, Including Water"
+      ]
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "floors_total",
+      "expected": 12,
+      "predicted": 6
+    },
+    {
+      "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+      "field": "seller",
+      "expected": "Ghobadi Multifamily Investment Team - Colliers",
+      "predicted": "Ghobadi Multifamily Investment Team"
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "price.per_sf",
+      "expected": null,
+      "predicted": 357.81
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "size.sf",
+      "expected": 12615,
+      "predicted": 11738
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "amenities",
+      "expected": [
+        "string"
+      ],
+      "predicted": [
+        "Parking",
+        "Separately metered electricity and gas"
+      ]
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "floors_total",
+      "expected": null,
+      "predicted": 2
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "condition",
+      "expected": "needs_renovation",
+      "predicted": "unknown"
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "location.street1",
+      "expected": "5623 Meridian Avenue",
+      "predicted": "5623 Meridian Street"
+    },
+    {
+      "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+      "field": "seller",
+      "expected": "Ghobadi Multifamily Investment Team - Colliers",
+      "predicted": "Colliers"
+    },
+    {
+      "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+      "field": "price.per_sf_currency",
+      "expected": "USD",
+      "predicted": null
+    },
+    {
+      "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+      "field": "amenities",
+      "expected": [
+        "Only a few miles from the famous Joshua Tree State Park",
+        "Only blocks away from Freedom Plaza, the heart of Downtown Twentynine Palms",
+        "New Plumbing, Electrical, Roofs, AC, Windows, Stucco",
+        "Paint, & Full Gut Interior Rehab"
+      ],
+      "predicted": [
+        "New Plumbing",
+        "Electrical",
+        "Roofs",
+        "AC",
+        "Windows",
+        "Stucco",
+        "Paint",
+        "Full Gut Interior Rehab",
+        "Parking: 18+ Spaces",
+        "Single Water, Gas & Electricity Metering",
+        "Septic Sewer"
+      ]
+    },
+    {
+      "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+      "field": "location.street1",
+      "expected": "6535 OASIS AVENUE",
+      "predicted": "6563 Oasis Avenue"
+    },
+    {
+      "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+      "field": "seller",
+      "expected": "Commertial Asset Advisors",
+      "predicted": "COMMERCIAL ASSET ADVISORS"
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "type",
+      "expected": "multifamily/mixed_use",
+      "predicted": "mixed_use"
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "type_other",
+      "expected": null,
+      "predicted": "MIXED USE MULTIFAMILY DEVELOPMENT OPPORTUNITY"
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "total_price.period",
+      "expected": "one_time",
+      "predicted": null
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "amenities",
+      "expected": [
+        "311 Parking Spaces Spaces",
+        "Bicycle Room for 102 Bicycles",
+        "Parking Spaces"
+      ],
+      "predicted": [
+        "interior courtyard",
+        "multi-level atrium",
+        "rooftop amenities",
+        "on-site parking",
+        "underground parking",
+        "bicycle room",
+        "pool",
+        "green roof"
+      ]
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "floors_total",
+      "expected": null,
+      "predicted": 20
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "condition",
+      "expected": "new_build",
+      "predicted": "under_construction"
+    },
+    {
+      "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+      "field": "location.state",
+      "expected": "MD",
+      "predicted": "Maryland"
+    },
+    {
+      "source_file": "gs10_document.pdf",
+      "field": "size.sf",
+      "expected": 37312,
+      "predicted": 17355
+    },
+    {
+      "source_file": "gs10_document.pdf",
+      "field": "amenities",
+      "expected": [
+        "Climate-conscious service zones",
+        "Reinforced terrace",
+        "Gallery-grade art storage",
+        "Glulam beams & shear walls"
+      ],
+      "predicted": []
+    },
+    {
+      "source_file": "gs10_document.pdf",
+      "field": "floors_total",
+      "expected": null,
+      "predicted": 3
+    },
+    {
+      "source_file": "gs10_document.pdf",
+      "field": "condition",
+      "expected": null,
+      "predicted": "unknown"
+    },
+    {
+      "source_file": "gs10_document.pdf",
+      "field": "seller",
+      "expected": "TheAgencyRE",
+      "predicted": "Mauricio Umansky | Lorán Arvizu"
+    },
+    {
+      "source_file": "gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf",
+      "field": "amenities",
+      "expected": [],
+      "predicted": [
+        "Fenced Yard",
+        "Heat & AC",
+        "Sprinklered"
+      ]
+    },
+    {
+      "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+      "field": "type_other",
+      "expected": null,
+      "predicted": "Land"
+    },
+    {
+      "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+      "field": "condition",
+      "expected": null,
+      "predicted": "unknown"
+    },
+    {
+      "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+      "field": "seller",
+      "expected": "Texas Commercial Properties",
+      "predicted": "Lauren J White"
+    },
+    {
+      "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+      "field": "type_other",
+      "expected": null,
+      "predicted": "Warehouse/Office"
+    },
+    {
+      "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+      "field": "size.sf",
+      "expected": 7510,
+      "predicted": 2702
+    },
+    {
+      "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+      "field": "amenities",
+      "expected": [
+        "Excellent Street to Alley Access",
+        "Huge Secured Concrete Yard",
+        "Kitchenette",
+        "Convenient Access to the 91 and 710 Freeways"
+      ],
+      "predicted": [
+        "Kitchenette",
+        "Sprinklered",
+        "Fenced",
+        "Secured Concrete Yard"
+      ]
+    }
+  ]
+}

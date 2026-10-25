@@ -1,8 +1,8 @@
 # Run 20261016-195356_api_t0
 
-| model | input | prompt | temp | top_p | docs |
-|---|---|---|---|---|---|
-| gemini/gemini-2.5-flash | text | v1 | 0.0 | 1.0 | 2 |
+| model | input | prompt | golden | temp | top_p | docs |
+|---|---|---|---|---|---|---|
+| gemini/gemini-2.5-flash | text | v1 | v1 | 0.0 | 1.0 | 2 |
 
 ## Metrics
 
@@ -44,10 +44,20 @@
 | location.street1 | 100 | 0 | 0 |
 | location.street2 | 100 | 0 | 0 |
 
-## Most frequent errors
+## Errors
 
-- `type` (2x): gs01_33 Unit Multifamily Development.pdf expected `land`, got `multifamily`
-- `size.units` (2x): gs01_33 Unit Multifamily Development.pdf expected `None`, got `33.0`
-- `amenities` (2x): gs01_33 Unit Multifamily Development.pdf expected `['']`, got `['washer/dryer hookups', 'patio/balcony', '9-10 foot ceilings', 'covered parking', 'fully enclosed building', 'elevator']`
-- `location.country` (2x): gs01_33 Unit Multifamily Development.pdf expected `USA`, got `None`
-- `total_price.amount` (1x): gs01_33 Unit Multifamily Development.pdf expected `5531760`, got `1250000.0`
+| Field | File | Expected | Got |
+|---|---|---|---|
+| amenities | gs01_33 Unit Multifamily Development.pdf | [""] | ["washer/dryer hookups", "patio/balcony", "9-10 foot ceilings", "covered parking", "fully enclosed building", "elevator"] |
+| amenities | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | ["string"] | [] |
+| location.country | gs01_33 Unit Multifamily Development.pdf | USA | null |
+| location.country | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | USA | null |
+| location.zip | gs01_33 Unit Multifamily Development.pdf | null | 80231 |
+| name | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | 708-712 New Depot Street, Los Angeles, CA 90012 |
+| seller | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | Ghobadi Multifamily Investment Team - Colliers | Ghobadi Multifamily Investment Team |
+| size.sf | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | 9506 | 27757.0 |
+| size.units | gs01_33 Unit Multifamily Development.pdf | null | 33.0 |
+| size.units | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | 33.0 |
+| total_price.amount | gs01_33 Unit Multifamily Development.pdf | 5531760 | 1250000.0 |
+| type | gs01_33 Unit Multifamily Development.pdf | land | multifamily |
+| type | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | residential | multifamily |

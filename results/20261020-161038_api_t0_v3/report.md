@@ -44,10 +44,12 @@
 | location.street1 | 100 | 0 | 0 |
 | location.street2 | 100 | 0 | 0 |
 
-## Most frequent errors
+## Errors
 
-- `name` (1x): gs01_33 Unit Multifamily Development.pdf expected `33 Unit Multifamily Development`, got `None`
-- `total_price.amount` (1x): gs01_33 Unit Multifamily Development.pdf expected `5531760`, got `1250000`
-- `type_other` (1x): gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf expected `None`, got `Multifamily`
-- `amenities` (1x): gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf expected `[]`, got `['Parking: 36 Spaces, Two Level Type I-A Subterranean']`
-- `seller` (1x): gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf expected `Ghobadi Multifamily Investment Team - Colliers`, got `Colliers`
+| Field | File | Expected | Got |
+|---|---|---|---|
+| amenities | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | [] | ["Parking: 36 Spaces, Two Level Type I-A Subterranean"] |
+| name | gs01_33 Unit Multifamily Development.pdf | 33 Unit Multifamily Development | null |
+| seller | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | Ghobadi Multifamily Investment Team - Colliers | Colliers |
+| total_price.amount | gs01_33 Unit Multifamily Development.pdf | 5531760 | 1250000 |
+| type_other | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | Multifamily |

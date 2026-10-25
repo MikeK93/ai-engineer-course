@@ -1,0 +1,63 @@
+{
+  "source_file": "gs10_document.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "IMAGO Galleries",
+    "deal_type": "sale",
+    "type": "commercial",
+    "type_other": "Gallery",
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": 10000000,
+      "currency": "USD",
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 17355,
+      "units": null,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "private outdoor program",
+      "art storage",
+      "reinforced terrace",
+      "garage",
+      "garden",
+      "reflection pool"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "Palm Desert",
+      "state": "CA",
+      "country": "US",
+      "zip": "92260",
+      "street1": "45-450 CA-74",
+      "street2": null
+    },
+    "seller": "The Agency"
+  },
+  "error": null,
+  "latency_s": 19.77943240001332,
+  "prompt_tokens": 6177,
+  "completion_tokens": 2658,
+  "cost_usd": 0.0331875,
+  "pages_used": 7,
+  "pages_total": 7,
+  "doc_tokens": 0
+}

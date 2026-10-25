@@ -1,0 +1,59 @@
+{
+  "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+  "model": "openrouter/openai/gpt-5.6-sol",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "Multifamily - Under Construction",
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": 6450000,
+      "currency": "USD",
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 9506,
+      "units": 33,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "36 parking spaces",
+      "Two-level Type I-A subterranean parking"
+    ],
+    "floor": null,
+    "floors_total": 6,
+    "condition": "under_construction",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "United States",
+      "zip": "90012",
+      "street1": "708-712 New Depot Street",
+      "street2": null
+    },
+    "seller": "Colliers"
+  },
+  "error": null,
+  "latency_s": 11.897336100024404,
+  "prompt_tokens": 54449,
+  "completion_tokens": 442,
+  "cost_usd": 0.2747984,
+  "pages_used": 19,
+  "pages_total": 19,
+  "doc_tokens": 0
+}

@@ -1,8 +1,8 @@
 # Run 20261019-122933_api_t07_v2
 
-| model | input | prompt | temp | top_p | docs |
-|---|---|---|---|---|---|
-| gemini/gemini-2.5-flash | text | v2 | 0.7 | 0.9 | 2 |
+| model | input | prompt | golden | temp | top_p | docs |
+|---|---|---|---|---|---|---|
+| gemini/gemini-2.5-flash | text | v2 | v1 | 0.7 | 0.9 | 2 |
 
 ## Metrics
 
@@ -44,10 +44,23 @@
 | location.street1 | 100 | 0 | 0 |
 | location.street2 | 100 | 0 | 0 |
 
-## Most frequent errors
+## Errors
 
-- `type_other` (2x): gs01_33 Unit Multifamily Development.pdf expected `Fully Entitled Development Land`, got `Multifamily Development`
-- `size.units` (2x): gs01_33 Unit Multifamily Development.pdf expected `None`, got `33`
-- `name` (1x): gs01_33 Unit Multifamily Development.pdf expected `33 Unit Multifamily Development`, got `None`
-- `total_price.amount` (1x): gs01_33 Unit Multifamily Development.pdf expected `5531760`, got `1250000`
-- `condition` (1x): gs01_33 Unit Multifamily Development.pdf expected `new_build`, got `None`
+| Field | File | Expected | Got |
+|---|---|---|---|
+| amenities | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | ["string"] | [] |
+| condition | gs01_33 Unit Multifamily Development.pdf | new_build | null |
+| location.zip | gs01_33 Unit Multifamily Development.pdf | null | 80231 |
+| name | gs01_33 Unit Multifamily Development.pdf | 33 Unit Multifamily Development | null |
+| price.per_sf | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | 279.34 |
+| price.per_sf_currency | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | USD |
+| price.per_unit | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | 195454.55 |
+| price.per_unit_currency | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | USD |
+| seller | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | Ghobadi Multifamily Investment Team - Colliers | Ghobadi Multifamily Investment Team |
+| size.sf | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | 9506 | 23090 |
+| size.units | gs01_33 Unit Multifamily Development.pdf | null | 33 |
+| size.units | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | 33 |
+| total_price.amount | gs01_33 Unit Multifamily Development.pdf | 5531760 | 1250000 |
+| type | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | residential | multifamily |
+| type_other | gs01_33 Unit Multifamily Development.pdf | Fully Entitled Development Land | Multifamily Development |
+| type_other | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | Apartment Units |

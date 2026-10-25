@@ -1,0 +1,64 @@
+{
+  "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v3",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "multifamily",
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": 111111,
+      "per_unit_currency": "USD"
+    },
+    "total_price": {
+      "label": null,
+      "amount": 1000000,
+      "currency": "USD",
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 2960,
+      "units": 9,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "quartz countertops",
+      "vinyl flooring",
+      "new cabinetry",
+      "fencing",
+      "landscaping",
+      "parking",
+      "air conditioning"
+    ],
+    "floor": null,
+    "floors_total": 1,
+    "condition": "renovated",
+    "location": {
+      "city": "Twentynine Palms",
+      "state": "CA",
+      "country": "US",
+      "zip": "92277",
+      "street1": "6563 Oasis Avenue",
+      "street2": null
+    },
+    "seller": "Commercial Asset Advisors"
+  },
+  "error": null,
+  "latency_s": 16.532818099978613,
+  "prompt_tokens": 12937,
+  "completion_tokens": 2544,
+  "cost_usd": 0.0423015,
+  "pages_used": 20,
+  "pages_total": 25,
+  "doc_tokens": 0
+}

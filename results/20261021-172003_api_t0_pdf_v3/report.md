@@ -44,10 +44,16 @@
 | location.street1 | 100 | 0 | 0 |
 | location.street2 | 100 | 0 | 0 |
 
-## Most frequent errors
+## Errors
 
-- `type_other` (2x): gs01_33 Unit Multifamily Development.pdf expected `Fully Entitled Development Land`, got `Multifamily Development`
-- `amenities` (2x): gs01_33 Unit Multifamily Development.pdf expected `['washer/dryer hookups', 'patio/balcony', '9-10 foot ceilings', 'covered parking', 'fully enclosed building', 'elevator']`, got `['washer/dryer hookups', 'patio/balcony', '9-10 foot ceilings', 'covered parking', 'elevator']`
-- `name` (1x): gs01_33 Unit Multifamily Development.pdf expected `33 Unit Multifamily Development`, got `None`
-- `type` (1x): gs01_33 Unit Multifamily Development.pdf expected `land`, got `multifamily`
-- `price.per_sf` (1x): gs01_33 Unit Multifamily Development.pdf expected `36.68`, got `174.39`
+| Field | File | Expected | Got |
+|---|---|---|---|
+| amenities | gs01_33 Unit Multifamily Development.pdf | ["washer/dryer hookups", "patio/balcony", "9-10 foot ceilings", "covered parking", "fully enclosed building", "elevator"] | ["washer/dryer hookups", "patio/balcony", "9-10 foot ceilings", "covered parking", "elevator"] |
+| amenities | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | [] | ["Subterranean parking", "36 parking spaces"] |
+| name | gs01_33 Unit Multifamily Development.pdf | 33 Unit Multifamily Development | null |
+| price.per_sf | gs01_33 Unit Multifamily Development.pdf | 36.68 | 174.39 |
+| price.per_unit | gs01_33 Unit Multifamily Development.pdf | 37879 | 167629 |
+| seller | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | Ghobadi Multifamily Investment Team - Colliers | Colliers |
+| type | gs01_33 Unit Multifamily Development.pdf | land | multifamily |
+| type_other | gs01_33 Unit Multifamily Development.pdf | Fully Entitled Development Land | Multifamily Development |
+| type_other | gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf | null | Multifamily |

@@ -82,10 +82,10 @@ class PropertySize(BaseModel):
 
 class Location(BaseModel):
     city: Optional[str] = None
-    state: Optional[str] = Field(None, description="State, province, or region")
+    state: Optional[str] = Field(None, description="State, province, or region. Use ISO 3166-2 code.")
     country: Optional[str] = Field(
         None,
-        description="Country; infer from other address fields when possible, but use None if it cannot be determined",
+        description="Country; infer from other address fields when possible, but use None if it cannot be determined. Use ISO 3166-1 alpha-2 code.",
     )
     zip: Optional[str] = None
     street1: Optional[str] = Field(None, description="Street address as written")
@@ -95,12 +95,12 @@ class Location(BaseModel):
 class RealEstateListing(BaseModel):
     name: Optional[str] = Field(
         None,
-        description="Property name as written, if stated; otherwise leave None. Do not use the address as the name. Property name can be near the address on the first page.",
+        description="Property name as written, if stated; otherwise leave None. Do not use the address as the name. Property name can be near the address on the first page or at Property Overview section when available.",
     )
-    deal_type: Optional[DealType] = Field(None, description="Sale, lease, or other")
+    deal_type: Optional[DealType] = Field(None, description="Sale, lease, or both")
     type: Optional[PropertyType] = Field(
         None,
-        description="Best matching property category; use 'other' if none fits. Actual type of the listed property.",
+        description="Best matching property category; use 'other' if none fits. Actual type of the listed property. Do not consider future plan for the property (e.g. Land -> Multifamily, etc.).",
     )
     type_other: Optional[str] = Field(
         None,
@@ -108,17 +108,21 @@ class RealEstateListing(BaseModel):
     )
     price: Optional[Price] = None
     total_price: Optional[TotalPrice] = Field(None, description="Asking price.")
-    size: Optional[PropertySize] = None
+    size: Optional[PropertySize] = Field(
+        None, description="Property lot size in square feet."
+    ),
     amenities: list[str] = Field(
         default_factory=list, description="Stated amenities; empty list if none are stated"
     )
     floor: Optional[int] = None
-    floors_total: Optional[int] = None
+    floors_total: Optional[int] = Field(None,
+        description="Total number of floors (sometimes referred to as stories). If no explicit mention of total floors, check Floor Plans section when available."
+    )
     condition: Optional[Condition] = Field(
-        None, description="If not specified explicitly, infer from content."
+        None, description="If not specified explicitly, infer from content. If no candidates fallback to unknown."
     )
     location: Optional[Location] = None
-    seller: Optional[str] = Field(None, description="Broker or seller as written")
+    seller: Optional[str] = Field(None, description="Broker or seller as written. Company name -> Broker.")
 
 
 class ListingRecord(BaseModel):

@@ -131,8 +131,12 @@ def evaluate(run_dir: Path, golden_version: str | None = None) -> dict:
     }
 
 
-def write_report(run_dir: Path, m: dict, top_errors: int = 5) -> None:
-    (run_dir / "metrics.json").write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
+def _md_cell(value) -> str:
+    text = value if isinstance(value, str) else json.dumps(value, ensure_ascii=False)
+    return text.replace("|", "\\|").replace("\r", "").replace("\n", " ")
+
+
+def render_report(m: dict) -> str:
     lines = [
         f"# Run {m['run_id']}",
         "",
@@ -155,13 +159,19 @@ def write_report(run_dir: Path, m: dict, top_errors: int = 5) -> None:
     for f, acc in sorted(m["per_field_accuracy_pct"].items(), key=lambda kv: kv[1]):
         lines.append(f"| {f} | {acc:.0f} | {m['false_null'].get(f, 0)} | {m['hallucinated'].get(f, 0)} |")
 
-    by_field = Counter(e["field"] for e in m["errors"])
-    lines += ["", "## Most frequent errors", ""]
-    shown = 0
-    for field, count in by_field.most_common():
-        ex = next(e for e in m["errors"] if e["field"] == field)
-        lines.append(f"- `{field}` ({count}x): {ex['source_file']} expected `{ex['expected']}`, got `{ex['predicted']}`")
-        shown += 1
-        if shown >= top_errors:
-            break
-    (run_dir / "report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    lines += ["", "## Errors", ""]
+    errors = sorted(m["errors"], key=lambda e: (e["field"], e["source_file"]))
+    if not errors:
+        lines.append("No field mismatches.")
+    else:
+        lines += ["| Field | File | Expected | Got |", "|---|---|---|---|"]
+        for e in errors:
+            lines.append(
+                f"| {e['field']} | {_md_cell(e['source_file'])} | {_md_cell(e['expected'])} | {_md_cell(e['predicted'])} |"
+            )
+    return "\n".join(lines) + "\n"
+
+
+def write_report(run_dir: Path, m: dict) -> None:
+    (run_dir / "metrics.json").write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
+    (run_dir / "report.md").write_text(render_report(m), encoding="utf-8")
