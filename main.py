@@ -3,7 +3,7 @@ import json
 from dataclasses import replace
 from pathlib import Path
 
-from src.config import PDFS, ROOT, golden_path, load_config
+from src.config import PDFS, ROOT, golden_path, latest_prompt_version, load_config
 from src.documents import extract_text, list_sources
 
 
@@ -38,6 +38,9 @@ def cmd_run(args):
     from src.pipeline import run
 
     cfg = _with_input(load_config(args.config), args.input)
+    if args.prompt:
+        prompt = latest_prompt_version() if args.prompt == "latest" else args.prompt
+        cfg = replace(cfg, prompt_version=prompt, name=f"{cfg.name}_{prompt}")
     sources = _golden_sources(args.golden_version) if args.golden else list_sources()
     if args.limit:
         sources = sources[: args.limit]
@@ -63,8 +66,9 @@ def cmd_grid(args):
         sources = sources[: args.limit]
     for path in config_paths:
         base = _with_input(load_config(path), args.input)
-        for prompt in args.prompts or [base.prompt_version]:
-            cfg = base if not args.prompts else replace(base, prompt_version=prompt, name=f"{base.name}_{prompt}")
+        prompts = [latest_prompt_version() if p == "latest" else p for p in args.prompts or []]
+        for prompt in prompts or [base.prompt_version]:
+            cfg = base if not prompts else replace(base, prompt_version=prompt, name=f"{base.name}_{prompt}")
             print(f"\n== {cfg.name}: {cfg.model} | {cfg.input_mode} | {cfg.prompt_version} | t={cfg.temperature} top_p={cfg.top_p}")
             out = run(cfg, sources)
             _score(out, args.golden_version)
@@ -89,6 +93,7 @@ def main():
     p.add_argument("--limit", type=int, help="Only the first N documents")
     p.add_argument("--golden-version", default="v1", help="Golden set version: v1 = golden.json, vN = golden_vN.json")
     p.add_argument("--input", choices=["text", "pdf"], help="Override input_mode from the config")
+    p.add_argument("--prompt", help="Prompt version override, e.g. v2 or latest")
     p.set_defaults(fn=cmd_run)
 
     p = sub.add_parser("eval", help="Score a run against the golden set and write its report")

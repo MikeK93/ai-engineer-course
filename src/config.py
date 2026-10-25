@@ -1,4 +1,5 @@
 import os
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -12,8 +13,24 @@ TEXTS = DATA / "texts"
 GOLDEN = DATA / "golden.json"
 
 
+def _vnum(path: Path) -> int:
+    m = re.search(r"v(\d+)$", path.stem)
+    return int(m.group(1)) if m else 1
+
+
+def latest_golden_version() -> str:
+    files = [GOLDEN, *DATA.glob("golden_v*.json")]
+    return f"v{max(_vnum(f) for f in files)}"
+
+
+def latest_prompt_version() -> str:
+    return f"v{max(_vnum(f) for f in PROMPTS.glob('v*.md'))}"
+
+
 def golden_path(version: str | None = None) -> Path:
-    """v1 (or None) is golden.json; any other version is golden_<version>.json."""
+    """v1 (or None) is golden.json; any other version is golden_<version>.json; 'latest' is the highest."""
+    if version == "latest":
+        version = latest_golden_version()
     if not version or version == "v1":
         return GOLDEN
     return DATA / f"golden_{version}.json"
