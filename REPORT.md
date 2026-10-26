@@ -29,14 +29,8 @@ _3-5 characteristic errors here: what was returned instead of what, and why._
 - Price related fields were not correctly extracted due to weak prompt no guiding to specific sections within docs;
 - Total floors also lacked value due to business terminology - "Story"/"Stories" = "Floor"/"Floors";
 - Size related fields sometimes picked up wrong value. Schema updates helped to guide towards rules;
+- Local `qwen2.5:3b` on extracted text,scored 49.3% field accuracy. While the accuracy is low now, it can potentially be tweaked if the volume of input docs grows and cost of provider's api gets higher.
 
-Local `qwen2.5:3b` on extracted text, prompt v4, temperature 0 ([20261026-121226](results/20261026-121226_local_t0_text_v4/report.md)) scored 49.3% field accuracy. The misses are different from the API runs:
-
-- `location.country` came back as `USA` on every document; the golden value is `US`, so the field scored 0%.
-- `amenities` scored 0%. Lists were shortened, reworded, or padded with non-amenities (unit counts, "Industrial For Lease"). The land flyer returned `[]`.
-- `name` was filled with the street address when the golden name is null or a marketing title (`33 Unit Multifamily Development` → `9850 East Girard Avenue`).
-- Figures that live in tables or images were dropped or swapped, because this run only sees extracted text. `price.per_sf` and `size.sf` were often null, and on the 67-acre land flyer `floors_total` was `2918520` (the parcel square footage) while `size.sf` was null.
-- `seller` was null for most brokerages, or the full legal name and contact block instead of the short name. `gs10` timed out after 600s, so that document never returned a schema (90% valid).
 
 ## Production choice
 
