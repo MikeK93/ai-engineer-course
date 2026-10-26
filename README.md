@@ -24,7 +24,8 @@ ollama list                 # check Ollama is running before local runs
 | Variable | Purpose |
 |---|---|
 | `GEMINI_API_KEY` / `OPENROUTER_API_KEY` / `OPENAI_API_KEY` / `ANTHROPIC_API_KEY` | Key for the provider you use |
-| `EXTRACT_MODEL` | API model as a LiteLLM string, e.g. `gemini/gemini-2.5-flash`, `openai/gpt-4o-mini`, `openrouter/google/gemini-2.5-flash` |
+| `EXTRACT_MODEL` | Default API model as a LiteLLM string, e.g. `gemini/gemini-2.5-flash`, `openai/gpt-4o-mini`, `openrouter/google/gemini-2.5-flash`. `run` uses only this |
+| `EXTRA_EXTRACT_MODELS` | Optional comma-separated LiteLLM strings. `grid` runs `EXTRACT_MODEL`, then each of these, as its own results folder |
 | `LOCAL_MODEL` | Local model, e.g. `ollama_chat/qwen2.5:3b` |
 | `OLLAMA_API_BASE` | Ollama URL, default `http://localhost:11434` |
 
@@ -73,7 +74,7 @@ Every run creates `results/<run_id>/` with:
 | `python main.py extract` | | Extract text from every PDF in `data/pdfs/` and cache it in `data/texts/` |
 | `python main.py run` | `--config FILE` (required), `--golden`, `--limit N`, `--golden-version V`, `--input text|pdf` | Extract structured data for the documents, then score the run if it contains golden documents. `--golden` restricts to the golden-set documents, `--limit` to the first N. `--input text|pdf` overrides the config's `input_mode` and appends it to the run name |
 | `python main.py eval RUN_DIR` | `--golden-version V` (`v1` = `golden.json`, otherwise `golden_V.json`) | Score a run against `data/golden.json` (or `golden_V.json` with `--golden-version V`) and write `metrics.json` and `report.md` into the run folder |
-| `python main.py grid` | `--configs FILE...`, `--prompts V...`, `--all`, `--limit N`, `--golden-version V`, `--input text|pdf` | Run several configs on the golden set and score each; each config x prompt creates its own `results/<run_id>/`. Default is every file in `configs/`. `--prompts v1 v2` overrides the config's prompt version and repeats each config per prompt version. `--golden-version V` picks the golden set (`v1` = `golden.json`, otherwise `golden_V.json`). `--input text|pdf` overrides each config's `input_mode` and appends it to the run name. `--all` uses all documents |
+| `python main.py grid` | `--configs FILE...`, `--prompts V...`, `--all`, `--limit N`, `--golden-version V`, `--input text|pdf` | Run several configs on the golden set and score each; each config x model x prompt creates its own `results/<run_id>/`. Default is every file in `configs/`. A config with `model_env: EXTRACT_MODEL` runs `EXTRACT_MODEL` plus each model in `EXTRA_EXTRACT_MODELS`. With only the default model, the run name is unchanged; with extras, each model adds a short suffix. `--prompts v1 v2` overrides the config's prompt version and repeats each config per prompt version. `--golden-version V` picks the golden set (`v1` = `golden.json`, otherwise `golden_V.json`). `--input text|pdf` overrides each config's `input_mode` and appends it to the run name. `--all` uses all documents |
 | `python main.py report --all` | | Aggregate every scored run in `results/` into the table in `REPORT.md`; hand-written sections are kept |
 
 ## Configs (`configs/*.yaml`)

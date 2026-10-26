@@ -3,7 +3,7 @@ import json
 from dataclasses import replace
 from pathlib import Path
 
-from src.config import PDFS, ROOT, golden_path, latest_prompt_version, load_config
+from src.config import PDFS, ROOT, golden_path, latest_prompt_version, load_config, model_tag, model_variants
 from src.documents import extract_text, list_sources
 
 
@@ -66,12 +66,15 @@ def cmd_grid(args):
         sources = sources[: args.limit]
     for path in config_paths:
         base = _with_input(load_config(path), args.input)
+        models = model_variants(base.model_env)
         prompts = [latest_prompt_version() if p == "latest" else p for p in args.prompts or []]
-        for prompt in prompts or [base.prompt_version]:
-            cfg = base if not prompts else replace(base, prompt_version=prompt, name=f"{base.name}_{prompt}")
-            print(f"\n== {cfg.name}: {cfg.model} | {cfg.input_mode} | {cfg.prompt_version} | t={cfg.temperature} top_p={cfg.top_p}")
-            out = run(cfg, sources)
-            _score(out, args.golden_version)
+        for model in models:
+            tagged = base if len(models) == 1 else replace(base, model=model, name=f"{base.name}_{model_tag(model)}")
+            for prompt in prompts or [tagged.prompt_version]:
+                cfg = tagged if not prompts else replace(tagged, prompt_version=prompt, name=f"{tagged.name}_{prompt}")
+                print(f"\n== {cfg.name}: {cfg.model} | {cfg.input_mode} | {cfg.prompt_version} | t={cfg.temperature} top_p={cfg.top_p}")
+                out = run(cfg, sources)
+                _score(out, args.golden_version)
     print("\nDone. Build the summary with: python main.py report --all")
 
 

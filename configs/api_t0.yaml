@@ -5,7 +5,7 @@ prompt_version: v1
 sampling:
   temperature: 0.0
   top_p: 1.0
-max_pages: 20
+max_pages: 40
 max_tokens: 12000
 timeout: 120
 max_retries: 3

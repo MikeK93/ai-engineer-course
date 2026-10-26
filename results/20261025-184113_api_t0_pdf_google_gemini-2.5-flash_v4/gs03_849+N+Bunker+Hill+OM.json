@@ -1,0 +1,73 @@
+{
+  "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": null,
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": null,
+      "currency": null,
+      "period": null
+    },
+    "size": {
+      "sf": 30660,
+      "units": 37,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "Elevator",
+      "High Speed Internet Access",
+      "Closed-Circuit Security System",
+      "In-Unit Washers & Dryers",
+      "Central A/C and Heat",
+      "Fitness Center",
+      "Kitchen Island",
+      "Key Fob Entry",
+      "Video Patrol",
+      "EV Chargers in Parking Spaces",
+      "Designer Granite Countertops",
+      "Balconies",
+      "Rooftop Lounge Area",
+      "Leasing Office",
+      "Controlled Access",
+      "Private Underground Parking"
+    ],
+    "floor": null,
+    "floors_total": 6,
+    "condition": "new_build",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "zip": "90012",
+      "street1": "849 North Bunker Hill Avenue",
+      "street2": null
+    },
+    "seller": "Colliers"
+  },
+  "error": null,
+  "latency_s": 7.388973699999042,
+  "prompt_tokens": 5320,
+  "completion_tokens": 301,
+  "cost_usd": 0.00206905,
+  "pages_used": 20,
+  "pages_total": 34,
+  "doc_tokens": 0
+}

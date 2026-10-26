@@ -97,13 +97,13 @@
             "type": "multifamily",
             "type_other": null,
             "price": {
-                "per_sf": null,
-                "per_sf_currency": null,
+                "per_sf": 554.31,
+                "per_sf_currency": "USD",
                 "per_unit": 459324,
                 "per_unit_currency": "USD"
-            },
+        },
             "total_price": {
-                "amount": 1699500,
+                "amount": 16995000,
                 "currency": "USD",
                 "period": "one_time"
             },
@@ -200,7 +200,7 @@
             "type": "multifamily",
             "type_other": null,
             "price": {
-                "per_sf": null,
+                "per_sf": 324.68,
                 "per_sf_currency": "USD",
                 "per_unit": 111111,
                 "per_unit_currency": "USD"
@@ -406,7 +406,7 @@
                 "per_unit_currency": null
             },
             "total_price": {
-                "amount": 2702,
+                "amount": 7937,
                 "currency": "USD",
                 "period": "monthly"
             },
@@ -476,7 +476,7 @@
                 "Reflection pool"
             ],
             "floor": null,
-            "floors_total": null,
+            "floors_total": 3,
             "condition": "unknown",
             "location": {
                 "city": "Palm Desert",

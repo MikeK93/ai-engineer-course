@@ -39,10 +39,38 @@ PROMPTS = ROOT / "prompts"
 RESULTS = ROOT / "results"
 
 
+def model_variants(model_env: str) -> list[str]:
+    """Default model, then any comma-separated extras in EXTRA_<MODEL_ENV>S.
+
+    EXTRACT_MODEL reads EXTRA_EXTRACT_MODELS. LOCAL_MODEL reads EXTRA_LOCAL_MODELS.
+    Blank entries and duplicates of an earlier model are skipped.
+    """
+    load_dotenv(ROOT / ".env")
+    primary = os.environ.get(model_env)
+    if not primary:
+        raise SystemExit(f"Env var {model_env} is not set (see .env.example)")
+    seen = {primary}
+    models = [primary]
+    for part in os.environ.get(f"EXTRA_{model_env}S", "").split(","):
+        model = part.strip()
+        if model and model not in seen:
+            seen.add(model)
+            models.append(model)
+    return models
+
+
+def model_tag(model: str) -> str:
+    """Short run-name suffix: the provider and model, without the LiteLLM route prefix."""
+    parts = [p for p in model.split("/") if p]
+    tail = parts[-2:] if len(parts) >= 2 else parts
+    return re.sub(r"[^A-Za-z0-9._+-]+", "-", "_".join(tail))
+
+
 @dataclass
 class RunConfig:
     name: str
     model: str
+    model_env: str
     input_mode: str = "text"
     prompt_version: str = "v1"
     temperature: float = 0.0
@@ -57,15 +85,15 @@ class RunConfig:
 def load_config(path: str | Path) -> RunConfig:
     load_dotenv(ROOT / ".env")
     raw = yaml.safe_load(Path(path).read_text(encoding="utf-8"))
-    model = os.environ.get(raw["model_env"])
-    if not model:
-        raise SystemExit(f"Env var {raw['model_env']} is not set (see .env.example)")
+    model_env = raw["model_env"]
+    model = model_variants(model_env)[0]
     if raw.get("input_mode", "text") not in ("text", "pdf"):
         raise SystemExit("input_mode must be 'text' or 'pdf'")
     sampling = raw.get("sampling", {})
     return RunConfig(
         name=raw["name"],
         model=model,
+        model_env=model_env,
         input_mode=raw.get("input_mode", "text"),
         prompt_version=raw.get("prompt_version", "v1"),
         temperature=sampling.get("temperature", 0.0),

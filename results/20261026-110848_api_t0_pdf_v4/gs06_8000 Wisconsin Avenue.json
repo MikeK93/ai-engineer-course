@@ -1,0 +1,53 @@
+{
+  "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "sale",
+    "type": "multifamily/mixed_use",
+    "type_other": "Mixed Use Multifamily Development Opportunity",
+    "price": null,
+    "total_price": null,
+    "size": {
+      "sf": 40788,
+      "units": 437,
+      "acreage": 0.94,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "interior courtyard",
+      "multi-level atrium",
+      "rooftop amenities",
+      "underground parking",
+      "bicycle room",
+      "pool"
+    ],
+    "floor": null,
+    "floors_total": 20,
+    "condition": "under_construction",
+    "location": {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "zip": "20814",
+      "street1": "8000 Wisconsin Avenue",
+      "street2": null
+    },
+    "seller": "Newmark"
+  },
+  "error": null,
+  "latency_s": 19.425410299998475,
+  "prompt_tokens": 13070,
+  "completion_tokens": 2336,
+  "cost_usd": 0.040629,
+  "pages_used": 20,
+  "pages_total": 40,
+  "doc_tokens": 0
+}

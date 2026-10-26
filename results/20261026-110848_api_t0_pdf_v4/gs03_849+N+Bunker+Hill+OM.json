@@ -1,0 +1,63 @@
+{
+  "source_file": "gs03_849+N+Bunker+Hill+OM.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "Bunker Height’s Apartment Homes",
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "Apartment Building",
+    "price": null,
+    "total_price": null,
+    "size": {
+      "sf": 12197,
+      "units": 37,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "Controlled Access",
+      "Private Underground Parking",
+      "Elevator",
+      "High Speed Internet Access",
+      "Closed-Circuit Security System",
+      "In-Unit Washers & Dryers",
+      "Central A/C and Heat",
+      "Fitness Center",
+      "Kitchen Island",
+      "Key Fob Entry",
+      "Video Patrol",
+      "EV Chargers",
+      "Designer Granite Countertops",
+      "Balconies",
+      "Rooftop Lounge Area",
+      "Leasing Office"
+    ],
+    "floor": null,
+    "floors_total": 6,
+    "condition": "new_build",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "zip": "90012",
+      "street1": "849 North Bunker Hill Avenue",
+      "street2": null
+    },
+    "seller": "Colliers"
+  },
+  "error": null,
+  "latency_s": 19.30492019999656,
+  "prompt_tokens": 13070,
+  "completion_tokens": 2049,
+  "cost_usd": 0.038046,
+  "pages_used": 20,
+  "pages_total": 34,
+  "doc_tokens": 0
+}

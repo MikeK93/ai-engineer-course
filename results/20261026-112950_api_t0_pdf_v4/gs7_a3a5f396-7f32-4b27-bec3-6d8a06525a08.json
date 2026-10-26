@@ -1,0 +1,62 @@
+{
+  "source_file": "gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf",
+  "model": "openrouter/google/gemini-3.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "lease",
+    "type": "industrial",
+    "type_other": "Warehouse/Distribution Building",
+    "price": {
+      "per_sf": 1.49,
+      "per_sf_currency": "USD",
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": 41720,
+      "currency": "USD",
+      "period": "monthly"
+    },
+    "size": {
+      "sf": 28000,
+      "units": null,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "Fenced Yard",
+      "Paved Yard",
+      "Fire Sprinkler System",
+      "Dock High Loading",
+      "Office HVAC"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "Buena Park",
+      "state": "CA",
+      "country": "US",
+      "zip": "90620",
+      "street1": "6310 Caballero Blvd",
+      "street2": null
+    },
+    "seller": "CBRE"
+  },
+  "error": null,
+  "latency_s": 9.251237699994817,
+  "prompt_tokens": 3720,
+  "completion_tokens": 1634,
+  "cost_usd": 0.01599705,
+  "pages_used": 2,
+  "pages_total": 2,
+  "doc_tokens": 0
+}

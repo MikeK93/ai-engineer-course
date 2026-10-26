@@ -1,0 +1,14 @@
+{
+  "name": "api_t0_pdf_google_gemini-2.5-flash_v4",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "model_env": "EXTRACT_MODEL",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "max_pages": 20,
+  "max_tokens": 12000,
+  "timeout": 120,
+  "max_retries": 3,
+  "extra_params": {}
+}

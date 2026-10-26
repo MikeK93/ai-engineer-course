@@ -1,0 +1,66 @@
+{
+  "source_file": "gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "lease",
+    "type": "industrial",
+    "type_other": "Industrial For Lease",
+    "price": {
+      "per_sf": 1.49,
+      "per_sf_currency": "USD",
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": 41720,
+      "currency": "USD",
+      "period": "monthly"
+    },
+    "size": {
+      "sf": 28000,
+      "units": null,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "Free Standing Warehouse/Distribution Building",
+      "8 Dock High Loading w/Large Fenced Yard",
+      "Calculated Fire Sprk System",
+      "600 Amp, 277/480 Volt Power",
+      "Easy Access to 5 & 91 Fwys + 605 & 57 Close",
+      "Sprinklered",
+      "Office HVAC: Heat & AC",
+      "Fenced / Paved Yard",
+      "Part of industrial park"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "Buena Park",
+      "state": "CA",
+      "country": "US",
+      "zip": "90620",
+      "street1": "6310 Caballero Blvd",
+      "street2": null
+    },
+    "seller": "CBRE - Newport Beach"
+  },
+  "error": null,
+  "latency_s": 6.461424300010549,
+  "prompt_tokens": 676,
+  "completion_tokens": 316,
+  "cost_usd": 0.0009928,
+  "pages_used": 2,
+  "pages_total": 2,
+  "doc_tokens": 0
+}

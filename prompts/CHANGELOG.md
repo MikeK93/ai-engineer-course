@@ -47,3 +47,13 @@
 
 ## v4 (2026-10-25)
 - Added instruction that price-related fields are usually in a "Pricing & Financial Summary" section, or a similarly named section. `v1`–`v3` left unchanged.
+
+## Schema update (2026-10-26)
+- `RealEstateListing.floors_total`: description now gives examples (Single Story = 1, 21 stories = 21) and says to check the Highlights section as well as Floor Plans when the total is not stated explicitly.
+
+## Golden set v4 (2026-10-26)
+- `gs9` `total_price.amount` corrected from 2702 to 7937 (monthly USD).
+- `gs10` `floors_total` set to 3.
+
+## v4 (2026-10-26)
+- Added instruction that listing size is usually called Lot Size. `v1`–`v3` left unchanged.

@@ -116,7 +116,7 @@ class RealEstateListing(BaseModel):
     )
     floor: Optional[int] = None
     floors_total: Optional[int] = Field(None,
-        description="Total number of floors (sometimes referred to as stories). If no explicit mention of total floors, check Floor Plans section when available."
+        description="Total number of floors (sometimes referred to as stories, ie Single Story = 1, 21 stories = 21). If no explicit mention of total floors, check Floor Plans or Highlights section when available."
     )
     condition: Optional[Condition] = Field(
         None, description="If not specified explicitly, infer from content. If no candidates fallback to unknown."
