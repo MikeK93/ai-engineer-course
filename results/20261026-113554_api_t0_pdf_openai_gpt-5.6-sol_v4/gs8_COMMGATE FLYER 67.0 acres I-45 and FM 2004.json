@@ -1,0 +1,60 @@
+{
+  "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+  "model": "openrouter/openai/gpt-5.6-sol",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "67 Acres Galveston",
+    "deal_type": "sale",
+    "type": "land",
+    "type_other": "Land",
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": "Negotiable",
+      "amount": null,
+      "currency": null,
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 2918520,
+      "units": null,
+      "acreage": 67.16,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "Utilities at the property",
+      "3,273 feet of frontage along southbound I-45",
+      "2,416 feet of frontage along FM 2004"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "La Marque",
+      "state": "US-TX",
+      "country": "US",
+      "zip": "77568",
+      "street1": "5766 Gulf Fwy",
+      "street2": null
+    },
+    "seller": "Texas Commercial Properties"
+  },
+  "error": null,
+  "latency_s": 7.821828699990874,
+  "prompt_tokens": 13414,
+  "completion_tokens": 416,
+  "cost_usd": 0.0685054,
+  "pages_used": 4,
+  "pages_total": 4,
+  "doc_tokens": 0
+}

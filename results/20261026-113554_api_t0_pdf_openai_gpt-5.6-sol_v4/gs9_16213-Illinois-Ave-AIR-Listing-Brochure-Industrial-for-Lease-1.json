@@ -1,0 +1,68 @@
+{
+  "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+  "model": "openrouter/openai/gpt-5.6-sol",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "lease",
+    "type": "industrial",
+    "type_other": "Warehouse/Office",
+    "price": {
+      "per_sf": 2.94,
+      "per_sf_currency": "USD",
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": null,
+      "amount": 7937,
+      "currency": "USD",
+      "period": "monthly"
+    },
+    "size": {
+      "sf": 7510,
+      "units": null,
+      "acreage": 0.17,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "±14,976 SF contractor's yard",
+      "±2,702 SF freestanding office/shop building",
+      "Street-to-alley access",
+      "Secured concrete yard",
+      "Fenced yard",
+      "Kitchenette",
+      "Access to the 91 and 710 freeways",
+      "12-foot clear height",
+      "2 ground-level doors",
+      "4 parking spaces",
+      "1 restroom"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "Paramount",
+      "state": "US-CA",
+      "country": "US",
+      "zip": "90723",
+      "street1": "16213 Illinois Ave",
+      "street2": null
+    },
+    "seller": "Daum Commercial"
+  },
+  "error": null,
+  "latency_s": 11.408605300006457,
+  "prompt_tokens": 7666,
+  "completion_tokens": 649,
+  "cost_usd": 0.0444254,
+  "pages_used": 2,
+  "pages_total": 2,
+  "doc_tokens": 0
+}

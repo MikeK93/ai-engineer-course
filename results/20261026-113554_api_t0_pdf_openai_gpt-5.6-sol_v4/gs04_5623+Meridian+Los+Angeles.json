@@ -1,0 +1,60 @@
+{
+  "source_file": "gs04_5623+Meridian+Los+Angeles.pdf",
+  "model": "openrouter/openai/gpt-5.6-sol",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": null,
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "Multifamily",
+    "price": {
+      "per_sf": 357.81,
+      "per_sf_currency": "USD",
+      "per_unit": 300000,
+      "per_unit_currency": "USD"
+    },
+    "total_price": {
+      "label": null,
+      "amount": 4200000,
+      "currency": "USD",
+      "period": "one_time"
+    },
+    "size": {
+      "sf": 12615,
+      "units": 14,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "13 parking spaces, majority tandem",
+      "Laundry facilities",
+      "Separately metered electricity and gas"
+    ],
+    "floor": null,
+    "floors_total": 2,
+    "condition": "needs_renovation",
+    "location": {
+      "city": "Los Angeles",
+      "state": "US-CA",
+      "country": "US",
+      "zip": "90042",
+      "street1": "5623 Meridian Street",
+      "street2": null
+    },
+    "seller": "Colliers"
+  },
+  "error": null,
+  "latency_s": 8.593121400015661,
+  "prompt_tokens": 38021,
+  "completion_tokens": 425,
+  "cost_usd": 0.1917204,
+  "pages_used": 14,
+  "pages_total": 14,
+  "doc_tokens": 0
+}

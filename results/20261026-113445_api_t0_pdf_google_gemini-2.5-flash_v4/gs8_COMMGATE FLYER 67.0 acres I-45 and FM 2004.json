@@ -1,0 +1,56 @@
+{
+  "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+  "model": "openrouter/google/gemini-2.5-flash",
+  "input_mode": "pdf",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "67 Acres Galveston",
+    "deal_type": "sale",
+    "type": "land",
+    "type_other": "Land",
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": null,
+      "per_unit_currency": null
+    },
+    "total_price": {
+      "label": "Negotiable",
+      "amount": null,
+      "currency": null,
+      "period": null
+    },
+    "size": {
+      "sf": 2918520,
+      "units": null,
+      "acreage": 67.16,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [],
+    "floor": null,
+    "floors_total": null,
+    "condition": "unknown",
+    "location": {
+      "city": "La Marque",
+      "state": "TX",
+      "country": "US",
+      "zip": "77568",
+      "street1": "5766 Gulf Fwy",
+      "street2": null
+    },
+    "seller": "Catylist Research"
+  },
+  "error": null,
+  "latency_s": 3.764796200004639,
+  "prompt_tokens": 1202,
+  "completion_tokens": 220,
+  "cost_usd": 0.00078532,
+  "pages_used": 4,
+  "pages_total": 4,
+  "doc_tokens": 0
+}
