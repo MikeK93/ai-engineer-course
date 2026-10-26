@@ -1,0 +1,59 @@
+{
+  "source_file": "gs01_33 Unit Multifamily Development.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "9850 East Girard Avenue",
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "development",
+    "price": {
+      "per_sf": 36.68,
+      "per_sf_currency": "USD",
+      "per_unit": 167629,
+      "per_unit_currency": "USD"
+    },
+    "total_price": {
+      "label": "Estimated Project Cost (Inc. Land)",
+      "amount": 5531760,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "size": {
+      "sf": 34076,
+      "units": 33,
+      "acreage": 0.78,
+      "sqm": 7800,
+      "hectares": 0.078
+    },
+    "amenities": [
+      "elevator",
+      "covered parking"
+    ],
+    "floor": 9,
+    "floors_total": 1,
+    "condition": "new_build",
+    "location": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "80231",
+      "street1": "9850 East Girard Avenue",
+      "street2": null
+    },
+    "seller": "Marcus & Millichap Real Estate Investment Services, Inc."
+  },
+  "error": null,
+  "latency_s": 88.41366030002246,
+  "prompt_tokens": 2327,
+  "completion_tokens": 314,
+  "cost_usd": 0.0,
+  "pages_used": 10,
+  "pages_total": 15,
+  "doc_tokens": 2065
+}

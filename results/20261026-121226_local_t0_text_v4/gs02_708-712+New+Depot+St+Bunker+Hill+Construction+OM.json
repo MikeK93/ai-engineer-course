@@ -1,0 +1,45 @@
+{
+  "source_file": "gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "708-712 New Depot Street",
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": "under construction",
+    "price": null,
+    "total_price": null,
+    "size": null,
+    "amenities": [
+      "36 Spaces, Two Level Type I-A Subterranean Parking",
+      "33 Apartment Units",
+      "6-Story Building",
+      "Very Low Income Units (3 Units)"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": null,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "zip": "90012",
+      "street1": "708-712 New Depot Street",
+      "street2": null
+    },
+    "seller": null
+  },
+  "error": null,
+  "latency_s": 46.1990291000111,
+  "prompt_tokens": 1304,
+  "completion_tokens": 207,
+  "cost_usd": 0.0,
+  "pages_used": 10,
+  "pages_total": 19,
+  "doc_tokens": 1055
+}

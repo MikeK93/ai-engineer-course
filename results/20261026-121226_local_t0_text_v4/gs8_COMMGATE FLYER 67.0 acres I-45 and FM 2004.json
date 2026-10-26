@@ -1,0 +1,40 @@
+{
+  "source_file": "gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "67 Acres Galveston",
+    "deal_type": "sale",
+    "type": "land",
+    "type_other": "commercial",
+    "price": null,
+    "total_price": null,
+    "size": null,
+    "amenities": [],
+    "floor": null,
+    "floors_total": 2918520,
+    "condition": "new_build",
+    "location": {
+      "city": "La Marque",
+      "state": "TX",
+      "country": "USA",
+      "zip": "77568",
+      "street1": "5766 Gulf Fwy",
+      "street2": null
+    },
+    "seller": "Texas Commercial Properties, 3121 Oak Drive, Dickinson, TX 77539, 281-650-4875, WHITELAUREN@COMCAST.NET"
+  },
+  "error": null,
+  "latency_s": 54.35182830001577,
+  "prompt_tokens": 1367,
+  "completion_tokens": 211,
+  "cost_usd": 0.0,
+  "pages_used": 4,
+  "pages_total": 4,
+  "doc_tokens": 1061
+}

@@ -1,0 +1,65 @@
+{
+  "source_file": "gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "6563 Oasis Avenue",
+    "deal_type": "sale",
+    "type": "multifamily",
+    "type_other": null,
+    "price": {
+      "per_sf": null,
+      "per_sf_currency": null,
+      "per_unit": 111111,
+      "per_unit_currency": "USD"
+    },
+    "total_price": {
+      "label": "Price",
+      "amount": 1000000,
+      "currency": "USD",
+      "period": null
+    },
+    "size": {
+      "sf": 2960,
+      "units": null,
+      "acreage": null,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "new plumbing supply",
+      "electrical",
+      "roofs",
+      "AC",
+      "windows",
+      "stucco",
+      "paint",
+      "full gut"
+    ],
+    "floor": 1,
+    "floors_total": null,
+    "condition": "renovated",
+    "location": {
+      "city": "Twentynine Palms",
+      "state": "CA",
+      "country": "USA",
+      "zip": "92277",
+      "street1": "6563 Oasis Avenue",
+      "street2": null
+    },
+    "seller": null
+  },
+  "error": null,
+  "latency_s": 72.5416538999998,
+  "prompt_tokens": 1645,
+  "completion_tokens": 320,
+  "cost_usd": 0.0,
+  "pages_used": 10,
+  "pages_total": 25,
+  "doc_tokens": 1396
+}

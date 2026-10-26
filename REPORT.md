@@ -19,6 +19,7 @@
 | [20261026-112950_api_t0_pdf_v4](results/20261026-112950_api_t0_pdf_v4/report.md) | openrouter/google/gemini-3.5-flash | pdf | v4 | latest | 0.0 / 1.0 | 10 | 89.3 | 100 (100) | 13.2 / 27.1 | 31.34 |
 | [20261026-113445_api_t0_pdf_google_gemini-2.5-flash_v4](results/20261026-113445_api_t0_pdf_google_gemini-2.5-flash_v4/report.md) | openrouter/google/gemini-2.5-flash | pdf | v4 | latest | 0.0 / 1.0 | 10 | 89.6 | 100 (100) | 5.2 / 11.5 | 1.86 |
 | [20261026-113554_api_t0_pdf_openai_gpt-5.6-sol_v4](results/20261026-113554_api_t0_pdf_openai_gpt-5.6-sol_v4/report.md) | openrouter/openai/gpt-5.6-sol | pdf | v4 | latest | 0.0 / 1.0 | 10 | 85.4 | 100 (100) | 11.1 / 42.0 | 248.27 |
+| [20261026-121226_local_t0_text_v4](results/20261026-121226_local_t0_text_v4/report.md) | ollama_chat/qwen2.5:3b | text | v4 | latest | 0.0 / 1.0 | 10 | 49.3 | 90 (90) | 57.8 / 88.4 | 0.00 |
 <!-- AUTO:END -->
 
 ## Error analysis
@@ -28,6 +29,14 @@ _3-5 characteristic errors here: what was returned instead of what, and why._
 - Price related fields were not correctly extracted due to weak prompt no guiding to specific sections within docs;
 - Total floors also lacked value due to business terminology - "Story"/"Stories" = "Floor"/"Floors";
 - Size related fields sometimes picked up wrong value. Schema updates helped to guide towards rules;
+
+Local `qwen2.5:3b` on extracted text, prompt v4, temperature 0 ([20261026-121226](results/20261026-121226_local_t0_text_v4/report.md)) scored 49.3% field accuracy. The misses are different from the API runs:
+
+- `location.country` came back as `USA` on every document; the golden value is `US`, so the field scored 0%.
+- `amenities` scored 0%. Lists were shortened, reworded, or padded with non-amenities (unit counts, "Industrial For Lease"). The land flyer returned `[]`.
+- `name` was filled with the street address when the golden name is null or a marketing title (`33 Unit Multifamily Development` → `9850 East Girard Avenue`).
+- Figures that live in tables or images were dropped or swapped, because this run only sees extracted text. `price.per_sf` and `size.sf` were often null, and on the 67-acre land flyer `floors_total` was `2918520` (the parcel square footage) while `size.sf` was null.
+- `seller` was null for most brokerages, or the full legal name and contact block instead of the short name. `gs10` timed out after 600s, so that document never returned a schema (90% valid).
 
 ## Production choice
 
@@ -39,4 +48,6 @@ Another model that was under test is `openai-gpt5.6-sol` which shows the worst r
 
 So my choice for production would be `gemini-3.5-flash`. Feels like a good balance between speed, cost and accuracy. If the cost would be too hight I'd move to `gemini-2.5-flash` and work out the prompt + schema to gain more accuracy for critical fields.
 
-Worth noting that the test runs were done with raw PDF files being passed to the model because the files contained images describing listed property which will result in 0 text after pdf -> text convertion. 
+Worth noting that the API runs were done with raw PDF files being passed to the model because the files contained images describing listed property which will result in 0 text after pdf -> text convertion.
+
+The local run supports the same choice. `ollama_chat/qwen2.5:3b` (text, prompt v4, temperature 0) reached 49.3% field accuracy, 90% valid responses, and about 58s / 88s latency at $0 per 1000 docs. Address fields and `deal_type` are usable (city, zip, and street around 80-90%), and everything that depends on an enum or on a figure inside an image is not. I would use it only if API cost had to be zero and the task were limited to those address and deal-type fields. For the full schema I would stay on `gemini-3.5-flash` with the PDF input. 

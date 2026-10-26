@@ -1,0 +1,47 @@
+{
+  "source_file": "gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "16213 Illinois Ave",
+    "deal_type": "lease",
+    "type": "office",
+    "type_other": "shop",
+    "price": null,
+    "total_price": null,
+    "size": null,
+    "amenities": [
+      "Kitchenette",
+      "Excellent Street to Alley Access",
+      "Huge Secured Concrete Yard",
+      "Convenient Access to the 91 and 710 Freeways",
+      "Industrial For Lease",
+      "Fenced"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": null,
+    "location": {
+      "city": "Paramount",
+      "state": "CA",
+      "country": "USA",
+      "zip": "90723",
+      "street1": "16213 Illinois Ave",
+      "street2": null
+    },
+    "seller": null
+  },
+  "error": null,
+  "latency_s": 42.068084800004726,
+  "prompt_tokens": 962,
+  "completion_tokens": 209,
+  "cost_usd": 0.0,
+  "pages_used": 2,
+  "pages_total": 2,
+  "doc_tokens": 680
+}

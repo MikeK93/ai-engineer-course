@@ -1,0 +1,51 @@
+{
+  "source_file": "gs06_8000 Wisconsin Avenue.pdf",
+  "model": "ollama_chat/qwen2.5:3b",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "status": "ok",
+  "repair_used": false,
+  "output": {
+    "name": "8000 Wisconsin Avenue",
+    "deal_type": "sale",
+    "type": "mixed_use",
+    "type_other": "multifamily",
+    "price": null,
+    "total_price": null,
+    "size": {
+      "sf": 40788,
+      "units": 0.94,
+      "acreage": 0.94,
+      "sqm": null,
+      "hectares": null
+    },
+    "amenities": [
+      "large multi-level atrium",
+      "interior courtyard",
+      "roof top amenities",
+      "abundant on-site parking"
+    ],
+    "floor": null,
+    "floors_total": null,
+    "condition": "new_build",
+    "location": {
+      "city": "Bethesda",
+      "state": "Maryland",
+      "country": "USA",
+      "zip": "20814",
+      "street1": "8000 Wisconsin Avenue",
+      "street2": null
+    },
+    "seller": null
+  },
+  "error": null,
+  "latency_s": 74.35822919997736,
+  "prompt_tokens": 2081,
+  "completion_tokens": 231,
+  "cost_usd": 0.0,
+  "pages_used": 10,
+  "pages_total": 40,
+  "doc_tokens": 1795
+}

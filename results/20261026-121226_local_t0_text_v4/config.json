@@ -1,0 +1,16 @@
+{
+  "name": "local_t0_text_v4",
+  "model": "ollama_chat/qwen2.5:3b",
+  "model_env": "LOCAL_MODEL",
+  "input_mode": "text",
+  "prompt_version": "v4",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "max_pages": 10,
+  "max_tokens": 6000,
+  "timeout": 600,
+  "max_retries": 2,
+  "extra_params": {
+    "num_ctx": 8192
+  }
+}
