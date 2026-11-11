@@ -1,0 +1,250 @@
+# One entry per corpus file.
+#   PDF:  `file` is relative to data/ (`pdfs/<name>`).
+#   HTML: `file` is relative to the repo root (`html/<name>`).
+# The Chrome view-source saves in data/html/ are the input to
+# scripts/fetch_listing_html.py. They are not corpus files and have no entry here.
+#
+# doc_type
+#   listing          short brochure or web page about one property (about 10 pages or less)
+#   single_asset_om  longer offering memorandum about one property or one small portfolio
+#   fund_om          offering memorandum of a fund, REIT, or issuer (the offering is the fund)
+#   other            anything else (investor deck, securitisation notes)
+#
+# as_of: YYYY-MM-DD, or YYYY-MM when only the month is known.
+#   "# from text"      the date is printed in the document
+#   "# from PDF meta"  PDF creation date, used because the document prints none. Confirm or fix.
+#   "# TODO"           I could not settle this. Check the first pages.
+#
+# source_url is required for html entries, optional for pdf entries.
+# `versions:` splits one PDF into logical versions (see tasks/hw02-plan.md, Phase 2).
+# Generated skeleton. Every value is a proposal until you have reviewed it.
+
+# ---------------------------------------------------------------- PDFs
+
+- file: pdfs/1028+Johnson+Street+Listing+Brochure+(1)_compressed+(2).pdf
+  title: 1028 Johnson Street, Kingston - Listing Brochure
+  doc_type: listing
+  as_of: 2026-08-10   # from PDF meta; the brochure prints no date
+
+- file: pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf
+  title: RESCO Mortgage Investment Corporation - Class B Preferred Shares Offering Memorandum
+  doc_type: fund_om
+  as_of: 2025-02-25   # from text
+
+- file: pdfs/4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.pdf
+  title: Timbercreek 4Q Partners LP - Offering Memorandum
+  doc_type: fund_om
+  as_of: 2020-11-06   # file name says Nov 2020; first-page date found by regex. Confirm the day.
+
+- file: pdfs/AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.pdf
+  title: All Island Equity REIT - Offering Memorandum (Class A and Class F Units)
+  doc_type: fund_om
+  as_of: 2025-04-11   # from text
+
+- file: pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf
+  title: BGMFll Offering Memorandum   # TODO full fund name; the first page does not name it in the extracted text
+  doc_type: fund_om
+  as_of: 2026-03-31   # from file name; PDF created 2026-04-08. Confirm.
+
+- file: pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).pdf
+  title: Centurion Apartment Real Estate Investment Trust - Offering Memorandum
+  doc_type: fund_om
+  as_of: 2025-05-01   # TODO cover says May 1, 2025; file name says April 2025 (August 2025 Final); PDF created 2025-08-19
+
+- file: pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf
+  title: Equiton Real Estate Income and Development Fund Trust - Offering Memorandum
+  doc_type: fund_om
+  as_of: 2024-04-25   # from text
+
+- file: pdfs/Fort Myers 2-Pack Offering Memorandum.pdf
+  title: Courtyard Fort Myers and SpringHill Suites Fort Myers Airport - Investment Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2023-10-26   # from PDF meta; no date in the first pages. Confirm.
+
+- file: pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf
+  title: LMIC Offering Memorandum   # TODO full issuer name
+  doc_type: fund_om
+  as_of: 2025-10-28   # TODO file name says Oct 28 2025; first page and PDF meta say Aug 15 2025. Decide which is the real edition date.
+
+- file: pdfs/Listing-Brochure-Tesson-Hills-1.pdf
+  title: Tesson Hills Apartments, 1-20 Tesson Hills Court, Arnold, MO - Listing Brochure
+  doc_type: listing
+  as_of: TODO   # no date in the text or in the PDF meta
+
+- file: pdfs/Lund-PointeApts_OfferingMemorandum.pdf
+  title: Lund Pointe Apartments, 3300 Valentine Ln SE, Port Orchard, WA - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2016-02   # from PDF meta
+
+- file: pdfs/OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23.pdf
+  title: OAM European Value Fund - Offering Memorandum
+  doc_type: fund_om
+  versions:
+    - suffix: original
+      start: 1            # physical page
+      as_of: 2020-12-31   # from text: "Updated: 31st December 2020"
+    - suffix: addendum-1
+      start: 66           # physical page; "Addendum" heading
+      as_of: 2021-12-23   # from text: "Dated: 23 December 2021"
+      replaces: investment advisor address; registered and principal office; redemption instructions paragraph; report to shareholders paragraph; documents available for inspection paragraph
+
+- file: pdfs/PORTER SQUARE SHOPPING CENTER.pdf
+  title: Porter Square Shopping Center, Georgia - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2017-04   # from PDF meta
+
+- file: pdfs/Retreat at Arcway Investor Memorandum.pdf
+  title: Retreat at Arcway - Investor Overview Deck (Ashcroft Value-Add Fund II)
+  doc_type: other
+  as_of: 2022-02   # from PDF meta
+
+- file: pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf
+  title: Shannon Lake, Shannon View Drive, West Kelowna - Listing Brochure (12.98 acres)
+  doc_type: listing
+  as_of: 2024-02   # from PDF meta
+
+- file: pdfs/Topaz.pdf
+  title: Topaz - Institutional Multifamily Offering Memorandum (Cushman and Wakefield)   # TODO confirm the property name
+  doc_type: single_asset_om
+  as_of: 2024-06   # from PDF meta
+
+- file: pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf
+  title: Viocity Real Estate Investment Trust - Offering Memorandum (V3)
+  doc_type: fund_om
+  as_of: 2017-12-08   # from text
+
+- file: pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf
+  title: Sunnybrook Business Park Pad Sites, Olathe, KS - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2020-05   # from PDF meta
+
+- file: pdfs/connave-2025-r03-offering-memorandum.pdf
+  title: Connecticut Avenue Securities Trust 2025-R03 - Offering Memorandum (Fannie Mae)
+  doc_type: other   # securitisation notes, not a fund. Change to fund_om if you want it grouped with the funds.
+  as_of: 2025-04   # TODO from PDF meta (2025-04-17); the offering date is not confirmed
+
+- file: pdfs/document.pdf
+  title: Vernon Business Park, 6099-6131 Malburg Way, Vernon, CA - Listing Brochure
+  doc_type: listing
+  as_of: 2018-08   # from PDF meta
+
+- file: pdfs/formca.pdf
+  title: DiversyFund, Inc. - Form C Part II Offering Memorandum
+  doc_type: fund_om
+  as_of: 2023-09-08   # TODO text says September 8, 2023; PDF meta title says "FINAL AMEND 12.19.2023". Check whether this is an amended version.
+
+- file: pdfs/gs01_33 Unit Multifamily Development.pdf
+  title: 33 Unit Multifamily Development, 9850 East Girard Avenue, Denver, CO - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2017-10   # from text
+
+- file: pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf
+  title: 708-712 New Depot Street, Los Angeles, CA - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2023-12   # from PDF meta
+
+- file: pdfs/gs03_849+N+Bunker+Hill+OM.pdf
+  title: 849 North Bunker Hill Avenue, Los Angeles, CA - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2024-08   # from PDF meta
+
+- file: pdfs/gs04_5623+Meridian+Los+Angeles.pdf
+  title: 5623 Meridian Street, Los Angeles, CA - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2023-05   # from PDF meta
+
+- file: pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf
+  title: Oasis Avenue, Twentynine Palms, CA - Multifamily Offering Memorandum   # TODO the file name and cover say 6563, page 2 and golden_v4.json say 6535. Check the PDF.
+  doc_type: single_asset_om
+  as_of: 2024-05   # from PDF meta
+
+- file: pdfs/gs06_8000 Wisconsin Avenue.pdf
+  title: 8000 Wisconsin Avenue, Bethesda, MD - Offering Memorandum
+  doc_type: single_asset_om
+  as_of: 2021-06   # from text
+
+- file: pdfs/gs10_document.pdf
+  title: IMAGO Galleries, 45-450 CA-74, Palm Desert, CA - Commercial Listing Brochure
+  doc_type: listing
+  as_of: 2026-08-24   # from PDF meta (Canva export). Confirm.
+
+- file: pdfs/gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf
+  title: 6310 Caballero Blvd, Buena Park, CA - Listing Brochure
+  doc_type: listing
+  as_of: 2025-03-05   # from PDF meta
+
+- file: pdfs/gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf
+  title: 5766 Gulf Fwy, La Marque, TX - Land For Sale, 67 acres
+  doc_type: listing
+  as_of: 2021-02-04   # from the PDF meta title (02/04/2021)
+
+- file: pdfs/gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf
+  title: 16213 Illinois Ave, Paramount, CA - Industrial For Lease
+  doc_type: listing
+  as_of: 2026-02-20   # from text: Listing Date 02/20/2026
+
+# ---------------------------------------------------------------- HTML
+# as_of is the capture date (2026-11-11). Replace it with the listing date if the page shows one.
+# Nine pages are the original response HTML, unwrapped from the view-source saves.
+# 600 Coolidge is the rendered page: Cloudflare blocks a direct download, so it was
+# captured from a browser after the challenge. It still contains the listing text.
+
+- file: html/20-ohltown-rd-austintown-sale.html
+  title: Austintown Medical Center - Office - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/20-ohltown-rd-austintown-sale
+
+- file: html/2223-barrett-drive-greenfield-sale.html
+  title: Greenfield Crossing - Retail - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/2223-barrett-drive-greenfield-sale
+
+- file: html/5301-e-39th-ave-denver-sale.html
+  title: 5301 E 39th Ave - Industrial - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/5301-e-39th-ave-denver-sale
+
+- file: html/600-coolidge-dr-folsom-lease.html
+  title: Parkshore - 600 Coolidge Drive - Office - for Lease | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/600-coolidge-dr-folsom-lease
+
+- file: html/6515-carnegie-avenue-cleveland-sale.html
+  title: 6515 Carnegie Ave - Allen Sugar Co. - Industrial - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/6515-carnegie-avenue-cleveland-sale
+
+- file: html/6855-philips-hwy-jacksonville-sale.html
+  title: 6855 Philips Hwy - Industrial - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/6855-philips-hwy-jacksonville-sale
+
+- file: html/6900-w-morelos-pl-chandler-sale.html
+  title: 6900 W. Morelos Place - Industrial - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/6900-w-morelos-pl-chandler-sale
+
+- file: html/8747-squires-ln-ne-warren-sale.html
+  title: Hillside Rehabilitation Hospital - Office - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/8747-squires-ln-ne-warren-sale
+
+- file: html/km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale.html
+  title: La Encantada - Land - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale
+
+- file: html/terra-cotta-road-lake-elsinore-sale.html
+  title: West Nicholas Logistics Center - Industrial - for Sale | Newmark
+  doc_type: listing
+  as_of: 2026-11-11
+  source_url: https://www.nmrk.com/properties/terra-cotta-road-lake-elsinore-sale
