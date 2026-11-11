@@ -59,22 +59,22 @@
 - file: pdfs/Fort Myers 2-Pack Offering Memorandum.pdf
   title: Courtyard Fort Myers and SpringHill Suites Fort Myers Airport - Investment Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2023-10-26   # from PDF meta; no date in the first pages. Confirm.
+  as_of: 2023-10-26   # from PDF meta
 
 - file: pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf
   title: LMIC Offering Memorandum   # TODO full issuer name
   doc_type: fund_om
-  as_of: 2025-10-28   # TODO file name says Oct 28 2025; first page and PDF meta say Aug 15 2025. Decide which is the real edition date.
+  as_of: 2025-08-15   # from text: "DATE: August 15, 2025"
 
 - file: pdfs/Listing-Brochure-Tesson-Hills-1.pdf
   title: Tesson Hills Apartments, 1-20 Tesson Hills Court, Arnold, MO - Listing Brochure
   doc_type: listing
-  as_of: TODO   # no date in the text or in the PDF meta
+  as_of: 2026-10-16   # file created 2026-10-16 17:50:31
 
 - file: pdfs/Lund-PointeApts_OfferingMemorandum.pdf
   title: Lund Pointe Apartments, 3300 Valentine Ln SE, Port Orchard, WA - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2016-02   # from PDF meta
+  as_of: 2016-02-16   # from PDF meta
 
 - file: pdfs/OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23.pdf
   title: OAM European Value Fund - Offering Memorandum
@@ -91,22 +91,22 @@
 - file: pdfs/PORTER SQUARE SHOPPING CENTER.pdf
   title: Porter Square Shopping Center, Georgia - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2017-04   # from PDF meta
+  as_of: 2017-04-19   # from PDF meta
 
 - file: pdfs/Retreat at Arcway Investor Memorandum.pdf
   title: Retreat at Arcway - Investor Overview Deck (Ashcroft Value-Add Fund II)
   doc_type: other
-  as_of: 2022-02   # from PDF meta
+  as_of: 2022-02-08   # from PDF meta
 
 - file: pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf
   title: Shannon Lake, Shannon View Drive, West Kelowna - Listing Brochure (12.98 acres)
   doc_type: listing
-  as_of: 2024-02   # from PDF meta
+  as_of: 2024-02-26   # from PDF meta
 
 - file: pdfs/Topaz.pdf
   title: Topaz - Institutional Multifamily Offering Memorandum (Cushman and Wakefield)   # TODO confirm the property name
   doc_type: single_asset_om
-  as_of: 2024-06   # from PDF meta
+  as_of: 2024-06-11   # from PDF meta
 
 - file: pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf
   title: Viocity Real Estate Investment Trust - Offering Memorandum (V3)
@@ -116,7 +116,7 @@
 - file: pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf
   title: Sunnybrook Business Park Pad Sites, Olathe, KS - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2020-05   # from PDF meta
+  as_of: 2020-05-26   # from PDF meta
 
 - file: pdfs/connave-2025-r03-offering-memorandum.pdf
   title: Connecticut Avenue Securities Trust 2025-R03 - Offering Memorandum (Fannie Mae)
@@ -131,7 +131,7 @@
 - file: pdfs/formca.pdf
   title: DiversyFund, Inc. - Form C Part II Offering Memorandum
   doc_type: fund_om
-  as_of: 2023-09-08   # TODO text says September 8, 2023; PDF meta title says "FINAL AMEND 12.19.2023". Check whether this is an amended version.
+  as_of: 2023-09-08   # from text: "OFFERING MEMORANDUM DATED SEPTEMBER 8, 2023"
 
 - file: pdfs/gs01_33 Unit Multifamily Development.pdf
   title: 33 Unit Multifamily Development, 9850 East Girard Avenue, Denver, CO - Offering Memorandum
@@ -141,22 +141,22 @@
 - file: pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf
   title: 708-712 New Depot Street, Los Angeles, CA - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2023-12   # from PDF meta
+  as_of: 2023-12-27   # no clear date so file created date is used
 
 - file: pdfs/gs03_849+N+Bunker+Hill+OM.pdf
   title: 849 North Bunker Hill Avenue, Los Angeles, CA - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2024-08   # from PDF meta
+  as_of: 2024-08-06   # from PDF meta
 
 - file: pdfs/gs04_5623+Meridian+Los+Angeles.pdf
   title: 5623 Meridian Street, Los Angeles, CA - Offering Memorandum
   doc_type: single_asset_om
-  as_of: 2023-05   # from PDF meta
+  as_of: 2023-05-17   # from PDF meta
 
 - file: pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf
   title: Oasis Avenue, Twentynine Palms, CA - Multifamily Offering Memorandum   # TODO the file name and cover say 6563, page 2 and golden_v4.json say 6535. Check the PDF.
   doc_type: single_asset_om
-  as_of: 2024-05   # from PDF meta
+  as_of: 2024-05-15   # from PDF meta
 
 - file: pdfs/gs06_8000 Wisconsin Avenue.pdf
   title: 8000 Wisconsin Avenue, Bethesda, MD - Offering Memorandum
@@ -166,12 +166,12 @@
 - file: pdfs/gs10_document.pdf
   title: IMAGO Galleries, 45-450 CA-74, Palm Desert, CA - Commercial Listing Brochure
   doc_type: listing
-  as_of: 2026-08-24   # from PDF meta (Canva export). Confirm.
+  as_of: 2026-08-24   # from PDF meta
 
 - file: pdfs/gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf
   title: 6310 Caballero Blvd, Buena Park, CA - Listing Brochure
   doc_type: listing
-  as_of: 2025-03-05   # from PDF meta
+  as_of: 2025-02-24   # from text: Listing Date 02/24/2025
 
 - file: pdfs/gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf
   title: 5766 Gulf Fwy, La Marque, TX - Land For Sale, 67 acres
