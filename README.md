@@ -131,3 +131,65 @@ data/texts/        cached extracted text
 data/golden.json   golden set (gs* documents)
 results/           run outputs and reports
 ```
+
+---
+
+# RAG pipeline (work in progress)
+
+Second slice of the same project: the same documents, indexed as chunks and answered with citations. The plan, decisions and phase checklist are in [`tasks/hw02-plan.md`](tasks/hw02-plan.md).
+
+```
+data/pdfs + data/html -> ingest -> data/md -> chunk -> data/chunks.jsonl -> index (Qdrant + BM25)
+   -> search (hybrid, rerank) -> answer with citations or "not in the documents" -> evals in CI
+```
+
+**Status:** Phase 1 (scaffolding) is done. Every RAG command below is a stub that prints the phase that implements it and exits with code 2. The block-1 commands above are unchanged.
+
+## Extra setup
+
+```powershell
+pip install -r requirements.txt        # now also: pymupdf4llm, sentence-transformers, qdrant-client, rank-bm25, ...
+pip install -r requirements-ocr.txt    # optional, only for the `ocr` command (Docling, large)
+```
+
+`pip install` pulls in PyTorch through `sentence-transformers`, so the first install is large. `python main.py --help` works without it.
+
+Optional `.env` variables (defaults shown in `.env.example`):
+
+| Variable | Purpose | Default |
+|---|---|---|
+| `RAG_MODEL` | LiteLLM string for answers (uses `GEMINI_API_KEY`) | `gemini/gemini-2.5-flash` |
+| `JUDGE_MODEL` | LiteLLM string for the eval judge (uses `OPENROUTER_API_KEY`) | `openrouter/openai/gpt-4o-mini` |
+| `EMBED_MODEL` | Local embedding model | `BAAI/bge-small-en-v1.5` |
+| `RERANK_MODEL` | Local cross-encoder | `cross-encoder/ms-marco-MiniLM-L-6-v2` |
+
+## RAG commands
+
+| Command | Phase | Status |
+|---|---|---|
+| `python main.py ingest` | 2 | not implemented |
+| `python main.py ocr` | 3 | not implemented |
+| `python main.py chunk` | 4 | not implemented |
+| `python main.py index` | 5 | not implemented |
+| `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank` | 5 | not implemented |
+| `python main.py ask "<question>"` | 6 | not implemented |
+| `python main.py eval-retrieval` | 7 | not implemented |
+| `python main.py rag-eval` | 7 | not implemented |
+| `python main.py rag-all` | 9 | not implemented |
+
+`rag-eval` is not called `eval` because `python main.py eval RUN_DIR` already scores block-1 extraction runs.
+
+## RAG layout
+
+```
+src/rag/             ingest, chunk, index, retrieve, answer (config.py has paths and constants)
+src/rag_eval/        test-set lint, scoring, judge, gate
+data/doc_meta.yaml   one entry per raw file: title, doc_type, as_of, source_url, versions
+data/html/           saved listing pages
+data/md/             Markdown per document version (generated)
+data/ocr/            OCR output for pages with no text layer (generated, committed)
+data/chunks.jsonl    chunks with metadata (generated, committed)
+prompts/rag/         RAG and judge prompts with their own changelog (planned)
+evals/               test set, labels, baseline (planned)
+index/, .cache/, output/   rebuilt locally, not committed
+```

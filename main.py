@@ -84,8 +84,39 @@ def cmd_report(_):
     print(f"Updated {build_report()}")
 
 
+# --- RAG pipeline commands (tasks/hw02-plan.md). Stubs until their phase lands. ---
+RAG_STUBS = {
+    "ingest": (2, "Extract PDFs and HTML to Markdown in data/md/ (normalize, dedup, split versions)"),
+    "ocr": (3, "Run Docling on pages marked ocr_required and write data/ocr/"),
+    "chunk": (4, "Chunk data/md/ by heading into data/chunks.jsonl"),
+    "index": (5, "Embed data/chunks.jsonl into Qdrant and build the BM25 index"),
+    "search": (5, "Search the index (vector, bm25, hybrid, rerank) and print the top hits"),
+    "ask": (6, "Answer a question from retrieved chunks, with citations or an abstain"),
+    "eval-retrieval": (7, "recall@k and MRR for each search config on the test set"),
+    "rag-eval": (7, "Score RAG answers on the test set, run the judge, check the gate"),
+    "rag-all": (9, "Run ingest, chunk, index and both evals in one go"),
+}
+
+
+def cmd_rag_stub(args):
+    phase, what = RAG_STUBS[args.cmd]
+    print(f"`{args.cmd}` is not implemented yet. It lands in Phase {phase} of tasks/hw02-plan.md: {what}.")
+    raise SystemExit(2)
+
+
+def _add_rag_stubs(sub):
+    for name, (phase, what) in RAG_STUBS.items():
+        p = sub.add_parser(name, help=f"[RAG, phase {phase}, not implemented] {what}")
+        if name == "search":
+            p.add_argument("query")
+            p.add_argument("--config", choices=["vector", "bm25", "hybrid", "rerank"], default="hybrid")
+        elif name == "ask":
+            p.add_argument("question")
+        p.set_defaults(fn=cmd_rag_stub)
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Structured extraction service")
+    parser = argparse.ArgumentParser(description="Structured extraction service and RAG pipeline")
     sub = parser.add_subparsers(dest="cmd", required=True)
 
     sub.add_parser("extract", help="Extract and cache text from all PDFs").set_defaults(fn=cmd_extract)
@@ -116,6 +147,8 @@ def main():
     p = sub.add_parser("report", help="Aggregate all scored runs into REPORT.md")
     p.add_argument("--all", action="store_true", required=True, help="Include every run in results/")
     p.set_defaults(fn=cmd_report)
+
+    _add_rag_stubs(sub)
 
     args = parser.parse_args()
     args.fn(args)

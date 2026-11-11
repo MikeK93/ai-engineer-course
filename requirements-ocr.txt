@@ -1,0 +1,3 @@
+# Only for `python main.py ocr` (Phase 3). Heavy: pulls in PyTorch and OCR models.
+# Not needed for ingest, chunk, index, ask, or CI.
+docling>=2.0
