@@ -1,6 +1,5 @@
 import argparse
 import json
-import os
 from dataclasses import replace
 from pathlib import Path
 
@@ -165,7 +164,7 @@ def main():
 
     p = sub.add_parser("ingest", help="[RAG] Extract PDFs and HTML to Markdown in data/md/ (normalize, dedup, split versions)")
     p.add_argument("--full", action="store_true", help="Ignore the extraction cache and re-extract every file")
-    p.add_argument("--workers", type=int, default=min(4, os.cpu_count() or 1), help="Parallel extraction processes")
+    p.add_argument("--workers", type=int, default=1, help="Parallel extraction processes")
     p.add_argument("--only", nargs="+", help="Trial run: only catalog files whose path contains one of these texts")
     p.add_argument("--out", help="Write md/, manifest.json and audit.jsonl here instead of data/")
     p.set_defaults(fn=cmd_ingest)
