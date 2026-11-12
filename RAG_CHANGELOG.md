@@ -15,6 +15,18 @@ Rules: one entry per meaningful change (code, data, prompt, config, model). Reco
 
 ---
 
+## 2026-11-12 | Phase 4 | Chunking decisions (plan only, no code yet)
+
+What: two decisions recorded in `tasks/hw02-plan.md` before any chunking code.
+1. Chunk sizes (target about 400 tokens, hard cap 480) are counted with the embedding model's own tokenizer (`BAAI/bge-small-en-v1.5`), not `cl100k_base`. The tokenizer sits behind one function in `tokens.py`. `tiktoken` is used only for the answer-model context budget in Phase 6.
+2. A chunk with no heading gets `section` = `<title> > page <n>` for citations. The embedded text uses the title only, and each chunk carries `section_source: heading | page`.
+
+Why:
+- **Tokenizer:** `cl100k_base` undercounts number-heavy text such as financial tables, because the BERT-style tokenizer splits digits and punctuation into more pieces. A chunk of 480 by the plan's count can be over 512 for the model, which then silently drops the end of it. Counting with the model's tokenizer makes the cap match what the model really reads. It also keeps one embedding model in the whole app.
+- **Section fallback:** the PDF converter finds headings unevenly (`gs01` has only a few). A page-based fallback keeps citations meaningful. Keeping the page number out of the embedded text stops a meaningless number from distorting search. `section_source` lets the comparison table still count how often headings were missing. Rejected: title only (vague citations), empty section (blank citations, and the plan's own empty-section check would fail).
+
+Effect: none yet. Both decisions are checked by the Phase 4 comparison table, with the number of chunks over 512 model tokens expected to be 0.
+
 ## 2026-11-12 | Phase 3 | OCR command and OCR pages merged   (commit pending)
 
 What: added `src/rag/ocr.py` and `python main.py ocr` (`--only`, `--limit`). It OCRs every page in the manifest's `ocr_required_pages` with Docling on CPU and writes `data/ocr/<doc_id>/page-<n>.md`; the next `ingest` merges them. Ran it on the corpus: 124 pages (131 total with the 7 trial pages), then re-ingested.
