@@ -167,7 +167,7 @@ Optional `.env` variables (defaults shown in `.env.example`):
 
 | Command | Phase | Status |
 |---|---|---|
-| `python main.py ingest` | 2 | not implemented |
+| `python main.py ingest [--full] [--workers N]` | 2 | implemented |
 | `python main.py ocr` | 3 | not implemented |
 | `python main.py chunk` | 4 | not implemented |
 | `python main.py index` | 5 | not implemented |

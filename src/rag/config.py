@@ -5,6 +5,8 @@ pipeline needs and reuses ROOT, DATA, PDFS and PROMPTS from there.
 """
 
 import os
+from dataclasses import dataclass
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -35,6 +37,8 @@ EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
 
 # --- pipeline constants -----------------------------------------------------
 PIPELINE_VERSION = "rag-v1"           # bump when ingest or chunk behavior changes
+EXTRACT_VERSION = "extract-v1"        # bump when an extractor changes: invalidates the extraction cache
+EXTRACT_CACHE = CACHE_DIR / "ingest"  # extracted pages, keyed by file hash + EXTRACT_VERSION
 
 MIN_CHARS_PER_PAGE = 50               # a page below this with an image is `ocr_required`
 NEAR_DUP_JACCARD = 0.8                # word 5-shingles
@@ -47,6 +51,19 @@ K = 5                                 # chunks sent to the model
 CANDIDATES = 20                       # per search before fusion, and into the reranker
 RRF_K = 60
 CONTEXT_BUDGET = 2500                 # tokens of sources in the prompt
+
+@dataclass(frozen=True)
+class IngestPaths:
+    """Every location `ingest` reads or writes. Tests pass a temp folder instead of the defaults."""
+
+    data: Path = DATA
+    doc_meta: Path = DOC_META
+    md: Path = MD_DIR
+    ocr: Path = OCR_DIR
+    manifest: Path = MANIFEST
+    audit: Path = AUDIT
+    cache: Path = EXTRACT_CACHE
+
 
 # --- models (override in .env) ----------------------------------------------
 EMBED_MODEL = os.environ.get("EMBED_MODEL", "BAAI/bge-small-en-v1.5")
