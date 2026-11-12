@@ -14,6 +14,9 @@ from .models import OK, Page
 _COMMENT = re.compile(r"<!--.*?-->", re.S)
 _BR = re.compile(r"<br\s*/?>", re.I)
 _INLINE_TAG = re.compile(r"</?(?:u|b|i|em|strong|sup|sub|span)\b[^>]*>", re.I)
+_LEADERS = re.compile(r"(?:\s?\.){4,}")        # table-of-contents dot leaders: "Fees ........ 14", "Fees . . . . 14"
+_TABLE_SEPARATOR = re.compile(r"^\|[\s:|-]+\|$")   # |-----|:---:|  (padded wide by some converters)
+_SEPARATOR_DASHES = re.compile(r"-{4,}")             # every dash is a token for the embedding model
 _PAGE_OF = re.compile(r"^\|?\s*(?:page\s+)?\d{1,4}\s*(?:of|/)\s*\d{1,4}\s*\|?$", re.I)
 _BARE_NUMBER = re.compile(r"^\|?\s*(?:page\s+)?\d{1,4}\s*\|?$", re.I)
 _HYPHEN_BREAK = re.compile(r"(?<=[a-z])-\n(?=[a-z])")
@@ -45,7 +48,9 @@ def _clean_text(text: str) -> str:
     text = _COMMENT.sub("", text)
     text = _BR.sub(" ", text)
     text = _INLINE_TAG.sub("", text)
+    text = _LEADERS.sub(" ", text)               # each dot is a token for the embedding model: pure noise
     lines = [_EXTRA_SPACE.sub(" ", line).rstrip() for line in text.split("\n")]
+    lines = [_SEPARATOR_DASHES.sub("---", line) if _TABLE_SEPARATOR.match(line) else line for line in lines]
     text = "\n".join(lines)
     text = _HYPHEN_BREAK.sub("", text)
     return text.strip()

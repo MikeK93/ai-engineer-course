@@ -109,8 +109,32 @@ def cmd_ocr(args):
           "Now run `python main.py ingest` to merge them.")
 
 
+def cmd_chunk(args):
+    from src.rag.chunk import chunk_corpus
+    from src.rag.config import ChunkPaths
+
+    paths = ChunkPaths()
+    if args.out:
+        out = Path(args.out)
+        paths = replace(paths, chunks=out / "chunks.jsonl", summary=out / "chunks_manifest.json")
+    summary = chunk_corpus(paths=paths, only=args.only)
+    print(f"{summary['n_chunks']} chunks ({summary['n_boilerplate']} boilerplate, {summary['n_ocr']} from OCR pages, "
+          f"{summary['n_page_sections']} with a page section), max {summary['max_tokens']} tokens")
+    print(f"Written: {paths.chunks} and {paths.summary}")
+    if summary["over_cap"]:
+        print(f"{len(summary['over_cap'])} chunks are over the cap, for example {summary['over_cap'][:3]}")
+        raise SystemExit(1)
+
+
+def cmd_chunk_compare(args):
+    from measurements.chunking.compare import TARGETS, compare_chunkers
+
+    config = Path(args.config) if args.config else TARGETS
+    print(compare_chunkers(config=config))
+    print(f"Compared the documents in {config}. Also written to output/chunk-compare.md")
+
+
 RAG_STUBS = {
-    "chunk": (4, "Chunk data/md/ by heading into data/chunks.jsonl"),
     "index": (5, "Embed data/chunks.jsonl into Qdrant and build the BM25 index"),
     "search": (5, "Search the index (vector, bm25, hybrid, rerank) and print the top hits"),
     "ask": (6, "Answer a question from retrieved chunks, with citations or an abstain"),
@@ -181,6 +205,15 @@ def main():
     p.add_argument("--only", nargs="+", help="Only files whose path contains one of these texts")
     p.add_argument("--limit", type=int, help="Stop after this many pages (trial run)")
     p.set_defaults(fn=cmd_ocr)
+
+    p = sub.add_parser("chunk", help="[RAG] Chunk data/md/ by heading into data/chunks.jsonl")
+    p.add_argument("--only", nargs="+", help="Trial run: only documents whose id contains one of these texts")
+    p.add_argument("--out", help="Write chunks.jsonl and chunks_manifest.json here instead of data/")
+    p.set_defaults(fn=cmd_chunk)
+
+    p = sub.add_parser("chunk-compare", help="[RAG] Compare heading-aware chunks with fixed windows")
+    p.add_argument("--config", help="YAML of documents to compare (default measurements/chunking/targets.yaml)")
+    p.set_defaults(fn=cmd_chunk_compare)
 
     _add_rag_stubs(sub)
 

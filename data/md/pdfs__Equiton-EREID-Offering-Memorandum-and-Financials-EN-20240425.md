@@ -5,7 +5,7 @@ source: pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf
 doc_type: fund_om
 as_of: '2024-04-25'
 pages: 1-163
-content_hash: 2e5331e9327fe770033ec5dcdbeded9881b34936dd9d0a7526193359aacd56c2
+content_hash: 9dc7c80b769a3def8dcea5421d2953dfaab3dcae0492a86afe5ae9bc41c83f06
 ---
 
 <!-- page 1 -->
@@ -61,195 +61,195 @@ _This Confidential Offering Memorandum is intended for use by investors solely i
 
 #### **TABLE OF CONTENTS**
 
-|GLOSSARY ............................................................................................................................... 4|
+|GLOSSARY 4|
 |---|
-|SUMMARY ...............................................................................................................................11|
-|USE OF AVAILABLE FUNDS ...................................................................................................19|
-|Funds ..................................................................................................................................19|
-|Use of Available Funds .......................................................................................................20|
-|THE BUSINESS OF THE TRUST .............................................................................................20 |
-|Structure .............................................................................................................................20|
-|Trustees ........................................................................................................................21 |
-|The Trust’s Business...........................................................................................................22 |
-|The Partnership’s Business.................................................................................................22|
-|Investment Objectives and Strategy ..............................................................................22|
-|Development of Business ...................................................................................................24|
-|Market Information ..............................................................................................................24|
-|Income-Producing Properties ........................................................................................25|
-|Real Estate Construction and Development ..................................................................28 |
-|Real Estate Lending and Financing ...............................................................................28 |
-|Long-Term Objective...........................................................................................................29|
-|Short-Term Objectives ........................................................................................................29|
-|Insufficient Funds ................................................................................................................30|
-|MATERIAL CONTRACTS .........................................................................................................30|
-|Declaration of Trust .............................................................................................................30|
-|General .........................................................................................................................30|
-|Trustees ........................................................................................................................31|
-|Conflict of Interest Restrictions and Provisions ..............................................................31|
-|The Partnership has similar conflict of interest provisions to those described above. ....34|
-|Independent Trustee Matters ........................................................................................34|
-|Finance Committee .......................................................................................................34 |
-|Additional Committees ..................................................................................................35 |
-|Remuneration of Trustees and Senior Officers ..............................................................35|
-|Trust Units .....................................................................................................................35|
-|Special Voting Units ......................................................................................................36|
-|Purchase of Trust Units .................................................................................................36|
-|Redemption of Trust Units .............................................................................................36|
-|Meetings of Voting Unitholders ......................................................................................38 |
-|Issuance of Trust Units ..................................................................................................40|
-|Limitation on Non-Resident Ownership .........................................................................40|
-|Information and Reports ................................................................................................40|
-|Amendments to Declaration of Trust .............................................................................41|
-|Term of Trust.................................................................................................................41|
-|Distribution Policy ..........................................................................................................41|
-|Distribution Reinvestment Plan .....................................................................................43|
-|Investment Guidelines and Operating Policies ..............................................................43|
-|Investment Guidelines ...................................................................................................43|
-|Operating Policies .........................................................................................................46|
-|Amendments to Investment Guidelines and Operating Policies .....................................48|
-|The LP Agreement ..............................................................................................................48|
+|SUMMARY 11|
+|USE OF AVAILABLE FUNDS 19|
+|Funds 19|
+|Use of Available Funds 20|
+|THE BUSINESS OF THE TRUST 20 |
+|Structure 20|
+|Trustees 21 |
+|The Trust’s Business 22 |
+|The Partnership’s Business 22|
+|Investment Objectives and Strategy 22|
+|Development of Business 24|
+|Market Information 24|
+|Income-Producing Properties 25|
+|Real Estate Construction and Development 28 |
+|Real Estate Lending and Financing 28 |
+|Long-Term Objective 29|
+|Short-Term Objectives 29|
+|Insufficient Funds 30|
+|MATERIAL CONTRACTS 30|
+|Declaration of Trust 30|
+|General 30|
+|Trustees 31|
+|Conflict of Interest Restrictions and Provisions 31|
+|The Partnership has similar conflict of interest provisions to those described above 34|
+|Independent Trustee Matters 34|
+|Finance Committee 34 |
+|Additional Committees 35 |
+|Remuneration of Trustees and Senior Officers 35|
+|Trust Units 35|
+|Special Voting Units 36|
+|Purchase of Trust Units 36|
+|Redemption of Trust Units 36|
+|Meetings of Voting Unitholders 38 |
+|Issuance of Trust Units 40|
+|Limitation on Non-Resident Ownership 40|
+|Information and Reports 40|
+|Amendments to Declaration of Trust 41|
+|Term of Trust 41|
+|Distribution Policy 41|
+|Distribution Reinvestment Plan 43|
+|Investment Guidelines and Operating Policies 43|
+|Investment Guidelines 43|
+|Operating Policies 46|
+|Amendments to Investment Guidelines and Operating Policies 48|
+|The LP Agreement 48|
 
 <!-- page 6 -->
 
-|Limited Liability of Limited Partners ...............................................................................48|
+|Limited Liability of Limited Partners 48|
 |---|
-|LP Units ........................................................................................................................48|
-|Restrictions on Transfers of LP Units ............................................................................49|
-|Power of Attorney ..........................................................................................................49 |
-|Allocation of Net Income or Loss ...................................................................................49 |
-|Distributions ..................................................................................................................50|
-|Reporting to Limited Partners ........................................................................................50|
-|Meetings of Limited Partners .........................................................................................50|
-|Indemnification of General Partner ................................................................................51|
-|Books and Records .......................................................................................................51|
-|Right to Inspect Books and Records .............................................................................51|
-|Termination ...................................................................................................................52|
-|The General Partner......................................................................................................52|
-|The Asset Management Agreement ....................................................................................53|
+|LP Units 48|
+|Restrictions on Transfers of LP Units 49|
+|Power of Attorney 49 |
+|Allocation of Net Income or Loss 49 |
+|Distributions 50|
+|Reporting to Limited Partners 50|
+|Meetings of Limited Partners 50|
+|Indemnification of General Partner 51|
+|Books and Records 51|
+|Right to Inspect Books and Records 51|
+|Termination 52|
+|The General Partner 52|
+|The Asset Management Agreement 53|
 |The Commercial LP Agreement, Financial LP Agreement and Development LP|
-|Agreement ..........................................................................................................................55|
-|Allocation of Net Income or Loss ...................................................................................55|
-|Distributions ..................................................................................................................56|
-|The Commercial Asset Management Agreement ................................................................56|
-|Duties ............................................................................................................................57|
-|Term of the Commercial Asset Management Agreement ..............................................57|
-|Fees ..............................................................................................................................58|
-|Performance Incentive ..................................................................................................58|
-|The Financial Asset Management Agreement .....................................................................58|
-|Duties ............................................................................................................................58|
-|Term of the Financial Asset Management Agreement ...................................................59|
-|Fees ..............................................................................................................................59|
-|Performance Incentive ..................................................................................................60|
-|The Development Asset Management Agreement ..............................................................60|
-|Duties ............................................................................................................................60|
-|Term of the Development Asset Management Agreement ............................................60|
-|Fees ..............................................................................................................................61|
+|Agreement 55|
+|Allocation of Net Income or Loss 55|
+|Distributions 56|
+|The Commercial Asset Management Agreement 56|
+|Duties 57|
+|Term of the Commercial Asset Management Agreement 57|
+|Fees 58|
+|Performance Incentive 58|
+|The Financial Asset Management Agreement 58|
+|Duties 58|
+|Term of the Financial Asset Management Agreement 59|
+|Fees 59|
+|Performance Incentive 60|
+|The Development Asset Management Agreement 60|
+|Duties 60|
+|Term of the Development Asset Management Agreement 60|
+|Fees 61|
 |INTERESTS OF TRUSTEES, MANAGEMENT, PROMOTERS AND PRINCIPAL HOLDERS ..62|
-|Compensation and Securities Held .....................................................................................62|
-|Management Experience ....................................................................................................63|
-|Penalties, Sanctions, Bankruptcy and Criminal or Quasi-Criminal Matters ..........................65|
-|Certain Loans .....................................................................................................................65|
-|CAPITAL STRUCTURE ............................................................................................................66|
-|Trust Unit Capital ................................................................................................................66|
-|Long Term Debt ..................................................................................................................66|
-|Prior Sales ..........................................................................................................................66|
-|TERMS OF TRUST UNITS .......................................................................................................68|
-|Voting Rights .................................................................................................................68|
-| Redemption of Trust Units .............................................................................................68|
-|Distribution Policy ..........................................................................................................68|
-|SUBSCRIPTION PROCEDURE ...............................................................................................69|
-|PURCHASE OPTIONS .............................................................................................................70|
+|Compensation and Securities Held 62|
+|Management Experience 63|
+|Penalties, Sanctions, Bankruptcy and Criminal or Quasi-Criminal Matters 65|
+|Certain Loans 65|
+|CAPITAL STRUCTURE 66|
+|Trust Unit Capital 66|
+|Long Term Debt 66|
+|Prior Sales 66|
+|TERMS OF TRUST UNITS 68|
+|Voting Rights 68|
+| Redemption of Trust Units 68|
+|Distribution Policy 68|
+|SUBSCRIPTION PROCEDURE 69|
+|PURCHASE OPTIONS 70|
 
 <!-- page 7 -->
 
-|Class A Trust Units........................................................................................................70|
+|Class A Trust Units 70|
 |---|
-|Class B Trust Units........................................................................................................71|
-|Class C Trust Units .......................................................................................................71|
-|Class F Trust Units ........................................................................................................72|
-|Class I Trust Units .........................................................................................................72 |
-|CERTAIN CANADIAN FEDERAL INCOME TAX CONSIDERATIONS ......................................72 |
-|Status of the Trust .........................................................................................................74|
-|Taxation of the Trust .....................................................................................................75|
-|Taxation of the Trust’s Subsidiary Partnerships .............................................................76|
-|Taxation of Trust Unitholders ........................................................................................77|
-|Taxation of Capital Gains and Capital Losses ...............................................................80|
-|Eligibility for Investment .................................................................................................81|
-|INFORMATION EXCHANGE OBLIGATIONS .....................................................................81|
-|COMPENSATION PAID TO SELLERS AND FINDERS ......................................................82|
+|Class B Trust Units 71|
+|Class C Trust Units 71|
+|Class F Trust Units 72|
+|Class I Trust Units 72 |
+|CERTAIN CANADIAN FEDERAL INCOME TAX CONSIDERATIONS 72 |
+|Status of the Trust 74|
+|Taxation of the Trust 75|
+|Taxation of the Trust’s Subsidiary Partnerships 76|
+|Taxation of Trust Unitholders 77|
+|Taxation of Capital Gains and Capital Losses 80|
+|Eligibility for Investment 81|
+|INFORMATION EXCHANGE OBLIGATIONS 81|
+|COMPENSATION PAID TO SELLERS AND FINDERS 82|
 |RELATIONSHIP BETWEEN THE TRUST, THE EQUITON AGENT, AND OTHER RELATED|
-|PARTIES ..................................................................................................................................82|
-|The Equiton Agent ........................................................................................................83|
-|Equiton Partners ...........................................................................................................83|
-|Equiton Development ....................................................................................................83|
-|The General Partner......................................................................................................83|
-|The Commercial General Partner ..................................................................................83|
-|The Financial General Partner ......................................................................................84|
-|RISK FACTORS .......................................................................................................................84|
-|Investment Risk ..................................................................................................................84|
-|This is a Blind Pool Offering ..........................................................................................84|
-|Availability of Distributable Income ................................................................................85|
-|Structural Subordination of Trust Units ..........................................................................85|
-|Trust Unitholder Liability ................................................................................................86|
-|Nature of Investment .....................................................................................................86|
-|Restrictions on Ownership of Trust Units .......................................................................86|
-|Liquidity of Trust Units and Redemption Risk ................................................................86|
-|Risks Associated with Redemptions ..............................................................................87|
-|Use of Available Cash ...................................................................................................87|
-|Redemption Price ..........................................................................................................87|
-|Redemption Price Determination ...................................................................................87|
-|Payment of Redemption Notes ......................................................................................87|
-|Redemption Notes will be unsecured ............................................................................87|
-|Priority of Redemption Notes over Trust Units ...............................................................88|
-|Tax Related Risks .........................................................................................................88|
-|Dilution ..........................................................................................................................90|
-|Trust Risk ............................................................................................................................90|
-|Track Record.................................................................................................................90|
-|Access to Capital ..........................................................................................................91|
-| Dependence on the Partnership ....................................................................................91|
-|Dependence on Key Personnel .....................................................................................91|
-|Dependence on Equiton Partners ..................................................................................92|
-| Potential Conflicts of Interest .........................................................................................92|
+|PARTIES 82|
+|The Equiton Agent 83|
+|Equiton Partners 83|
+|Equiton Development 83|
+|The General Partner 83|
+|The Commercial General Partner 83|
+|The Financial General Partner 84|
+|RISK FACTORS 84|
+|Investment Risk 84|
+|This is a Blind Pool Offering 84|
+|Availability of Distributable Income 85|
+|Structural Subordination of Trust Units 85|
+|Trust Unitholder Liability 86|
+|Nature of Investment 86|
+|Restrictions on Ownership of Trust Units 86|
+|Liquidity of Trust Units and Redemption Risk 86|
+|Risks Associated with Redemptions 87|
+|Use of Available Cash 87|
+|Redemption Price 87|
+|Redemption Price Determination 87|
+|Payment of Redemption Notes 87|
+|Redemption Notes will be unsecured 87|
+|Priority of Redemption Notes over Trust Units 88|
+|Tax Related Risks 88|
+|Dilution 90|
+|Trust Risk 90|
+|Track Record 90|
+|Access to Capital 91|
+| Dependence on the Partnership 91|
+|Dependence on Key Personnel 91|
+|Dependence on Equiton Partners 92|
+| Potential Conflicts of Interest 92|
 
 <!-- page 8 -->
 
-|Internal Controls ............................................................................................................93|
+|Internal Controls 93|
 |---|
-|Significant Influence by Jason Roque, Equiton Partners and other Related Parties ......93|
-|Litigation Risks ..............................................................................................................93|
-|Assumption of Liabilities ................................................................................................94|
-|Reliance on External Sources of Capital .......................................................................94|
-|Derivatives Risks ...........................................................................................................94|
-|Restrictions on Potential Growth and Reliance on Credit Facilities ................................94|
-|Risk of Real Estate Investment and Ownership ...................................................................95|
-|Acquisition Risk .............................................................................................................95|
-|Lending and Financing Risk ..........................................................................................96|
-|Credit Risk and Default in Repayment Obligations by Borrowers ..................................96|
+|Significant Influence by Jason Roque, Equiton Partners and other Related Parties 93|
+|Litigation Risks 93|
+|Assumption of Liabilities 94|
+|Reliance on External Sources of Capital 94|
+|Derivatives Risks 94|
+|Restrictions on Potential Growth and Reliance on Credit Facilities 94|
+|Risk of Real Estate Investment and Ownership 95|
+|Acquisition Risk 95|
+|Lending and Financing Risk 96|
+|Credit Risk and Default in Repayment Obligations by Borrowers 96|
 |Inability to Realize on or Dispose of Security Granted by Borrowers on a Defaulted|
-|Loan ..............................................................................................................................96|
-|Interest Rate Risk ..........................................................................................................97|
-|Construction and Development Risk .............................................................................97|
-|Environmental Matters ..................................................................................................98|
-|Uninsured Losses .........................................................................................................98|
-|Reliance on Third Party Management ...........................................................................98|
-|Competition for Real Property Investments ...................................................................98|
-|Revenue Shortfalls ........................................................................................................99|
-|Fluctuations in Capitalization Rates ...............................................................................99|
-|REPORTING OBLIGATIONS ...................................................................................................99|
-|RESALE RESTRICTIONS ...................................................................................................... 100|
-|SUBSCRIBERS’ RIGHTS OF ACTION ................................................................................... 101|
-|Two Day Cancellation Right for a Subscriber .................................................................... 101|
-|Rights of Action for Misrepresentation ............................................................................... 101|
-|Cautionary Statement Regarding Report, Statement or Opinion by Expert ....................... 112|
-|ANCILLARY MATTERS .......................................................................................................... 112|
-|Legal Counsel ................................................................................................................... 112|
-|Auditor, Transfer Agent and Registrar ............................................................................... 112|
-|SCHEDULE “A” – SUMMARY INFORMATION ABOUT MORTGAGES .................................. 114|
-|SCHEDULE “B” – HISTORICAL DISTRIBUTIONS ................................................................. 115|
-|SCHEDULE “C” – HISTORICAL REDEMPTIONS .................................................................. 117|
-|SCHEDULE “L” – LOANS ....................................................................................................... 120|
-|SCHEDULE “P” – PROJECTS ................................................................................................ 121|
-|SCHEDULE “P-1” – COMMERCIAL PROPERTIES ................................................................ 126|
+|Loan 96|
+|Interest Rate Risk 97|
+|Construction and Development Risk 97|
+|Environmental Matters 98|
+|Uninsured Losses 98|
+|Reliance on Third Party Management 98|
+|Competition for Real Property Investments 98|
+|Revenue Shortfalls 99|
+|Fluctuations in Capitalization Rates 99|
+|REPORTING OBLIGATIONS 99|
+|RESALE RESTRICTIONS 100|
+|SUBSCRIBERS’ RIGHTS OF ACTION 101|
+|Two Day Cancellation Right for a Subscriber 101|
+|Rights of Action for Misrepresentation 101|
+|Cautionary Statement Regarding Report, Statement or Opinion by Expert 112|
+|ANCILLARY MATTERS 112|
+|Legal Counsel 112|
+|Auditor, Transfer Agent and Registrar 112|
+|SCHEDULE “A” – SUMMARY INFORMATION ABOUT MORTGAGES 114|
+|SCHEDULE “B” – HISTORICAL DISTRIBUTIONS 115|
+|SCHEDULE “C” – HISTORICAL REDEMPTIONS 117|
+|SCHEDULE “L” – LOANS 120|
+|SCHEDULE “P” – PROJECTS 121|
+|SCHEDULE “P-1” – COMMERCIAL PROPERTIES 126|
 
 <!-- page 9 -->
 

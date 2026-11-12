@@ -169,7 +169,8 @@ Optional `.env` variables (defaults shown in `.env.example`):
 |---|---|---|
 | `python main.py ingest [--full] [--workers N]` | 2 | implemented |
 | `python main.py ocr [--only TEXT...] [--limit N]` | 3 | implemented (needs `pip install -r requirements-ocr.txt`) |
-| `python main.py chunk` | 4 | not implemented |
+| `python main.py chunk [--only TEXT...] [--out DIR]` | 4 | implemented |
+| `python main.py chunk-compare` | 4 | implemented |
 | `python main.py index` | 5 | not implemented |
 | `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank` | 5 | not implemented |
 | `python main.py ask "<question>"` | 6 | not implemented |
@@ -179,11 +180,14 @@ Optional `.env` variables (defaults shown in `.env.example`):
 
 `rag-eval` is not called `eval` because `python main.py eval RUN_DIR` already scores block-1 extraction runs.
 
+Chunking strategy comparison (by heading vs fixed windows) and the decision are in `RAG_CHANGELOG.md`. Documents to compare are listed in `measurements/chunking/targets.yaml`.
+
 ## RAG layout
 
 ```
 src/rag/             ingest, chunk, index, retrieve, answer (config.py has paths and constants)
 src/rag_eval/        test-set lint, scoring, judge, gate
+measurements/chunking/   chunk-compare only: fixed-window baseline, targets.yaml
 data/doc_meta.yaml   one entry per raw file: title, doc_type, as_of, source_url, versions
 data/html/           saved listing pages
 data/md/             Markdown per document version (generated)

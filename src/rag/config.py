@@ -46,8 +46,17 @@ MIN_DRAWINGS_FOR_OCR = 20             # text drawn as vector outlines has no tex
 NEAR_DUP_JACCARD = 0.8                # word 5-shingles
 SHINGLE_WORDS = 5
 
-CHUNK_TOKENS = 400                    # target size, cl100k_base
+CHUNK_TOKENS = 400                    # target size, counted with the embedding model's tokenizer
 CHUNK_MAX_TOKENS = 480                # hard cap including the section path (embedding model reads 512)
+CHUNK_MIN_TOKENS = 80                 # a new heading only starts a new chunk once the current one has this many
+# A chunk is tagged `boilerplate` (kept, but excluded from search) when its section path contains one of
+# these words, or its text starts with one of these legal phrases.
+BOILERPLATE_HEADINGS = ("disclaimer", "confidentiality", "table of contents", "non-endorsement")
+BOILERPLATE_PHRASES = (
+    "this information supplied herein is from sources we deem reliable",
+    "the information contained in the following marketing brochure is proprietary and strictly confidential",
+    "marcus & millichap is not affiliated with, sponsored by, or endorsed by",
+)
 
 K = 5                                 # chunks sent to the model
 CANDIDATES = 20                       # per search before fusion, and into the reranker
@@ -66,6 +75,16 @@ class IngestPaths:
     manifest_dir: Path = MANIFEST_DIR
     audit_dir: Path = AUDIT_DIR
     cache: Path = EXTRACT_CACHE
+
+
+@dataclass(frozen=True)
+class ChunkPaths:
+    """Every location `chunk` reads or writes."""
+
+    md: Path = MD_DIR
+    manifest: Path = MANIFEST            # read for dataset_version
+    chunks: Path = CHUNKS
+    summary: Path = DATA / "chunks_manifest.json"
 
 
 # --- models (override in .env) ----------------------------------------------

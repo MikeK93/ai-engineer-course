@@ -5,7 +5,7 @@ source: pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).p
 doc_type: fund_om
 as_of: '2025-05-01'
 pages: 1-207
-content_hash: 6eef1dca16a365205895fa424821fdbb8b787571ed4624bb17168ebd69f2346b
+content_hash: 00d4eb7b8b28049fe7e55434e5ef5b92704644da9476f3ab2217b0aac4ff1e57
 ---
 
 <!-- page 1 -->
@@ -4665,12 +4665,12 @@ As the Trust is providing disclosure on 10 or more interests in real property, i
 |**CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST** **Consolidated Financial Statements** **For the Year Ended December 31, 2024**|
 |---|
 |**TABLE OF CONTENTS**|
-|**Independent Auditor's Report.......................................................................................................................................**|
-|**Consolidated Statement of Financial Position**................................................................................................................**1**|
-|**Consolidated Statement of Net Income and Comprehensive Income**..........................................................................**2**|
-|**Consolidated Statement of Changes in Net Assets Attributable to Unitholders**..........................................................**3**|
-|**Consolidated Statement of Cash Flows**..........................................................................................................................**4**|
-|**Notes to the Consolidated Financial Statements**............................................................................................................**5 - 41**|
+|**Independent Auditor's Report **|
+|**Consolidated Statement of Financial Position** **1**|
+|**Consolidated Statement of Net Income and Comprehensive Income** **2**|
+|**Consolidated Statement of Changes in Net Assets Attributable to Unitholders** **3**|
+|**Consolidated Statement of Cash Flows** **4**|
+|**Notes to the Consolidated Financial Statements** **5 - 41**|
 
 CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST - Consolidated Financial Statements
 

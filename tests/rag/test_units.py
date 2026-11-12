@@ -120,6 +120,16 @@ def test_normalize_removes_repeating_headers_and_page_numbers_but_not_table_rows
         assert "Unique content" in page.text
 
 
+def test_normalize_removes_dot_leaders_but_keeps_ellipses_and_decimals():
+    [page] = normalize_pages(pages("Fees ............ 14\n\nRisks . . . . . 15\n\nWait... then 1.2.3 and 4.5 stay"))
+    assert page.text == "Fees 14\n\nRisks 15\n\nWait... then 1.2.3 and 4.5 stay"
+
+
+def test_normalize_shortens_padded_table_separators_only():
+    [page] = normalize_pages(pages("| Item        | Value      |\n|------------|-----------:|\n| a---------b | 1 |"))
+    assert page.text.split("\n") == ["| Item | Value |", "|---|---:|", "| a---------b | 1 |"]
+
+
 def test_normalize_leaves_unreadable_pages_alone():
     blank = Page(number=1, text="", status=OCR_REQUIRED)
     assert normalize_pages([blank]) == [blank]

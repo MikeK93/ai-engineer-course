@@ -15,6 +15,47 @@ Rules: one entry per meaningful change (code, data, prompt, config, model). Reco
 
 ---
 
+## 2026-11-12 | Phase 4 | DECISION: production chunking is "by heading"
+
+What: the pipeline's `chunk` command uses the structure-aware "by heading" strategy (`src/rag/chunk.py`). Fixed 400/80 windows are kept only as a measurement baseline, in `measurements/chunking/` (`compare.py`, `fixed.py`, `targets.yaml`), run with `python main.py chunk-compare`. The documents compared are listed in `measurements/chunking/targets.yaml`, and `chunk` does not read that file. Sizes are counted with the embedding model's own tokenizer (bge-small, 512-token limit).
+
+Evidence (the Centurion row is its first 40 pages):
+
+| Document | Strategy | Chunks | Avg tokens | Max tokens | Mid-sentence starts | Cut table rows | Empty section | Over 512 |
+|---|---|---|---|---|---|---|---|---|
+| gs01 (offering summary table) | by heading | 19 | 177 | 394 | 0 | 0 | 0 | 0 |
+| gs01 | fixed 400/80 | 10 | 382 | 400 | 1 | 4 | 10 | 0 |
+| gs9 (dense paragraphs) | by heading | 4 | 227 | 394 | 0 | 0 | 0 | 0 |
+| gs9 | fixed 400/80 | 3 | 350 | 400 | 1 | 0 | 3 | 0 |
+| Retreat at Arcway (mid-size OM) | by heading | 80 | 267 | 477 | 0 | 0 | 0 | 0 |
+| Retreat at Arcway | fixed 400/80 | 61 | 398 | 400 | 23 | 35 | 61 | 0 |
+| Centurion (pages 1-40) | by heading | 137 | 236 | 479 | 0 | 0 | 0 | 0 |
+| Centurion (pages 1-40) | fixed 400/80 | 98 | 398 | 400 | 49 | 28 | 98 | 0 |
+
+Why by heading:
+- It never starts a chunk mid-sentence, never cuts a table row, and every chunk has a section. Fixed windows did all three wrongly: 23 mid-sentence starts and 35 cut rows on Retreat at Arcway, 49 and 28 on the Centurion slice, and no section on any chunk.
+- The section is what makes a citation say where an answer came from, and `embed_prefix` (title + section) gives the embedding model context for numbers and short facts. Fixed windows have neither.
+- Tables are the content the questions depend on (rent rolls, offering summaries, financial statements). Cutting a row separates a number from its label.
+
+What it costs: chunks are smaller (average 177 to 267 tokens against about 400) and there are about 30 to 40 percent more of them, because headings end chunks early. That means more vectors and more candidates for the reranker. Both are cheap at this corpus size (5,243 chunks). The price is accepted; if retrieval recall turns out weak in Phase 7, merging adjacent small chunks is the first thing to try, not a return to fixed windows.
+
+Limits of the evidence: 4 documents, no retrieval quality measured yet. The table shows structural defects, not answer quality. Phase 7 (`eval-retrieval`) is where the choice is tested on questions; this decision stands until that shows otherwise.
+
+## 2026-11-12 | Phase 4 | Chunker, comparison and two normalize fixes   (commit pending)
+
+What: added `tokens.py`, `chunk.py`, `chunk_fixed.py`, `chunk_compare.py` and the commands `python main.py chunk` and `chunk-compare`. First full run: 5,243 chunks from 42 documents, max 480 tokens, none over the cap; `data/chunks.jsonl` and `data/chunks_manifest.json` written. Two fixes in `normalize.py`: dot leaders removed, padded table separators shortened. Re-ingested, so `data/md/` and `dataset_version` changed (`79b7bfa659c2`). 37 tests pass.
+
+Why, by decision (each one came from a defect in a real run):
+- **Boilerplate decided by the chunk's own heading, and boilerplate headings never parents.** First trial: 13 of 16 chunks of `gs01` were tagged boilerplate, because the converter made later sections children of "TABLE OF CONTENTS". Worse, a small table-of-contents chunk had absorbed the OFFERING SUMMARY table, which would have hidden the key listing data from search.
+- **A small chunk absorbs only its own child subsection, never a sibling.** Merging siblings produced labels that said where the text did not come from.
+- **Short title-like lines stay with the paragraph after them** (the converter leaves lines such as `INVESTMENT OVERVIEW` unmarked, so they ended the previous chunk).
+- **Dot leaders removed in `normalize`.** 20 chunks were over the cap (max 710) because each dot of a table-of-contents leader is a token for the embedding model. This also cut boilerplate chunks from 367 to 61.
+- **Row too wide: split into complete rows, label cells repeated.** The converter put some whole paragraphs into one table cell (Equiton, 4Q, LMIC). Cutting the row mid-text was rejected; it would break the "no cut table row" rule.
+- **Padded table separators shortened** (`|-----|` to `|---|`); every dash is a token, about 100 tokens per OCR table chunk.
+- **Chunk counts go to `data/chunks_manifest.json`**, not into the ingest manifest, so `chunk` never changes what `ingest` would archive.
+
+Effect (comparison on 4 documents, details in the README): heading-aware chunks have 0 mid-sentence starts and 0 cut table rows. Fixed 400/80 windows had 23 and 35 on Retreat at Arcway, 49 and 28 on the first 40 pages of Centurion, and no section on any chunk. Price: heading-aware chunks are smaller (average 177 to 267 tokens against about 400), so there are more of them. Open: 3 chunks are under 20 tokens; the title-before-heading orphan is not fixed; spot-check by eye is still to do.
+
 ## 2026-11-12 | Phase 4 | Chunking decisions (plan only, no code yet)
 
 What: two decisions recorded in `tasks/hw02-plan.md` before any chunking code.

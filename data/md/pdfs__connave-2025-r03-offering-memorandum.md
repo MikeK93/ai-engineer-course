@@ -7,7 +7,7 @@ as_of: 2025-04
 pages: 1-297
 ocr_pages:
 - 297
-content_hash: 66e29ac70b22e1690cfa20b3a006857220e2640375b27b2dcc04240069c3bb5e
+content_hash: 5f8c9198827303d72a47f31a746a653aa1d3c130d0855e9d2d49f1615b9a8fc9
 ---
 
 <!-- page 1 -->
@@ -30,9 +30,9 @@ Offered Notes: The Class 2A-1, Class 2M-1 and Class 2M-2 Notes. The Class 2M-2 N
 
 |Note Classes|Original Principal Balance|Class Coupon|CUSIP Number|MaturityDate|Expected Ratings (Moody's / KBRA)|Price to Investors|Initial Purchaser Discounts|Proceeds to Issuer|
 |---|---|---|---|---|---|---|---|---|
-|2A-1.........|$253,942,000|(1)|(2)|March 2045|Aa2(sf)/ A-(sf)|100.00%|0.25%|(3)|
-|2M-1 ........|$253,942,000|(1)|(2)|March 2045|A2(sf)/ BBB(sf)|100.00%|0.25%|(3)|
-|2M-2 ........|$111,570,000|(1)|(2)|March 2045|Baa1(sf)/ BBB-(sf)|100.00%|0.25%|(3)|
+|2A-1 |$253,942,000|(1)|(2)|March 2045|Aa2(sf)/ A-(sf)|100.00%|0.25%|(3)|
+|2M-1 |$253,942,000|(1)|(2)|March 2045|A2(sf)/ BBB(sf)|100.00%|0.25%|(3)|
+|2M-2 |$111,570,000|(1)|(2)|March 2045|Baa1(sf)/ BBB-(sf)|100.00%|0.25%|(3)|
 
 (1) See " _Summary of Terms — Interest_ " herein.
 
@@ -345,310 +345,310 @@ xv
 
 #### **TABLE OF CONTENTS**
 
-|FANNIE MAE IS IN CONSERVATORSHIP; POTENTIAL RECEIVERSHIP....................................................... iii |
+|FANNIE MAE IS IN CONSERVATORSHIP; POTENTIAL RECEIVERSHIP iii |
 |---|
-|IMPORTANT NOTICE REGARDING THE NOTES ................................................................................................iv|
+|IMPORTANT NOTICE REGARDING THE NOTES iv|
 |TABULAR DATA REGARDING THE OFFERED NOTES, THE EXCHANGEABLE NOTES AND CERTAIN|
-|CERTIFICATES AND INTERESTS...........................................................................................................................vi|
-|FORWARD LOOKING STATEMENTS .................................................................................................................. vii|
-|FANNIE MAE............................................................................................................................................................ vii |
-|General................................................................................................................................................................... vii |
-|Regulation and Conservatorship............................................................................................................................ vii|
-|Possibility of Future Receivership............................................................................................................................x|
-|NOTICE TO EUROPEAN ECONOMIC AREA INVESTORS ..................................................................................xi|
-|NOTICE TO UNITED KINGDOM INVESTORS ......................................................................................................xi|
-|EU AND UK SECURITIZATION RULES DUE DILIGENCE................................................................................ xii|
-|SINGAPORE EXCHANGE....................................................................................................................................... xii|
-|JAPAN....................................................................................................................................................................... xiii|
-|JAPANESE RETENTION REQUIREMENT........................................................................................................... xiii|
-|ADDITIONAL INFORMATION...............................................................................................................................xiv|
-|TRANSACTION SUMMARY .....................................................................................................................................1|
-|Transaction Diagrams...............................................................................................................................................3|
-|SUMMARY OF TERMS ..............................................................................................................................................8|
-|RISK FACTORS.........................................................................................................................................................39|
-|General....................................................................................................................................................................39|
-|Reference Obligations Are or May Become Subject to Forbearance and Payment Deferral Plans ...................40|
-|Special Risks Associated with the Collateral Administration Agreement and the Capital Contribution Agreement .......................................................................................................................................................40|
-|The Notes are Subordinate to Certain Payments Payable to Fannie Mae ..........................................................40|
-|Payments from Fannie Mae are not Guaranteed by the United States or any Other Person ..............................40|
-|Fannie Mae is Permitted to Assign its Obligation to Pay Capital Contribution Amounts to a Third Party............................................................................................................................................................41|
-|The Notes are Subject to Event of Default or Redemption in the Event of an Early Termination under the Collateral Administration Agreement and the Capital Contribution Agreement ..................................41|
-|Risks Relating to the Notes Being Linked to the Reference Obligations ...............................................................42|
-|The Notes Bear the Risk of Credit Events and Modification Events on the Reference Obligations..................42|
-|Delay in Liquidation May Reduce Liquidation Proceeds ..................................................................................43|
+|CERTIFICATES AND INTERESTS vi|
+|FORWARD LOOKING STATEMENTS vii|
+|FANNIE MAE vii |
+|General vii |
+|Regulation and Conservatorship vii|
+|Possibility of Future Receivership x|
+|NOTICE TO EUROPEAN ECONOMIC AREA INVESTORS xi|
+|NOTICE TO UNITED KINGDOM INVESTORS xi|
+|EU AND UK SECURITIZATION RULES DUE DILIGENCE xii|
+|SINGAPORE EXCHANGE xii|
+|JAPAN xiii|
+|JAPANESE RETENTION REQUIREMENT xiii|
+|ADDITIONAL INFORMATION xiv|
+|TRANSACTION SUMMARY 1|
+|Transaction Diagrams 3|
+|SUMMARY OF TERMS 8|
+|RISK FACTORS 39|
+|General 39|
+|Reference Obligations Are or May Become Subject to Forbearance and Payment Deferral Plans 40|
+|Special Risks Associated with the Collateral Administration Agreement and the Capital Contribution Agreement 40|
+|The Notes are Subordinate to Certain Payments Payable to Fannie Mae 40|
+|Payments from Fannie Mae are not Guaranteed by the United States or any Other Person 40|
+|Fannie Mae is Permitted to Assign its Obligation to Pay Capital Contribution Amounts to a Third Party 41|
+|The Notes are Subject to Event of Default or Redemption in the Event of an Early Termination under the Collateral Administration Agreement and the Capital Contribution Agreement 41|
+|Risks Relating to the Notes Being Linked to the Reference Obligations 42|
+|The Notes Bear the Risk of Credit Events and Modification Events on the Reference Obligations 42|
+|Delay in Liquidation May Reduce Liquidation Proceeds 43|
 |The Timing of Credit Events and Modification Events (and the Severity of Losses Realized with |
-|Respect Thereto) May Affect Yields on the Notes .....................................................................................43|
-| Loan Seller/Servicer Willingness to Repurchase Reference Obligations on a Timely Basis May Affect Yields on the Notes.....................................................................................................................................43|
-|Fannie Mae's Limited Review of a Sample of a Small Percentage of the Reference Obligations May Not Reveal All Aspects That Could Lead to Credit Events and Modification Events................................44|
-|Fannie Mae's Quality Control and Quality Assurance Processes are Not Designed to Protect Noteholders.................................................................................................................................................45|
-|Fannie Mae's Review of Reference Obligations That Become Credit Event Reference Obligations May Not Result in Reversed Credit Event Reference Obligations .............................................................45|
-| Discovery of Certain Data Corrections May Not Result in a Repurchase of the Related Reference Obligation ...................................................................................................................................................46|
-| Limited Scope and Size of Review of the Mortgage Loans in the Reference Pool May Not Reveal Aspects of the Reference Obligations That Could Lead to Credit Events and Modification Events ..........46|
-|Certain Loan Sellers May Originate Loans Under Variances to Fannie Mae's Selling Guide...........................48|
+|Respect Thereto) May Affect Yields on the Notes 43|
+| Loan Seller/Servicer Willingness to Repurchase Reference Obligations on a Timely Basis May Affect Yields on the Notes 43|
+|Fannie Mae's Limited Review of a Sample of a Small Percentage of the Reference Obligations May Not Reveal All Aspects That Could Lead to Credit Events and Modification Events 44|
+|Fannie Mae's Quality Control and Quality Assurance Processes are Not Designed to Protect Noteholders 45|
+|Fannie Mae's Review of Reference Obligations That Become Credit Event Reference Obligations May Not Result in Reversed Credit Event Reference Obligations 45|
+| Discovery of Certain Data Corrections May Not Result in a Repurchase of the Related Reference Obligation 46|
+| Limited Scope and Size of Review of the Mortgage Loans in the Reference Pool May Not Reveal Aspects of the Reference Obligations That Could Lead to Credit Events and Modification Events 46|
+|Certain Loan Sellers May Originate Loans Under Variances to Fannie Mae's Selling Guide 48|
 |Appraisals May Not Accurately Reflect the Value or Condition of the Mortgaged Properties; Loan- to-Value Ratios May Be Calculated Based on Appraised Values at Origination, Which May Not |
-|Be Accurate Reflections of Current Market Values; Appraisals May Be Waived......................................48|
-| Credit Scores May Not Accurately Predict the Likelihood of Default...............................................................48|
-| Fannie Mae May Replace or Discontinue Use of the Credit Score Products Used in Its Disclosure.................49|
+|Be Accurate Reflections of Current Market Values; Appraisals May Be Waived 48|
+| Credit Scores May Not Accurately Predict the Likelihood of Default 48|
+| Fannie Mae May Replace or Discontinue Use of the Credit Score Products Used in Its Disclosure 49|
 
 xvi
 
 <!-- page 18 -->
 
-|Residential Real Estate Values May Fluctuate and Adversely Affect the Notes ...............................................49 Reduced Lending Capacities and/or Increases in Mortgage Rates May Hinder Refinancing and Increase the Risk of Credit Events and Modification Events on the Reference Obligations ......................50|
+|Residential Real Estate Values May Fluctuate and Adversely Affect the Notes 49 Reduced Lending Capacities and/or Increases in Mortgage Rates May Hinder Refinancing and Increase the Risk of Credit Events and Modification Events on the Reference Obligations 50|
 |---|
-|The Rate and Timing of Principal Payment Collections on the Reference Obligations Will Affect the Yields on the Notes.....................................................................................................................................50|
-|Fannie Mae Does Not Re-Underwrite the Mortgage Loans It Acquires from Its Loan Sellers, Which May Adversely Affect the Performance of the Reference Obligations.......................................................52|
-| The Performance of the Reference Obligations Could Be Dependent on the Servicers.....................................53|
-| Servicers May Not Follow the Requirements of Fannie Mae's Servicing Guide and Servicing Standards May Change Periodically ...........................................................................................................53|
+|The Rate and Timing of Principal Payment Collections on the Reference Obligations Will Affect the Yields on the Notes 50|
+|Fannie Mae Does Not Re-Underwrite the Mortgage Loans It Acquires from Its Loan Sellers, Which May Adversely Affect the Performance of the Reference Obligations 52|
+| The Performance of the Reference Obligations Could Be Dependent on the Servicers 53|
+| Servicers May Not Follow the Requirements of Fannie Mae's Servicing Guide and Servicing Standards May Change Periodically 53|
 |Statutory and Judicial Limitations on Foreclosure Procedures May Delay Recovery in Respect of the Mortgaged Properties and, in Some Instances, Limit the Amount That May Be Recovered by the Servicers, Resulting in Losses on the Reference Obligations That Might Be Allocated to the|
-|Notes ...........................................................................................................................................................54|
-|Stricter Enforcement of Foreclosure Rules and Documentation Requirements May Cause Delays and Increase the Risk of Loss ............................................................................................................................54|
-|Insurance Related to the Mortgaged Properties May Not Be Sufficient to Compensate for Losses ..................54|
-| Servicing Transfers May Result in Decreased or Delayed Collections and Credit Events ................................55|
-|Mortgage Insurance Related to the Reference Obligations May Be Limited Due to Coverage Exclusions, Cancellations and Changes Affecting the Claims Process.......................................................56|
-| Each Servicer's Discretion Over the Servicing of the Related Reference Obligations May Impact the Amount and Timing of Funds Available to Make Payments on the Notes.................................................56|
-| The Performance of Loan Sellers and Servicers May Adversely Affect the Performance of the Reference Obligations.................................................................................................................................56|
-| Determinations of Reversed Credit Event Reference Obligations and Make-Whole Proceeds Will Be Dependent in Part on Cooperation by the Loan Sellers and Servicers and on Fannie Mae's Quality Control Procedures.........................................................................................................................57|
-| Solicitation May Result in Erosion in the Overall Credit Quality of the Reference Pool ..................................57 Borrowers May Have, or May in the Future Incur, Additional Indebtedness Secured by Mortgaged Properties Securing the Reference Obligations...........................................................................................58|
-|Mortgage Loans with Higher Loan-to-Value Ratios May Present a Greater Risk.............................................58|
-|Geographic Concentration May Increase Risk of Credit Events Due to Adverse Economic Conditions, Natural Disasters or Climate Change.......................................................................................58|
-| The Rate of Credit Events and Modification Events on Mortgage Loans That Are Secured by Second Homes or Investment Properties May Be Higher Than the Rate on Other Mortgage Loans......................59|
-|The Rate of Credit Events and Modification Events on Mortgage Loans That Are Cash-out Refinance Transactions May Be Higher Than on Other Mortgage Loans ...................................................................60|
-|Mortgage Loans Made to Certain Borrowers May Present a Greater Risk........................................................60|
-| Mortgage Loans Secured by Manufactured Homes May Present a Greater Risk ..............................................60|
-| Special Assessments and Energy Efficiency and Homeowner Association Liens May Take Priority Over the Mortgage Liens ............................................................................................................................60|
-|Impact of Potential Military Action or Terrorist Attacks...................................................................................61 |
-|Mortgage Loan Historical Information Is Not Indicative of Future Performance of the Reference Pool ..........61|
-| Governance, Regulation and General Economic Considerations ...........................................................................61|
+|Notes 54|
+|Stricter Enforcement of Foreclosure Rules and Documentation Requirements May Cause Delays and Increase the Risk of Loss 54|
+|Insurance Related to the Mortgaged Properties May Not Be Sufficient to Compensate for Losses 54|
+| Servicing Transfers May Result in Decreased or Delayed Collections and Credit Events 55|
+|Mortgage Insurance Related to the Reference Obligations May Be Limited Due to Coverage Exclusions, Cancellations and Changes Affecting the Claims Process 56|
+| Each Servicer's Discretion Over the Servicing of the Related Reference Obligations May Impact the Amount and Timing of Funds Available to Make Payments on the Notes 56|
+| The Performance of Loan Sellers and Servicers May Adversely Affect the Performance of the Reference Obligations 56|
+| Determinations of Reversed Credit Event Reference Obligations and Make-Whole Proceeds Will Be Dependent in Part on Cooperation by the Loan Sellers and Servicers and on Fannie Mae's Quality Control Procedures 57|
+| Solicitation May Result in Erosion in the Overall Credit Quality of the Reference Pool 57 Borrowers May Have, or May in the Future Incur, Additional Indebtedness Secured by Mortgaged Properties Securing the Reference Obligations 58|
+|Mortgage Loans with Higher Loan-to-Value Ratios May Present a Greater Risk 58|
+|Geographic Concentration May Increase Risk of Credit Events Due to Adverse Economic Conditions, Natural Disasters or Climate Change 58|
+| The Rate of Credit Events and Modification Events on Mortgage Loans That Are Secured by Second Homes or Investment Properties May Be Higher Than the Rate on Other Mortgage Loans 59|
+|The Rate of Credit Events and Modification Events on Mortgage Loans That Are Cash-out Refinance Transactions May Be Higher Than on Other Mortgage Loans 60|
+|Mortgage Loans Made to Certain Borrowers May Present a Greater Risk 60|
+| Mortgage Loans Secured by Manufactured Homes May Present a Greater Risk 60|
+| Special Assessments and Energy Efficiency and Homeowner Association Liens May Take Priority Over the Mortgage Liens 60|
+|Impact of Potential Military Action or Terrorist Attacks 61 |
+|Mortgage Loan Historical Information Is Not Indicative of Future Performance of the Reference Pool 61|
+| Governance, Regulation and General Economic Considerations 61|
 | The Policies of the U.S. Administration, Geopolitical Events and Related Impacts on the U.S. Econom Ma Affect the Market Value of the Notes61|
-|y y ................................................................................. Turbulence in the Residential Mortgage Market or in the Financial Markets and Lack of Liquidity for Mortgage-Related Securities May Adversely Affect the Performance and Market Value of the Notes ...........................................................................................................................................................62|
-|Bank Failures and Related Developments in the Financial Services Industry May Adversely Affect the Notes .....................................................................................................................................................64|
-|The Dodd-Frank Act and Regulatory Changes in the Financial Services Industry May Negatively Impact Fannie Mae's Business and the Reference Pool ..............................................................................64|
+|y y Turbulence in the Residential Mortgage Market or in the Financial Markets and Lack of Liquidity for Mortgage-Related Securities May Adversely Affect the Performance and Market Value of the Notes 62|
+|Bank Failures and Related Developments in the Financial Services Industry May Adversely Affect the Notes 64|
+|The Dodd-Frank Act and Regulatory Changes in the Financial Services Industry May Negatively Impact Fannie Mae's Business and the Reference Pool 64|
 | Future Regulatory Developments May Result in Investor Obligations to Provide Fannie Mae with |
-|Personally Identifying Information and Documentation.............................................................................66|
+|Personally Identifying Information and Documentation 66|
 
 xvii
 
 <!-- page 19 -->
 
-|Violation of Various Federal, State and Local Laws May Result in Losses on the Reference Obligations..................................................................................................................................................66|
+|Violation of Various Federal, State and Local Laws May Result in Losses on the Reference Obligations 66|
 |---|
-|Risks Relating to Fannie Mae.................................................................................................................................67|
+|Risks Relating to Fannie Mae 67|
 |A Receiver May Transfer or Sell Fannie Mae's Assets and Liabilities; Risks Associated with the|
-|Assignment of Fannie Mae's Obligations to Pay Capital Contribution Amounts .......................................67|
-|FHFA Could Terminate the Conservatorship by Placing Fannie Mae into Receivership, Which Could Adversely Affect Noteholders.....................................................................................................................67 |
-|Insolvency of the Capital Contribution Assignee Could Cause Losses..............................................................69|
-| Fannie Mae's Changes in Business Practices May Negatively Impact the Noteholders ....................................69|
-|Risks Related to Eligible Investments ....................................................................................................................69|
-|Noteholders Are Exposed to the Value of the Eligible Investments in the Cash Collateral Account ................69 |
+|Assignment of Fannie Mae's Obligations to Pay Capital Contribution Amounts 67|
+|FHFA Could Terminate the Conservatorship by Placing Fannie Mae into Receivership, Which Could Adversely Affect Noteholders 67 |
+|Insolvency of the Capital Contribution Assignee Could Cause Losses 69|
+| Fannie Mae's Changes in Business Practices May Negatively Impact the Noteholders 69|
+|Risks Related to Eligible Investments 69|
+|Noteholders Are Exposed to the Value of the Eligible Investments in the Cash Collateral Account 69 |
 |There May be Delays or Losses in the Redemption of Eligible Investments70|
-|..................................................... Redeeming Units of an Eligible Investment During an Unfavorable Market Environment May Affect the Net Asset Value of Such Eligible Investment.......................................................................................70|
-| Unfavorable Market Conditions May Cause Changes in an Investment's Yield................................................70|
-|Investment Factors and Risks Related to the Notes................................................................................................70|
-|The Issuer May Not Be Able to Repay Your Notes in Full ...............................................................................70|
-|Limited Source of Payments; No Recourse to Reference Obligations...............................................................71 |
-|Credit Support Available to Corresponding Classes of Reference Tranches Pursuant to Hypothetical Structure Is Limited and May Not Be Sufficient to Prevent Loss on Your Notes ......................................71|
-|Subordination of Corresponding Classes of Reference Tranches Increases Risk of Loss on the Notes.............71|
-|Significant Write-downs of the Notes That are Subsequently Subject to Write-ups Will Result in Lost Accrued Interest..........................................................................................................................................72|
-|The Secured Overnight Financing Rate is a Relatively New Market Index.......................................................72|
-|Changes to, or Elimination of, SOFR Could Adversely Affect Your Investment in the Floating Rate Notes. ..........................................................................................................................................................73|
-|The Use of an Alternative Reference Rate in Place of SOFR for Determining Monthly Interest Rates May Adversely Affect the Value of Certain Notes.....................................................................................74|
-| Changes in the Market Value of the Notes May Not Be Reflective of the Performance or Anticipated Performance of the Reference Obligations .................................................................................................74|
-|There May be Limited Liquidity of the Notes, Which May Limit Your Ability to Sell the Notes ....................74|
-|Legal Investment Considerations May Restrict Certain Investors .....................................................................74 |
-|Risks Associated with the Commodity Exchange Act.......................................................................................75|
-|Additional Governmental Actions in the U.S. and Abroad Could Adversely Affect the Market Value of the Notes.................................................................................................................................................76|
-|EU and UK Securitization Rules Could Adversely Affect the Market Value of the Notes ...............................77|
-|The Restrictions on Transfer on the Notes May Limit Investors' Ability to Sell the Notes...............................80|
-|The Notes May Be Redeemed Early ..................................................................................................................80|
-|The Projected Recovery Amount and the Actual Subsequent Recoveries for the Notes Are Likely to Differ and May Significantly Affect the Amounts Received by the Noteholders.......................................80|
-|The Early Redemption Feature May Cause the Notes to Fluctuate in Value Based on Prevailing Interest Rates...............................................................................................................................................80|
-|Exchanges of Notes May Result in Investors Holding Lower Rated Notes.......................................................80|
+| Redeeming Units of an Eligible Investment During an Unfavorable Market Environment May Affect the Net Asset Value of Such Eligible Investment 70|
+| Unfavorable Market Conditions May Cause Changes in an Investment's Yield 70|
+|Investment Factors and Risks Related to the Notes 70|
+|The Issuer May Not Be Able to Repay Your Notes in Full 70|
+|Limited Source of Payments; No Recourse to Reference Obligations 71 |
+|Credit Support Available to Corresponding Classes of Reference Tranches Pursuant to Hypothetical Structure Is Limited and May Not Be Sufficient to Prevent Loss on Your Notes 71|
+|Subordination of Corresponding Classes of Reference Tranches Increases Risk of Loss on the Notes 71|
+|Significant Write-downs of the Notes That are Subsequently Subject to Write-ups Will Result in Lost Accrued Interest 72|
+|The Secured Overnight Financing Rate is a Relatively New Market Index 72|
+|Changes to, or Elimination of, SOFR Could Adversely Affect Your Investment in the Floating Rate Notes 73|
+|The Use of an Alternative Reference Rate in Place of SOFR for Determining Monthly Interest Rates May Adversely Affect the Value of Certain Notes 74|
+| Changes in the Market Value of the Notes May Not Be Reflective of the Performance or Anticipated Performance of the Reference Obligations 74|
+|There May be Limited Liquidity of the Notes, Which May Limit Your Ability to Sell the Notes 74|
+|Legal Investment Considerations May Restrict Certain Investors 74 |
+|Risks Associated with the Commodity Exchange Act 75|
+|Additional Governmental Actions in the U.S. and Abroad Could Adversely Affect the Market Value of the Notes 76|
+|EU and UK Securitization Rules Could Adversely Affect the Market Value of the Notes 77|
+|The Restrictions on Transfer on the Notes May Limit Investors' Ability to Sell the Notes 80|
+|The Notes May Be Redeemed Early 80|
+|The Projected Recovery Amount and the Actual Subsequent Recoveries for the Notes Are Likely to Differ and May Significantly Affect the Amounts Received by the Noteholders 80|
+|The Early Redemption Feature May Cause the Notes to Fluctuate in Value Based on Prevailing Interest Rates 80|
+|Exchanges of Notes May Result in Investors Holding Lower Rated Notes 80|
 |A Reduction, Withdrawal or Qualification of the Ratings on the Rated Notes, or the Issuance of an Unsolicited Rating on the Rated Notes, May Adversely Affect the Market Value of Those Notes|
-| and/or Limit an Investor's Ability to Resell Those Notes ...........................................................................81|
-| The Ratings on the Rated Notes May Not Reflect All Risks .............................................................................81|
-| The Ability to Exchange Exchangeable Notes and RCR Notes May Be Limited..............................................81|
-|Investors Have No Direct Right to Enforce Remedies.......................................................................................81 |
-|Legality of Investment .......................................................................................................................................82|
-| Rights of Note Owners May Be Limited by Book-Entry System ......................................................................82|
-|Tax Audit Procedures.........................................................................................................................................83|
-|Risks Relating to REMIC Status........................................................................................................................83|
+| and/or Limit an Investor's Ability to Resell Those Notes 81|
+| The Ratings on the Rated Notes May Not Reflect All Risks 81|
+| The Ability to Exchange Exchangeable Notes and RCR Notes May Be Limited 81|
+|Investors Have No Direct Right to Enforce Remedies 81 |
+|Legality of Investment 82|
+| Rights of Note Owners May Be Limited by Book-Entry System 82|
+|Tax Audit Procedures 83|
+|Risks Relating to REMIC Status 83|
 |Changes in Tax Law; No Gross Up in Respect of the Notes 83|
-|............................................................................. ERISA Considerations .......................................................................................................................................84|
+| ERISA Considerations 84|
 
 xviii
 
 <!-- page 20 -->
 
-|The Interests of Fannie Mae, the Initial Purchasers and Others May Conflict With and Be Adverse to the Interests of the Noteholders.............................................................................................................................84|
+|The Interests of Fannie Mae, the Initial Purchasers and Others May Conflict With and Be Adverse to the Interests of the Noteholders 84|
 |---|
-|Fannie Mae's Actions with Respect to REO Dispositions, Mortgage Note Sales, Third-Party Sales, Short Sales and Disposition Timelines May Increase the Risk of Loss on the Notes.................................84|
-|Interests of Fannie Mae May Not Be Aligned with the Interests of the Noteholders.........................................84 |
-|Federal Housing Policy Objectives Adopted by Fannie Mae May Not Be Aligned with the Interests of the Noteholders...........................................................................................................................................85|
-|Potential Conflicts of Interest of the Initial Purchasers and their Affiliates.......................................................86 |
-|Potential Conflicts of Interest of the Delaware Trustee .....................................................................................87|
-|There May Be Conflicts of Interest Between the Classes of Notes....................................................................87 |
+|Fannie Mae's Actions with Respect to REO Dispositions, Mortgage Note Sales, Third-Party Sales, Short Sales and Disposition Timelines May Increase the Risk of Loss on the Notes 84|
+|Interests of Fannie Mae May Not Be Aligned with the Interests of the Noteholders 84 |
+|Federal Housing Policy Objectives Adopted by Fannie Mae May Not Be Aligned with the Interests of the Noteholders 85|
+|Potential Conflicts of Interest of the Initial Purchasers and their Affiliates 86 |
+|Potential Conflicts of Interest of the Delaware Trustee 87|
+|There May Be Conflicts of Interest Between the Classes of Notes 87 |
 |Combination or "Layering" of Multiple Risk Factors May Significantly Increase the Risk of Loss on |
-|Your Notes.......................................................................................................................................................87|
-|THE ISSUER...............................................................................................................................................................87|
-|THE TRUSTOR AND ADMINISTRATOR...............................................................................................................89|
-|THE DELAWARE TRUSTEE....................................................................................................................................90|
+|Your Notes 87|
+|THE ISSUER 87|
+|THE TRUSTOR AND ADMINISTRATOR 89|
+|THE DELAWARE TRUSTEE 90|
 |THE INDENTURE TRUSTEE, EXCHANGE ADMINISTRATOR, CUSTODIAN AND INVESTMENT AGENT|
-|.....................................................................................................................................................................................90|
-|DESCRIPTION OF THE NOTES...............................................................................................................................90|
-|General....................................................................................................................................................................90|
-|Form, Registration and Transfer of the Notes.........................................................................................................91|
-|Payments.................................................................................................................................................................95|
-|Maturity Date..........................................................................................................................................................96|
-|Early Redemption Option.......................................................................................................................................96 |
-|Early Redemption Date...........................................................................................................................................96|
-| Termination Date....................................................................................................................................................97|
-|Projected Recovery Amount...................................................................................................................................97|
-|Interest ....................................................................................................................................................................97|
-|Principal..................................................................................................................................................................99 |
-|Reductions in Class Principal Balances or Class Notional Amounts of the Notes Due to Allocation of Tranche Write-down Amounts ......................................................................................................................100|
+| 90|
+|DESCRIPTION OF THE NOTES 90|
+|General 90|
+|Form, Registration and Transfer of the Notes 91|
+|Payments 95|
+|Maturity Date 96|
+|Early Redemption Option 96 |
+|Early Redemption Date 96|
+| Termination Date 97|
+|Projected Recovery Amount 97|
+|Interest 97|
+|Principal 99 |
+|Reductions in Class Principal Balances or Class Notional Amounts of the Notes Due to Allocation of Tranche Write-down Amounts 100|
 |Increases in Class Principal Balances or Class Notional Amounts of the Notes Due to Allocation of|
-|Tranche Write-up Amounts...........................................................................................................................100|
-|Hypothetical Structure and Calculations with Respect to the Reference Tranches ..............................................100|
-|Allocation of Senior Reduction Amount and Subordinate Reduction Amount................................................101|
-|Allocation of Tranche Write-down Amounts...................................................................................................104|
-|Allocation of Tranche Write-up Amounts........................................................................................................107|
-|Allocation of Supplemental Reduction Amount and Supplemental Class 2A-H Increase Amount.................109 |
-|Allocation of Modification Loss Amount ........................................................................................................110|
-|RCR NOTES .............................................................................................................................................................112|
-|THE AGREEMENTS................................................................................................................................................113|
-|The Collateral Administration Agreement............................................................................................................113|
-|The Capital Contribution Agreement....................................................................................................................114|
-|The Indenture........................................................................................................................................................115|
-|The Investment Agency Agreement .....................................................................................................................124|
-|The Securities Account Control Agreement.........................................................................................................124 |
-|The Administration Agreement ............................................................................................................................125|
-| LOAN ACQUISITION PRACTICES AND SERVICING STANDARDS ..............................................................125|
-| Single-Family Business Overview........................................................................................................................125|
-|Delegated Approach.........................................................................................................................................125|
-|Single-Family Credit Risk Management Approach .........................................................................................126|
-| Loan Seller and Servicer Management and Oversight..........................................................................................126|
-| Initial Loan Seller and Servicer Requirements and Approvals ........................................................................126|
-|Ongoing Loan Seller and Servicer Management..............................................................................................127|
-|Additional Monitoring of Loan Sellers ............................................................................................................127 |
-|Credit Standards....................................................................................................................................................128|
-|Loan Underwriting and Eligibility ...................................................................................................................128|
+|Tranche Write-up Amounts 100|
+|Hypothetical Structure and Calculations with Respect to the Reference Tranches 100|
+|Allocation of Senior Reduction Amount and Subordinate Reduction Amount 101|
+|Allocation of Tranche Write-down Amounts 104|
+|Allocation of Tranche Write-up Amounts 107|
+|Allocation of Supplemental Reduction Amount and Supplemental Class 2A-H Increase Amount 109 |
+|Allocation of Modification Loss Amount 110|
+|RCR NOTES 112|
+|THE AGREEMENTS 113|
+|The Collateral Administration Agreement 113|
+|The Capital Contribution Agreement 114|
+|The Indenture 115|
+|The Investment Agency Agreement 124|
+|The Securities Account Control Agreement 124 |
+|The Administration Agreement 125|
+| LOAN ACQUISITION PRACTICES AND SERVICING STANDARDS 125|
+| Single-Family Business Overview 125|
+|Delegated Approach 125|
+|Single-Family Credit Risk Management Approach 126|
+| Loan Seller and Servicer Management and Oversight 126|
+| Initial Loan Seller and Servicer Requirements and Approvals 126|
+|Ongoing Loan Seller and Servicer Management 127|
+|Additional Monitoring of Loan Sellers 127 |
+|Credit Standards 128|
+|Loan Underwriting and Eligibility 128|
 
 xix
 
 <!-- page 21 -->
 
-|Permitted Variances .........................................................................................................................................129 Underwriting Process.......................................................................................................................................130|
+|Permitted Variances 129 Underwriting Process 130|
 |---|
-| Appraisal Standards and Controls....................................................................................................................133|
-|Temporary Interest Rate Buydowns .....................................................................................................................134|
-|Mortgage Insurance ..............................................................................................................................................134|
-|HomeReady® Mortgages ......................................................................................................................................136|
-|High LTV Refinance Option ................................................................................................................................136 |
-|RefiNow**TM** Program.............................................................................................................................................137|
-|Loan Delivery Controls ........................................................................................................................................137|
-|Loan Data Delivery and Quality Assurance.....................................................................................................137 |
-|Loan Documents and Custodial Process ..........................................................................................................138|
-|Quality Control.....................................................................................................................................................139|
-|Fannie Mae Quality Control Policy and Process..............................................................................................139|
-|Loan Remediation Process...............................................................................................................................144 |
-|Loan Seller Quality Control Requirements......................................................................................................146|
-|Ongoing Surveillance and Feedback ....................................................................................................................147|
-|General.............................................................................................................................................................147|
-|Loan Seller Training and Feedback..................................................................................................................147|
-| Loan Performance Monitoring.........................................................................................................................147|
-|Servicing Standards ..............................................................................................................................................148|
-|General.............................................................................................................................................................148|
-|Servicer Eligibility ...........................................................................................................................................148|
-|Servicer Compliance Oversight and Performance Management......................................................................149|
-|Delinquent Loan Management.........................................................................................................................149|
-| Loan Modifications..........................................................................................................................................151|
-|Foreclosure Alternatives ..................................................................................................................................152|
-|Non-Performing Loan Sales.............................................................................................................................152|
-|Bankruptcy.......................................................................................................................................................152 |
-|Foreclosure.......................................................................................................................................................153|
-|Delinquent Loan Statistics ...............................................................................................................................153|
-|REO Property Management and Valuation ..........................................................................................................154|
-| Risk Sharing Transactions ....................................................................................................................................154|
-|Reference Pool Criteria and Process.....................................................................................................................155|
-|Eligible Loans ..................................................................................................................................................155|
-|Reference Pool Formation................................................................................................................................155|
-|Reference Pool Servicing and Risk Management ............................................................................................156|
-|THE REFERENCE OBLIGATIONS........................................................................................................................156|
-|Results of Fannie Mae QC Loan Reviews............................................................................................................157|
-| Borrower Credit and Property Valuation Findings...........................................................................................159|
-|Limited Compliance Review Findings.............................................................................................................162|
-|Due Diligence Review..........................................................................................................................................162 |
-|General.............................................................................................................................................................162|
-|Credit and Property Reviews............................................................................................................................163|
-| Compliance Reviews........................................................................................................................................163|
-|Material Findings .............................................................................................................................................164|
-|Appraisal Reviews ...........................................................................................................................................166|
-|Data Integrity Reviews.....................................................................................................................................167|
-| Limitations of the Diligence Provider's Review Process ......................................................................................169|
-| HISTORICAL INFORMATION...............................................................................................................................170|
-|PREPAYMENT AND YIELD CONSIDERATIONS...............................................................................................170|
-|Credit Events and Modification Events ................................................................................................................170|
-|Prepayment Considerations and Risks..................................................................................................................172|
-|RCR Notes............................................................................................................................................................173|
-|Assumptions Relating to Weighted Average Life Tables, Declining Balances Tables, Credit Event Sensitivity Table, Cumulative Note Write-down Amount Tables and Yield Tables.....................................173 Weighted Average Lives of the Notes..................................................................................................................176|
+| Appraisal Standards and Controls 133|
+|Temporary Interest Rate Buydowns 134|
+|Mortgage Insurance 134|
+|HomeReady® Mortgages 136|
+|High LTV Refinance Option 136 |
+|RefiNow**TM** Program 137|
+|Loan Delivery Controls 137|
+|Loan Data Delivery and Quality Assurance 137 |
+|Loan Documents and Custodial Process 138|
+|Quality Control 139|
+|Fannie Mae Quality Control Policy and Process 139|
+|Loan Remediation Process 144 |
+|Loan Seller Quality Control Requirements 146|
+|Ongoing Surveillance and Feedback 147|
+|General 147|
+|Loan Seller Training and Feedback 147|
+| Loan Performance Monitoring 147|
+|Servicing Standards 148|
+|General 148|
+|Servicer Eligibility 148|
+|Servicer Compliance Oversight and Performance Management 149|
+|Delinquent Loan Management 149|
+| Loan Modifications 151|
+|Foreclosure Alternatives 152|
+|Non-Performing Loan Sales 152|
+|Bankruptcy 152 |
+|Foreclosure 153|
+|Delinquent Loan Statistics 153|
+|REO Property Management and Valuation 154|
+| Risk Sharing Transactions 154|
+|Reference Pool Criteria and Process 155|
+|Eligible Loans 155|
+|Reference Pool Formation 155|
+|Reference Pool Servicing and Risk Management 156|
+|THE REFERENCE OBLIGATIONS 156|
+|Results of Fannie Mae QC Loan Reviews 157|
+| Borrower Credit and Property Valuation Findings 159|
+|Limited Compliance Review Findings 162|
+|Due Diligence Review 162 |
+|General 162|
+|Credit and Property Reviews 163|
+| Compliance Reviews 163|
+|Material Findings 164|
+|Appraisal Reviews 166|
+|Data Integrity Reviews 167|
+| Limitations of the Diligence Provider's Review Process 169|
+| HISTORICAL INFORMATION 170|
+|PREPAYMENT AND YIELD CONSIDERATIONS 170|
+|Credit Events and Modification Events 170|
+|Prepayment Considerations and Risks 172|
+|RCR Notes 173|
+|Assumptions Relating to Weighted Average Life Tables, Declining Balances Tables, Credit Event Sensitivity Table, Cumulative Note Write-down Amount Tables and Yield Tables 173 Weighted Average Lives of the Notes 176|
 
 xx
 
 <!-- page 22 -->
 
-|Weighted Average Life Tables.........................................................................................................................178|
+|Weighted Average Life Tables 178|
 |---|
-|Declining Balances Tables...............................................................................................................................181|
-| Yield Considerations with Respect to the Notes..............................................................................................189 |
-|Credit Event Sensitivity Table .........................................................................................................................189 |
-|Yield Tables .....................................................................................................................................................193|
-|USE OF PROCEEDS ................................................................................................................................................207 |
-|CERTAIN LEGAL ASPECTS OF THE REFERENCE OBLIGATIONS................................................................207|
-|Security Instruments .............................................................................................................................................207|
-|Foreclosure ...........................................................................................................................................................208 |
-|Rights of Redemption...........................................................................................................................................211|
-|Anti-Deficiency Legislation and Other Limitations on Lenders...........................................................................211|
-|Enforceability of Due-On-Sale Clauses................................................................................................................212|
-|Subordinate Financing..........................................................................................................................................212|
-| Servicemembers Civil Relief Act .........................................................................................................................213|
-|CERTAIN U.S. FEDERAL INCOME TAX CONSEQUENCES.............................................................................213|
-|U.S. Persons..........................................................................................................................................................214|
-|REMIC Elections and Special Tax Attributes ......................................................................................................215 |
-|Taxation of Beneficial Owners of Regular Notes ............................................................................................216|
-|Taxation of Beneficial Owners of Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes.............................................................................................................................................220|
-|Treatment of RCR Notes..................................................................................................................................220|
-|Non-U.S. Persons..................................................................................................................................................222|
-|Interest and OID...............................................................................................................................................222|
-|Disposition or Retirement of Notes..................................................................................................................224|
-|Information Reporting and Backup Withholding .................................................................................................224|
-|U.S. FATCA Withholding Tax.............................................................................................................................225|
-|General Information..............................................................................................................................................225|
-|STATE, LOCAL AND FOREIGN TAX CONSEQUENCES ..................................................................................226|
-|LEGAL INVESTMENT............................................................................................................................................226|
-|EU AND UK SECURITIZATION RULES ..............................................................................................................226|
-|CERTAIN ERISA CONSIDERATIONS..................................................................................................................233|
-|General..................................................................................................................................................................233|
-|Prohibited Transactions ........................................................................................................................................233|
-|General.............................................................................................................................................................233|
-|Plan Asset Regulation ......................................................................................................................................234|
-|Prohibited Transaction Exemptions .................................................................................................................234|
-| Review by Plan Fiduciaries..............................................................................................................................235|
-|DISTRIBUTION ARRANGEMENTS......................................................................................................................235|
-|Price Stabilization.................................................................................................................................................237|
-|Delivery and Settlement........................................................................................................................................237|
-|Limited Liquidity..................................................................................................................................................237|
-|Selling Restrictions...............................................................................................................................................237|
-| RATINGS OF THE NOTES .....................................................................................................................................240|
-|LEGAL MATTERS ..................................................................................................................................................241|
-|INDEX OF DEFINITIONS.......................................................................................................................................242|
-|SCHEDULE I............................................................................................................................................................S-1|
-|Appendix A The Reference Pool as of the Cut-off Date of January 31, 2025......................................................... A-1|
-|Appendix B Diligence Provider's Data Integrity Reviews Discrepancies ................................................................B-1|
-|Appendix C Assumed Characteristics of the Reference Obligations as of the Cut-off Date....................................C-1|
-|Appendix D Seller Restrictions ............................................................................................................................... D-1|
-|Appendix E Benchmark Replacement Terms...........................................................................................................E-1|
-|Appendix F Schedule of Class 2A-1 Reduction Amounts........................................................................................F-1|
+|Declining Balances Tables 181|
+| Yield Considerations with Respect to the Notes 189 |
+|Credit Event Sensitivity Table 189 |
+|Yield Tables 193|
+|USE OF PROCEEDS 207 |
+|CERTAIN LEGAL ASPECTS OF THE REFERENCE OBLIGATIONS 207|
+|Security Instruments 207|
+|Foreclosure 208 |
+|Rights of Redemption 211|
+|Anti-Deficiency Legislation and Other Limitations on Lenders 211|
+|Enforceability of Due-On-Sale Clauses 212|
+|Subordinate Financing 212|
+| Servicemembers Civil Relief Act 213|
+|CERTAIN U.S. FEDERAL INCOME TAX CONSEQUENCES 213|
+|U.S. Persons 214|
+|REMIC Elections and Special Tax Attributes 215 |
+|Taxation of Beneficial Owners of Regular Notes 216|
+|Taxation of Beneficial Owners of Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes 220|
+|Treatment of RCR Notes 220|
+|Non-U.S. Persons 222|
+|Interest and OID 222|
+|Disposition or Retirement of Notes 224|
+|Information Reporting and Backup Withholding 224|
+|U.S. FATCA Withholding Tax 225|
+|General Information 225|
+|STATE, LOCAL AND FOREIGN TAX CONSEQUENCES 226|
+|LEGAL INVESTMENT 226|
+|EU AND UK SECURITIZATION RULES 226|
+|CERTAIN ERISA CONSIDERATIONS 233|
+|General 233|
+|Prohibited Transactions 233|
+|General 233|
+|Plan Asset Regulation 234|
+|Prohibited Transaction Exemptions 234|
+| Review by Plan Fiduciaries 235|
+|DISTRIBUTION ARRANGEMENTS 235|
+|Price Stabilization 237|
+|Delivery and Settlement 237|
+|Limited Liquidity 237|
+|Selling Restrictions 237|
+| RATINGS OF THE NOTES 240|
+|LEGAL MATTERS 241|
+|INDEX OF DEFINITIONS 242|
+|SCHEDULE I S-1|
+|Appendix A The Reference Pool as of the Cut-off Date of January 31, 2025 A-1|
+|Appendix B Diligence Provider's Data Integrity Reviews Discrepancies B-1|
+|Appendix C Assumed Characteristics of the Reference Obligations as of the Cut-off Date C-1|
+|Appendix D Seller Restrictions D-1|
+|Appendix E Benchmark Replacement Terms E-1|
+|Appendix F Schedule of Class 2A-1 Reduction Amounts F-1|
 
 xxi
 
@@ -754,13 +754,13 @@ Fannie Mae Delaware Trustee 1, 2 and 3 1 Indenture Trustee 4 Issuer 6 Initial Pu
 
 |Reference Tranches|Initial Class Notional Amount|Approximate Initial Subordination(1)|
 |---|---|---|
-|Class 2A-H ..............................................................................................................|$22,000,603,801|5.35%|
-|Class 2A-1 and Class 2A-1H(2)................................................................................|$267,307,917(2)|4.20%(3)|
-|Class 2M-1 and Class 2M-1H(4)...............................................................................|$267,307,917(4)|3.05%(5)|
-|Class 2M-2 and Class 2M-2H(6)...............................................................................|$185,953,335(6)|2.25%(7)|
-|Class 2B-1H.............................................................................................................|$116,220,834|1.75%|
-|Class 2B-2H.............................................................................................................|$290,552,084|0.50%|
-|Class 2B-3H.............................................................................................................|$116,220,834|0.00%(8)|
+|Class 2A-H |$22,000,603,801|5.35%|
+|Class 2A-1 and Class 2A-1H(2) |$267,307,917(2)|4.20%(3)|
+|Class 2M-1 and Class 2M-1H(4) |$267,307,917(4)|3.05%(5)|
+|Class 2M-2 and Class 2M-2H(6) |$185,953,335(6)|2.25%(7)|
+|Class 2B-1H |$116,220,834|1.75%|
+|Class 2B-2H |$290,552,084|0.50%|
+|Class 2B-3H |$116,220,834|0.00%(8)|
 
 - (1) Represents the approximate initial subordination and initial credit enhancement of such Reference Tranches, which is equal to the percentage of the Cut-off Date Balance represented by the aggregate initial Class Notional Amount of the Reference Tranches subordinate to the subject Reference Tranches.
 
@@ -798,40 +798,40 @@ Holders of Class 2M-2 Notes may exchange all or part of those Notes for proporti
 
 |_The following summary does not purp_ _detailed information appearing elsewhere_ _See_"_Index of Definitions_,"_which appears_|_ort to be complete and is qualified in its entirety by reference to the_ _in this Offering Memorandum and related documents referred to herein._ _at the end of this Offering Memorandum._|
 |---|---|
-|**Title of Series**............................................|................. Connecticut Avenue Securities, Series 2025-R03.|
-|**Offered Notes**...........................................|................. The Class 2A-1, Class 2M-1 and Class 2M-2 Notes.|
-|**Issuer**.........................................................|................. Connecticut Avenue Securities Trust 2025-R03, a Delaware statutory trust, is the "**Issuer**" of the Notes.|
-|**Trustor and Administrator**.....................|................. Fannie Mae, a government-sponsored enterprise chartered by Congress, will act as trustor (the "**Trustor**") and as administrator (the "**Administrator**") of the Issuer. Fannie Mae is also the master servicer with respect to the Reference Obligations (the "**Master Servicer**").|
-|**Delaware Trustee**.....................................|................. U.S. Bank Trust National Association, not in its individual capacity but solely in its capacity as Delaware Trustee (the "**Delaware Trustee**") pursuant to an amended and restated trust agreement (the "**Trust** **Agreement**") entered into among the Delaware Trustee, Fannie Mae, as Trustor and Administrator, and Citibank, N.A., as certificate registrar and certificate paying agent.|
-|**Indenture Trustee**....................................|................. Citibank, N.A. ("**Citibank**") will act as indenture trustee (the "**Indenture Trustee**") pursuant to an indenture (the "**Indenture**") entered into with the Issuer and the Administrator. See "_The Agreements — The Indenture_."|
-|**Exchange Administrator**.........................|................. Citibank will act as the exchange administrator (the "**Exchange Administrator**") for the RCR Notes and the Exchangeable Notes. The Exchange Administrator will, among other duties, administer all exchanges of RCR Notes for Exchangeable Notes and vice versa, which will include receiving notices of requests for such exchanges from Noteholders, accepting the Notes to be exchanged, and giving written notice to the Indenture Trustee of all such exchanges (unless the Exchange Administrator and Indenture Trustee are the same entity, in which event no such written direction will be required).|
-|**Custodian**..................................................|................. Citibank will act as custodian (the "**Custodian**"), pursuant to the Indenture, with respect to investments held in the Cash Collateral Account.|
-|**Investment Agent**.....................................|................. Citibank or an affiliate thereof will act as investment agent (the "**Investment Agent**"), pursuant to the Investment Agency Agreement (the "**Investment Agency** **Agreement**"), by and among the Issuer, the Administrator, the Investment Agent and the Custodian, with respect to investments held in the Cash Collateral Account.|
+|**Title of Series** | Connecticut Avenue Securities, Series 2025-R03.|
+|**Offered Notes** | The Class 2A-1, Class 2M-1 and Class 2M-2 Notes.|
+|**Issuer** | Connecticut Avenue Securities Trust 2025-R03, a Delaware statutory trust, is the "**Issuer**" of the Notes.|
+|**Trustor and Administrator** | Fannie Mae, a government-sponsored enterprise chartered by Congress, will act as trustor (the "**Trustor**") and as administrator (the "**Administrator**") of the Issuer. Fannie Mae is also the master servicer with respect to the Reference Obligations (the "**Master Servicer**").|
+|**Delaware Trustee** | U.S. Bank Trust National Association, not in its individual capacity but solely in its capacity as Delaware Trustee (the "**Delaware Trustee**") pursuant to an amended and restated trust agreement (the "**Trust** **Agreement**") entered into among the Delaware Trustee, Fannie Mae, as Trustor and Administrator, and Citibank, N.A., as certificate registrar and certificate paying agent.|
+|**Indenture Trustee** | Citibank, N.A. ("**Citibank**") will act as indenture trustee (the "**Indenture Trustee**") pursuant to an indenture (the "**Indenture**") entered into with the Issuer and the Administrator. See "_The Agreements — The Indenture_."|
+|**Exchange Administrator** | Citibank will act as the exchange administrator (the "**Exchange Administrator**") for the RCR Notes and the Exchangeable Notes. The Exchange Administrator will, among other duties, administer all exchanges of RCR Notes for Exchangeable Notes and vice versa, which will include receiving notices of requests for such exchanges from Noteholders, accepting the Notes to be exchanged, and giving written notice to the Indenture Trustee of all such exchanges (unless the Exchange Administrator and Indenture Trustee are the same entity, in which event no such written direction will be required).|
+|**Custodian** | Citibank will act as custodian (the "**Custodian**"), pursuant to the Indenture, with respect to investments held in the Cash Collateral Account.|
+|**Investment Agent** | Citibank or an affiliate thereof will act as investment agent (the "**Investment Agent**"), pursuant to the Investment Agency Agreement (the "**Investment Agency** **Agreement**"), by and among the Issuer, the Administrator, the Investment Agent and the Custodian, with respect to investments held in the Cash Collateral Account.|
 
 <!-- page 31 -->
 
-|**Assets of the Issuer**................................................... The assets of the Issuer will consist of the Cash Collateral Account (including the investments held therein), the Designated Q-REMIC Interests, the Note Distribution Account, and the right, title and interest of the Issuer in, to and under the Collateral Administration Agreement the Capital Contribution Agreement, the Securities Account Control Agreement, the Investment Agency Agreement and the Administration Agreement, all of which will be pledged to the Indenture Trustee for the benefit of Fannie Mae under the Collateral Administration Agreement and the Noteholders.|
+|**Assets of the Issuer** The assets of the Issuer will consist of the Cash Collateral Account (including the investments held therein), the Designated Q-REMIC Interests, the Note Distribution Account, and the right, title and interest of the Issuer in, to and under the Collateral Administration Agreement the Capital Contribution Agreement, the Securities Account Control Agreement, the Investment Agency Agreement and the Administration Agreement, all of which will be pledged to the Indenture Trustee for the benefit of Fannie Mae under the Collateral Administration Agreement and the Noteholders.|
 |---|
-|**Designated Q-REMIC Interests**.............................. The "**Designated Q-REMIC Interests**" are REMIC regular interests issued by a Fannie Mae trust pursuant to a master trust agreement dated as of May 1, 2018. The Designated Q-REMIC Interests consist of (i) one or more interest-only REMIC regular interests related to certain interest cash flows from the Reference Obligations (the "**IO Q-REMIC Interest**") and (ii) one or more subordinate REMIC regular interests related to the Reference Obligations, as further described herein (the "**Subordinate Q-REMIC Interest**"). On the Closing Date, Fannie Mae will contribute the Designated Q-REMIC Interests to the Issuer and the Issuer will pledge the Designated Q-REMIC Interests to the Indenture Trustee for the benefit of Fannie Mae under the Collateral Administration Agreement and the Noteholders. The Designated Q-REMIC Interests will be held in an account (the "**Designated Q-REMIC Interests** **Account**") established pursuant to the Indenture.|
-|**Cash Collateral Account**.......................................... The "**Cash Collateral Account**" will be established on or before the Closing Date in the name of the Issuer, subject to the lien of the Indenture Trustee on behalf of the Secured Parties under the Indenture. The Custodian will invest (at the written direction of the Investment Agent, unless the Custodian and the Investment Agent are the same entity, in which event no such written direction will be required) amounts held in the Cash Collateral Account in specific Eligible Investments pursuant to the Investment Agency Agreement. The Investment Agent will direct the Custodian in writing to liquidate Eligible Investments held in the Cash Collateral Account to pay any Return Amounts due to Fannie Mae on any Remittance Date (unless the Investment Agent and Custodian are the same entity, in which event no such written direction will be required) and, to the extent available after payment of such Return Amounts, deposit the proceeds in the Note Distribution Account for payment to Noteholders in respect of principal due on the Notes on the related Payment Date. Investment earnings on Eligible Investments held in the Cash Collateral Account during the related Investment Accrual Period|
+|**Designated Q-REMIC Interests** The "**Designated Q-REMIC Interests**" are REMIC regular interests issued by a Fannie Mae trust pursuant to a master trust agreement dated as of May 1, 2018. The Designated Q-REMIC Interests consist of (i) one or more interest-only REMIC regular interests related to certain interest cash flows from the Reference Obligations (the "**IO Q-REMIC Interest**") and (ii) one or more subordinate REMIC regular interests related to the Reference Obligations, as further described herein (the "**Subordinate Q-REMIC Interest**"). On the Closing Date, Fannie Mae will contribute the Designated Q-REMIC Interests to the Issuer and the Issuer will pledge the Designated Q-REMIC Interests to the Indenture Trustee for the benefit of Fannie Mae under the Collateral Administration Agreement and the Noteholders. The Designated Q-REMIC Interests will be held in an account (the "**Designated Q-REMIC Interests** **Account**") established pursuant to the Indenture.|
+|**Cash Collateral Account** The "**Cash Collateral Account**" will be established on or before the Closing Date in the name of the Issuer, subject to the lien of the Indenture Trustee on behalf of the Secured Parties under the Indenture. The Custodian will invest (at the written direction of the Investment Agent, unless the Custodian and the Investment Agent are the same entity, in which event no such written direction will be required) amounts held in the Cash Collateral Account in specific Eligible Investments pursuant to the Investment Agency Agreement. The Investment Agent will direct the Custodian in writing to liquidate Eligible Investments held in the Cash Collateral Account to pay any Return Amounts due to Fannie Mae on any Remittance Date (unless the Investment Agent and Custodian are the same entity, in which event no such written direction will be required) and, to the extent available after payment of such Return Amounts, deposit the proceeds in the Note Distribution Account for payment to Noteholders in respect of principal due on the Notes on the related Payment Date. Investment earnings on Eligible Investments held in the Cash Collateral Account during the related Investment Accrual Period|
 
 <!-- page 32 -->
 
 ||will be deposited in the Note Distribution Account for payment to Noteholders in respect of interest;_provided_ _that_any investment earnings in excess of the SOFR Interest Component for such Payment Date will be retained in the Cash Collateral Account and will be held in a sub-account thereof, and will at no time be available for payment to Noteholders. The Custodian will, upon instruction from the holder of the Ownership Certificate from time to time, withdraw any such excess investment earnings then held in such sub-account and distribute them to the holder of the Ownership Certificate. The rights of the Holders in the Cash Collateral Account will be subordinate to Fannie Mae's right to receive Return Amounts for so long as the Notes remain outstanding.|
 |---|---|
 ||The "**Investment Accrual Period**" with respect to a Payment Date is the calendar month immediately preceding the month of such Payment Date.|
-|**Eligible Investments**............................|..................... "**Eligible Investments**" means each of the following investments;_provided that_such investment is scheduled to mature on or before the immediately following Remittance Date, and all cash proceeds thereof: (a) obligations issued or fully guaranteed by the U.S. government; (b) repurchase obligations involving any security that is an obligation of, or fully guaranteed by, the U.S. government or any agency or instrumentality thereof, and entered into with a depository institution or trust company (as principal) subject to supervision by U.S. federal or state banking or depository institution authorities;_provided that_(i) such institution has a short- term issuer rating of "A-1+," "P1," "F1+" or equivalent from an NRSRO, (ii) if Fitch Ratings, Inc. has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of "F1+," (iii) if S&P Global Ratings, a Standard & Poor's Financial Services LLC business, has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of "A-1+," and (iv) if Moody's has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of 'P- 1' from Moody's; and (c) U.S. government money market funds that are designed to meet the dual objective of preservation of capital and timely liquidity;_provided that_, if Moody's has been engaged to provide a rating on the Rated Notes, such money market funds must be rated at least 'AAA-mf' from Moody's. Notwithstanding the foregoing, in the event an investment fails to qualify under (a), (b) or (c) above, the proceeds of the sale of such investment will be deemed to be liquidation proceeds of an Eligible Investment for all purposes of the Indenture;_provided that_such liquidation proceeds are promptly reinvested in Eligible Investments that qualify in accordance with one of the foregoing. With respect to|
+|**Eligible Investments** | "**Eligible Investments**" means each of the following investments;_provided that_such investment is scheduled to mature on or before the immediately following Remittance Date, and all cash proceeds thereof: (a) obligations issued or fully guaranteed by the U.S. government; (b) repurchase obligations involving any security that is an obligation of, or fully guaranteed by, the U.S. government or any agency or instrumentality thereof, and entered into with a depository institution or trust company (as principal) subject to supervision by U.S. federal or state banking or depository institution authorities;_provided that_(i) such institution has a short- term issuer rating of "A-1+," "P1," "F1+" or equivalent from an NRSRO, (ii) if Fitch Ratings, Inc. has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of "F1+," (iii) if S&P Global Ratings, a Standard & Poor's Financial Services LLC business, has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of "A-1+," and (iv) if Moody's has been engaged to provide a rating on the Rated Notes, such institution must have a short-term issuer rating of 'P- 1' from Moody's; and (c) U.S. government money market funds that are designed to meet the dual objective of preservation of capital and timely liquidity;_provided that_, if Moody's has been engaged to provide a rating on the Rated Notes, such money market funds must be rated at least 'AAA-mf' from Moody's. Notwithstanding the foregoing, in the event an investment fails to qualify under (a), (b) or (c) above, the proceeds of the sale of such investment will be deemed to be liquidation proceeds of an Eligible Investment for all purposes of the Indenture;_provided that_such liquidation proceeds are promptly reinvested in Eligible Investments that qualify in accordance with one of the foregoing. With respect to|
 
 <!-- page 33 -->
 
 ||money market funds, the maturity date will be determined under Rule 2a-7 under the Investment Company Act.|
 |---|---|
-|**Note Accrual Period**...........................................|...... For the Notes and each Payment Date, the period beginning on and including the prior Payment Date (or, in the case of the first Payment Date, the Closing Date) and ending on and including the day preceding such Payment Date. The amount of interest that will accrue on a given Class of Notes (and will be deemed to accrue on each of the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches for purposes of calculating allocations of any Modification Loss Amounts) during each Note Accrual Period is equal to:|
+|**Note Accrual Period** | For the Notes and each Payment Date, the period beginning on and including the prior Payment Date (or, in the case of the first Payment Date, the Closing Date) and ending on and including the day preceding such Payment Date. The amount of interest that will accrue on a given Class of Notes (and will be deemed to accrue on each of the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches for purposes of calculating allocations of any Modification Loss Amounts) during each Note Accrual Period is equal to:|
 || the Class Coupon for such Class of Notes (or Reference Tranche) for such Note Accrual Period (calculated using the Class Coupon formula as described herein), multiplied by|
 || the Class Principal Balance or Class Notional Amount of such Class of Notes (or Class Notional Amount of such Reference Tranche) immediately prior to such Payment Date, multiplied by|
 || the actual number of days in the related Note Accrual Period, divided by  360.|
-|**Note Distribution Account**.................................|...... The "**Note Distribution Account**" will be established on or before the Closing Date in the name of the Issuer, subject to the lien of the Indenture Trustee for the benefit of the Noteholders. The Note Distribution Account will include deposits from time to time of (a) investment income earned on Eligible Investments held in the Cash Collateral Account (up to the amount of the SOFR Interest Component for a Payment Date), (b) proceeds from the liquidation of those Eligible Investments, (c) any Transfer Amounts, Capital Contribution Amounts and Return Reimbursement Amounts and (d) without duplication of the amounts set forth in clauses (a) through (c) above, other amounts payable to the Issuer in respect of the Designated Q-REMIC Interests;_provided that_, so long as the X-IO Interest is outstanding, amounts payable in respect of the X-IO Interest will not be deposited in the Note Distribution Account and instead will be paid to the holder thereof.|
-|**Collateral Administration Agreement**..............|...... Simultaneously with the issuance of the Notes, Fannie Mae, the Issuer and the Indenture Trustee will enter into a Collateral Administration Agreement (the "**Collateral** **Administration Agreement**").|
+|**Note Distribution Account** | The "**Note Distribution Account**" will be established on or before the Closing Date in the name of the Issuer, subject to the lien of the Indenture Trustee for the benefit of the Noteholders. The Note Distribution Account will include deposits from time to time of (a) investment income earned on Eligible Investments held in the Cash Collateral Account (up to the amount of the SOFR Interest Component for a Payment Date), (b) proceeds from the liquidation of those Eligible Investments, (c) any Transfer Amounts, Capital Contribution Amounts and Return Reimbursement Amounts and (d) without duplication of the amounts set forth in clauses (a) through (c) above, other amounts payable to the Issuer in respect of the Designated Q-REMIC Interests;_provided that_, so long as the X-IO Interest is outstanding, amounts payable in respect of the X-IO Interest will not be deposited in the Note Distribution Account and instead will be paid to the holder thereof.|
+|**Collateral Administration Agreement** | Simultaneously with the issuance of the Notes, Fannie Mae, the Issuer and the Indenture Trustee will enter into a Collateral Administration Agreement (the "**Collateral** **Administration Agreement**").|
 ||Under the Collateral Administration Agreement, Fannie|
 
 <!-- page 34 -->
@@ -839,85 +839,85 @@ Holders of Class 2M-2 Notes may exchange all or part of those Notes for proporti
 ||Mae will, on each Remittance Date, pay to the Issuer, an amount equal to (i) the Transfer Amount, if any, for such Remittance Date (it being understood that the Trust Estate Yield for the related Payment Date will be deemed to satisfy, up to the amount of such Trust Estate Yield, Fannie Mae's Transfer Amount payment obligation for such Remittance Date) and (ii) the Return Reimbursement Amount, if any, for such Remittance Date. In addition, on each Remittance Date, under the Collateral Administration Agreement, the Issuer will pay to Fannie Mae an amount equal to the Return Amount for such Remittance Date.|
 |---|---|
 ||As a result of Fannie Mae and the Issuer entering into the Collateral Administration Agreement, as well as the Indenture linking the Notes to the performance of the Reference Pool and corresponding Reference Tranches, Fannie Mae will pass through to Noteholders the economic exposure to specified losses that Fannie Mae would otherwise bear with respect to the Reference Pool. See "_Description of the Notes — Hypothetical Structure and_ _Calculations with Respect to the Reference Tranches_." See "_The Agreements — The Collateral Administration_ _Agreement_" and "_— The Capital Contribution Agreement_."|
-|**Transfer Amount**................................|...................... The "**Transfer Amount**" for a Remittance Date is the excess of (i) the aggregate Interest Payment Amount for the related Payment Date over (ii) the SOFR Interest Component for such Payment Date.|
+|**Transfer Amount** | The "**Transfer Amount**" for a Remittance Date is the excess of (i) the aggregate Interest Payment Amount for the related Payment Date over (ii) the SOFR Interest Component for such Payment Date.|
 ||The "**SOFR Interest Component**" means, for a Payment Date, an amount equal to the product of (i) 30-day Average SOFR for the related Note Accrual Period, (ii) the aggregate Class Principal Balance of the Classes of Notes outstanding immediately prior to such Payment Date and (iii) a fraction, the numerator of which is the actual number of days in the related Note Accrual Period and the denominator of which is 360.|
-|**Trust Estate Yield**...............................|...................... The "**Trust Estate Yield**" for a Payment Date is the cash flow yield on the assets contributed by Fannie Mae and constituting part of the trust estate of the Issuer (including the IO Q-REMIC Interest but excluding the Subordinate Q-REMIC Interest and Eligible Investments held in the Cash Collateral Account) in respect of such Payment Date.|
-|**Return Amount**...................................|...................... The "**Return Amount**" for a Remittance Date is the aggregate Tranche Write-down Amounts, if any, allocated to reduce the Class Principal Balance of each applicable outstanding Class of Notes on the related Payment Date (without regard to any exchanges of Exchangeable Notes for any RCR Notes).|
+|**Trust Estate Yield** | The "**Trust Estate Yield**" for a Payment Date is the cash flow yield on the assets contributed by Fannie Mae and constituting part of the trust estate of the Issuer (including the IO Q-REMIC Interest but excluding the Subordinate Q-REMIC Interest and Eligible Investments held in the Cash Collateral Account) in respect of such Payment Date.|
+|**Return Amount** | The "**Return Amount**" for a Remittance Date is the aggregate Tranche Write-down Amounts, if any, allocated to reduce the Class Principal Balance of each applicable outstanding Class of Notes on the related Payment Date (without regard to any exchanges of Exchangeable Notes for any RCR Notes).|
 ||The rights of the Holders will be subordinate to Fannie Mae's right to receive Return Amounts for so long as the|
 
 <!-- page 35 -->
 
 ||Notes remain outstanding.|
 |---|---|
-|**Return Reimbursement Amount**........................|..... Fannie Mae will be obligated to pay to the Issuer a "**Return Reimbursement Amount**" for any Remittance Date in an amount equal to the aggregate Tranche Write- up Amounts, if any, allocated to increase the Class Principal Balance of each applicable outstanding Class of Notes on the related Payment Date (without regard to any exchanges of Exchangeable Notes for any RCR Notes).|
-|**Capital Contribution Agreement**.......................|..... Simultaneously with the issuance of the Notes, Fannie Mae, the Issuer and the Indenture Trustee will enter into a Capital Contribution Agreement (the "**Capital** **Contribution Agreement**").|
+|**Return Reimbursement Amount** | Fannie Mae will be obligated to pay to the Issuer a "**Return Reimbursement Amount**" for any Remittance Date in an amount equal to the aggregate Tranche Write- up Amounts, if any, allocated to increase the Class Principal Balance of each applicable outstanding Class of Notes on the related Payment Date (without regard to any exchanges of Exchangeable Notes for any RCR Notes).|
+|**Capital Contribution Agreement** | Simultaneously with the issuance of the Notes, Fannie Mae, the Issuer and the Indenture Trustee will enter into a Capital Contribution Agreement (the "**Capital** **Contribution Agreement**").|
 ||Under the Capital Contribution Agreement, Fannie Mae will, on each Remittance Date, pay to the Issuer an amount equal to the Capital Contribution Amount for such Remittance Date. Upon confirmation from each engaged NRSRO that the ratings on the applicable Notes will not be downgraded or withdrawn as a result, Fannie Mae may assign its obligation to a third party, in which case the assignee will pay to the Issuer an amount equal to the Capital Contribution Amount for such Remittance Date. The Capital Contribution Amount is intended to afford limited protection to Noteholders in the event that investment earnings on Eligible Investments are insufficient to pay interest for any Payment Date or in the event of losses in respect of liquidations of Eligible Investments. See "_The Agreements — The Capital_ _Contribution Agreement_."|
 ||The Capital Contribution Agreement is subject to termination following the occurrence of a CAA Early Termination Date under the Collateral Administration Agreement.|
-|**Securities Account Control Agreement**.............|..... On the Closing Date, the Issuer will enter into the Securities Account Control Agreement with the Custodian, the Indenture Trustee and the Administrator. Pursuant to the Securities Account Control Agreement, the Custodian will act as securities intermediary for the Designated Q-REMIC Interests Account and the Cash Collateral Account.|
-|**Capital Contribution Amount**............................|..... The Capital Contribution Amount for any Remittance Date is the sum of the SOFR Interest Component Contribution, if any, for such Remittance Date and the Investment Liquidation Contribution, if any, for such Remittance Date. The "**SOFR Interest Component Contribution**" for any Remittance Date is the excess, if any, of (a) the SOFR Interest Component for the related Payment Date over (b) investment earnings on Eligible Investments in the Cash Collateral Account during the related Investment Accrual|
+|**Securities Account Control Agreement** | On the Closing Date, the Issuer will enter into the Securities Account Control Agreement with the Custodian, the Indenture Trustee and the Administrator. Pursuant to the Securities Account Control Agreement, the Custodian will act as securities intermediary for the Designated Q-REMIC Interests Account and the Cash Collateral Account.|
+|**Capital Contribution Amount** | The Capital Contribution Amount for any Remittance Date is the sum of the SOFR Interest Component Contribution, if any, for such Remittance Date and the Investment Liquidation Contribution, if any, for such Remittance Date. The "**SOFR Interest Component Contribution**" for any Remittance Date is the excess, if any, of (a) the SOFR Interest Component for the related Payment Date over (b) investment earnings on Eligible Investments in the Cash Collateral Account during the related Investment Accrual|
 
 <!-- page 36 -->
 
 ||Period. The "**Investment Liquidation Contribution**" for any Remittance Date is an amount equal to the excess, if any, of (a) the principal amount (book value) of Eligible Investments liquidated in respect of such Remittance Date over (b) the liquidation proceeds of such Eligible Investments. If Fannie Mae assigns its obligations to pay Capital Contribution Amounts under the Capital Contribution Agreement, such assignee will be responsible for payments of the Capital Contribution Amounts. See "_The_ _Agreements — The Capital Contribution Agreement —_ _General_."|
 |---|---|
 ||Because the first Payment Date will have no related Investment Accrual Period, it is expected that the Capital Contribution Provider's SOFR Interest Component Contribution for the first Payment Date will be equal to the SOFR Interest Component for such Payment Date.|
-|**Notes**.........................................................|................. The Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, together with the "Related Combinable and Recombinable Notes" (the "**RCR** **Notes**"**)**set forth onSchedule I(including the Class 2M-2 Notes). The Class 2M-2A, Class 2M-2B and Class 2M-2C Notes are the "**Exchangeable Notes**" to which the RCR Notes relate. The Notes will receive principal payments, if entitled to receive principal, and will be allocated reductions and increases in Class Principal Balance or Class Notional Amount, as applicable, in accordance with such allocations to the related Reference Tranches.|
-|**Exchanges of RCR Notes**.........................|................. Holders of Class 2M-2 Notes may exchange all or part of those Notes for proportionate interests in the related Exchangeable Notes, and vice versa. Additionally, Holders of Class 2M-2A, Class 2M-2B and Class 2M-2C Notes may further exchange all or part of those Exchangeable Notes for proportionate interests in the related RCR Notes, and vice versa. Holders of certain Classes of RCR Notes may further exchange all or part of those Classes for proportionate interests in other RCR Notes in the applicable combinations set forth on Schedule Ihereto, and vice versa. Exchanges may occur repeatedly.Schedule Ihereto sets forth the available combinations (the "**Combinations**") and characteristics of the RCR Notes and the exchange procedures and fees. RCR Notes that are held by Holders will receive interest payments that are allocable to the related Exchangeable Notes, calculated at the applicable class coupon rate, and all principal amounts that are payable by the Issuer on the related Exchangeable Notes will be allocated to and payable to the related RCR Notes entitled to principal. In addition, all Tranche Write-down Amounts that are|
+|**Notes** | The Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, together with the "Related Combinable and Recombinable Notes" (the "**RCR** **Notes**"**)**set forth onSchedule I(including the Class 2M-2 Notes). The Class 2M-2A, Class 2M-2B and Class 2M-2C Notes are the "**Exchangeable Notes**" to which the RCR Notes relate. The Notes will receive principal payments, if entitled to receive principal, and will be allocated reductions and increases in Class Principal Balance or Class Notional Amount, as applicable, in accordance with such allocations to the related Reference Tranches.|
+|**Exchanges of RCR Notes** | Holders of Class 2M-2 Notes may exchange all or part of those Notes for proportionate interests in the related Exchangeable Notes, and vice versa. Additionally, Holders of Class 2M-2A, Class 2M-2B and Class 2M-2C Notes may further exchange all or part of those Exchangeable Notes for proportionate interests in the related RCR Notes, and vice versa. Holders of certain Classes of RCR Notes may further exchange all or part of those Classes for proportionate interests in other RCR Notes in the applicable combinations set forth on Schedule Ihereto, and vice versa. Exchanges may occur repeatedly.Schedule Ihereto sets forth the available combinations (the "**Combinations**") and characteristics of the RCR Notes and the exchange procedures and fees. RCR Notes that are held by Holders will receive interest payments that are allocable to the related Exchangeable Notes, calculated at the applicable class coupon rate, and all principal amounts that are payable by the Issuer on the related Exchangeable Notes will be allocated to and payable to the related RCR Notes entitled to principal. In addition, all Tranche Write-down Amounts that are|
 
 <!-- page 37 -->
 
 ||allocable to Exchangeable Notes will be allocated to reduce the Class Principal Balance or Class Notional Amount, as applicable, of the related RCR Notes (to the extent such RCR Notes have a Class Principal Balance or Class Notional Amount, as applicable, greater than zero). Further, all Tranche Write-up Amounts that are allocable to Exchangeable Notes will be allocated to increase the Class Principal Balance or Class Notional Amount, as applicable, of the related RCR Notes. If any Tranche Write-down Amounts are allocated to a Class or Classes of Exchangeable Notes on any Payment Date, the Issuer will owe Fannie Mae a Return Amount in respect of such Payment Date. To the extent that any Tranche Write-up Amounts are allocated to increase the Class Principal Balances or Class Notional Amounts of the related RCR Notes, Fannie Mae will owe the Issuer a Return Reimbursement Amount (without regard to any exchanges of Exchangeable Notes for RCR Notes), which will be paid to Noteholders as described herein.|
 |---|---|
-|**Classes**.....................................................|................... Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H, Class 2B-3H and the Classes of RCR Notes (including Class 2M-2) set forth onSchedule Ihereto, as applicable (each, a "**Class**" and together, the "**Classes**").|
-|**Class Principal Balance**.........................|................... The "**Class Principal Balance**" of each Class of Notes as of any Payment Date is the maximum dollar amount of principal to which the Holders of the related Class of Notes are then entitled, with such amount being equal to the initial Class Principal Balance of the related Class of Notes,_minus_the aggregate amount of principal paid by the Issuer on the related Class of Notes on such Payment Date and all prior Payment Dates,_minus_the aggregate amount of Tranche Write-down Amounts allocated to reduce the Class Principal Balance of the related Class of Notes on such Payment Date and on all prior Payment Dates, and_plus_the aggregate amount of Tranche Write- up Amounts allocated to increase the Class Principal Balance of the related Class of Notes on such Payment Date and on all prior Payment Dates (in each case without regard to any exchanges of Exchangeable Notes for RCR Notes). The Class Principal Balance of each Class of Notes (other than RCR Notes) will at all times equal the Class Notional Amount of the Reference Tranche that corresponds to such Class of Notes. For the avoidance of doubt, no Tranche Write-up Amount or Tranche Write-down Amount will be applied twice on the same Payment Date. The aggregate Class Principal Balance of each outstanding Class of RCR Notes entitled to principal will be equal to the aggregate outstanding Class Principal Balance of the Exchangeable Notes that were exchanged for such RCR Notes. In each case, principal amounts that are payable by the|
+|**Classes** | Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H, Class 2B-3H and the Classes of RCR Notes (including Class 2M-2) set forth onSchedule Ihereto, as applicable (each, a "**Class**" and together, the "**Classes**").|
+|**Class Principal Balance** | The "**Class Principal Balance**" of each Class of Notes as of any Payment Date is the maximum dollar amount of principal to which the Holders of the related Class of Notes are then entitled, with such amount being equal to the initial Class Principal Balance of the related Class of Notes,_minus_the aggregate amount of principal paid by the Issuer on the related Class of Notes on such Payment Date and all prior Payment Dates,_minus_the aggregate amount of Tranche Write-down Amounts allocated to reduce the Class Principal Balance of the related Class of Notes on such Payment Date and on all prior Payment Dates, and_plus_the aggregate amount of Tranche Write- up Amounts allocated to increase the Class Principal Balance of the related Class of Notes on such Payment Date and on all prior Payment Dates (in each case without regard to any exchanges of Exchangeable Notes for RCR Notes). The Class Principal Balance of each Class of Notes (other than RCR Notes) will at all times equal the Class Notional Amount of the Reference Tranche that corresponds to such Class of Notes. For the avoidance of doubt, no Tranche Write-up Amount or Tranche Write-down Amount will be applied twice on the same Payment Date. The aggregate Class Principal Balance of each outstanding Class of RCR Notes entitled to principal will be equal to the aggregate outstanding Class Principal Balance of the Exchangeable Notes that were exchanged for such RCR Notes. In each case, principal amounts that are payable by the|
 
 <!-- page 38 -->
 
 ||Issuer on the related Exchangeable Notes will be allocated to and payable on any outstanding RCR Notes that are entitled to principal.|
 |---|---|
-|**Class Notional Amount of** **Interest Only RCR Notes**.......................|............... Certain of the RCR Notes set forth onSchedule Ihereto are interest-only RCR Notes ("**Interest Only RCR** **Notes**"**)**and are not entitled to receive payments of principal. Each of these Classes has a Class Notional Amount as of any Payment Date equal to a specified percentage of the outstanding Class Principal Balance of the related Class of Exchangeable Notes or RCR Notes, as the case may be.|
-|**Payment Date**.............................................|............... Payments on the Notes will be made by the Indenture Trustee on the twenty-fifth (25th) day of each month (or, if such day is not a Business Day, then on the next succeeding Business Day) beginning in April 2025 (each, a "**Payment Date**"). The "**Remittance Date**" is the Business Day immediately preceding each Payment Date.|
-|**Closing Date**...............................................|............... On or about April 22, 2025 (the "**Closing Date**").|
-|**Record Date**................................................|............... The Business Day immediately preceding a Payment Date, with respect to Book-Entry Notes, and the last Business Day of the month preceding a Payment Date, with respect to Definitive Notes (the "**Record Date**").|
-|**Maturity Date**.............................................|............... The Issuer will be obligated to retire the Notes by paying an amount equal to their full remaining Class Principal Balances, plus accrued and unpaid interest, and all unpaid fees, expenses and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee, on the Payment Date in March 2045 (the "**Maturity Date**").|
+|**Class Notional Amount of** **Interest Only RCR Notes** | Certain of the RCR Notes set forth onSchedule Ihereto are interest-only RCR Notes ("**Interest Only RCR** **Notes**"**)**and are not entitled to receive payments of principal. Each of these Classes has a Class Notional Amount as of any Payment Date equal to a specified percentage of the outstanding Class Principal Balance of the related Class of Exchangeable Notes or RCR Notes, as the case may be.|
+|**Payment Date** | Payments on the Notes will be made by the Indenture Trustee on the twenty-fifth (25th) day of each month (or, if such day is not a Business Day, then on the next succeeding Business Day) beginning in April 2025 (each, a "**Payment Date**"). The "**Remittance Date**" is the Business Day immediately preceding each Payment Date.|
+|**Closing Date** | On or about April 22, 2025 (the "**Closing Date**").|
+|**Record Date** | The Business Day immediately preceding a Payment Date, with respect to Book-Entry Notes, and the last Business Day of the month preceding a Payment Date, with respect to Definitive Notes (the "**Record Date**").|
+|**Maturity Date** | The Issuer will be obligated to retire the Notes by paying an amount equal to their full remaining Class Principal Balances, plus accrued and unpaid interest, and all unpaid fees, expenses and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee, on the Payment Date in March 2045 (the "**Maturity Date**").|
 ||The Notes will be retired prior to the Maturity Date on the earlier to occur, if any, of (a) the Early Redemption Date or (b) the Payment Date on which the aggregate Class Principal Balance of all outstanding Notes is otherwise reduced to zero.|
 ||If on such date a Class of RCR Notes is outstanding, all amounts payable on the Exchangeable Notes that were exchanged for such RCR Notes will be allocated to and payable on the applicable RCR Notes entitled to receive those amounts, as further described under "_Description of_ _the Notes — Termination Dates_."|
-|**Early Redemption Option**.........................|............... Fannie Mae, as holder of the Ownership Certificate, may direct the Issuer to redeem the Notes on any Payment Date on or after the earlier to occur of (x) the Payment Date on which the aggregate unpaid principal balance of the Reference Obligations is less than or equal to 10% of the Cut-off Date Balance and (y) the Payment Date in March 2030, by paying an amount equal to the outstanding Class Principal Balance of the Notes, plus accrued and unpaid interest and all unpaid fees, expenses|
+|**Early Redemption Option** | Fannie Mae, as holder of the Ownership Certificate, may direct the Issuer to redeem the Notes on any Payment Date on or after the earlier to occur of (x) the Payment Date on which the aggregate unpaid principal balance of the Reference Obligations is less than or equal to 10% of the Cut-off Date Balance and (y) the Payment Date in March 2030, by paying an amount equal to the outstanding Class Principal Balance of the Notes, plus accrued and unpaid interest and all unpaid fees, expenses|
 
 <!-- page 39 -->
 
 ||and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee (the "**Early Redemption Option**"). If on the Early Redemption Date a Class of RCR Notes is outstanding, all principal and interest amounts that are payable by the Issuer on the Exchangeable Notes that were exchanged for such RCR Notes will be allocated to and payable on the applicable RCR Notes.|
 |---|---|
 ||See "_Description of the Notes — Early Redemption_ _Option_."|
-|**CAA Termination Date**..............................|.............. The earliest to occur of: (a) the Payment Date occurring in March 2045; (b) the CAA Early Termination Date; (c) the Payment Date related to the Reporting Period in which there occurs the final payment or other liquidation of the last Reference Obligation remaining in the Reference Pool or the disposition of any REO in respect thereof; and (d) the Payment Date related to the Reporting Period in which there occurs the removal of the last Reference Obligation remaining in the Reference Pool or any REO in respect thereof.|
-|**Termination Date**........................................|.............. The Notes will no longer be entitled to payments of principal or interest after the date (the "**Termination** **Date**") which is the earliest of: (1) the Maturity Date; (2) the Payment Date (the "**Early Redemption** **Date**") that is the earlier to occur of (x) the date on which the Notes are redeemed by the Issuer pursuant to the Early Redemption Option as described under "_Description of the Notes —_ _Early Redemption Option_"; and (y) the CAA Early Termination Date (if such date is a result of the occurrence of a CAA Trigger Event); and (3) the Payment Date on which the aggregate initial Class Principal Balances (without giving effect to any allocations of Tranche Write-down Amounts or Tranche Write-up Amounts on such Payment Date and all prior Payment Dates) and accrued and unpaid interest due on the Class 2A- 1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, plus all unpaid fees, expenses and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee, have otherwise been paid in full.|
-|**Projected Recovery Amount**......................|............... On the Termination Date, the Projected Recovery Amount will be included in the calculation of the Principal Recovery Amount. See "_Description of the_ _Notes – Projected Recovery Amount_."|
+|**CAA Termination Date** | The earliest to occur of: (a) the Payment Date occurring in March 2045; (b) the CAA Early Termination Date; (c) the Payment Date related to the Reporting Period in which there occurs the final payment or other liquidation of the last Reference Obligation remaining in the Reference Pool or the disposition of any REO in respect thereof; and (d) the Payment Date related to the Reporting Period in which there occurs the removal of the last Reference Obligation remaining in the Reference Pool or any REO in respect thereof.|
+|**Termination Date** | The Notes will no longer be entitled to payments of principal or interest after the date (the "**Termination** **Date**") which is the earliest of: (1) the Maturity Date; (2) the Payment Date (the "**Early Redemption** **Date**") that is the earlier to occur of (x) the date on which the Notes are redeemed by the Issuer pursuant to the Early Redemption Option as described under "_Description of the Notes —_ _Early Redemption Option_"; and (y) the CAA Early Termination Date (if such date is a result of the occurrence of a CAA Trigger Event); and (3) the Payment Date on which the aggregate initial Class Principal Balances (without giving effect to any allocations of Tranche Write-down Amounts or Tranche Write-up Amounts on such Payment Date and all prior Payment Dates) and accrued and unpaid interest due on the Class 2A- 1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, plus all unpaid fees, expenses and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee, have otherwise been paid in full.|
+|**Projected Recovery Amount** | On the Termination Date, the Projected Recovery Amount will be included in the calculation of the Principal Recovery Amount. See "_Description of the_ _Notes – Projected Recovery Amount_."|
 
 <!-- page 40 -->
 
-|**Legal Status**...............................................................|The Notes will be issued by the Issuer and will be debt obligations of the Issuer only. The Notes will be subordinated to Fannie Mae's rights to receive certain amounts under the Collateral Administration Agreement, and the Noteholders will have recourse solely to the assets of the Issuer. The RCR Notes represent interests in the Class 2M-2A Notes, Class 2M-2B Notes and Class 2M-2C Notes and/or a combination thereof.**Neither the** **United States nor Fannie Mae guarantees the Notes or** **any interest or return of discount on the Notes. The** **Notes are not debts or obligations of the United States,** **Fannie Mae or any agency or instrumentality of the** **United States.**|
+|**Legal Status** |The Notes will be issued by the Issuer and will be debt obligations of the Issuer only. The Notes will be subordinated to Fannie Mae's rights to receive certain amounts under the Collateral Administration Agreement, and the Noteholders will have recourse solely to the assets of the Issuer. The RCR Notes represent interests in the Class 2M-2A Notes, Class 2M-2B Notes and Class 2M-2C Notes and/or a combination thereof.**Neither the** **United States nor Fannie Mae guarantees the Notes or** **any interest or return of discount on the Notes. The** **Notes are not debts or obligations of the United States,** **Fannie Mae or any agency or instrumentality of the** **United States.**|
 |---|---|
-|**Listing**........................................................................|Subsequent to issuance of the Notes, Fannie Mae intends to apply to the Singapore Exchange for the Notes to be listed for trading on the Singapore Exchange. Following any such application, there can be no assurance that any such listing will be granted or maintained. For so long as any Notes may be listed on the Singapore Exchange and the rules of the exchange so require, such Notes will be traded on the Singapore Exchange in a minimum board lot size of $200,000.|
-|**Form of Notes**............................................................|The Notes will be issued on the Closing Date as book- entry Notes (the "**Book-Entry Notes**") and will be held through the book-entry system of the DTC, and, as applicable, Euroclear and Clearstream. The Notes will be available in fully-registered form ("**Definitive Notes**") only in the limited circumstances disclosed under "_Description of the Notes — Form, Registration and_ _Transfer of the Notes_."|
-|**Notes Acquired by Fannie Mae**...............................|Fannie Mae may, from time to time, purchase or otherwise acquire any of the Notes at any price or prices, in the open market or otherwise. Any such Notes may be sold by Fannie Mae from time to time in negotiated transactions at varying prices to be determined at the time of sale;_provided that_the Notes will be sold only (i) in the United States to "Qualified Institutional Buyers" in reliance on Rule 144A and (ii) in offshore transactions to persons who are not "U.S. Persons" in reliance on Regulation S. These sales may be made to or through dealers.|
+|**Listing** |Subsequent to issuance of the Notes, Fannie Mae intends to apply to the Singapore Exchange for the Notes to be listed for trading on the Singapore Exchange. Following any such application, there can be no assurance that any such listing will be granted or maintained. For so long as any Notes may be listed on the Singapore Exchange and the rules of the exchange so require, such Notes will be traded on the Singapore Exchange in a minimum board lot size of $200,000.|
+|**Form of Notes** |The Notes will be issued on the Closing Date as book- entry Notes (the "**Book-Entry Notes**") and will be held through the book-entry system of the DTC, and, as applicable, Euroclear and Clearstream. The Notes will be available in fully-registered form ("**Definitive Notes**") only in the limited circumstances disclosed under "_Description of the Notes — Form, Registration and_ _Transfer of the Notes_."|
+|**Notes Acquired by Fannie Mae** |Fannie Mae may, from time to time, purchase or otherwise acquire any of the Notes at any price or prices, in the open market or otherwise. Any such Notes may be sold by Fannie Mae from time to time in negotiated transactions at varying prices to be determined at the time of sale;_provided that_the Notes will be sold only (i) in the United States to "Qualified Institutional Buyers" in reliance on Rule 144A and (ii) in offshore transactions to persons who are not "U.S. Persons" in reliance on Regulation S. These sales may be made to or through dealers.|
 |**Hypothetical Structure and Reference Tranches**...|Solely for purposes of making the calculations for each Payment Date of any principal write-downs (or write-ups) or reductions in the interest entitlements on the Notes as a result of Credit Events (or reversals thereof) or Modification Events on the Reference Obligations and principal payments required to be made on the Notes by the Issuer, a hypothetical structure of reference tranches (each, a "**Reference Tranche**") deemed to be backed by the Reference Obligations have been established as set forth in the table under "_Transaction Summary_" above. The Reference Tranches are the Class 2A-H, Class 2A-1,|
 
 <!-- page 41 -->
 
 ||Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M- 2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches.|
 |---|---|
-|**Corresponding Classes of Reference Tranches**......|With respect to the Class 2A-1 Notes, the Class 2A-1 Reference Tranche. With respect to the Class 2M-1 Notes, the Class 2M-1 Reference Tranche. With respect to the Class 2M-2A Notes, the Class 2M-2A Reference Tranche. With respect to the Class 2M-2B Notes, the Class 2M-2B Reference Tranche. With respect to the Class 2M-2C Notes, the Class 2M-2C Reference Tranche.|
-|**Corresponding Classes of Notes**..............................|With respect to the Class 2A-1 Reference Tranche, the Class 2A-1 Notes. With respect to the Class 2M-1 Reference Tranche, the Class 2M-1 Notes. With respect to the Class 2M-2A Reference Tranche, the Class 2M-2A Notes. With respect to the Class 2M-2B Reference Tranche, the Class 2M-2B Notes. With respect to the Class 2M-2C Reference Tranche, the Class 2M-2C Notes. The Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches will not have corresponding Notes.|
-|**Senior Reference Tranches**......................................|The Class 2A-H, Class 2A-1 and Class 2A-1H Reference Tranches (each, a "**Senior Reference Tranche**" and collectively referred to as the "**Senior Reference** **Tranches**").|
-|**Mezzanine Reference Tranches**...............................|The Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M- AH, Class 2M-2B, Class 2M-BH, Class 2M-2C and Class 2M-CH Reference Tranches (each, a "**Mezzanine** **Reference Tranche**" and collectively referred to as the "**Mezzanine Reference Tranches**").|
-|**Junior Reference Tranches**......................................|The Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches (each, a "**Junior Reference** **Tranche**" and together referred to as the "**Junior** **Reference Tranches**").|
-|**Reporting Period for Hypothetical Structure**........|For any Payment Date and for purposes of making calculations with respect to principal collections (other than prepayments in full) under the hypothetical structure and the Reference Tranches, the reporting period (each, a "**Reporting Period**") will be the second calendar month preceding the month of such Payment Date. For any Payment Date, the delinquency status of each Reference Obligation will be determined as of close of business on the last day of the second calendar month preceding the month of such Payment Date. For example, assuming no prepayments in full, the Reporting Period for an April Payment Date is the preceding February, and determinations of the delinquency status of the Reference Obligations relative to the April Payment Date are made as of the preceding February 28 or, during a leap year, February 29. In the case of prepayments in full on the Reference|
+|**Corresponding Classes of Reference Tranches** |With respect to the Class 2A-1 Notes, the Class 2A-1 Reference Tranche. With respect to the Class 2M-1 Notes, the Class 2M-1 Reference Tranche. With respect to the Class 2M-2A Notes, the Class 2M-2A Reference Tranche. With respect to the Class 2M-2B Notes, the Class 2M-2B Reference Tranche. With respect to the Class 2M-2C Notes, the Class 2M-2C Reference Tranche.|
+|**Corresponding Classes of Notes** |With respect to the Class 2A-1 Reference Tranche, the Class 2A-1 Notes. With respect to the Class 2M-1 Reference Tranche, the Class 2M-1 Notes. With respect to the Class 2M-2A Reference Tranche, the Class 2M-2A Notes. With respect to the Class 2M-2B Reference Tranche, the Class 2M-2B Notes. With respect to the Class 2M-2C Reference Tranche, the Class 2M-2C Notes. The Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches will not have corresponding Notes.|
+|**Senior Reference Tranches** |The Class 2A-H, Class 2A-1 and Class 2A-1H Reference Tranches (each, a "**Senior Reference Tranche**" and collectively referred to as the "**Senior Reference** **Tranches**").|
+|**Mezzanine Reference Tranches** |The Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M- AH, Class 2M-2B, Class 2M-BH, Class 2M-2C and Class 2M-CH Reference Tranches (each, a "**Mezzanine** **Reference Tranche**" and collectively referred to as the "**Mezzanine Reference Tranches**").|
+|**Junior Reference Tranches** |The Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches (each, a "**Junior Reference** **Tranche**" and together referred to as the "**Junior** **Reference Tranches**").|
+|**Reporting Period for Hypothetical Structure** |For any Payment Date and for purposes of making calculations with respect to principal collections (other than prepayments in full) under the hypothetical structure and the Reference Tranches, the reporting period (each, a "**Reporting Period**") will be the second calendar month preceding the month of such Payment Date. For any Payment Date, the delinquency status of each Reference Obligation will be determined as of close of business on the last day of the second calendar month preceding the month of such Payment Date. For example, assuming no prepayments in full, the Reporting Period for an April Payment Date is the preceding February, and determinations of the delinquency status of the Reference Obligations relative to the April Payment Date are made as of the preceding February 28 or, during a leap year, February 29. In the case of prepayments in full on the Reference|
 
 <!-- page 42 -->
 
 ||Obligations, the re but excluding the calendar month pr Payment Date occ Business Day of t preceding such Pa|porting period w first Business Da eceding the mon urs through and i he calendar mont yment Date.|ill be the period from y of the second th in which such ncluding the first h immediately|
 |---|---|---|---|
-|**CUSIP Numbers**...............................|........................ The CUSIP Numb |ers for the Class|es of Notes are as|
+|**CUSIP Numbers** | The CUSIP Numb |ers for the Class|es of Notes are as|
 ||follows:|||
 ||**Class**|**Rule 144A**|**Regulation S**|
 ||2A-1 Notes|20754VAA5|U1945VAA2|
@@ -980,73 +980,73 @@ Each Class of Notes bears interest at the applicable per annum interest rate (ea
 
 |**Class**|**Initial Class** **Coupon**|**Class Coupon Formula**|**Minimum** **Rate**|
 |---|---|---|---|
-|2A-1 Notes.............................................|5.78969%|SOFR + 1.45%|0%|
-|2M-1 Notes............................................|5.93969%|SOFR + 1.60%|0%|
-|2M-2 Notes(1).........................................|6.58969%|SOFR + 2.25%|0%|
-|2M-2A Notes(2)......................................|6.58969%|SOFR + 2.25%|0%|
-|2M-2B Notes(2) ......................................|6.58969%|SOFR + 2.25%|0%|
-|2M-2C Notes(2) ......................................|6.58969%|SOFR + 2.25%|0%|
-|2A-I1 Notes(1) ........................................|1.25000%|1.25%(3)|0%|
-|2A-I2 Notes(1) ........................................|0.95000%|0.95%(3)|0%|
-|2A-I3 Notes(1) ........................................|0.65000%|0.65%(3)|0%|
-|2A-I4 Notes(1) ........................................|0.35000%|0.35%(3)|0%|
-|2E-A1 Notes(1).......................................|5.33969%|SOFR + 1.00%|0%|
-|2E-A2 Notes(1).......................................|5.63969%|SOFR + 1.30%|0%|
-|2E-A3 Notes(1).......................................|5.93969%|SOFR + 1.60%|0%|
-|2E-A4 Notes(1).......................................|6.23969%|SOFR + 1.90%|0%|
-|2B-I1 Notes(1) ........................................|1.25000%|1.25%(3)|0%|
-|2B-I2 Notes(1) ........................................|0.95000%|0.95%(3)|0%|
-|2B-I3 Notes(1) ........................................|0.65000%|0.65%(3)|0%|
-|2B-I4 Notes(1) ........................................|0.35000%|0.35%(3)|0%|
-|2E-B1 Notes(1) .......................................|5.33969%|SOFR + 1.00%|0%|
+|2A-1 Notes |5.78969%|SOFR + 1.45%|0%|
+|2M-1 Notes |5.93969%|SOFR + 1.60%|0%|
+|2M-2 Notes(1) |6.58969%|SOFR + 2.25%|0%|
+|2M-2A Notes(2) |6.58969%|SOFR + 2.25%|0%|
+|2M-2B Notes(2) |6.58969%|SOFR + 2.25%|0%|
+|2M-2C Notes(2) |6.58969%|SOFR + 2.25%|0%|
+|2A-I1 Notes(1) |1.25000%|1.25%(3)|0%|
+|2A-I2 Notes(1) |0.95000%|0.95%(3)|0%|
+|2A-I3 Notes(1) |0.65000%|0.65%(3)|0%|
+|2A-I4 Notes(1) |0.35000%|0.35%(3)|0%|
+|2E-A1 Notes(1) |5.33969%|SOFR + 1.00%|0%|
+|2E-A2 Notes(1) |5.63969%|SOFR + 1.30%|0%|
+|2E-A3 Notes(1) |5.93969%|SOFR + 1.60%|0%|
+|2E-A4 Notes(1) |6.23969%|SOFR + 1.90%|0%|
+|2B-I1 Notes(1) |1.25000%|1.25%(3)|0%|
+|2B-I2 Notes(1) |0.95000%|0.95%(3)|0%|
+|2B-I3 Notes(1) |0.65000%|0.65%(3)|0%|
+|2B-I4 Notes(1) |0.35000%|0.35%(3)|0%|
+|2E-B1 Notes(1) |5.33969%|SOFR + 1.00%|0%|
 
 <!-- page 45 -->
 
 ||**Initial Class** ||**Minimum** |
 |---|---|---|---|
 |**Class**|**Coupon**|**Class Coupon Formula**|**Rate**|
-|2E-B2 Notes(1) .......................................|5.63969%|SOFR + 1.30%|0%|
-|2E-B3 Notes(1) .......................................|5.93969%|SOFR + 1.60%|0%|
-|2E-B4 Notes(1) ....................................... |6.23969%|SOFR + 1.90% |0%|
-|2C-I1 Notes(1) ........................................|1.25000%|1.25%(3)|0%|
-|2C-I2 Notes(1) ........................................|0.95000%|0.95%(3)|0%|
-|2C-I3 Notes(1) ........................................|0.65000%|0.65%(3)|0%|
-|2C-I4 Notes(1) ........................................|0.35000%|0.35%(3)|0%|
-|2E-C1 Notes(1) .......................................|5.33969%|SOFR + 1.00%|0%|
-|2E-C2 Notes(1) .......................................|5.63969%|SOFR + 1.30%|0%|
-|2E-C3 Notes(1) .......................................|5.93969%|SOFR + 1.60%|0%|
-|2E-C4 Notes(1) .......................................|6.23969%|SOFR + 1.90%|0%|
-|2E-D1 Notes(1).......................................|5.33969%|SOFR + 1.00%|0%|
-|2E-D2 Notes(1).......................................|5.63969%|SOFR + 1.30%|0%|
-|2E-D3 Notes(1).......................................|5.93969%|SOFR + 1.60%|0%|
-|2E-D4 Notes(1)....................................... |6.23969%|SOFR + 1.90%|0%|
-|2E-D5 Notes(1).......................................|6.58969%|SOFR + 2.25%|0%|
-|2E-F1 Notes(1)........................................|5.33969%|SOFR + 1.00%|0%|
-|2E-F2 Notes(1)........................................|5.63969%|SOFR + 1.30%|0%|
-|2E-F3 Notes(1)........................................ |5.93969%|SOFR + 1.60%|0%|
-|2E-F4 Notes(1)........................................|6.23969%|SOFR + 1.90%|0%|
-|2E-F5 Notes(1)........................................|6.58969%|SOFR + 2.25%|0%|
-|2-J1 Notes(1)...........................................|9.08969%|(4)|0%|
-|2-J2 Notes(1)...........................................|8.48969%|(4)|0%|
-|2-J3 Notes(1)...........................................|7.88969%|(4)|0%|
-|2-J4 Notes(1)...........................................|7.28969%|(4)|0%|
-|2-K1 Notes(1)..........................................|7.21469%|(4)|0%|
-|2-K2 Notes(1)..........................................|7.06469%|(4)|0%|
-|2-K3 Notes(1)..........................................|6.91469%|(4)|0%|
-|2-K4 Notes(1)..........................................|6.76469%|(4)|0%|
-|2-X1 Notes(1)..........................................|1.25000%|1.25%(3)|0%|
-|2-X2 Notes(1)..........................................|0.95000%|0.95%(3)|0%|
-|2-X3 Notes(1)..........................................|0.65000%|0.65%(3)|0%|
-|2-X4 Notes(1)..........................................|0.35000%|0.35%(3)|0%|
-|2-Y1 Notes(1)..........................................|1.25000%|1.25%(3)|0%|
-|2-Y2 Notes(1)..........................................|0.95000%|0.95%(3)|0%|
-|2-Y3 Notes(1)..........................................|0.65000%|0.65%(3)|0%|
-|2-Y4 Notes(1)..........................................|0.35000%|0.35%(3)|0%|
-|2M-2Y Notes(1)......................................|6.58969%|(5)|0%|
-|2M-2X Notes(1)......................................|0.00000%|(6)|0%|
-|2B-1H Reference Tranche.....................|7.08969%|SOFR + 2.75%(7)|0%|
-|2B-2H Reference Tranche.....................|7.83969%|SOFR + 3.50%(7)|0%|
-|2B-3H Reference Tranche.....................|12.33969%|SOFR + 8.00%(7)|0%|
+|2E-B2 Notes(1) |5.63969%|SOFR + 1.30%|0%|
+|2E-B3 Notes(1) |5.93969%|SOFR + 1.60%|0%|
+|2E-B4 Notes(1) |6.23969%|SOFR + 1.90% |0%|
+|2C-I1 Notes(1) |1.25000%|1.25%(3)|0%|
+|2C-I2 Notes(1) |0.95000%|0.95%(3)|0%|
+|2C-I3 Notes(1) |0.65000%|0.65%(3)|0%|
+|2C-I4 Notes(1) |0.35000%|0.35%(3)|0%|
+|2E-C1 Notes(1) |5.33969%|SOFR + 1.00%|0%|
+|2E-C2 Notes(1) |5.63969%|SOFR + 1.30%|0%|
+|2E-C3 Notes(1) |5.93969%|SOFR + 1.60%|0%|
+|2E-C4 Notes(1) |6.23969%|SOFR + 1.90%|0%|
+|2E-D1 Notes(1) |5.33969%|SOFR + 1.00%|0%|
+|2E-D2 Notes(1) |5.63969%|SOFR + 1.30%|0%|
+|2E-D3 Notes(1) |5.93969%|SOFR + 1.60%|0%|
+|2E-D4 Notes(1) |6.23969%|SOFR + 1.90%|0%|
+|2E-D5 Notes(1) |6.58969%|SOFR + 2.25%|0%|
+|2E-F1 Notes(1) |5.33969%|SOFR + 1.00%|0%|
+|2E-F2 Notes(1) |5.63969%|SOFR + 1.30%|0%|
+|2E-F3 Notes(1) |5.93969%|SOFR + 1.60%|0%|
+|2E-F4 Notes(1) |6.23969%|SOFR + 1.90%|0%|
+|2E-F5 Notes(1) |6.58969%|SOFR + 2.25%|0%|
+|2-J1 Notes(1) |9.08969%|(4)|0%|
+|2-J2 Notes(1) |8.48969%|(4)|0%|
+|2-J3 Notes(1) |7.88969%|(4)|0%|
+|2-J4 Notes(1) |7.28969%|(4)|0%|
+|2-K1 Notes(1) |7.21469%|(4)|0%|
+|2-K2 Notes(1) |7.06469%|(4)|0%|
+|2-K3 Notes(1) |6.91469%|(4)|0%|
+|2-K4 Notes(1) |6.76469%|(4)|0%|
+|2-X1 Notes(1) |1.25000%|1.25%(3)|0%|
+|2-X2 Notes(1) |0.95000%|0.95%(3)|0%|
+|2-X3 Notes(1) |0.65000%|0.65%(3)|0%|
+|2-X4 Notes(1) |0.35000%|0.35%(3)|0%|
+|2-Y1 Notes(1) |1.25000%|1.25%(3)|0%|
+|2-Y2 Notes(1) |0.95000%|0.95%(3)|0%|
+|2-Y3 Notes(1) |0.65000%|0.65%(3)|0%|
+|2-Y4 Notes(1) |0.35000%|0.35%(3)|0%|
+|2M-2Y Notes(1) |6.58969%|(5)|0%|
+|2M-2X Notes(1) |0.00000%|(6)|0%|
+|2B-1H Reference Tranche |7.08969%|SOFR + 2.75%(7)|0%|
+|2B-2H Reference Tranche |7.83969%|SOFR + 3.50%(7)|0%|
+|2B-3H Reference Tranche |12.33969%|SOFR + 8.00%(7)|0%|
 
 (1) RCR Notes for which Exchangeable Notes or other RCR Notes, as applicable, may be exchanged according to the Combinations set forth on Schedule I hereto.
 
@@ -1346,42 +1346,42 @@ The figures below are approximate and may not correspond exactly to the related 
 
 ||**Range or Total**|**Average or** **Weighted** **Average**|
 |---|---|---|
-|Number of Reference Obligations ..................................................|65,447|-|
-|Aggregate Original Principal Balance ............................................|$23,840,446,000|-|
-|Original Principal Balance..............................................................|$21,000 to $1,446,000|$364,271|
-|Cut-off Date Balance ......................................................................|$23,244,166,723|-|
-|Unpaid Principal Balance ...............................................................|$6,330 to $1,438,443|$355,160|
-|Gross Mortgage Rate ......................................................................|4.250% to 9.125%|6.825%|
-|Remaining Term to Stated Maturity (months)................................|253 to 354 months|351 months|
-|Original Term to Stated Maturity (months)....................................|264 to 360 months|360 months|
-|Loan Age (months).........................................................................|6 to 19 months|9 months|
-|Original Loan-to-Value Ratio.........................................................|81.00% to 97.00%|92.55%|
-|Original Combined Loan-to-Value Ratio .......................................|81.00% to 97.00%|92.58%|
-|Debt-to-Income Ratio .....................................................................|1% to 50%|40%|
-|Credit Score ....................................................................................|603 to 829|757*|
-|Latest Maturity Date.......................................................................|July 2054|-|
+|Number of Reference Obligations |65,447|-|
+|Aggregate Original Principal Balance |$23,840,446,000|-|
+|Original Principal Balance |$21,000 to $1,446,000|$364,271|
+|Cut-off Date Balance |$23,244,166,723|-|
+|Unpaid Principal Balance |$6,330 to $1,438,443|$355,160|
+|Gross Mortgage Rate |4.250% to 9.125%|6.825%|
+|Remaining Term to Stated Maturity (months) |253 to 354 months|351 months|
+|Original Term to Stated Maturity (months) |264 to 360 months|360 months|
+|Loan Age (months) |6 to 19 months|9 months|
+|Original Loan-to-Value Ratio |81.00% to 97.00%|92.55%|
+|Original Combined Loan-to-Value Ratio |81.00% to 97.00%|92.58%|
+|Debt-to-Income Ratio |1% to 50%|40%|
+|Credit Score |603 to 829|757*|
+|Latest Maturity Date |July 2054|-|
 
 _* The weighted average Credit Score does not take into account any Reference Obligation for which such data was unavailable._
 
 #### **Top Five Geographic Concentration of Mortgage Loans By State**
 
-|TX............................................................................................|10.42%|
+|TX |10.42%|
 |---|---|
-|CA ...........................................................................................|10.05%|
-|FL ............................................................................................|7.54%|
-|NC ...........................................................................................|4.15%|
-|GA...........................................................................................|3.82%|
+|CA |10.05%|
+|FL |7.54%|
+|NC |4.15%|
+|GA |3.82%|
 
 <!-- page 55 -->
 
 #### **Top Five Geographic Concentration of Mortgage Loans By Zip Code**
 
-|75009 ...................................................................................|0.21%|
+|75009 |0.21%|
 |---|---|
-|75071 ...................................................................................|0.21%|
-|76227 ...................................................................................|0.18%|
-|78641 ...................................................................................|0.17%|
-|77433 ...................................................................................|0.16%|
+|75071 |0.21%|
+|76227 |0.18%|
+|78641 |0.17%|
+|77433 |0.16%|
 
 The characteristics of the Reference Obligations will change from time to time to reflect subsequent scheduled payments, prepayments, Credit Events and Modification Events with respect to such Reference Obligations. In addition, the characteristics of the Reference Obligations may change after the issuance of the Notes to reflect the removal of Reference Obligations from the Reference Pool.
 
@@ -2629,12 +2629,12 @@ The table below sets forth the original Note form, the minimum denomination and 
 
 |**Class**|**Original Form**|**Minimum** **Denomination**|**Incremental** **Denomination**|
 |---|---|---|---|
-|Class 2A-1 Notes...................................................................|Book-Entry|$10,000|$1|
-|Class 2M-1 Notes ..................................................................|Book-Entry|$10,000|$1|
-|Class 2M-2 Notes(1) ...............................................................|Book-Entry|$10,000|$1|
-|Class 2M-2A Notes(1) ............................................................|Book-Entry|$10,000|$1|
-|Class 2M-2B Notes(1).............................................................|Book-Entry|$10,000|$1|
-|Class 2M-2C Notes(1).............................................................|Book-Entry|$10,000|$1|
+|Class 2A-1 Notes |Book-Entry|$10,000|$1|
+|Class 2M-1 Notes |Book-Entry|$10,000|$1|
+|Class 2M-2 Notes(1) |Book-Entry|$10,000|$1|
+|Class 2M-2A Notes(1) |Book-Entry|$10,000|$1|
+|Class 2M-2B Notes(1) |Book-Entry|$10,000|$1|
+|Class 2M-2C Notes(1) |Book-Entry|$10,000|$1|
 
 > (1) The Classes of Notes set forth on Schedule I hereto have the same forms, minimum denominations and incremental denominations.
 
@@ -4544,15 +4544,15 @@ The table below sets forth the Diligence Providers, Eligible Review Population a
 
 ||**Q2 2024**|**Q1 2024**|**Q4 2023**|**Q3 2023**|
 |---|---|---|---|---|
-|Diligence Provider......|Adfitech Inc.|Opus Capital Market Consultants, LLC.|Adfitech Inc.|Opus Capital Market Consultants, LLC.|
+|Diligence Provider |Adfitech Inc.|Opus Capital Market Consultants, LLC.|Adfitech Inc.|Opus Capital Market Consultants, LLC.|
 |Eligible Review|||||
-|Population...............|6,537|6,262|6,476|6,813|
-|Diligence Sample .......|999|999|999|999|
+|Population |6,537|6,262|6,476|6,813|
+|Diligence Sample |999|999|999|999|
 |Diligence Sample as percentage of Eligible Review|||||
-|Population...............|15.3%|16.0%|15.4%|14.7%|
+|Population |15.3%|16.0%|15.4%|14.7%|
 |Mortgage loans included in: ●all related|||||
-|reference pools .... ●the Reference|416|458|474|507|
-|Pool .....................|183|206|0|0|
+|reference pools ●the Reference|416|458|474|507|
+|Pool |183|206|0|0|
 
 #### **_Credit and Property Reviews_**
 
@@ -4688,15 +4688,15 @@ The following table sets forth desk review and field review results for the Dili
 
 ||**Q2 2024**|**Q1 2024**|**Q4 2023**|**Q3 2023**|
 |---|---|---|---|---|
-|Desk reviews ....................................................|906|908|911|915|
-|Value acceptance (appraisal waiver) ................|92|91|87|82|
+|Desk reviews |906|908|911|915|
+|Value acceptance (appraisal waiver) |92|91|87|82|
 |Unattainable Desk Reviews|1|0|1|2|
 |Desk reviews with a negative variance of more|||||
-|than 10% or inconclusive..............................|8|9|9|10|
-|Field reviews ....................................................|9|9|10|12|
-|Field reviews ≥ 90%(1)......................................|7|8|9|11|
-|Field reviews < 90%(2)......................................|2|1|1|1|
-|Field review mortgage loans initially included in all reference pools.....................................|3|3|6|3|
+|than 10% or inconclusive |8|9|9|10|
+|Field reviews |9|9|10|12|
+|Field reviews ≥ 90%(1) |7|8|9|11|
+|Field reviews < 90%(2) |2|1|1|1|
+|Field review mortgage loans initially included in all reference pools |3|3|6|3|
 
 (1) Field reviews equal to or greater than 90% of the appraisal value were determined by the Diligence Provider to meet Eligibility Criteria.
 
@@ -4723,7 +4723,7 @@ _Second Quarter 2024_
 | Original Loan to Value|1|0.10%|73.00%|71.00%|
 | First Payment Date|1|0.10%|5/1/2024|4/1/2024|
 | Maturity Date|1|0.10%|4/1/2054|3/1/2054|
-|**Total...............................................**|20*||||
+|**Total **|20*||||
 
 * These 20 discrepancies relate to 18 mortgage loans. Of these 18 mortgage loans, 1 mortgage loan was included in, and 17 mortgage loans were excluded from, the Reference Pool. The data discrepancies for the one mortgage loan included in the Reference Pool are summarized in the following table. Additionally, see Appendix B for further information regarding each discrepancy.
 
@@ -4732,7 +4732,7 @@ _Second Quarter 2024_
 | Loans Included in the Reference Pool|Number of Discrepancies|2024 Diligence Sample|Fannie Mae Data|of Diligence Provider Data|
 |First Payment Date|1|0.10%|5/1/2024|4/1/2024|
 |Maturity Date|1|0.10%|4/1/2054|3/1/2054|
-|**Total**..............................................|. 2*||||
+|**Total** |. 2*||||
 
 * These 2 discrepancies relate to 1 mortgage loan, which is included in the Reference Pool.
 
@@ -4743,7 +4743,7 @@ _Second Quarter 2024_
 |Property Type|1|0.10%|Single Family|PUD|
 |Zip Code|1|0.10%|82420|82431|
 | Credit Score|1|0.10%|743|750|
-|**Total..............................................**|**.** 14*||||
+|**Total **|**.** 14*||||
 
 * These 14 discrepancies relate to 14 mortgage loans. Of these 14 mortgage loans, 2 mortgage loans were included in, and 12 mortgage loans were excluded from, the Reference Pool. The data discrepancies for the two mortgage loans included in the Reference Pool are summarized in the following table. Additionally, see Appendix B for further information regarding each discrepancy.
 
@@ -4753,7 +4753,7 @@ _Second Quarter 2024_
 |---|---|---|---|---|
 | Loans Included in the Reference Pool|Number of Discrepancies|2024 Diligence Sample|Fannie Mae Data|of Diligence Provider Data|
 |DTI (back) +/- >=2% +/-<=5%|2|0.20%|41.64%|44.00%|
-|**Total**...............................................|2*||||
+|**Total** |2*||||
 
 * These 2 discrepancies relate to 2 mortgage loans, which are included in the Reference Pool.
 
@@ -4768,7 +4768,7 @@ _Second Quarter 2024_
 |First Time Homebuyer|2|0.20%|No|Yes|
 |Original Loan to Value|1|0.10%|80.00%|82.29%|
 |Zip Code|1|0.10%|77093|77091|
-|**Total...............................................**|14*||||
+|**Total **|14*||||
 
 * These 14 discrepancies relate to 14 mortgage loans, all of which were excluded from the Reference Pool. See Appendix B for further information regarding each discrepancy.
 
@@ -4788,7 +4788,7 @@ _Second Quarter 2024_
 |Property Type|1|0.10%|PUD|Single Family|
 |Credit Score|1|0.10%|780|782|
 |Credit Score|1|0.10%|783|786|
-|**Total.............................................**|**..** 27*||||
+|**Total **|**..** 27*||||
 
 * These 27 discrepancies relate to 26 mortgage loans, all of which were excluded from the Reference Pool. See Appendix B for further information regarding each discrepancy.
 
@@ -4900,69 +4900,69 @@ The tables on the following pages have been prepared on the basis of the followi
 
 |**Class**|**Assumed Class Coupon**|
 |---|---|
-|2A-1 Notes..............................................|SOFR + 1.45%|
-|2M-1 Notes .............................................|SOFR + 1.60%|
-|2M-2 Notes .............................................|SOFR + 2.25%|
-|2M-2A Notes...........................................|SOFR + 2.25%|
-|2M-2B Notes...........................................|SOFR + 2.25%|
-|2M-2C Notes...........................................|SOFR + 2.25%|
-|2A-I1 Notes.............................................|1.25%|
+|2A-1 Notes |SOFR + 1.45%|
+|2M-1 Notes |SOFR + 1.60%|
+|2M-2 Notes |SOFR + 2.25%|
+|2M-2A Notes |SOFR + 2.25%|
+|2M-2B Notes |SOFR + 2.25%|
+|2M-2C Notes |SOFR + 2.25%|
+|2A-I1 Notes |1.25%|
 
 <!-- page 196 -->
 
 |**Class** **Assumed Class Coupon**|
 |---|
-|2A-I2 Notes............................................. 0.95%|
-|2A-I3 Notes............................................. 0.65%|
-|2A-I4 Notes............................................. 0.35%|
-|2E-A1 Notes............................................ SOFR + 1.00%|
-|2E-A2 Notes............................................ SOFR + 1.30%|
-|2E-A3 Notes............................................ SOFR + 1.60%|
-|2E-A4 Notes............................................ SOFR + 1.90% |
-|2B-I1 Notes............................................. 1.25%|
-|2B-I2 Notes............................................. 0.95%|
-|2B-I3 Notes............................................. 0.65%|
-|2B-I4 Notes............................................. 0.35%|
-|2E-B1 Notes............................................ SOFR + 1.00%|
-|2E-B2 Notes............................................ SOFR + 1.30%|
-|2E-B3 Notes............................................ SOFR + 1.60%|
-|2E-B4 Notes............................................ SOFR + 1.90%|
-|2C-I1 Notes............................................. 1.25%|
-|2C-I2 Notes............................................. 0.95%|
-|2C-I3 Notes............................................. 0.65%|
-|2C-I4 Notes............................................. 0.35%|
-|2E-C1 Notes............................................ SOFR + 1.00%|
-|2E-C2 Notes............................................ SOFR + 1.30%|
-|2E-C3 Notes............................................ SOFR + 1.60%|
-|2E-C4 Notes............................................ SOFR + 1.90%|
-|2E-D1 Notes............................................ SOFR + 1.00%|
-|2E-D2 Notes............................................ SOFR + 1.30%|
-|2E-D3 Notes............................................ SOFR + 1.60%|
-|2E-D4 Notes............................................ SOFR + 1.90%|
-|2E-D5 Notes............................................ SOFR + 2.25%|
-|2E-F1 Notes ............................................ SOFR + 1.00%|
-|2E-F2 Notes ............................................ SOFR + 1.30%|
-|2E-F3 Notes ............................................ SOFR + 1.60%|
-|2E-F4 Notes ............................................ SOFR + 1.90%|
-|2E-F5 Notes ............................................ SOFR + 2.25%|
-|2-J1 Notes ............................................... (1)|
-|2-J2 Notes ............................................... (1)|
-|2-J3 Notes ............................................... (1)|
-|2-J4 Notes ............................................... (1)|
-|2-K1 Notes.............................................. (1)|
-|2-K2 Notes.............................................. (1)|
-|2-K3 Notes.............................................. (1)|
-|2-K4 Notes.............................................. (1)|
-|2-X1 Notes.............................................. 1.25%|
-|2-X2 Notes.............................................. 0.95%|
-|2-X3 Notes.............................................. 0.65%|
-|2-X4 Notes.............................................. 0.35%|
-|2-Y1 Notes.............................................. 1.25%|
-|2-Y2 Notes.............................................. 0.95%|
-|2-Y3 Notes.............................................. 0.65%|
-|2-Y4 Notes.............................................. 0.35%|
-|2M-2Y Notes........................................... SOFR + 2.25%|
-| 2M-2X Notes........................................... (2)|
+|2A-I2 Notes 0.95%|
+|2A-I3 Notes 0.65%|
+|2A-I4 Notes 0.35%|
+|2E-A1 Notes SOFR + 1.00%|
+|2E-A2 Notes SOFR + 1.30%|
+|2E-A3 Notes SOFR + 1.60%|
+|2E-A4 Notes SOFR + 1.90% |
+|2B-I1 Notes 1.25%|
+|2B-I2 Notes 0.95%|
+|2B-I3 Notes 0.65%|
+|2B-I4 Notes 0.35%|
+|2E-B1 Notes SOFR + 1.00%|
+|2E-B2 Notes SOFR + 1.30%|
+|2E-B3 Notes SOFR + 1.60%|
+|2E-B4 Notes SOFR + 1.90%|
+|2C-I1 Notes 1.25%|
+|2C-I2 Notes 0.95%|
+|2C-I3 Notes 0.65%|
+|2C-I4 Notes 0.35%|
+|2E-C1 Notes SOFR + 1.00%|
+|2E-C2 Notes SOFR + 1.30%|
+|2E-C3 Notes SOFR + 1.60%|
+|2E-C4 Notes SOFR + 1.90%|
+|2E-D1 Notes SOFR + 1.00%|
+|2E-D2 Notes SOFR + 1.30%|
+|2E-D3 Notes SOFR + 1.60%|
+|2E-D4 Notes SOFR + 1.90%|
+|2E-D5 Notes SOFR + 2.25%|
+|2E-F1 Notes SOFR + 1.00%|
+|2E-F2 Notes SOFR + 1.30%|
+|2E-F3 Notes SOFR + 1.60%|
+|2E-F4 Notes SOFR + 1.90%|
+|2E-F5 Notes SOFR + 2.25%|
+|2-J1 Notes (1)|
+|2-J2 Notes (1)|
+|2-J3 Notes (1)|
+|2-J4 Notes (1)|
+|2-K1 Notes (1)|
+|2-K2 Notes (1)|
+|2-K3 Notes (1)|
+|2-K4 Notes (1)|
+|2-X1 Notes 1.25%|
+|2-X2 Notes 0.95%|
+|2-X3 Notes 0.65%|
+|2-X4 Notes 0.35%|
+|2-Y1 Notes 1.25%|
+|2-Y2 Notes 0.95%|
+|2-Y3 Notes 0.65%|
+|2-Y4 Notes 0.35%|
+|2M-2Y Notes SOFR + 2.25%|
+| 2M-2X Notes (2)|
 
 (1) The Assumed Class Coupon for each of these Classes of RCR Notes with respect to any Payment Date will be based on the weighted average Assumed Class Coupons of the Exchangeable and RCR
 
@@ -5052,37 +5052,37 @@ Based upon the Modeling Assumptions, the following Weighted Average Life Tables 
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|0.25%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|0.50%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|0.75%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|1.00%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|1.50%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|2.00%............|1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|3.00%............| 3.61|**Class 2M-1** 4.42|**Weighted A** 3.55|**verage Life** 2.25|**to Maturity** 1.42|**(years)** 1.42|1.42|1.42|
+|0.00% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|0.25% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|0.50% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|0.75% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|1.00% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|1.50% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|2.00% |1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|3.00% | 3.61|**Class 2M-1** 4.42|**Weighted A** 3.55|**verage Life** 2.25|**to Maturity** 1.42|**(years)** 1.42|1.42|1.42|
 ||**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
 |**CDR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|
-|0.00%............|8.54|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
-|0.25%............|11.55|2.69|1.39|0.92|0.69|0.55|0.45|0.38|
-|0.50%............|15.54|3.08|1.48|0.96|0.70|0.55|0.46|0.38|
-|0.75%............|18.64|3.59|1.60|1.01|0.73|0.56|0.46|0.39|
-|1.00%............|19.84|4.31|1.73|1.05|0.74|0.57|0.46|0.39|
-|1.50%............|19.67|6.97|2.09|1.17|0.81|0.60|0.47|0.39|
-|2.00%............|15.91|12.55|2.63|1.33|0.87|0.63|0.50|0.40|
-|3.00%............|9.75|15.20|5.81|1.81|1.06|0.72|0.54|0.43|
+|0.00% |8.54|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
+|0.25% |11.55|2.69|1.39|0.92|0.69|0.55|0.45|0.38|
+|0.50% |15.54|3.08|1.48|0.96|0.70|0.55|0.46|0.38|
+|0.75% |18.64|3.59|1.60|1.01|0.73|0.56|0.46|0.39|
+|1.00% |19.84|4.31|1.73|1.05|0.74|0.57|0.46|0.39|
+|1.50% |19.67|6.97|2.09|1.17|0.81|0.60|0.47|0.39|
+|2.00% |15.91|12.55|2.63|1.33|0.87|0.63|0.50|0.40|
+|3.00% |9.75|15.20|5.81|1.81|1.06|0.72|0.54|0.43|
 
 #### **Class 2M-2, Class 2M-2Y and Class 2M-2X* Weighted Average Life to Maturity (years)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|17.55|7.00|3.90|2.63|1.94|1.52|1.23|1.02|
-|0.25%............|19.60|8.05|4.26|2.82|2.05|1.62|1.32|1.11|
-|0.50%............|19.93|9.40|4.63|2.97|2.15|1.65|1.33|1.11|
-|0.75%............|19.93|11.23|5.09|3.16|2.23|1.72|1.36|1.12|
-|1.00%............|19.92|13.80|5.64|3.36|2.34|1.78|1.40|1.14|
-|1.50%............|14.64|19.14|7.29|3.88|2.58|1.90|1.49|1.20|
-|2.00%............|10.41|16.62|10.57|4.61|2.89|2.06|1.58|1.27|
-|3.00%............|6.66|8.45|14.04|8.12|3.83|2.49|1.82|1.40|
+|0.00% |17.55|7.00|3.90|2.63|1.94|1.52|1.23|1.02|
+|0.25% |19.60|8.05|4.26|2.82|2.05|1.62|1.32|1.11|
+|0.50% |19.93|9.40|4.63|2.97|2.15|1.65|1.33|1.11|
+|0.75% |19.93|11.23|5.09|3.16|2.23|1.72|1.36|1.12|
+|1.00% |19.92|13.80|5.64|3.36|2.34|1.78|1.40|1.14|
+|1.50% |14.64|19.14|7.29|3.88|2.58|1.90|1.49|1.20|
+|2.00% |10.41|16.62|10.57|4.61|2.89|2.06|1.58|1.27|
+|3.00% |6.66|8.45|14.04|8.12|3.83|2.49|1.82|1.40|
 
 * _Interest Only RCR Note. Assumes that a reduction in the Class Principal Balance of the related Exchangeable Note causes a corresponding reduction in the Class Notional Amount of the related Interest Only RCR Note._
 
@@ -5092,40 +5092,40 @@ Based upon the Modeling Assumptions, the following Weighted Average Life Tables 
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|15.74|5.58|3.07|2.06|1.52|1.19|0.96|0.79|
-|0.25%............|18.95|6.40|3.35|2.20|1.62|1.28|1.05|0.88|
-|0.50%............|19.93|7.41|3.62|2.33|1.69|1.29|1.05|0.88|
-|0.75%............|19.93|8.77|3.93|2.46|1.73|1.34|1.06|0.89|
-|1.00%............|19.93|10.68|4.31|2.60|1.83|1.39|1.06|0.89|
-|1.50%............|16.70|17.58|5.38|2.94|1.99|1.48|1.16|0.92|
-|2.00%............|11.72|19.89|7.18|3.41|2.19|1.57|1.23|1.00|
-|3.00%............|7.45|9.81|18.27|5.09|2.76|1.86|1.38|1.07|
+|0.00% |15.74|5.58|3.07|2.06|1.52|1.19|0.96|0.79|
+|0.25% |18.95|6.40|3.35|2.20|1.62|1.28|1.05|0.88|
+|0.50% |19.93|7.41|3.62|2.33|1.69|1.29|1.05|0.88|
+|0.75% |19.93|8.77|3.93|2.46|1.73|1.34|1.06|0.89|
+|1.00% |19.93|10.68|4.31|2.60|1.83|1.39|1.06|0.89|
+|1.50% |16.70|17.58|5.38|2.94|1.99|1.48|1.16|0.92|
+|2.00% |11.72|19.89|7.18|3.41|2.19|1.57|1.23|1.00|
+|3.00% |7.45|9.81|18.27|5.09|2.76|1.86|1.38|1.07|
 
 #### **Class 2M-2B, Class 2B-I1*, Class 2B-I2*, Class 2B-I3*, Class 2B-I4*, Class 2E-B1, Class 2E-B2, Class 2EB3 and Class 2E-B4 Weighted Average Life to Maturity (years)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|17.63|6.96|3.87|2.61|1.93|1.51|1.22|1.01|
-|0.25%............|19.93|8.01|4.21|2.81|2.03|1.60|1.31|1.10|
-|0.50%............|19.93|9.33|4.59|2.94|2.14|1.62|1.32|1.10|
-|0.75%............|19.93|11.14|5.03|3.12|2.23|1.72|1.33|1.11|
-|1.00%............|19.93|13.68|5.57|3.32|2.31|1.74|1.42|1.12|
-|1.50%............|14.57|19.93|7.13|3.82|2.54|1.88|1.46|1.22|
-|2.00%............|10.38|16.78|10.05|4.51|2.84|2.04|1.55|1.23|
-|3.00%............|6.65|8.39|13.77|7.40|3.72|2.43|1.78|1.39|
+|0.00% |17.63|6.96|3.87|2.61|1.93|1.51|1.22|1.01|
+|0.25% |19.93|8.01|4.21|2.81|2.03|1.60|1.31|1.10|
+|0.50% |19.93|9.33|4.59|2.94|2.14|1.62|1.32|1.10|
+|0.75% |19.93|11.14|5.03|3.12|2.23|1.72|1.33|1.11|
+|1.00% |19.93|13.68|5.57|3.32|2.31|1.74|1.42|1.12|
+|1.50% |14.57|19.93|7.13|3.82|2.54|1.88|1.46|1.22|
+|2.00% |10.38|16.78|10.05|4.51|2.84|2.04|1.55|1.23|
+|3.00% |6.65|8.39|13.77|7.40|3.72|2.43|1.78|1.39|
 
 **Class 2M-2C, Class 2C-I1*, Class 2C-I2*, Class 2C-I3*, Class 2C-I4*, Class 2E-C1, Class 2E-C2, Class 2EC3, Class 2E-C4, Class 2-J1**, Class 2-J2**, Class 2-J3** and Class 2-J4** Weighted Average Life to Maturity (years)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|19.29|8.44|4.75|3.21|2.38|1.86|1.51|1.25|
-|0.25%............|19.93|9.75|5.21|3.44|2.50|1.96|1.60|1.34|
-|0.50%............|19.93|11.45|5.69|3.65|2.62|2.05|1.62|1.35|
-|0.75%............|19.93|13.77|6.30|3.89|2.74|2.09|1.70|1.36|
-|1.00%............|19.92|17.03|7.05|4.16|2.88|2.20|1.73|1.41|
-|1.50%............|12.66|19.93|9.35|4.87|3.20|2.35|1.85|1.48|
-|2.00%............|9.12|13.19|14.49|5.91|3.63|2.56|1.96|1.59|
-|3.00%............|5.87|7.15|10.07|11.86|4.99|3.17|2.29|1.75|
+|0.00% |19.29|8.44|4.75|3.21|2.38|1.86|1.51|1.25|
+|0.25% |19.93|9.75|5.21|3.44|2.50|1.96|1.60|1.34|
+|0.50% |19.93|11.45|5.69|3.65|2.62|2.05|1.62|1.35|
+|0.75% |19.93|13.77|6.30|3.89|2.74|2.09|1.70|1.36|
+|1.00% |19.92|17.03|7.05|4.16|2.88|2.20|1.73|1.41|
+|1.50% |12.66|19.93|9.35|4.87|3.20|2.35|1.85|1.48|
+|2.00% |9.12|13.19|14.49|5.91|3.63|2.56|1.96|1.59|
+|3.00% |5.87|7.15|10.07|11.86|4.99|3.17|2.29|1.75|
 
 * _Interest Only RCR Note. Assumes that a reduction in the Class Principal Balance of the related Exchangeable Note causes a corresponding reduction in the Class Notional Amount of the related Interest Only RCR Note_ .
 
@@ -5137,27 +5137,27 @@ Based upon the Modeling Assumptions, the following Weighted Average Life Tables 
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|16.68|6.27|3.47|2.33|1.73|1.35|1.09|0.90|
-|0.25%............|19.44|7.20|3.78|2.51|1.83|1.44|1.18|0.99|
-|0.50%............|19.93|8.37|4.10|2.63|1.91|1.45|1.19|0.99|
-|0.75%............|19.93|9.96|4.48|2.79|1.98|1.53|1.19|1.00|
-|1.00%............|19.93|12.18|4.94|2.96|2.07|1.56|1.24|1.01|
-|1.50%............|15.63|18.75|6.26|3.38|2.27|1.68|1.31|1.07|
-|2.00%............|11.05|18.34|8.62|3.96|2.52|1.80|1.39|1.11|
-|3.00%............|7.05|9.10|16.02|6.25|3.24|2.15|1.58|1.23|
+|0.00% |16.68|6.27|3.47|2.33|1.73|1.35|1.09|0.90|
+|0.25% |19.44|7.20|3.78|2.51|1.83|1.44|1.18|0.99|
+|0.50% |19.93|8.37|4.10|2.63|1.91|1.45|1.19|0.99|
+|0.75% |19.93|9.96|4.48|2.79|1.98|1.53|1.19|1.00|
+|1.00% |19.93|12.18|4.94|2.96|2.07|1.56|1.24|1.01|
+|1.50% |15.63|18.75|6.26|3.38|2.27|1.68|1.31|1.07|
+|2.00% |11.05|18.34|8.62|3.96|2.52|1.80|1.39|1.11|
+|3.00% |7.05|9.10|16.02|6.25|3.24|2.15|1.58|1.23|
 
 #### **Class 2E-F1, Class 2E-F2, Class 2E-F3, Class 2E-F4, Class 2E-F5, Class 2-Y1*, Class 2-Y2*, Class 2-Y3*, Class 2-Y4*, Class 2-K1**, Class 2-K2**, Class 2-K3** and Class 2-K4** Weighted Average Life to Maturity (years)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%............|18.46|7.70|4.31|2.91|2.15|1.68|1.36|1.13|
-|0.25%............|19.93|8.88|4.71|3.12|2.26|1.78|1.46|1.22|
-|0.50%............|19.93|10.39|5.14|3.30|2.38|1.83|1.47|1.23|
-|0.75%............|19.93|12.45|5.66|3.51|2.48|1.90|1.51|1.24|
-|1.00%............|19.92|15.35|6.31|3.74|2.60|1.97|1.58|1.26|
-|1.50%............|13.61|19.93|8.24|4.35|2.87|2.12|1.66|1.35|
-|2.00%............|9.75|14.99|12.27|5.21|3.23|2.30|1.76|1.41|
-|3.00%............|6.26|7.77|11.92|9.63|4.36|2.80|2.03|1.57|
+|0.00% |18.46|7.70|4.31|2.91|2.15|1.68|1.36|1.13|
+|0.25% |19.93|8.88|4.71|3.12|2.26|1.78|1.46|1.22|
+|0.50% |19.93|10.39|5.14|3.30|2.38|1.83|1.47|1.23|
+|0.75% |19.93|12.45|5.66|3.51|2.48|1.90|1.51|1.24|
+|1.00% |19.92|15.35|6.31|3.74|2.60|1.97|1.58|1.26|
+|1.50% |13.61|19.93|8.24|4.35|2.87|2.12|1.66|1.35|
+|2.00% |9.75|14.99|12.27|5.21|3.23|2.30|1.76|1.41|
+|3.00% |6.26|7.77|11.92|9.63|4.36|2.80|2.03|1.57|
 
 * _Interest Only RCR Note. Assumes that a reduction in the Class Principal Balance of the related Exchangeable Note causes a corresponding reduction in the Class Notional Amount of the related Interest Only RCR Note_ .
 
@@ -5174,29 +5174,29 @@ Based upon the Modeling Assumptions, the following Declining Balances Tables ind
 ||||**CPR**|**Class** **Prepayme**|**2A-1** **nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|65|65|65|65|65|65|65|65|
-|March 25, 2027......................................|30|30|30|30|30|30|30|30|
-|March 25, 2028......................................|0|0|0|0|0|0|0|0|
-|March 25, 2029......................................|0|0|0|0|0|0|0|0|
-|March 25, 2030......................................|0|0|0|0|0|0|0|0|
-|March 25, 2031......................................|0|0|0|0|0|0|0|0|
-|March 25, 2032......................................|0|0|0|0|0|0|0|0|
-|March 25, 2033......................................|0|0|0|0|0|0|0|0|
-|March 25, 2034......................................|0|0|0|0|0|0|0|0|
-|March 25, 2035......................................|0|0|0|0|0|0|0|0|
-|March 25, 2036......................................|0|0|0|0|0|0|0|0|
-|March 25, 2037......................................|0|0|0|0|0|0|0|0|
-|March 25, 2038......................................|0|0|0|0|0|0|0|0|
-|March 25, 2039......................................|0|0|0|0|0|0|0|0|
-|March 25, 2040......................................|0|0|0|0|0|0|0|0|
-|March 25, 2041......................................|0|0|0|0|0|0|0|0|
-|March 25, 2042......................................|0|0|0|0|0|0|0|0|
-|March 25, 2043......................................|0|0|0|0|0|0|0|0|
-|March 25, 2044......................................|0|0|0|0|0|0|0|0|
-|March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|... 1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
-|WAL (years) to Early Redemption Date* .....................................................|... 1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |65|65|65|65|65|65|65|65|
+|March 25, 2027 |30|30|30|30|30|30|30|30|
+|March 25, 2028 |0|0|0|0|0|0|0|0|
+|March 25, 2029 |0|0|0|0|0|0|0|0|
+|March 25, 2030 |0|0|0|0|0|0|0|0|
+|March 25, 2031 |0|0|0|0|0|0|0|0|
+|March 25, 2032 |0|0|0|0|0|0|0|0|
+|March 25, 2033 |0|0|0|0|0|0|0|0|
+|March 25, 2034 |0|0|0|0|0|0|0|0|
+|March 25, 2035 |0|0|0|0|0|0|0|0|
+|March 25, 2036 |0|0|0|0|0|0|0|0|
+|March 25, 2037 |0|0|0|0|0|0|0|0|
+|March 25, 2038 |0|0|0|0|0|0|0|0|
+|March 25, 2039 |0|0|0|0|0|0|0|0|
+|March 25, 2040 |0|0|0|0|0|0|0|0|
+|March 25, 2041 |0|0|0|0|0|0|0|0|
+|March 25, 2042 |0|0|0|0|0|0|0|0|
+|March 25, 2043 |0|0|0|0|0|0|0|0|
+|March 25, 2044 |0|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |... 1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
+|WAL (years) to Early Redemption Date* |... 1.42|1.42|1.42|1.42|1.42|1.42|1.42|1.42|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5207,29 +5207,29 @@ Based upon the Modeling Assumptions, the following Declining Balances Tables ind
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|96|78|60|42|24|6|0|0|
-|March 25, 2027......................................|92|57|24|0|0|0|0|0|
-|March 25, 2028......................................|87|37|0|0|0|0|0|0|
-|March 25, 2029......................................|82|17|0|0|0|0|0|0|
-|March 25, 2030......................................|76|0|0|0|0|0|0|0|
-|March 25, 2031......................................|71|0|0|0|0|0|0|0|
-|March 25, 2032......................................|65|0|0|0|0|0|0|0|
-|March 25, 2033......................................|58|0|0|0|0|0|0|0|
-|March 25, 2034......................................|51|0|0|0|0|0|0|0|
-|March 25, 2035......................................|43|0|0|0|0|0|0|0|
-|March 25, 2036......................................|35|0|0|0|0|0|0|0|
-|March 25, 2037......................................|27|0|0|0|0|0|0|0|
-|March 25, 2038......................................|18|0|0|0|0|0|0|0|
-|March 25, 2039......................................|8|0|0|0|0|0|0|0|
-|March 25, 2040......................................|0|0|0|0|0|0|0|0|
-|March 25, 2041......................................|0|0|0|0|0|0|0|0|
-|March 25, 2042......................................|0|0|0|0|0|0|0|0|
-|March 25, 2043......................................|0|0|0|0|0|0|0|0|
-|March 25, 2044......................................|0|0|0|0|0|0|0|0|
-|March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|... 8.54|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
-|WAL (years) to Early Redemption Date* .....................................................|... 4.38|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |96|78|60|42|24|6|0|0|
+|March 25, 2027 |92|57|24|0|0|0|0|0|
+|March 25, 2028 |87|37|0|0|0|0|0|0|
+|March 25, 2029 |82|17|0|0|0|0|0|0|
+|March 25, 2030 |76|0|0|0|0|0|0|0|
+|March 25, 2031 |71|0|0|0|0|0|0|0|
+|March 25, 2032 |65|0|0|0|0|0|0|0|
+|March 25, 2033 |58|0|0|0|0|0|0|0|
+|March 25, 2034 |51|0|0|0|0|0|0|0|
+|March 25, 2035 |43|0|0|0|0|0|0|0|
+|March 25, 2036 |35|0|0|0|0|0|0|0|
+|March 25, 2037 |27|0|0|0|0|0|0|0|
+|March 25, 2038 |18|0|0|0|0|0|0|0|
+|March 25, 2039 |8|0|0|0|0|0|0|0|
+|March 25, 2040 |0|0|0|0|0|0|0|0|
+|March 25, 2041 |0|0|0|0|0|0|0|0|
+|March 25, 2042 |0|0|0|0|0|0|0|0|
+|March 25, 2043 |0|0|0|0|0|0|0|0|
+|March 25, 2044 |0|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |... 8.54|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
+|WAL (years) to Early Redemption Date* |... 4.38|2.35|1.26|0.84|0.61|0.47|0.38|0.31|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5239,30 +5239,30 @@ Based upon the Modeling Assumptions, the following Declining Balances Tables ind
 |---|---|---|---|---|---|---|---|---|
 ||||**CPR P**|**repaymen**|**t Assumpt**|**ion**|||
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026 ...................................|100|100|100|100|100|100|82|56|
-|March 25, 2027 ...................................|100|100|100|89|47|7|0|0|
-|March 25, 2028 ...................................|100|100|88|30|0|0|0|0|
-|March 25, 2029 ...................................|100|100|46|0|0|0|0|0|
-|March 25, 2030 ...................................|100|99|9|0|0|0|0|0|
-|March 25, 2031 ...................................|100|74|0|0|0|0|0|0|
-|March 25, 2032 ...................................|100|50|0|0|0|0|0|0|
-|March 25, 2033 ...................................|100|27|0|0|0|0|0|0|
-|March 25, 2034 ...................................|100|5|0|0|0|0|0|0|
-|March 25, 2035 ...................................|100|0|0|0|0|0|0|0|
-|March 25, 2036 ...................................|100|0|0|0|0|0|0|0|
-|March 25, 2037 ...................................|100|0|0|0|0|0|0|0|
-|March 25, 2038 ...................................|100|0|0|0|0|0|0|0|
-|March 25, 2039 ...................................|100|0|0|0|0|0|0|0|
-|March 25, 2040 ...................................|96|0|0|0|0|0|0|0|
-|March 25, 2041 ...................................|80|0|0|0|0|0|0|0|
-|March 25, 2042 ...................................|62|0|0|0|0|0|0|0|
-|March 25, 2043 ...................................|44|0|0|0|0|0|0|0|
-|March 25, 2044 ...................................|24|0|0|0|0|0|0|0|
-|March 25, 2045 ...................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity ....................|17.55|7.00|3.90|2.63|1.94|1.52|1.23|1.02|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|82|56|
+|March 25, 2027 |100|100|100|89|47|7|0|0|
+|March 25, 2028 |100|100|88|30|0|0|0|0|
+|March 25, 2029 |100|100|46|0|0|0|0|0|
+|March 25, 2030 |100|99|9|0|0|0|0|0|
+|March 25, 2031 |100|74|0|0|0|0|0|0|
+|March 25, 2032 |100|50|0|0|0|0|0|0|
+|March 25, 2033 |100|27|0|0|0|0|0|0|
+|March 25, 2034 |100|5|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |96|0|0|0|0|0|0|0|
+|March 25, 2041 |80|0|0|0|0|0|0|0|
+|March 25, 2042 |62|0|0|0|0|0|0|0|
+|March 25, 2043 |44|0|0|0|0|0|0|0|
+|March 25, 2044 |24|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |17.55|7.00|3.90|2.63|1.94|1.52|1.23|1.02|
 |WAL (years) to Early Redemption|||||||||
-|Date*...................................................|4.93|4.93|3.88|2.63|1.94|1.52|1.23|1.02|
+|Date* |4.93|4.93|3.88|2.63|1.94|1.52|1.23|1.02|
 
 _* The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5275,30 +5275,30 @@ _* The Early Redemption Date is assumed to occur on the earliest possible Paymen
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date ..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|100|100|100|100|100|100|46|0|
-|March 25, 2027......................................|100|100|100|68|0|0|0|0|
-|March 25, 2028......................................|100|100|63|0|0|0|0|0|
-|March 25, 2029......................................|100|100|0|0|0|0|0|0|
-|March 25, 2030......................................|100|96|0|0|0|0|0|0|
-|March 25, 2031......................................|100|21|0|0|0|0|0|0|
-|March 25, 2032......................................|100|0|0|0|0|0|0|0|
-|March 25, 2033......................................|100|0|0|0|0|0|0|0|
-|March 25, 2034......................................|100|0|0|0|0|0|0|0|
-|March 25, 2035......................................|100|0|0|0|0|0|0|0|
-|March 25, 2036......................................|100|0|0|0|0|0|0|0|
-|March 25, 2037......................................|100|0|0|0|0|0|0|0|
-|March 25, 2038......................................|100|0|0|0|0|0|0|0|
-|March 25, 2039......................................|100|0|0|0|0|0|0|0|
-|March 25, 2040......................................|88|0|0|0|0|0|0|0|
-|March 25, 2041......................................|39|0|0|0|0|0|0|0|
-|March 25, 2042......................................|0|0|0|0|0|0|0|0|
-|March 25, 2043......................................|0|0|0|0|0|0|0|0|
-|March 25, 2044......................................|0|0|0|0|0|0|0|0|
-|March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|15.74|5.58|3.07|2.06|1.52|1.19|0.96|0.79|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|46|0|
+|March 25, 2027 |100|100|100|68|0|0|0|0|
+|March 25, 2028 |100|100|63|0|0|0|0|0|
+|March 25, 2029 |100|100|0|0|0|0|0|0|
+|March 25, 2030 |100|96|0|0|0|0|0|0|
+|March 25, 2031 |100|21|0|0|0|0|0|0|
+|March 25, 2032 |100|0|0|0|0|0|0|0|
+|March 25, 2033 |100|0|0|0|0|0|0|0|
+|March 25, 2034 |100|0|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |88|0|0|0|0|0|0|0|
+|March 25, 2041 |39|0|0|0|0|0|0|0|
+|March 25, 2042 |0|0|0|0|0|0|0|0|
+|March 25, 2043 |0|0|0|0|0|0|0|0|
+|March 25, 2044 |0|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |15.74|5.58|3.07|2.06|1.52|1.19|0.96|0.79|
 |WAL (years) to Early Redemption|||||||||
-|Date* .....................................................|4.93|4.93|3.07|2.06|1.52|1.19|0.96|0.79|
+|Date* |4.93|4.93|3.07|2.06|1.52|1.19|0.96|0.79|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5311,30 +5311,30 @@ _* The Early Redemption Date is assumed to occur on the earliest possible Paymen
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|100|100|100|100|100|100|100|69|
-|March 25, 2027......................................|100|100|100|100|41|0|0|0|
-|March 25, 2028......................................|100|100|100|0|0|0|0|0|
-|March 25, 2029......................................|100|100|38|0|0|0|0|0|
-|March 25, 2030......................................|100|100|0|0|0|0|0|0|
-|March 25, 2031......................................|100|100|0|0|0|0|0|0|
-|March 25, 2032......................................|100|50|0|0|0|0|0|0|
-|March 25, 2033......................................|100|0|0|0|0|0|0|0|
-|March 25, 2034......................................|100|0|0|0|0|0|0|0|
-|March 25, 2035......................................|100|0|0|0|0|0|0|0|
-|March 25, 2036......................................|100|0|0|0|0|0|0|0|
-|March 25, 2037......................................|100|0|0|0|0|0|0|0|
-|March 25, 2038......................................|100|0|0|0|0|0|0|0|
-|March 25, 2039......................................|100|0|0|0|0|0|0|0|
-|March 25, 2040......................................|100|0|0|0|0|0|0|0|
-|March 25, 2041......................................|100|0|0|0|0|0|0|0|
-|March 25, 2042......................................|87|0|0|0|0|0|0|0|
-|March 25, 2043......................................|31|0|0|0|0|0|0|0|
-|March 25, 2044......................................|0|0|0|0|0|0|0|0|
-|March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|17.63|6.96|3.87|2.61|1.93|1.51|1.22|1.01|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|100|69|
+|March 25, 2027 |100|100|100|100|41|0|0|0|
+|March 25, 2028 |100|100|100|0|0|0|0|0|
+|March 25, 2029 |100|100|38|0|0|0|0|0|
+|March 25, 2030 |100|100|0|0|0|0|0|0|
+|March 25, 2031 |100|100|0|0|0|0|0|0|
+|March 25, 2032 |100|50|0|0|0|0|0|0|
+|March 25, 2033 |100|0|0|0|0|0|0|0|
+|March 25, 2034 |100|0|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |100|0|0|0|0|0|0|0|
+|March 25, 2041 |100|0|0|0|0|0|0|0|
+|March 25, 2042 |87|0|0|0|0|0|0|0|
+|March 25, 2043 |31|0|0|0|0|0|0|0|
+|March 25, 2044 |0|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |17.63|6.96|3.87|2.61|1.93|1.51|1.22|1.01|
 |WAL (years) to Early Redemption|||||||||
-|Date* .....................................................|4.93|4.93|3.87|2.61|1.93|1.51|1.22|1.01|
+|Date* |4.93|4.93|3.87|2.61|1.93|1.51|1.22|1.01|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5347,30 +5347,30 @@ _* The Early Redemption Date is assumed to occur on the earliest possible Paymen
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|100|100|100|100|100|100|100|100|
-|March 25, 2027......................................|100|100|100|100|100|22|0|0|
-|March 25, 2028......................................|100|100|100|89|0|0|0|0|
-|March 25, 2029......................................|100|100|100|0|0|0|0|0|
-|March 25, 2030......................................|100|100|26|0|0|0|0|0|
-|March 25, 2031......................................|100|100|0|0|0|0|0|0|
-|March 25, 2032......................................|100|100|0|0|0|0|0|0|
-|March 25, 2033......................................|100|81|0|0|0|0|0|0|
-|March 25, 2034......................................|100|16|0|0|0|0|0|0|
-|March 25, 2035......................................|100|0|0|0|0|0|0|0|
-|March 25, 2036......................................|100|0|0|0|0|0|0|0|
-|March 25, 2037......................................|100|0|0|0|0|0|0|0|
-|March 25, 2038......................................|100|0|0|0|0|0|0|0|
-|March 25, 2039......................................|100|0|0|0|0|0|0|0|
-|March 25, 2040......................................|100|0|0|0|0|0|0|0|
-|March 25, 2041......................................|100|0|0|0|0|0|0|0|
-|March 25, 2042......................................|100|0|0|0|0|0|0|0|
-|March 25, 2043......................................|100|0|0|0|0|0|0|0|
-|March 25, 2044......................................|71|0|0|0|0|0|0|0|
-| March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|19.29|8.44|4.75|3.21|2.38|1.86|1.51|1.25|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|100|100|
+|March 25, 2027 |100|100|100|100|100|22|0|0|
+|March 25, 2028 |100|100|100|89|0|0|0|0|
+|March 25, 2029 |100|100|100|0|0|0|0|0|
+|March 25, 2030 |100|100|26|0|0|0|0|0|
+|March 25, 2031 |100|100|0|0|0|0|0|0|
+|March 25, 2032 |100|100|0|0|0|0|0|0|
+|March 25, 2033 |100|81|0|0|0|0|0|0|
+|March 25, 2034 |100|16|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |100|0|0|0|0|0|0|0|
+|March 25, 2041 |100|0|0|0|0|0|0|0|
+|March 25, 2042 |100|0|0|0|0|0|0|0|
+|March 25, 2043 |100|0|0|0|0|0|0|0|
+|March 25, 2044 |71|0|0|0|0|0|0|0|
+| March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |19.29|8.44|4.75|3.21|2.38|1.86|1.51|1.25|
 | WAL (years) to Early Redemption|||||||||
-|Date* .....................................................|4.93|4.93|4.71|3.21|2.38|1.86|1.51|1.25|
+|Date* |4.93|4.93|4.71|3.21|2.38|1.86|1.51|1.25|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030._
 
@@ -5385,30 +5385,30 @@ _* The Early Redemption Date is assumed to occur on the earliest possible Paymen
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|100|100|100|100|100|100|73|34|
-|March 25, 2027......................................|100|100|100|84|20|0|0|0|
-|March 25, 2028......................................|100|100|82|0|0|0|0|0|
-|March 25, 2029......................................|100|100|19|0|0|0|0|0|
-|March 25, 2030......................................|100|98|0|0|0|0|0|0|
-|March 25, 2031......................................|100|61|0|0|0|0|0|0|
-|March 25, 2032......................................|100|25|0|0|0|0|0|0|
-|March 25, 2033......................................|100|0|0|0|0|0|0|0|
-|March 25, 2034......................................|100|0|0|0|0|0|0|0|
-|March 25, 2035......................................|100|0|0|0|0|0|0|0|
-|March 25, 2036......................................|100|0|0|0|0|0|0|0|
-|March 25, 2037......................................|100|0|0|0|0|0|0|0|
-|March 25, 2038......................................|100|0|0|0|0|0|0|0|
-|March 25, 2039......................................|100|0|0|0|0|0|0|0|
-|March 25, 2040......................................|94|0|0|0|0|0|0|0|
-|March 25, 2041......................................|70|0|0|0|0|0|0|0|
-|March 25, 2042......................................|43|0|0|0|0|0|0|0|
-|March 25, 2043......................................|16|0|0|0|0|0|0|0|
-|March 25, 2044......................................|0|0|0|0|0|0|0|0|
-| March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|16.68|6.27|3.47|2.33|1.73|1.35|1.09|0.90|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|73|34|
+|March 25, 2027 |100|100|100|84|20|0|0|0|
+|March 25, 2028 |100|100|82|0|0|0|0|0|
+|March 25, 2029 |100|100|19|0|0|0|0|0|
+|March 25, 2030 |100|98|0|0|0|0|0|0|
+|March 25, 2031 |100|61|0|0|0|0|0|0|
+|March 25, 2032 |100|25|0|0|0|0|0|0|
+|March 25, 2033 |100|0|0|0|0|0|0|0|
+|March 25, 2034 |100|0|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |94|0|0|0|0|0|0|0|
+|March 25, 2041 |70|0|0|0|0|0|0|0|
+|March 25, 2042 |43|0|0|0|0|0|0|0|
+|March 25, 2043 |16|0|0|0|0|0|0|0|
+|March 25, 2044 |0|0|0|0|0|0|0|0|
+| March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |16.68|6.27|3.47|2.33|1.73|1.35|1.09|0.90|
 | WAL (years) to Early Redemption|||||||||
-|Date* .....................................................|4.93|4.93|3.47|2.33|1.73|1.35|1.09|0.90|
+|Date* |4.93|4.93|3.47|2.33|1.73|1.35|1.09|0.90|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030_ .
 
@@ -5421,30 +5421,30 @@ _* The Early Redemption Date is assumed to occur on the earliest possible Paymen
 ||||**CPR**|**Prepayme**|**nt Assum**|**ption**|||
 |---|---|---|---|---|---|---|---|---|
 |**Date**|**0%**|**5%**|**10%**|**15%**|**20%**|**25%**|**30%**|**35%**|
-|Closing Date..........................................|100|100|100|100|100|100|100|100|
-|March 25, 2026......................................|100|100|100|100|100|100|100|84|
-|March 25, 2027......................................|100|100|100|100|70|11|0|0|
-|March 25, 2028......................................|100|100|100|44|0|0|0|0|
-|March 25, 2029......................................|100|100|69|0|0|0|0|0|
-|March 25, 2030......................................|100|100|13|0|0|0|0|0|
-|March 25, 2031......................................|100|100|0|0|0|0|0|0|
-|March 25, 2032......................................|100|75|0|0|0|0|0|0|
-|March 25, 2033......................................|100|41|0|0|0|0|0|0|
-|March 25, 2034......................................|100|8|0|0|0|0|0|0|
-|March 25, 2035......................................|100|0|0|0|0|0|0|0|
-|March 25, 2036......................................|100|0|0|0|0|0|0|0|
-|March 25, 2037......................................|100|0|0|0|0|0|0|0|
-|March 25, 2038......................................|100|0|0|0|0|0|0|0|
-|March 25, 2039......................................|100|0|0|0|0|0|0|0|
-|March 25, 2040......................................|100|0|0|0|0|0|0|0|
-|March 25, 2041......................................|100|0|0|0|0|0|0|0|
-|March 25, 2042......................................|93|0|0|0|0|0|0|0|
-|March 25, 2043......................................|66|0|0|0|0|0|0|0|
-|March 25, 2044......................................|36|0|0|0|0|0|0|0|
-|March 25, 2045......................................|0|0|0|0|0|0|0|0|
-|WAL (years) to Maturity.......................|18.46|7.70|4.31|2.91|2.15|1.68|1.36|1.13|
+|Closing Date |100|100|100|100|100|100|100|100|
+|March 25, 2026 |100|100|100|100|100|100|100|84|
+|March 25, 2027 |100|100|100|100|70|11|0|0|
+|March 25, 2028 |100|100|100|44|0|0|0|0|
+|March 25, 2029 |100|100|69|0|0|0|0|0|
+|March 25, 2030 |100|100|13|0|0|0|0|0|
+|March 25, 2031 |100|100|0|0|0|0|0|0|
+|March 25, 2032 |100|75|0|0|0|0|0|0|
+|March 25, 2033 |100|41|0|0|0|0|0|0|
+|March 25, 2034 |100|8|0|0|0|0|0|0|
+|March 25, 2035 |100|0|0|0|0|0|0|0|
+|March 25, 2036 |100|0|0|0|0|0|0|0|
+|March 25, 2037 |100|0|0|0|0|0|0|0|
+|March 25, 2038 |100|0|0|0|0|0|0|0|
+|March 25, 2039 |100|0|0|0|0|0|0|0|
+|March 25, 2040 |100|0|0|0|0|0|0|0|
+|March 25, 2041 |100|0|0|0|0|0|0|0|
+|March 25, 2042 |93|0|0|0|0|0|0|0|
+|March 25, 2043 |66|0|0|0|0|0|0|0|
+|March 25, 2044 |36|0|0|0|0|0|0|0|
+|March 25, 2045 |0|0|0|0|0|0|0|0|
+|WAL (years) to Maturity |18.46|7.70|4.31|2.91|2.15|1.68|1.36|1.13|
 |WAL (years) to Early Redemption|||||||||
-|Date* .....................................................|4.93|4.93|4.29|2.91|2.15|1.68|1.36|1.13|
+|Date* |4.93|4.93|4.29|2.91|2.15|1.68|1.36|1.13|
 
 * _The Early Redemption Date is assumed to occur on the earliest possible Payment Date, which is in March 2030_ .
 
@@ -5466,14 +5466,14 @@ Based upon the Modeling Assumptions, the following Cumulative Credit Events Tabl
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|4.02%|2.64%|1.84%|1.35%|1.04%|0.83%|0.68%|0.57%|
-|0.50%.....................................|7.87%|5.19%|3.63%|2.67%|2.06%|1.65%|1.35%|1.14%|
-|0.75%.....................................|11.56%|7.65%|5.37%|3.97%|3.07%|2.46%|2.02%|1.70%|
-|1.00%.....................................|15.10%|10.03%|7.06%|5.23%|4.05%|3.25%|2.68%|2.25%|
-|1.50%.....................................|21.72%|14.55%|10.30%|7.68%|5.98%|4.81%|3.98%|3.35%|
-|2.00%.....................................|27.80%|18.76%|13.38%|10.03%|7.84%|6.33%|5.24%|4.43%|
-|3.00%.....................................|38.49%|26.36%|19.04%|14.43%|11.38%|9.25%|7.70%|6.53%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |4.02%|2.64%|1.84%|1.35%|1.04%|0.83%|0.68%|0.57%|
+|0.50% |7.87%|5.19%|3.63%|2.67%|2.06%|1.65%|1.35%|1.14%|
+|0.75% |11.56%|7.65%|5.37%|3.97%|3.07%|2.46%|2.02%|1.70%|
+|1.00% |15.10%|10.03%|7.06%|5.23%|4.05%|3.25%|2.68%|2.25%|
+|1.50% |21.72%|14.55%|10.30%|7.68%|5.98%|4.81%|3.98%|3.35%|
+|2.00% |27.80%|18.76%|13.38%|10.03%|7.84%|6.33%|5.24%|4.43%|
+|3.00% |38.49%|26.36%|19.04%|14.43%|11.38%|9.25%|7.70%|6.53%|
 
 #### **_Cumulative Note Write-down Amount Tables_**
 
@@ -5483,14 +5483,14 @@ Based upon the Modeling Assumptions, the following Cumulative Note Write-down Am
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|22.45%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |22.45%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 <!-- page 212 -->
 
@@ -5498,40 +5498,40 @@ Based upon the Modeling Assumptions, the following Cumulative Note Write-down Am
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|18.11%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|97.40%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|99.67%|78.56%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |18.11%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |97.40%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |99.67%|78.56%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 **Class 2M-2, Class 2M-2Y and Class 2M-2X Cumulative Write-down Amount (as % of the Class 2M-2 and Class 2M-2Y Original Class Principal Balances or Class 2M-2X Original Class Notional Amount)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|1.79%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|70.43%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|75.83%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |1.79%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|70.43%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|75.83%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 #### **Class 2M-2A, Class 2A-I1, Class 2A-I2, Class 2A-I3, Class 2A-I4, Class 2E-A1, Class 2E-A2, Class 2E-A3 and Class 2E-A4 Cumulative Write-down Amount (as % of the Class 2M-2A, Class 2E-A1, Class 2E-A2, Class 2E-A3 and Class 2E-A4 Original Class Principal Balances or Class 2A-I1, Class 2A-I2, Class 2A-I3 and Class 2A-I4 Original Class Notional Amounts)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|11.28%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|27.48%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|11.28%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|27.48%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 <!-- page 213 -->
 
@@ -5541,14 +5541,14 @@ Based upon the Modeling Assumptions, the following Cumulative Note Write-down Am
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 **Class 2M-2C, Class 2C-I1, Class 2C-I2, Class 2C-I3, Class 2C-I4, Class 2E-C1, Class 2E-C2, Class 2E-C3, Class 2EC4, Class 2-J1, Class 2-J2, Class 2-J3 and Class 2-J4 Cumulative Write-down Amount (as % of the Class 2M-2C, Class 2E-C1, Class 2E-C2, Class 2E-C3, Class 2E-C4, Class 2-J1, Class 2-J2, Class 2-J3 and Class 2-J4 Original Class Principal Balances or Class 2C-I1, Class 2C-I2, Class 2C-I3 and Class 2C-I4 Original Class Notional**
 
@@ -5556,27 +5556,27 @@ Based upon the Modeling Assumptions, the following Cumulative Note Write-down Am
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|5.37%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |5.37%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 #### **Class 2E-D1, Class 2E-D2, Class 2E-D3, Class 2E-D4, Class 2E-D5, Class 2-X1, Class 2-X2, Class 2-X3 and Class 2- X4 Cumulative Write-down Amount (as % of the Class 2E-D1, Class 2E-D2, Class 2E-D3, Class 2E-D4 and Class 2E-D5 Original Class Principal Balances or Class 2-X1, Class 2-X2, Class 2-X3 and Class 2-X4 Original Class Notional Amounts)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|55.64%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|63.74%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|55.64%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|63.74%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 <!-- page 214 -->
 
@@ -5584,14 +5584,14 @@ Based upon the Modeling Assumptions, the following Cumulative Note Write-down Am
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.25%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.50%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|0.75%.....................................|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.00%.....................................|2.68%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|1.50%.....................................|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|2.00%.....................................|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
-|3.00%.....................................|100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.00% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.25% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.50% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|0.75% |0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.00% |2.68%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|1.50% |100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|2.00% |100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
+|3.00% |100.00%|100.00%|100.00%|0.00%|0.00%|0.00%|0.00%|0.00%|
 
 <!-- page 215 -->
 
@@ -5603,40 +5603,40 @@ Based upon the Modeling Assumptions and the assumed prices in the table captions
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|0.25%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|0.50%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|0.75%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|1.00%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|1.50%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|2.00%.................|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
-|3.00%.................|(0.63)%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|0.00% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|0.25% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|0.50% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|0.75% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|1.00% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|1.50% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|2.00% |5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
+|3.00% |(0.63)%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|5.86%|
 
 #### **Class 2M-1 Pre-Tax Yield to Maturity (Assumed Price = 100.00000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|0.25%.................|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|0.50%.................|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|0.75%.................|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|1.00%.................|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|1.50%.................|5.47%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|2.00%.................|(0.18)%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
-|3.00%.................|(9.37)%|1.24%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|0.00% |6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|0.25% |6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|0.50% |6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|0.75% |6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|1.00% |6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|1.50% |5.47%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|2.00% |(0.18)%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
+|3.00% |(9.37)%|1.24%|6.01%|6.01%|6.01%|6.01%|6.01%|6.01%|
 
 #### **Class 2M-2 Pre-Tax Yield to Maturity (Assumed Price = 100.00000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.25%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.50%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.75%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|1.00%.................|6.64%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|1.50%.................|(0.28)%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|2.00%.................|(6.26)%|3.30%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|3.00%.................|(19.83)%|(11.51)%|1.75%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.00% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.25% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.50% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.75% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|1.00% |6.64%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|1.50% |(0.28)%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|2.00% |(6.26)%|3.30%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|3.00% |(19.83)%|(11.51)%|1.75%|6.68%|6.68%|6.68%|6.68%|6.68%|
 
 <!-- page 216 -->
 
@@ -5644,53 +5644,53 @@ Based upon the Modeling Assumptions and the assumed prices in the table captions
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.25%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.50%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|0.75%.................|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|1.00%.................|6.64%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|1.50%.................|(0.28)%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|2.00%.................|(6.26)%|3.30%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
-|3.00%.................|(19.83)%|(11.51)%|1.75%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.00% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.25% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.50% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|0.75% |6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|1.00% |6.64%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|1.50% |(0.28)%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|2.00% |(6.26)%|3.30%|6.68%|6.68%|6.68%|6.68%|6.68%|6.68%|
+|3.00% |(19.83)%|(11.51)%|1.75%|6.68%|6.68%|6.68%|6.68%|6.68%|
 
 #### **Class 2M-2A Pre-Tax Yield to Maturity (Assumed Price = 100.80000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.60%|6.51%|6.39%|6.26%|6.12%|5.97%|5.81%|5.64%|
-|0.25%.................|6.61%|6.53%|6.41%|6.29%|6.15%|6.02%|5.88%|5.74%|
-|0.50%.................|6.61%|6.54%|6.43%|6.30%|6.18%|6.03%|5.88%|5.74%|
-|0.75%.................|6.61%|6.56%|6.45%|6.32%|6.19%|6.05%|5.89%|5.75%|
-|1.00%.................|6.61%|6.57%|6.46%|6.34%|6.21%|6.07%|5.89%|5.75%|
-|1.50%.................|1.23%|6.60%|6.50%|6.38%|6.25%|6.11%|5.96%|5.77%|
-|2.00%.................|(3.99)%|6.32%|6.54%|6.42%|6.28%|6.14%|6.00%|5.84%|
-|3.00%.................|(16.02)%|(7.85)%|5.74%|6.49%|6.36%|6.22%|6.07%|5.90%|
+|0.00% |6.60%|6.51%|6.39%|6.26%|6.12%|5.97%|5.81%|5.64%|
+|0.25% |6.61%|6.53%|6.41%|6.29%|6.15%|6.02%|5.88%|5.74%|
+|0.50% |6.61%|6.54%|6.43%|6.30%|6.18%|6.03%|5.88%|5.74%|
+|0.75% |6.61%|6.56%|6.45%|6.32%|6.19%|6.05%|5.89%|5.75%|
+|1.00% |6.61%|6.57%|6.46%|6.34%|6.21%|6.07%|5.89%|5.75%|
+|1.50% |1.23%|6.60%|6.50%|6.38%|6.25%|6.11%|5.96%|5.77%|
+|2.00% |(3.99)%|6.32%|6.54%|6.42%|6.28%|6.14%|6.00%|5.84%|
+|3.00% |(16.02)%|(7.85)%|5.74%|6.49%|6.36%|6.22%|6.07%|5.90%|
 
 #### **Class 2M-2B Pre-Tax Yield to Maturity (Assumed Price = 100.30000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.65%|6.63%|6.59%|6.55%|6.51%|6.47%|6.42%|6.37%|
-|0.25%.................|6.65%|6.63%|6.60%|6.56%|6.52%|6.48%|6.44%|6.39%|
-|0.50%.................|6.65%|6.64%|6.60%|6.57%|6.53%|6.48%|6.44%|6.39%|
-|0.75%.................|6.65%|6.64%|6.61%|6.57%|6.53%|6.49%|6.44%|6.40%|
-|1.00%.................|6.65%|6.65%|6.62%|6.58%|6.54%|6.50%|6.46%|6.40%|
-|1.50%.................|(0.39)%|6.65%|6.63%|6.59%|6.55%|6.51%|6.46%|6.42%|
-|2.00%.................|(6.44)%|1.33%|6.64%|6.60%|6.56%|6.52%|6.47%|6.42%|
-|3.00%.................|(20.23)%|(12.04)%|(1.19)%|6.63%|6.59%|6.54%|6.50%|6.45%|
+|0.00% |6.65%|6.63%|6.59%|6.55%|6.51%|6.47%|6.42%|6.37%|
+|0.25% |6.65%|6.63%|6.60%|6.56%|6.52%|6.48%|6.44%|6.39%|
+|0.50% |6.65%|6.64%|6.60%|6.57%|6.53%|6.48%|6.44%|6.39%|
+|0.75% |6.65%|6.64%|6.61%|6.57%|6.53%|6.49%|6.44%|6.40%|
+|1.00% |6.65%|6.65%|6.62%|6.58%|6.54%|6.50%|6.46%|6.40%|
+|1.50% |(0.39)%|6.65%|6.63%|6.59%|6.55%|6.51%|6.46%|6.42%|
+|2.00% |(6.44)%|1.33%|6.64%|6.60%|6.56%|6.52%|6.47%|6.42%|
+|3.00% |(20.23)%|(12.04)%|(1.19)%|6.63%|6.59%|6.54%|6.50%|6.45%|
 
 #### **Class 2M-2C Pre-Tax Yield to Maturity (Assumed Price = 98.90000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.78%|6.85%|6.96%|7.07%|7.19%|7.32%|7.47%|7.62%|
-|0.25%.................|6.78%|6.84%|6.94%|7.05%|7.17%|7.29%|7.42%|7.56%|
-|0.50%.................|6.78%|6.82%|6.92%|7.03%|7.15%|7.27%|7.41%|7.55%|
-|0.75%.................|6.78%|6.81%|6.90%|7.01%|7.13%|7.26%|7.38%|7.54%|
-|1.00%.................|6.65%|6.79%|6.88%|6.99%|7.11%|7.23%|7.37%|7.52%|
-|1.50%.................|(2.33)%|6.78%|6.84%|6.95%|7.07%|7.20%|7.33%|7.48%|
-|2.00%.................|(9.40)%|(1.66)%|6.80%|6.91%|7.03%|7.16%|7.29%|7.43%|
-|3.00%.................|(25.25)%|(17.10)%|(6.88)%|6.82%|6.95%|7.07%|7.21%|7.36%|
+|0.00% |6.78%|6.85%|6.96%|7.07%|7.19%|7.32%|7.47%|7.62%|
+|0.25% |6.78%|6.84%|6.94%|7.05%|7.17%|7.29%|7.42%|7.56%|
+|0.50% |6.78%|6.82%|6.92%|7.03%|7.15%|7.27%|7.41%|7.55%|
+|0.75% |6.78%|6.81%|6.90%|7.01%|7.13%|7.26%|7.38%|7.54%|
+|1.00% |6.65%|6.79%|6.88%|6.99%|7.11%|7.23%|7.37%|7.52%|
+|1.50% |(2.33)%|6.78%|6.84%|6.95%|7.07%|7.20%|7.33%|7.48%|
+|2.00% |(9.40)%|(1.66)%|6.80%|6.91%|7.03%|7.16%|7.29%|7.43%|
+|3.00% |(25.25)%|(17.10)%|(6.88)%|6.82%|6.95%|7.07%|7.21%|7.36%|
 
 <!-- page 217 -->
 
@@ -5698,14 +5698,14 @@ Based upon the Modeling Assumptions and the assumed prices in the table captions
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
-|0.25%.................|42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
-|0.50%.................|42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
-|0.75%.................|42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
-|1.00%.................|42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
-|1.50%.................|42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
-|2.00%.................|41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
-|3.00%.................|39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
+|0.00% |42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
+|0.25% |42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
+|0.50% |42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
+|0.75% |42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
+|1.00% |42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
+|1.50% |42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
+|2.00% |41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
+|3.00% |39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
 
 _* Indicates a yield less than (99.99)%._
 
@@ -5713,14 +5713,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
-|0.25%.................|42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
-|0.50%.................|42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
-|0.75%.................|42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
-|1.00%.................|42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
-|1.50%.................|42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
-|2.00%.................|41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
-|3.00%.................|39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
+|0.00% |42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
+|0.25% |42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
+|0.50% |42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
+|0.75% |42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
+|1.00% |42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
+|1.50% |42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
+|2.00% |41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
+|3.00% |39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
 
 _* Indicates a yield less than (99.99)%._
 
@@ -5728,14 +5728,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
-|0.25%.................|42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
-|0.50%.................|42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
-|0.75%.................|42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
-|1.00%.................|42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
-|1.50%.................|42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
-|2.00%.................|41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
-|3.00%.................|39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
+|0.00% |42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
+|0.25% |42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
+|0.50% |42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
+|0.75% |42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
+|1.00% |42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
+|1.50% |42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
+|2.00% |41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
+|3.00% |39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5743,14 +5743,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
-|0.25%.................|42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
-|0.50%.................|42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
-|0.75%.................|42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
-|1.00%.................|42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
-|1.50%.................|42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
-|2.00%.................|41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
-|3.00%.................|39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
+|0.00% |42.27%|35.05%|13.00%|(17.19)%|(50.13)%|(82.07)%|*|*|
+|0.25% |42.34%|37.40%|17.79%|(11.20)%|(42.74)%|(72.12)%|(99.35)%|*|
+|0.50% |42.35%|39.22%|21.41%|(6.48)%|(37.59)%|(71.24)%|(98.63)%|*|
+|0.75% |42.35%|40.63%|24.90%|(2.07)%|(35.07)%|(66.19)%|(97.91)%|*|
+|1.00% |42.35%|41.57%|28.24%|2.20%|(29.21)%|(61.63)%|(97.21)%|*|
+|1.50% |42.30%|42.32%|34.25%|10.42%|(20.50)%|(53.45)%|(85.61)%|*|
+|2.00% |41.87%|42.35%|38.84%|18.60%|(11.58)%|(46.08)%|(77.07)%|*|
+|3.00% |39.34%|41.27%|42.33%|32.91%|6.49%|(27.13)%|(62.45)%|(95.83)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5760,53 +5760,53 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.63%|5.91%|6.27%|6.66%|7.09%|7.55%|8.05%|8.58%|
-|0.25%.................|5.61%|5.85%|6.20%|6.59%|6.99%|7.39%|7.83%|8.27%|
-|0.50%.................|5.60%|5.80%|6.15%|6.53%|6.92%|7.38%|7.82%|8.26%|
-|0.75%.................|5.60%|5.75%|6.09%|6.47%|6.89%|7.31%|7.80%|8.25%|
-|1.00%.................|5.60%|5.70%|6.04%|6.41%|6.81%|7.24%|7.79%|8.23%|
-|1.50%.................|(0.87)%|5.62%|5.93%|6.31%|6.70%|7.13%|7.60%|8.16%|
-|2.00%.................|(6.61)%|5.27%|5.81%|6.19%|6.59%|7.04%|7.47%|7.95%|
-|3.00%.................|(19.48)%|(10.77)%|4.63%|5.95%|6.36%|6.79%|7.25%|7.77%|
+|0.00% |5.63%|5.91%|6.27%|6.66%|7.09%|7.55%|8.05%|8.58%|
+|0.25% |5.61%|5.85%|6.20%|6.59%|6.99%|7.39%|7.83%|8.27%|
+|0.50% |5.60%|5.80%|6.15%|6.53%|6.92%|7.38%|7.82%|8.26%|
+|0.75% |5.60%|5.75%|6.09%|6.47%|6.89%|7.31%|7.80%|8.25%|
+|1.00% |5.60%|5.70%|6.04%|6.41%|6.81%|7.24%|7.79%|8.23%|
+|1.50% |(0.87)%|5.62%|5.93%|6.31%|6.70%|7.13%|7.60%|8.16%|
+|2.00% |(6.61)%|5.27%|5.81%|6.19%|6.59%|7.04%|7.47%|7.95%|
+|3.00% |(19.48)%|(10.77)%|4.63%|5.95%|6.36%|6.79%|7.25%|7.77%|
 
 #### **Class 2E-A2 Pre-Tax Yield to Maturity (Assumed Price = 98.36800%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.87%|6.06%|6.30%|6.56%|6.85%|7.16%|7.50%|7.86%|
-|0.25%.................|5.85%|6.02%|6.25%|6.51%|6.79%|7.06%|7.35%|7.65%|
-|0.50%.................|5.85%|5.98%|6.22%|6.47%|6.74%|7.05%|7.34%|7.64%|
-|0.75%.................|5.85%|5.95%|6.18%|6.43%|6.72%|7.00%|7.34%|7.64%|
-|1.00%.................|5.85%|5.91%|6.14%|6.40%|6.67%|6.96%|7.33%|7.63%|
-|1.50%.................|(0.34)%|5.86%|6.07%|6.32%|6.59%|6.88%|7.20%|7.57%|
-|2.00%.................|(5.93)%|5.52%|5.99%|6.24%|6.52%|6.82%|7.11%|7.44%|
-|3.00%.................|(18.59)%|(10.02)%|4.90%|6.08%|6.36%|6.65%|6.97%|7.32%|
+|0.00% |5.87%|6.06%|6.30%|6.56%|6.85%|7.16%|7.50%|7.86%|
+|0.25% |5.85%|6.02%|6.25%|6.51%|6.79%|7.06%|7.35%|7.65%|
+|0.50% |5.85%|5.98%|6.22%|6.47%|6.74%|7.05%|7.34%|7.64%|
+|0.75% |5.85%|5.95%|6.18%|6.43%|6.72%|7.00%|7.34%|7.64%|
+|1.00% |5.85%|5.91%|6.14%|6.40%|6.67%|6.96%|7.33%|7.63%|
+|1.50% |(0.34)%|5.86%|6.07%|6.32%|6.59%|6.88%|7.20%|7.57%|
+|2.00% |(5.93)%|5.52%|5.99%|6.24%|6.52%|6.82%|7.11%|7.44%|
+|3.00% |(18.59)%|(10.02)%|4.90%|6.08%|6.36%|6.65%|6.97%|7.32%|
 
 #### **Class 2E-A3 Pre-Tax Yield to Maturity (Assumed Price = 99.13600%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.10%|6.20%|6.33%|6.47%|6.62%|6.78%|6.96%|7.15%|
-|0.25%.................|6.09%|6.18%|6.30%|6.44%|6.58%|6.73%|6.88%|7.04%|
-|0.50%.................|6.09%|6.16%|6.28%|6.42%|6.56%|6.72%|6.88%|7.04%|
-|0.75%.................|6.09%|6.14%|6.26%|6.40%|6.55%|6.70%|6.87%|7.03%|
-|1.00%.................|6.09%|6.13%|6.25%|6.38%|6.52%|6.67%|6.87%|7.03%|
-|1.50%.................|0.18%|6.09%|6.20%|6.34%|6.48%|6.64%|6.80%|7.00%|
-|2.00%.................|(5.29)%|5.78%|6.16%|6.30%|6.44%|6.60%|6.76%|6.93%|
-|3.00%.................|(17.74)%|(9.30)%|5.17%|6.21%|6.36%|6.51%|6.68%|6.86%|
+|0.00% |6.10%|6.20%|6.33%|6.47%|6.62%|6.78%|6.96%|7.15%|
+|0.25% |6.09%|6.18%|6.30%|6.44%|6.58%|6.73%|6.88%|7.04%|
+|0.50% |6.09%|6.16%|6.28%|6.42%|6.56%|6.72%|6.88%|7.04%|
+|0.75% |6.09%|6.14%|6.26%|6.40%|6.55%|6.70%|6.87%|7.03%|
+|1.00% |6.09%|6.13%|6.25%|6.38%|6.52%|6.67%|6.87%|7.03%|
+|1.50% |0.18%|6.09%|6.20%|6.34%|6.48%|6.64%|6.80%|7.00%|
+|2.00% |(5.29)%|5.78%|6.16%|6.30%|6.44%|6.60%|6.76%|6.93%|
+|3.00% |(17.74)%|(9.30)%|5.17%|6.21%|6.36%|6.51%|6.68%|6.86%|
 
 #### **Class 2E-A4 Pre-Tax Yield to Maturity (Assumed Price = 99.90400%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.33%|6.34%|6.36%|6.37%|6.39%|6.41%|6.43%|6.45%|
-|0.25%.................|6.33%|6.34%|6.35%|6.37%|6.38%|6.40%|6.42%|6.44%|
-|0.50%.................|6.33%|6.34%|6.35%|6.37%|6.38%|6.40%|6.42%|6.43%|
-|0.75%.................|6.33%|6.34%|6.35%|6.36%|6.38%|6.40%|6.42%|6.43%|
-|1.00%.................|6.33%|6.33%|6.35%|6.36%|6.38%|6.39%|6.42%|6.43%|
-|1.50%.................|0.67%|6.33%|6.34%|6.36%|6.37%|6.39%|6.41%|6.43%|
-|2.00%.................|(4.68)%|6.03%|6.34%|6.35%|6.37%|6.39%|6.40%|6.42%|
-|3.00%.................|(16.92)%|(8.62)%|5.44%|6.34%|6.36%|6.38%|6.39%|6.42%|
+|0.00% |6.33%|6.34%|6.36%|6.37%|6.39%|6.41%|6.43%|6.45%|
+|0.25% |6.33%|6.34%|6.35%|6.37%|6.38%|6.40%|6.42%|6.44%|
+|0.50% |6.33%|6.34%|6.35%|6.37%|6.38%|6.40%|6.42%|6.43%|
+|0.75% |6.33%|6.34%|6.35%|6.36%|6.38%|6.40%|6.42%|6.43%|
+|1.00% |6.33%|6.33%|6.35%|6.36%|6.38%|6.39%|6.42%|6.43%|
+|1.50% |0.67%|6.33%|6.34%|6.36%|6.37%|6.39%|6.41%|6.43%|
+|2.00% |(4.68)%|6.03%|6.34%|6.35%|6.37%|6.39%|6.40%|6.42%|
+|3.00% |(16.92)%|(8.62)%|5.44%|6.34%|6.36%|6.38%|6.39%|6.42%|
 
 <!-- page 219 -->
 
@@ -5814,14 +5814,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
-|0.25%.................|33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
-|0.50%.................|33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
-|0.75%.................|33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
-|1.00%.................|33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
-|1.50%.................|33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
-|2.00%.................|32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
-|3.00%.................|27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
+|0.00% |33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
+|0.25% |33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
+|0.50% |33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
+|0.75% |33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
+|1.00% |33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
+|1.50% |33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
+|2.00% |32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
+|3.00% |27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5829,14 +5829,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
-|0.25%.................|33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
-|0.50%.................|33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
-|0.75%.................|33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
-|1.00%.................|33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
-|1.50%.................|33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
-|2.00%.................|32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
-|3.00%.................|27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
+|0.00% |33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
+|0.25% |33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
+|0.50% |33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
+|0.75% |33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
+|1.00% |33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
+|1.50% |33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
+|2.00% |32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
+|3.00% |27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5844,14 +5844,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
-|0.25%.................|33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
-|0.50%.................|33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
-|0.75%.................|33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
-|1.00%.................|33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
-|1.50%.................|33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
-|2.00%.................|32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
-|3.00%.................|27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
+|0.00% |33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
+|0.25% |33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
+|0.50% |33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
+|0.75% |33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
+|1.00% |33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
+|1.50% |33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
+|2.00% |32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
+|3.00% |27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5859,14 +5859,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
-|0.25%.................|33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
-|0.50%.................|33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
-|0.75%.................|33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
-|1.00%.................|33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
-|1.50%.................|33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
-|2.00%.................|32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
-|3.00%.................|27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
+|0.00% |33.66%|28.25%|11.53%|(12.23)%|(39.23)%|(66.84)%|(93.61)%|*|
+|0.25% |33.73%|30.10%|15.08%|(6.71)%|(34.00)%|(59.54)%|(84.38)%|*|
+|0.50% |33.73%|31.52%|18.27%|(3.69)%|(29.19)%|(58.60)%|(83.61)%|*|
+|0.75% |33.73%|32.59%|21.17%|0.22%|(25.39)%|(51.73)%|(82.60)%|*|
+|1.00% |33.73%|33.28%|23.85%|3.83%|(21.96)%|(50.07)%|(74.35)%|*|
+|1.50% |33.42%|33.73%|28.57%|10.91%|(14.13)%|(41.60)%|(70.54)%|(93.92)%|
+|2.00% |32.25%|33.60%|31.98%|17.65%|(5.96)%|(33.67)%|(63.31)%|(92.22)%|
+|3.00% |27.53%|30.61%|33.26%|29.00%|9.61%|(17.80)%|(47.79)%|(76.57)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5876,53 +5876,53 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.73%|6.05%|6.48%|6.95%|7.46%|8.01%|8.61%|9.27%|
-|0.25%.................|5.71%|5.98%|6.40%|6.85%|7.36%|7.86%|8.39%|8.96%|
-|0.50%.................|5.71%|5.91%|6.33%|6.79%|7.27%|7.84%|8.38%|8.94%|
-|0.75%.................|5.71%|5.85%|6.26%|6.71%|7.20%|7.70%|8.35%|8.92%|
-|1.00%.................|5.71%|5.79%|6.18%|6.64%|7.14%|7.67%|8.17%|8.90%|
-|1.50%.................|(2.58)%|5.71%|6.04%|6.49%|6.99%|7.51%|8.09%|8.62%|
-|2.00%.................|(9.14)%|(0.67)%|5.89%|6.34%|6.83%|7.36%|7.94%|8.58%|
-|3.00%.................|(23.77)%|(15.12)%|(3.42)%|6.02%|6.52%|7.06%|7.63%|8.23%|
+|0.00% |5.73%|6.05%|6.48%|6.95%|7.46%|8.01%|8.61%|9.27%|
+|0.25% |5.71%|5.98%|6.40%|6.85%|7.36%|7.86%|8.39%|8.96%|
+|0.50% |5.71%|5.91%|6.33%|6.79%|7.27%|7.84%|8.38%|8.94%|
+|0.75% |5.71%|5.85%|6.26%|6.71%|7.20%|7.70%|8.35%|8.92%|
+|1.00% |5.71%|5.79%|6.18%|6.64%|7.14%|7.67%|8.17%|8.90%|
+|1.50% |(2.58)%|5.71%|6.04%|6.49%|6.99%|7.51%|8.09%|8.62%|
+|2.00% |(9.14)%|(0.67)%|5.89%|6.34%|6.83%|7.36%|7.94%|8.58%|
+|3.00% |(23.77)%|(15.12)%|(3.42)%|6.02%|6.52%|7.06%|7.63%|8.23%|
 
 #### **Class 2E-B2 Pre-Tax Yield to Maturity (Assumed Price = 97.29800%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.96%|6.19%|6.51%|6.85%|7.23%|7.63%|8.08%|8.56%|
-|0.25%.................|5.94%|6.14%|6.45%|6.78%|7.16%|7.52%|7.91%|8.33%|
-|0.50%.................|5.94%|6.09%|6.39%|6.73%|7.09%|7.51%|7.90%|8.32%|
-|0.75%.................|5.94%|6.04%|6.34%|6.68%|7.04%|7.41%|7.89%|8.30%|
-|1.00%.................|5.94%|6.00%|6.29%|6.62%|6.99%|7.38%|7.75%|8.28%|
-|1.50%.................|(2.02)%|5.94%|6.18%|6.52%|6.88%|7.26%|7.69%|8.08%|
-|2.00%.................|(8.45)%|(0.15)%|6.07%|6.40%|6.77%|7.15%|7.58%|8.05%|
-|3.00%.................|(22.85)%|(14.32)%|(2.85)%|6.17%|6.54%|6.93%|7.35%|7.79%|
+|0.00% |5.96%|6.19%|6.51%|6.85%|7.23%|7.63%|8.08%|8.56%|
+|0.25% |5.94%|6.14%|6.45%|6.78%|7.16%|7.52%|7.91%|8.33%|
+|0.50% |5.94%|6.09%|6.39%|6.73%|7.09%|7.51%|7.90%|8.32%|
+|0.75% |5.94%|6.04%|6.34%|6.68%|7.04%|7.41%|7.89%|8.30%|
+|1.00% |5.94%|6.00%|6.29%|6.62%|6.99%|7.38%|7.75%|8.28%|
+|1.50% |(2.02)%|5.94%|6.18%|6.52%|6.88%|7.26%|7.69%|8.08%|
+|2.00% |(8.45)%|(0.15)%|6.07%|6.40%|6.77%|7.15%|7.58%|8.05%|
+|3.00% |(22.85)%|(14.32)%|(2.85)%|6.17%|6.54%|6.93%|7.35%|7.79%|
 
 #### **Class 2E-B3 Pre-Tax Yield to Maturity (Assumed Price = 98.24600%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.18%|6.33%|6.53%|6.76%|7.00%|7.26%|7.55%|7.86%|
-|0.25%.................|6.17%|6.30%|6.50%|6.71%|6.95%|7.19%|7.44%|7.71%|
-|0.50%.................|6.17%|6.27%|6.46%|6.68%|6.91%|7.18%|7.43%|7.70%|
-|0.75%.................|6.17%|6.23%|6.43%|6.64%|6.88%|7.11%|7.42%|7.69%|
-|1.00%.................|6.17%|6.21%|6.39%|6.61%|6.85%|7.10%|7.34%|7.68%|
-|1.50%.................|(1.48)%|6.17%|6.32%|6.54%|6.78%|7.02%|7.30%|7.55%|
-|2.00%.................|(7.78)%|0.34%|6.25%|6.47%|6.70%|6.95%|7.23%|7.53%|
-|3.00%.................|(21.98)%|(13.56)%|(2.30)%|6.31%|6.55%|6.81%|7.08%|7.36%|
+|0.00% |6.18%|6.33%|6.53%|6.76%|7.00%|7.26%|7.55%|7.86%|
+|0.25% |6.17%|6.30%|6.50%|6.71%|6.95%|7.19%|7.44%|7.71%|
+|0.50% |6.17%|6.27%|6.46%|6.68%|6.91%|7.18%|7.43%|7.70%|
+|0.75% |6.17%|6.23%|6.43%|6.64%|6.88%|7.11%|7.42%|7.69%|
+|1.00% |6.17%|6.21%|6.39%|6.61%|6.85%|7.10%|7.34%|7.68%|
+|1.50% |(1.48)%|6.17%|6.32%|6.54%|6.78%|7.02%|7.30%|7.55%|
+|2.00% |(7.78)%|0.34%|6.25%|6.47%|6.70%|6.95%|7.23%|7.53%|
+|3.00% |(21.98)%|(13.56)%|(2.30)%|6.31%|6.55%|6.81%|7.08%|7.36%|
 
 #### **Class 2E-B4 Pre-Tax Yield to Maturity (Assumed Price = 99.19400%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.40%|6.47%|6.56%|6.66%|6.77%|6.89%|7.02%|7.16%|
-|0.25%.................|6.39%|6.45%|6.54%|6.64%|6.75%|6.86%|6.98%|7.10%|
-|0.50%.................|6.39%|6.44%|6.53%|6.63%|6.73%|6.86%|6.97%|7.09%|
-|0.75%.................|6.39%|6.42%|6.51%|6.61%|6.72%|6.83%|6.97%|7.09%|
-|1.00%.................|6.39%|6.41%|6.50%|6.60%|6.70%|6.82%|6.93%|7.08%|
-|1.50%.................|(0.97)%|6.39%|6.46%|6.56%|6.67%|6.78%|6.91%|7.02%|
-|2.00%.................|(7.15)%|0.81%|6.43%|6.53%|6.64%|6.75%|6.88%|7.02%|
-|3.00%.................|(21.15)%|(12.84)%|(1.77)%|6.46%|6.57%|6.69%|6.81%|6.94%|
+|0.00% |6.40%|6.47%|6.56%|6.66%|6.77%|6.89%|7.02%|7.16%|
+|0.25% |6.39%|6.45%|6.54%|6.64%|6.75%|6.86%|6.98%|7.10%|
+|0.50% |6.39%|6.44%|6.53%|6.63%|6.73%|6.86%|6.97%|7.09%|
+|0.75% |6.39%|6.42%|6.51%|6.61%|6.72%|6.83%|6.97%|7.09%|
+|1.00% |6.39%|6.41%|6.50%|6.60%|6.70%|6.82%|6.93%|7.08%|
+|1.50% |(0.97)%|6.39%|6.46%|6.56%|6.67%|6.78%|6.91%|7.02%|
+|2.00% |(7.15)%|0.81%|6.43%|6.53%|6.64%|6.75%|6.88%|7.02%|
+|3.00% |(21.15)%|(12.84)%|(1.77)%|6.46%|6.57%|6.69%|6.81%|6.94%|
 
 <!-- page 221 -->
 
@@ -5930,14 +5930,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
-|0.25%.................|27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
-|0.50%.................|27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
-|0.75%.................|27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
-|1.00%.................|27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
-|1.50%.................|26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
-|2.00%.................|24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
-|3.00%.................|16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
+|0.00% |27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
+|0.25% |27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
+|0.50% |27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
+|0.75% |27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
+|1.00% |27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
+|1.50% |26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
+|2.00% |24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
+|3.00% |16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5945,14 +5945,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
-|0.25%.................|27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
-|0.50%.................|27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
-|0.75%.................|27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
-|1.00%.................|27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
-|1.50%.................|26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
-|2.00%.................|24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
-|3.00%.................|16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
+|0.00% |27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
+|0.25% |27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
+|0.50% |27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
+|0.75% |27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
+|1.00% |27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
+|1.50% |26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
+|2.00% |24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
+|3.00% |16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5960,14 +5960,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
-|0.25%.................|27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
-|0.50%.................|27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
-|0.75%.................|27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
-|1.00%.................|27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
-|1.50%.................|26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
-|2.00%.................|24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
-|3.00%.................|16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
+|0.00% |27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
+|0.25% |27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
+|0.50% |27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
+|0.75% |27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
+|1.00% |27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
+|1.50% |26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
+|2.00% |24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
+|3.00% |16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5975,14 +5975,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
-|0.25%.................|27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
-|0.50%.................|27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
-|0.75%.................|27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
-|1.00%.................|27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
-|1.50%.................|26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
-|2.00%.................|24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
-|3.00%.................|16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
+|0.00% |27.61%|23.41%|10.33%|(8.78)%|(31.24)%|(55.16)%|(78.78)%|*|
+|0.25% |27.64%|24.92%|13.43%|(4.67)%|(27.16)%|(49.42)%|(71.44)%|(92.86)%|
+|0.50% |27.64%|26.08%|15.94%|(1.26)%|(23.32)%|(44.98)%|(70.38)%|(91.88)%|
+|0.75% |27.64%|26.92%|18.43%|1.89%|(19.71)%|(43.18)%|(64.99)%|(90.94)%|
+|1.00% |27.64%|27.44%|20.69%|5.02%|(16.00)%|(38.23)%|(62.71)%|(86.34)%|
+|1.50% |26.60%|27.64%|24.49%|11.22%|(8.99)%|(32.25)%|(55.55)%|(81.10)%|
+|2.00% |24.30%|26.76%|27.03%|16.92%|(1.64)%|(24.87)%|(49.56)%|(72.83)%|
+|3.00% |16.81%|20.96%|25.16%|26.07%|12.03%|(9.59)%|(34.61)%|(61.78)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -5992,53 +5992,53 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.91%|6.30%|6.86%|7.48%|8.15%|8.87%|9.65%|10.51%|
-|0.25%.................|5.90%|6.21%|6.75%|7.35%|8.03%|8.70%|9.40%|10.16%|
-|0.50%.................|5.90%|6.12%|6.65%|7.25%|7.91%|8.56%|9.36%|10.12%|
-|0.75%.................|5.90%|6.03%|6.55%|7.15%|7.81%|8.51%|9.19%|10.09%|
-|1.00%.................|5.75%|5.95%|6.45%|7.04%|7.70%|8.36%|9.11%|9.93%|
-|1.50%.................|(4.61)%|5.90%|6.24%|6.83%|7.49%|8.18%|8.89%|9.73%|
-|2.00%.................|(12.19)%|(3.87)%|6.01%|6.61%|7.26%|7.96%|8.70%|9.45%|
-|3.00%.................|(28.86)%|(20.33)%|(9.48)%|6.11%|6.80%|7.51%|8.25%|9.09%|
+|0.00% |5.91%|6.30%|6.86%|7.48%|8.15%|8.87%|9.65%|10.51%|
+|0.25% |5.90%|6.21%|6.75%|7.35%|8.03%|8.70%|9.40%|10.16%|
+|0.50% |5.90%|6.12%|6.65%|7.25%|7.91%|8.56%|9.36%|10.12%|
+|0.75% |5.90%|6.03%|6.55%|7.15%|7.81%|8.51%|9.19%|10.09%|
+|1.00% |5.75%|5.95%|6.45%|7.04%|7.70%|8.36%|9.11%|9.93%|
+|1.50% |(4.61)%|5.90%|6.24%|6.83%|7.49%|8.18%|8.89%|9.73%|
+|2.00% |(12.19)%|(3.87)%|6.01%|6.61%|7.26%|7.96%|8.70%|9.45%|
+|3.00% |(28.86)%|(20.33)%|(9.48)%|6.11%|6.80%|7.51%|8.25%|9.09%|
 
 #### **Class 2E-C2 Pre-Tax Yield to Maturity (Assumed Price = 95.29000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.13%|6.44%|6.89%|7.38%|7.91%|8.49%|9.11%|9.80%|
-|0.25%.................|6.12%|6.36%|6.79%|7.28%|7.82%|8.35%|8.91%|9.52%|
-|0.50%.................|6.12%|6.29%|6.72%|7.19%|7.73%|8.25%|8.88%|9.49%|
-|0.75%.................|6.12%|6.22%|6.63%|7.11%|7.64%|8.20%|8.75%|9.46%|
-|1.00%.................|5.97%|6.16%|6.55%|7.03%|7.55%|8.08%|8.68%|9.34%|
-|1.50%.................|(4.02)%|6.12%|6.38%|6.86%|7.38%|7.94%|8.50%|9.18%|
-|2.00%.................|(11.46)%|(3.30)%|6.21%|6.68%|7.20%|7.76%|8.36%|8.95%|
-|3.00%.................|(27.92)%|(19.49)%|(8.81)%|6.28%|6.84%|7.40%|8.00%|8.66%|
+|0.00% |6.13%|6.44%|6.89%|7.38%|7.91%|8.49%|9.11%|9.80%|
+|0.25% |6.12%|6.36%|6.79%|7.28%|7.82%|8.35%|8.91%|9.52%|
+|0.50% |6.12%|6.29%|6.72%|7.19%|7.73%|8.25%|8.88%|9.49%|
+|0.75% |6.12%|6.22%|6.63%|7.11%|7.64%|8.20%|8.75%|9.46%|
+|1.00% |5.97%|6.16%|6.55%|7.03%|7.55%|8.08%|8.68%|9.34%|
+|1.50% |(4.02)%|6.12%|6.38%|6.86%|7.38%|7.94%|8.50%|9.18%|
+|2.00% |(11.46)%|(3.30)%|6.21%|6.68%|7.20%|7.76%|8.36%|8.95%|
+|3.00% |(27.92)%|(19.49)%|(8.81)%|6.28%|6.84%|7.40%|8.00%|8.66%|
 
 #### **Class 2E-C3 Pre-Tax Yield to Maturity (Assumed Price = 96.43000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.34%|6.57%|6.91%|7.28%|7.68%|8.12%|8.59%|9.10%|
-|0.25%.................|6.33%|6.52%|6.84%|7.20%|7.61%|8.01%|8.43%|8.89%|
-|0.50%.................|6.33%|6.46%|6.78%|7.14%|7.54%|7.93%|8.41%|8.87%|
-|0.75%.................|6.33%|6.41%|6.72%|7.08%|7.48%|7.90%|8.31%|8.85%|
-|1.00%.................|6.19%|6.36%|6.66%|7.02%|7.41%|7.81%|8.26%|8.75%|
-|1.50%.................|(3.46)%|6.33%|6.53%|6.89%|7.28%|7.70%|8.13%|8.63%|
-|2.00%.................|(10.77)%|(2.76)%|6.40%|6.76%|7.15%|7.57%|8.02%|8.46%|
-|3.00%.................|(27.03)%|(18.69)%|(8.17)%|6.45%|6.87%|7.30%|7.74%|8.25%|
+|0.00% |6.34%|6.57%|6.91%|7.28%|7.68%|8.12%|8.59%|9.10%|
+|0.25% |6.33%|6.52%|6.84%|7.20%|7.61%|8.01%|8.43%|8.89%|
+|0.50% |6.33%|6.46%|6.78%|7.14%|7.54%|7.93%|8.41%|8.87%|
+|0.75% |6.33%|6.41%|6.72%|7.08%|7.48%|7.90%|8.31%|8.85%|
+|1.00% |6.19%|6.36%|6.66%|7.02%|7.41%|7.81%|8.26%|8.75%|
+|1.50% |(3.46)%|6.33%|6.53%|6.89%|7.28%|7.70%|8.13%|8.63%|
+|2.00% |(10.77)%|(2.76)%|6.40%|6.76%|7.15%|7.57%|8.02%|8.46%|
+|3.00% |(27.03)%|(18.69)%|(8.17)%|6.45%|6.87%|7.30%|7.74%|8.25%|
 
 #### **Class 2E-C4 Pre-Tax Yield to Maturity (Assumed Price = 97.57000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.55%|6.70%|6.93%|7.18%|7.45%|7.75%|8.06%|8.41%|
-|0.25%.................|6.54%|6.67%|6.88%|7.13%|7.41%|7.68%|7.96%|8.27%|
-|0.50%.................|6.54%|6.63%|6.85%|7.09%|7.36%|7.62%|7.95%|8.25%|
-|0.75%.................|6.54%|6.59%|6.80%|7.05%|7.32%|7.60%|7.88%|8.24%|
-|1.00%.................|6.40%|6.56%|6.76%|7.01%|7.27%|7.54%|7.85%|8.18%|
-|1.50%.................|(2.93)%|6.54%|6.68%|6.92%|7.19%|7.47%|7.75%|8.10%|
-|2.00%.................|(10.12)%|(2.24)%|6.59%|6.83%|7.09%|7.38%|7.68%|7.98%|
-|3.00%.................|(26.19)%|(17.94)%|(7.56)%|6.62%|6.91%|7.19%|7.50%|7.83%|
+|0.00% |6.55%|6.70%|6.93%|7.18%|7.45%|7.75%|8.06%|8.41%|
+|0.25% |6.54%|6.67%|6.88%|7.13%|7.41%|7.68%|7.96%|8.27%|
+|0.50% |6.54%|6.63%|6.85%|7.09%|7.36%|7.62%|7.95%|8.25%|
+|0.75% |6.54%|6.59%|6.80%|7.05%|7.32%|7.60%|7.88%|8.24%|
+|1.00% |6.40%|6.56%|6.76%|7.01%|7.27%|7.54%|7.85%|8.18%|
+|1.50% |(2.93)%|6.54%|6.68%|6.92%|7.19%|7.47%|7.75%|8.10%|
+|2.00% |(10.12)%|(2.24)%|6.59%|6.83%|7.09%|7.38%|7.68%|7.98%|
+|3.00% |(26.19)%|(17.94)%|(7.56)%|6.62%|6.91%|7.19%|7.50%|7.83%|
 
 <!-- page 223 -->
 
@@ -6046,53 +6046,53 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.68%|5.99%|6.38%|6.82%|7.29%|7.80%|8.36%|8.96%|
-|0.25%.................|5.66%|5.92%|6.31%|6.73%|7.19%|7.65%|8.14%|8.65%|
-|0.50%.................|5.66%|5.86%|6.25%|6.67%|7.12%|7.63%|8.12%|8.63%|
-|0.75%.................|5.66%|5.81%|6.18%|6.60%|7.06%|7.53%|8.11%|8.62%|
-|1.00%.................|5.66%|5.75%|6.12%|6.54%|6.99%|7.48%|8.01%|8.60%|
-|1.50%.................|(1.64)%|5.66%|5.99%|6.41%|6.86%|7.34%|7.87%|8.42%|
-|2.00%.................|(7.74)%|3.30%|5.85%|6.27%|6.73%|7.21%|7.73%|8.29%|
-|3.00%.................|(21.38)%|(12.64)%|2.19%|5.99%|6.45%|6.94%|7.46%|8.03%|
+|0.00% |5.68%|5.99%|6.38%|6.82%|7.29%|7.80%|8.36%|8.96%|
+|0.25% |5.66%|5.92%|6.31%|6.73%|7.19%|7.65%|8.14%|8.65%|
+|0.50% |5.66%|5.86%|6.25%|6.67%|7.12%|7.63%|8.12%|8.63%|
+|0.75% |5.66%|5.81%|6.18%|6.60%|7.06%|7.53%|8.11%|8.62%|
+|1.00% |5.66%|5.75%|6.12%|6.54%|6.99%|7.48%|8.01%|8.60%|
+|1.50% |(1.64)%|5.66%|5.99%|6.41%|6.86%|7.34%|7.87%|8.42%|
+|2.00% |(7.74)%|3.30%|5.85%|6.27%|6.73%|7.21%|7.73%|8.29%|
+|3.00% |(21.38)%|(12.64)%|2.19%|5.99%|6.45%|6.94%|7.46%|8.03%|
 
 #### **Class 2E-D2 Pre-Tax Yield to Maturity (Assumed Price = 97.83300%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.91%|6.13%|6.41%|6.72%|7.06%|7.42%|7.82%|8.25%|
-|0.25%.................|5.90%|6.08%|6.36%|6.66%|6.99%|7.31%|7.66%|8.03%|
-|0.50%.................|5.89%|6.04%|6.31%|6.62%|6.93%|7.30%|7.65%|8.02%|
-|0.75%.................|5.89%|6.00%|6.27%|6.57%|6.90%|7.23%|7.64%|8.00%|
-|1.00%.................|5.89%|5.96%|6.22%|6.52%|6.85%|7.19%|7.57%|7.99%|
-|1.50%.................|(1.10)%|5.90%|6.13%|6.43%|6.75%|7.09%|7.47%|7.86%|
-|2.00%.................|(7.06)%|3.61%|6.04%|6.33%|6.66%|7.00%|7.37%|7.77%|
-|3.00%.................|(20.49)%|(11.88)%|2.50%|6.13%|6.46%|6.81%|7.18%|7.58%|
+|0.00% |5.91%|6.13%|6.41%|6.72%|7.06%|7.42%|7.82%|8.25%|
+|0.25% |5.90%|6.08%|6.36%|6.66%|6.99%|7.31%|7.66%|8.03%|
+|0.50% |5.89%|6.04%|6.31%|6.62%|6.93%|7.30%|7.65%|8.02%|
+|0.75% |5.89%|6.00%|6.27%|6.57%|6.90%|7.23%|7.64%|8.00%|
+|1.00% |5.89%|5.96%|6.22%|6.52%|6.85%|7.19%|7.57%|7.99%|
+|1.50% |(1.10)%|5.90%|6.13%|6.43%|6.75%|7.09%|7.47%|7.86%|
+|2.00% |(7.06)%|3.61%|6.04%|6.33%|6.66%|7.00%|7.37%|7.77%|
+|3.00% |(20.49)%|(11.88)%|2.50%|6.13%|6.46%|6.81%|7.18%|7.58%|
 
 #### **Class 2E-D3 Pre-Tax Yield to Maturity (Assumed Price = 98.69100%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.14%|6.27%|6.44%|6.63%|6.83%|7.05%|7.29%|7.54%|
-|0.25%.................|6.13%|6.24%|6.41%|6.59%|6.79%|6.98%|7.19%|7.41%|
-|0.50%.................|6.13%|6.22%|6.38%|6.56%|6.75%|6.98%|7.19%|7.40%|
-|0.75%.................|6.13%|6.19%|6.35%|6.53%|6.73%|6.93%|7.18%|7.40%|
-|1.00%.................|6.13%|6.17%|6.33%|6.51%|6.70%|6.91%|7.13%|7.39%|
-|1.50%.................|(0.57)%|6.13%|6.27%|6.45%|6.65%|6.85%|7.08%|7.31%|
-|2.00%.................|(6.42)%|3.91%|6.21%|6.39%|6.59%|6.80%|7.02%|7.26%|
-|3.00%.................|(19.63)%|(11.15)%|2.82%|6.27%|6.47%|6.68%|6.90%|7.14%|
+|0.00% |6.14%|6.27%|6.44%|6.63%|6.83%|7.05%|7.29%|7.54%|
+|0.25% |6.13%|6.24%|6.41%|6.59%|6.79%|6.98%|7.19%|7.41%|
+|0.50% |6.13%|6.22%|6.38%|6.56%|6.75%|6.98%|7.19%|7.40%|
+|0.75% |6.13%|6.19%|6.35%|6.53%|6.73%|6.93%|7.18%|7.40%|
+|1.00% |6.13%|6.17%|6.33%|6.51%|6.70%|6.91%|7.13%|7.39%|
+|1.50% |(0.57)%|6.13%|6.27%|6.45%|6.65%|6.85%|7.08%|7.31%|
+|2.00% |(6.42)%|3.91%|6.21%|6.39%|6.59%|6.80%|7.02%|7.26%|
+|3.00% |(19.63)%|(11.15)%|2.82%|6.27%|6.47%|6.68%|6.90%|7.14%|
 
 #### **Class 2E-D4 Pre-Tax Yield to Maturity (Assumed Price = 99.54900%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.37%|6.41%|6.47%|6.53%|6.60%|6.68%|6.76%|6.85%|
-|0.25%.................|6.36%|6.40%|6.46%|6.52%|6.59%|6.65%|6.73%|6.80%|
-|0.50%.................|6.36%|6.39%|6.45%|6.51%|6.58%|6.65%|6.72%|6.80%|
-|0.75%.................|6.36%|6.38%|6.44%|6.50%|6.57%|6.64%|6.72%|6.80%|
-|1.00%.................|6.36%|6.38%|6.43%|6.49%|6.56%|6.63%|6.71%|6.79%|
-|1.50%.................|(0.07)%|6.36%|6.41%|6.47%|6.54%|6.61%|6.69%|6.77%|
-|2.00%.................|(5.79)%|4.21%|6.39%|6.45%|6.52%|6.59%|6.67%|6.75%|
-|3.00%.................|(18.81)%|(10.45)%|3.13%|6.41%|6.48%|6.55%|6.63%|6.71%|
+|0.00% |6.37%|6.41%|6.47%|6.53%|6.60%|6.68%|6.76%|6.85%|
+|0.25% |6.36%|6.40%|6.46%|6.52%|6.59%|6.65%|6.73%|6.80%|
+|0.50% |6.36%|6.39%|6.45%|6.51%|6.58%|6.65%|6.72%|6.80%|
+|0.75% |6.36%|6.38%|6.44%|6.50%|6.57%|6.64%|6.72%|6.80%|
+|1.00% |6.36%|6.38%|6.43%|6.49%|6.56%|6.63%|6.71%|6.79%|
+|1.50% |(0.07)%|6.36%|6.41%|6.47%|6.54%|6.61%|6.69%|6.77%|
+|2.00% |(5.79)%|4.21%|6.39%|6.45%|6.52%|6.59%|6.67%|6.75%|
+|3.00% |(18.81)%|(10.45)%|3.13%|6.41%|6.48%|6.55%|6.63%|6.71%|
 
 <!-- page 224 -->
 
@@ -6100,50 +6100,50 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.63%|6.57%|6.50%|6.42%|6.34%|6.25%|6.15%|6.04%|
-|0.25%.................|6.63%|6.58%|6.51%|6.44%|6.36%|6.28%|6.19%|6.10%|
-|0.50%.................|6.63%|6.59%|6.53%|6.45%|6.37%|6.28%|6.19%|6.10%|
-|0.75%.................|6.63%|6.60%|6.54%|6.46%|6.38%|6.30%|6.19%|6.10%|
-|1.00%.................|6.63%|6.61%|6.55%|6.47%|6.39%|6.31%|6.21%|6.11%|
-|1.50%.................|0.49%|6.63%|6.57%|6.50%|6.42%|6.33%|6.24%|6.14%|
-|2.00%.................|(5.10)%|4.55%|6.59%|6.52%|6.44%|6.35%|6.26%|6.16%|
-|3.00%.................|(17.91)%|(9.68)%|3.48%|6.57%|6.49%|6.40%|6.31%|6.21%|
+|0.00% |6.63%|6.57%|6.50%|6.42%|6.34%|6.25%|6.15%|6.04%|
+|0.25% |6.63%|6.58%|6.51%|6.44%|6.36%|6.28%|6.19%|6.10%|
+|0.50% |6.63%|6.59%|6.53%|6.45%|6.37%|6.28%|6.19%|6.10%|
+|0.75% |6.63%|6.60%|6.54%|6.46%|6.38%|6.30%|6.19%|6.10%|
+|1.00% |6.63%|6.61%|6.55%|6.47%|6.39%|6.31%|6.21%|6.11%|
+|1.50% |0.49%|6.63%|6.57%|6.50%|6.42%|6.33%|6.24%|6.14%|
+|2.00% |(5.10)%|4.55%|6.59%|6.52%|6.44%|6.35%|6.26%|6.16%|
+|3.00% |(17.91)%|(9.68)%|3.48%|6.57%|6.49%|6.40%|6.31%|6.21%|
 
 #### **Class 2E-F1 Pre-Tax Yield to Maturity (Assumed Price = 95.25000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|5.82%|6.19%|6.69%|7.24%|7.84%|8.48%|9.18%|9.95%|
-|0.25%.................|5.81%|6.10%|6.59%|7.12%|7.72%|8.31%|8.94%|9.61%|
-|0.50%.................|5.81%|6.02%|6.50%|7.04%|7.62%|8.24%|8.91%|9.58%|
-|0.75%.................|5.81%|5.95%|6.41%|6.95%|7.53%|8.14%|8.82%|9.56%|
-|1.00%.................|5.73%|5.88%|6.33%|6.86%|7.44%|8.05%|8.68%|9.47%|
-|1.50%.................|(3.48)%|5.81%|6.15%|6.68%|7.26%|7.88%|8.53%|9.22%|
-|2.00%.................|(10.49)%|(1.98)%|5.96%|6.49%|7.07%|7.69%|8.36%|9.06%|
-|3.00%.................|(25.99)%|(17.33)%|(5.69)%|6.07%|6.68%|7.31%|7.97%|8.70%|
+|0.00% |5.82%|6.19%|6.69%|7.24%|7.84%|8.48%|9.18%|9.95%|
+|0.25% |5.81%|6.10%|6.59%|7.12%|7.72%|8.31%|8.94%|9.61%|
+|0.50% |5.81%|6.02%|6.50%|7.04%|7.62%|8.24%|8.91%|9.58%|
+|0.75% |5.81%|5.95%|6.41%|6.95%|7.53%|8.14%|8.82%|9.56%|
+|1.00% |5.73%|5.88%|6.33%|6.86%|7.44%|8.05%|8.68%|9.47%|
+|1.50% |(3.48)%|5.81%|6.15%|6.68%|7.26%|7.88%|8.53%|9.22%|
+|2.00% |(10.49)%|(1.98)%|5.96%|6.49%|7.07%|7.69%|8.36%|9.06%|
+|3.00% |(25.99)%|(17.33)%|(5.69)%|6.07%|6.68%|7.31%|7.97%|8.70%|
 ||**Class 2E-** **0%**|**F2 Pre-Tax** **5%**|**Yield to Ma** **10%**|**turity (Ass** **15%**|**umed Price** **20%**|**= 96.29400** **25%**|**%)** **30%**|**35%**|
 |**CDR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|**CPR**|
-|0.00%.................|6.04%|6.32%|6.71%|7.14%|7.60%|8.10%|8.64%|9.24%|
-|0.25%.................|6.03%|6.26%|6.64%|7.05%|7.52%|7.97%|8.46%|8.98%|
-|0.50%.................|6.03%|6.20%|6.57%|6.98%|7.44%|7.92%|8.44%|8.96%|
-|0.75%.................|6.03%|6.14%|6.50%|6.91%|7.37%|7.84%|8.36%|8.93%|
-|1.00%.................|5.96%|6.08%|6.43%|6.85%|7.30%|7.77%|8.26%|8.87%|
-|1.50%.................|(2.91)%|6.03%|6.29%|6.70%|7.16%|7.63%|8.14%|8.68%|
-|2.00%.................|(9.78)%|(1.45)%|6.15%|6.56%|7.01%|7.49%|8.01%|8.55%|
-|3.00%.................|(25.07)%|(16.52)%|(5.10)%|6.23%|6.70%|7.19%|7.71%|8.27%|
+|0.00% |6.04%|6.32%|6.71%|7.14%|7.60%|8.10%|8.64%|9.24%|
+|0.25% |6.03%|6.26%|6.64%|7.05%|7.52%|7.97%|8.46%|8.98%|
+|0.50% |6.03%|6.20%|6.57%|6.98%|7.44%|7.92%|8.44%|8.96%|
+|0.75% |6.03%|6.14%|6.50%|6.91%|7.37%|7.84%|8.36%|8.93%|
+|1.00% |5.96%|6.08%|6.43%|6.85%|7.30%|7.77%|8.26%|8.87%|
+|1.50% |(2.91)%|6.03%|6.29%|6.70%|7.16%|7.63%|8.14%|8.68%|
+|2.00% |(9.78)%|(1.45)%|6.15%|6.56%|7.01%|7.49%|8.01%|8.55%|
+|3.00% |(25.07)%|(16.52)%|(5.10)%|6.23%|6.70%|7.19%|7.71%|8.27%|
 
 #### **Class 2E-F3 Pre-Tax Yield to Maturity (Assumed Price = 97.33800%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.26%|6.46%|6.74%|7.04%|7.37%|7.73%|8.11%|8.54%|
-|0.25%.................|6.25%|6.41%|6.68%|6.98%|7.31%|7.64%|7.98%|8.35%|
-|0.50%.................|6.25%|6.37%|6.63%|6.93%|7.25%|7.60%|7.97%|8.34%|
-|0.75%.................|6.25%|6.33%|6.59%|6.88%|7.20%|7.54%|7.91%|8.32%|
-|1.00%.................|6.18%|6.29%|6.54%|6.83%|7.16%|7.49%|7.84%|8.27%|
-|1.50%.................|(2.36)%|6.25%|6.44%|6.73%|7.05%|7.39%|7.76%|8.14%|
-|2.00%.................|(9.11)%|(0.95)%|6.33%|6.63%|6.95%|7.29%|7.66%|8.05%|
-|3.00%.................|(24.20)%|(15.75)%|(4.53)%|6.40%|6.73%|7.08%|7.45%|7.85%|
+|0.00% |6.26%|6.46%|6.74%|7.04%|7.37%|7.73%|8.11%|8.54%|
+|0.25% |6.25%|6.41%|6.68%|6.98%|7.31%|7.64%|7.98%|8.35%|
+|0.50% |6.25%|6.37%|6.63%|6.93%|7.25%|7.60%|7.97%|8.34%|
+|0.75% |6.25%|6.33%|6.59%|6.88%|7.20%|7.54%|7.91%|8.32%|
+|1.00% |6.18%|6.29%|6.54%|6.83%|7.16%|7.49%|7.84%|8.27%|
+|1.50% |(2.36)%|6.25%|6.44%|6.73%|7.05%|7.39%|7.76%|8.14%|
+|2.00% |(9.11)%|(0.95)%|6.33%|6.63%|6.95%|7.29%|7.66%|8.05%|
+|3.00% |(24.20)%|(15.75)%|(4.53)%|6.40%|6.73%|7.08%|7.45%|7.85%|
 
 <!-- page 225 -->
 
@@ -6151,40 +6151,40 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.47%|6.59%|6.76%|6.95%|7.15%|7.36%|7.59%|7.85%|
-|0.25%.................|6.47%|6.57%|6.73%|6.91%|7.11%|7.30%|7.51%|7.74%|
-|0.50%.................|6.47%|6.54%|6.70%|6.88%|7.07%|7.28%|7.50%|7.73%|
-|0.75%.................|6.47%|6.51%|6.67%|6.85%|7.04%|7.25%|7.47%|7.72%|
-|1.00%.................|6.40%|6.49%|6.64%|6.82%|7.01%|7.22%|7.43%|7.69%|
-|1.50%.................|(1.84)%|6.47%|6.58%|6.76%|6.95%|7.16%|7.38%|7.61%|
-|2.00%.................|(8.47)%|(0.46)%|6.52%|6.70%|6.89%|7.10%|7.32%|7.55%|
-|3.00%.................|(23.37)%|(15.02)%|(3.98)%|6.56%|6.76%|6.97%|7.19%|7.43%|
+|0.00% |6.47%|6.59%|6.76%|6.95%|7.15%|7.36%|7.59%|7.85%|
+|0.25% |6.47%|6.57%|6.73%|6.91%|7.11%|7.30%|7.51%|7.74%|
+|0.50% |6.47%|6.54%|6.70%|6.88%|7.07%|7.28%|7.50%|7.73%|
+|0.75% |6.47%|6.51%|6.67%|6.85%|7.04%|7.25%|7.47%|7.72%|
+|1.00% |6.40%|6.49%|6.64%|6.82%|7.01%|7.22%|7.43%|7.69%|
+|1.50% |(1.84)%|6.47%|6.58%|6.76%|6.95%|7.16%|7.38%|7.61%|
+|2.00% |(8.47)%|(0.46)%|6.52%|6.70%|6.89%|7.10%|7.32%|7.55%|
+|3.00% |(23.37)%|(15.02)%|(3.98)%|6.56%|6.76%|6.97%|7.19%|7.43%|
 
 #### **Class 2E-F5 Pre-Tax Yield to Maturity (Assumed Price = 99.60000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.72%|6.75%|6.79%|6.83%|6.88%|6.94%|6.99%|7.06%|
-|0.25%.................|6.72%|6.74%|6.78%|6.83%|6.87%|6.92%|6.97%|7.03%|
-|0.50%.................|6.72%|6.74%|6.77%|6.82%|6.87%|6.92%|6.97%|7.03%|
-|0.75%.................|6.72%|6.73%|6.77%|6.81%|6.86%|6.91%|6.96%|7.02%|
-|1.00%.................|6.65%|6.72%|6.76%|6.80%|6.85%|6.90%|6.95%|7.02%|
-|1.50%.................|(1.27)%|6.72%|6.75%|6.79%|6.84%|6.89%|6.94%|7.00%|
-|2.00%.................|(7.76)%|0.08%|6.73%|6.77%|6.82%|6.87%|6.93%|6.98%|
-|3.00%.................|(22.44)%|(14.21)%|(3.38)%|6.74%|6.79%|6.84%|6.90%|6.95%|
+|0.00% |6.72%|6.75%|6.79%|6.83%|6.88%|6.94%|6.99%|7.06%|
+|0.25% |6.72%|6.74%|6.78%|6.83%|6.87%|6.92%|6.97%|7.03%|
+|0.50% |6.72%|6.74%|6.77%|6.82%|6.87%|6.92%|6.97%|7.03%|
+|0.75% |6.72%|6.73%|6.77%|6.81%|6.86%|6.91%|6.96%|7.02%|
+|1.00% |6.65%|6.72%|6.76%|6.80%|6.85%|6.90%|6.95%|7.02%|
+|1.50% |(1.27)%|6.72%|6.75%|6.79%|6.84%|6.89%|6.94%|7.00%|
+|2.00% |(7.76)%|0.08%|6.73%|6.77%|6.82%|6.87%|6.93%|6.98%|
+|3.00% |(22.44)%|(14.21)%|(3.38)%|6.74%|6.79%|6.84%|6.90%|6.95%|
 
 **Class 2-X1 Pre-Tax Yield to Maturity (Assumed Price = 3.57500%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
-|0.25%.................|37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
-|0.50%.................|37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
-|0.75%.................|37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
-|1.00%.................|37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
-|1.50%.................|37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
-|2.00%.................|36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
-|3.00%.................|33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
+|0.00% |37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
+|0.25% |37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
+|0.50% |37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
+|0.75% |37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
+|1.00% |37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
+|1.50% |37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
+|2.00% |36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
+|3.00% |33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6192,14 +6192,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
-|0.25%.................|37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
-|0.50%.................|37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
-|0.75%.................|37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
-|1.00%.................|37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
-|1.50%.................|37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
-|2.00%.................|36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
-|3.00%.................|33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
+|0.00% |37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
+|0.25% |37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
+|0.50% |37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
+|0.75% |37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
+|1.00% |37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
+|1.50% |37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
+|2.00% |36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
+|3.00% |33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6209,14 +6209,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
-|0.25%.................|37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
-|0.50%.................|37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
-|0.75%.................|37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
-|1.00%.................|37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
-|1.50%.................|37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
-|2.00%.................|36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
-|3.00%.................|33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
+|0.00% |37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
+|0.25% |37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
+|0.50% |37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
+|0.75% |37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
+|1.00% |37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
+|1.50% |37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
+|2.00% |36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
+|3.00% |33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6224,14 +6224,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
-|0.25%.................|37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
-|0.50%.................|37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
-|0.75%.................|37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
-|1.00%.................|37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
-|1.50%.................|37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
-|2.00%.................|36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
-|3.00%.................|33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
+|0.00% |37.48%|31.09%|12.12%|(14.15)%|(43.38)%|(72.61)%|*|*|
+|0.25% |37.56%|33.18%|16.17%|(8.45)%|(37.36)%|(64.36)%|(90.11)%|*|
+|0.50% |37.57%|34.80%|19.53%|(4.78)%|(32.42)%|(63.44)%|(89.36)%|*|
+|0.75% |37.57%|36.04%|22.67%|(0.67)%|(29.05)%|(57.20)%|(88.45)%|*|
+|1.00% |37.57%|36.88%|25.62%|3.20%|(24.74)%|(54.49)%|(82.68)%|*|
+|1.50% |37.41%|37.54%|30.89%|10.72%|(16.57)%|(46.10)%|(76.25)%|*|
+|2.00% |36.65%|37.52%|34.82%|18.02%|(8.11)%|(38.33)%|(68.57)%|(97.68)%|
+|3.00% |33.07%|35.58%|37.38%|30.54%|8.43%|(21.31)%|(53.28)%|(83.74)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6239,14 +6239,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
-|0.25%.................|30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
-|0.50%.................|30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
-|0.75%.................|30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
-|1.00%.................|30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
-|1.50%.................|29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
-|2.00%.................|28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
-|3.00%.................|22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
+|0.00% |30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
+|0.25% |30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
+|0.50% |30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
+|0.75% |30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
+|1.00% |30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
+|1.50% |29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
+|2.00% |28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
+|3.00% |22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6254,14 +6254,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
-|0.25%.................|30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
-|0.50%.................|30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
-|0.75%.................|30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
-|1.00%.................|30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
-|1.50%.................|29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
-|2.00%.................|28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
-|3.00%.................|22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
+|0.00% |30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
+|0.25% |30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
+|0.50% |30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
+|0.75% |30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
+|1.00% |30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
+|1.50% |29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
+|2.00% |28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
+|3.00% |22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6271,14 +6271,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%....................|30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
-|0.25%....................|30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
-|0.50%....................|30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
-|0.75%....................|30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
-|1.00%....................|30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
-|1.50%....................|29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
-|2.00%....................|28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
-|3.00%....................|22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
+|0.00% |30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
+|0.25% |30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
+|0.50% |30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
+|0.75% |30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
+|1.00% |30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
+|1.50% |29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
+|2.00% |28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
+|3.00% |22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6286,14 +6286,14 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
-|0.25%.................|30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
-|0.50%.................|30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
-|0.75%.................|30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
-|1.00%.................|30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
-|1.50%.................|29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
-|2.00%.................|28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
-|3.00%.................|22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
+|0.00% |30.34%|25.49%|10.82%|(10.16)%|(34.38)%|(59.73)%|(84.54)%|*|
+|0.25% |30.40%|27.16%|14.11%|(5.49)%|(29.87)%|(53.40)%|(76.50)%|(98.54)%|
+|0.50% |30.40%|28.45%|16.90%|(2.23)%|(25.65)%|(50.18)%|(75.54)%|(97.60)%|
+|0.75% |30.40%|29.41%|19.56%|1.22%|(21.97)%|(46.57)%|(71.64)%|(96.69)%|
+|1.00% |30.40%|30.03%|22.00%|4.54%|(18.35)%|(42.79)%|(67.29)%|(93.34)%|
+|1.50% |29.77%|30.40%|26.20%|11.10%|(11.01)%|(35.90)%|(61.28)%|(86.15)%|
+|2.00% |28.07%|29.96%|29.13%|17.21%|(3.33)%|(28.29)%|(54.83)%|(80.11)%|
+|3.00% |22.02%|25.65%|29.08%|27.24%|11.09%|(12.72)%|(39.60)%|(67.47)%|
 
 * _Indicates a yield less than (99.99)%_ .
 
@@ -6301,27 +6301,27 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|8.45%|7.75%|7.11%|6.48%|5.81%|5.11%|4.35%|3.54%|
-|0.25%.................|8.59%|7.85%|7.22%|6.61%|5.95%|5.30%|4.62%|3.91%|
-|0.50%.................|8.61%|7.95%|7.31%|6.69%|6.06%|5.37%|4.65%|3.94%|
-|0.75%.................|8.61%|8.05%|7.40%|6.79%|6.14%|5.48%|4.75%|3.97%|
-|1.00%.................|8.51%|8.16%|7.49%|6.88%|6.24%|5.58%|4.85%|4.06%|
-|1.50%.................|2.36%|8.55%|7.67%|7.06%|6.43%|5.76%|5.05%|4.28%|
-|2.00%.................|(3.38)%|3.29%|7.82%|7.24%|6.62%|5.95%|5.24%|4.50%|
-|3.00%.................|(16.80)%|(9.20)%|0.28%|7.52%|6.99%|6.33%|5.63%|4.85%|
+|0.00% |8.45%|7.75%|7.11%|6.48%|5.81%|5.11%|4.35%|3.54%|
+|0.25% |8.59%|7.85%|7.22%|6.61%|5.95%|5.30%|4.62%|3.91%|
+|0.50% |8.61%|7.95%|7.31%|6.69%|6.06%|5.37%|4.65%|3.94%|
+|0.75% |8.61%|8.05%|7.40%|6.79%|6.14%|5.48%|4.75%|3.97%|
+|1.00% |8.51%|8.16%|7.49%|6.88%|6.24%|5.58%|4.85%|4.06%|
+|1.50% |2.36%|8.55%|7.67%|7.06%|6.43%|5.76%|5.05%|4.28%|
+|2.00% |(3.38)%|3.29%|7.82%|7.24%|6.62%|5.95%|5.24%|4.50%|
+|3.00% |(16.80)%|(9.20)%|0.28%|7.52%|6.99%|6.33%|5.63%|4.85%|
 
 **Class 2-J2 Pre-Tax Yield to Maturity (Assumed Price = 104.33400%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|8.06%|7.54%|7.08%|6.62%|6.14%|5.62%|5.08%|4.49%|
-|0.25%.................|8.17%|7.61%|7.15%|6.71%|6.23%|5.77%|5.27%|4.75%|
-|0.50%.................|8.19%|7.68%|7.22%|6.77%|6.31%|5.81%|5.29%|4.78%|
-|0.75%.................|8.19%|7.76%|7.28%|6.84%|6.37%|5.89%|5.36%|4.80%|
-|1.00%.................|8.08%|7.84%|7.35%|6.91%|6.44%|5.96%|5.44%|4.87%|
-|1.50%.................|1.41%|8.14%|7.47%|7.03%|6.58%|6.10%|5.58%|5.02%|
-|2.00%.................|(4.57)%|2.33%|7.58%|7.16%|6.71%|6.23%|5.72%|5.18%|
-|3.00%.................|(18.45)%|(10.71)%|(0.97)%|7.36%|6.98%|6.51%|6.00%|5.44%|
+|0.00% |8.06%|7.54%|7.08%|6.62%|6.14%|5.62%|5.08%|4.49%|
+|0.25% |8.17%|7.61%|7.15%|6.71%|6.23%|5.77%|5.27%|4.75%|
+|0.50% |8.19%|7.68%|7.22%|6.77%|6.31%|5.81%|5.29%|4.78%|
+|0.75% |8.19%|7.76%|7.28%|6.84%|6.37%|5.89%|5.36%|4.80%|
+|1.00% |8.08%|7.84%|7.35%|6.91%|6.44%|5.96%|5.44%|4.87%|
+|1.50% |1.41%|8.14%|7.47%|7.03%|6.58%|6.10%|5.58%|5.02%|
+|2.00% |(4.57)%|2.33%|7.58%|7.16%|6.71%|6.23%|5.72%|5.18%|
+|3.00% |(18.45)%|(10.71)%|(0.97)%|7.36%|6.98%|6.51%|6.00%|5.44%|
 
 <!-- page 228 -->
 
@@ -6329,53 +6329,53 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|7.67%|7.32%|7.04%|6.76%|6.46%|6.15%|5.82%|5.45%|
-|0.25%.................|7.74%|7.37%|7.09%|6.82%|6.52%|6.24%|5.94%|5.62%|
-|0.50%.................|7.76%|7.41%|7.13%|6.85%|6.57%|6.26%|5.95%|5.63%|
-|0.75%.................|7.76%|7.46%|7.16%|6.89%|6.61%|6.32%|5.99%|5.65%|
-|1.00%.................|7.64%|7.51%|7.20%|6.93%|6.65%|6.35%|6.04%|5.68%|
-|1.50%.................|0.38%|7.72%|7.28%|7.01%|6.73%|6.44%|6.12%|5.78%|
-|2.00%.................|(5.90)%|1.26%|7.33%|7.08%|6.81%|6.52%|6.21%|5.88%|
-|3.00%.................|(20.29)%|(12.40)%|(2.41)%|7.19%|6.97%|6.68%|6.37%|6.03%|
+|0.00% |7.67%|7.32%|7.04%|6.76%|6.46%|6.15%|5.82%|5.45%|
+|0.25% |7.74%|7.37%|7.09%|6.82%|6.52%|6.24%|5.94%|5.62%|
+|0.50% |7.76%|7.41%|7.13%|6.85%|6.57%|6.26%|5.95%|5.63%|
+|0.75% |7.76%|7.46%|7.16%|6.89%|6.61%|6.32%|5.99%|5.65%|
+|1.00% |7.64%|7.51%|7.20%|6.93%|6.65%|6.35%|6.04%|5.68%|
+|1.50% |0.38%|7.72%|7.28%|7.01%|6.73%|6.44%|6.12%|5.78%|
+|2.00% |(5.90)%|1.26%|7.33%|7.08%|6.81%|6.52%|6.21%|5.88%|
+|3.00% |(20.29)%|(12.40)%|(2.41)%|7.19%|6.97%|6.68%|6.37%|6.03%|
 
 **Class 2-J4 Pre-Tax Yield to Maturity (Assumed Price = 100.90200%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|7.26%|7.11%|7.00%|6.90%|6.80%|6.69%|6.57%|6.44%|
-|0.25%.................|7.31%|7.13%|7.02%|6.92%|6.82%|6.72%|6.61%|6.50%|
-|0.50%.................|7.31%|7.14%|7.03%|6.93%|6.84%|6.72%|6.62%|6.51%|
-|0.75%.................|7.31%|7.16%|7.04%|6.95%|6.85%|6.75%|6.62%|6.51%|
-|1.00%.................|7.19%|7.18%|7.05%|6.96%|6.86%|6.75%|6.64%|6.52%|
-|1.50%.................|(0.78)%|7.29%|7.08%|6.98%|6.89%|6.78%|6.67%|6.56%|
-|2.00%.................|(7.38)%|0.04%|7.09%|7.00%|6.91%|6.81%|6.70%|6.58%|
-|3.00%.................|(22.38)%|(14.36)%|(4.16)%|7.02%|6.96%|6.86%|6.76%|6.64%|
+|0.00% |7.26%|7.11%|7.00%|6.90%|6.80%|6.69%|6.57%|6.44%|
+|0.25% |7.31%|7.13%|7.02%|6.92%|6.82%|6.72%|6.61%|6.50%|
+|0.50% |7.31%|7.14%|7.03%|6.93%|6.84%|6.72%|6.62%|6.51%|
+|0.75% |7.31%|7.16%|7.04%|6.95%|6.85%|6.75%|6.62%|6.51%|
+|1.00% |7.19%|7.18%|7.05%|6.96%|6.86%|6.75%|6.64%|6.52%|
+|1.50% |(0.78)%|7.29%|7.08%|6.98%|6.89%|6.78%|6.67%|6.56%|
+|2.00% |(7.38)%|0.04%|7.09%|7.00%|6.91%|6.81%|6.70%|6.58%|
+|3.00% |(22.38)%|(14.36)%|(4.16)%|7.02%|6.96%|6.86%|6.76%|6.64%|
 
 **Class 2-K1 Pre-Tax Yield to Maturity (Assumed Price = 101.20000%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|7.15%|6.97%|6.83%|6.69%|6.54%|6.38%|6.21%|6.02%|
-|0.25%.................|7.19%|7.00%|6.86%|6.71%|6.57%|6.43%|6.27%|6.11%|
-|0.50%.................|7.21%|7.02%|6.87%|6.74%|6.59%|6.44%|6.28%|6.12%|
-|0.75%.................|7.21%|7.04%|6.89%|6.76%|6.61%|6.46%|6.29%|6.12%|
-|1.00%.................|7.15%|7.07%|6.91%|6.78%|6.63%|6.48%|6.31%|6.14%|
-|1.50%.................|0.06%|7.17%|6.95%|6.81%|6.67%|6.52%|6.36%|6.18%|
-|2.00%.................|(6.06)%|1.38%|6.98%|6.85%|6.71%|6.56%|6.40%|6.24%|
-|3.00%.................|(20.04)%|(11.97)%|(1.51)%|6.90%|6.79%|6.64%|6.49%|6.31%|
+|0.00% |7.15%|6.97%|6.83%|6.69%|6.54%|6.38%|6.21%|6.02%|
+|0.25% |7.19%|7.00%|6.86%|6.71%|6.57%|6.43%|6.27%|6.11%|
+|0.50% |7.21%|7.02%|6.87%|6.74%|6.59%|6.44%|6.28%|6.12%|
+|0.75% |7.21%|7.04%|6.89%|6.76%|6.61%|6.46%|6.29%|6.12%|
+|1.00% |7.15%|7.07%|6.91%|6.78%|6.63%|6.48%|6.31%|6.14%|
+|1.50% |0.06%|7.17%|6.95%|6.81%|6.67%|6.52%|6.36%|6.18%|
+|2.00% |(6.06)%|1.38%|6.98%|6.85%|6.71%|6.56%|6.40%|6.24%|
+|3.00% |(20.04)%|(11.97)%|(1.51)%|6.90%|6.79%|6.64%|6.49%|6.31%|
 
 **Class 2-K2 Pre-Tax Yield to Maturity (Assumed Price = 100.81600%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|7.05%|6.92%|6.82%|6.72%|6.62%|6.51%|6.39%|6.27%|
-|0.25%.................|7.08%|6.94%|6.84%|6.74%|6.64%|6.54%|6.44%|6.33%|
-|0.50%.................|7.09%|6.95%|6.85%|6.76%|6.66%|6.55%|6.44%|6.33%|
-|0.75%.................|7.09%|6.97%|6.86%|6.77%|6.67%|6.57%|6.45%|6.34%|
-|1.00%.................|7.03%|6.98%|6.87%|6.78%|6.69%|6.58%|6.46%|6.35%|
-|1.50%.................|(0.25)%|7.06%|6.90%|6.81%|6.71%|6.61%|6.50%|6.38%|
-|2.00%.................|(6.44)%|1.08%|6.92%|6.83%|6.74%|6.63%|6.53%|6.41%|
-|3.00%.................|(20.58)%|(12.47)%|(1.92)%|6.86%|6.79%|6.69%|6.58%|6.46%|
+|0.00% |7.05%|6.92%|6.82%|6.72%|6.62%|6.51%|6.39%|6.27%|
+|0.25% |7.08%|6.94%|6.84%|6.74%|6.64%|6.54%|6.44%|6.33%|
+|0.50% |7.09%|6.95%|6.85%|6.76%|6.66%|6.55%|6.44%|6.33%|
+|0.75% |7.09%|6.97%|6.86%|6.77%|6.67%|6.57%|6.45%|6.34%|
+|1.00% |7.03%|6.98%|6.87%|6.78%|6.69%|6.58%|6.46%|6.35%|
+|1.50% |(0.25)%|7.06%|6.90%|6.81%|6.71%|6.61%|6.50%|6.38%|
+|2.00% |(6.44)%|1.08%|6.92%|6.83%|6.74%|6.63%|6.53%|6.41%|
+|3.00% |(20.58)%|(12.47)%|(1.92)%|6.86%|6.79%|6.69%|6.58%|6.46%|
 
 <!-- page 229 -->
 
@@ -6383,27 +6383,27 @@ _* Indicates a yield less than (99.99)%._
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.95%|6.87%|6.81%|6.76%|6.70%|6.64%|6.58%|6.51%|
-|0.25%.................|6.97%|6.88%|6.82%|6.77%|6.72%|6.66%|6.61%|6.55%|
-|0.50%.................|6.97%|6.88%|6.83%|6.78%|6.72%|6.67%|6.61%|6.55%|
-|0.75%.................|6.97%|6.89%|6.83%|6.78%|6.73%|6.67%|6.61%|6.55%|
-|1.00%.................|6.91%|6.90%|6.84%|6.79%|6.74%|6.68%|6.62%|6.56%|
-|1.50%.................|(0.56)%|6.95%|6.85%|6.80%|6.75%|6.70%|6.64%|6.57%|
-|2.00%.................|(6.84)%|0.78%|6.86%|6.81%|6.76%|6.71%|6.65%|6.59%|
-|3.00%.................|(21.15)%|(13.00)%|(2.35)%|6.82%|6.79%|6.74%|6.68%|6.62%|
+|0.00% |6.95%|6.87%|6.81%|6.76%|6.70%|6.64%|6.58%|6.51%|
+|0.25% |6.97%|6.88%|6.82%|6.77%|6.72%|6.66%|6.61%|6.55%|
+|0.50% |6.97%|6.88%|6.83%|6.78%|6.72%|6.67%|6.61%|6.55%|
+|0.75% |6.97%|6.89%|6.83%|6.78%|6.73%|6.67%|6.61%|6.55%|
+|1.00% |6.91%|6.90%|6.84%|6.79%|6.74%|6.68%|6.62%|6.56%|
+|1.50% |(0.56)%|6.95%|6.85%|6.80%|6.75%|6.70%|6.64%|6.57%|
+|2.00% |(6.84)%|0.78%|6.86%|6.81%|6.76%|6.71%|6.65%|6.59%|
+|3.00% |(21.15)%|(13.00)%|(2.35)%|6.82%|6.79%|6.74%|6.68%|6.62%|
 
 **Class 2-K4 Pre-Tax Yield to Maturity (Assumed Price = 100.04800%)**
 
 |**CDR**|**0%** **CPR**|**5%** **CPR**|**10%** **CPR**|**15%** **CPR**|**20%** **CPR**|**25%** **CPR**|**30%** **CPR**|**35%** **CPR**|
 |---|---|---|---|---|---|---|---|---|
-|0.00%.................|6.84%|6.81%|6.80%|6.79%|6.79%|6.78%|6.77%|6.76%|
-|0.25%.................|6.85%|6.81%|6.80%|6.79%|6.79%|6.78%|6.78%|6.77%|
-|0.50%.................|6.86%|6.81%|6.80%|6.80%|6.79%|6.78%|6.78%|6.77%|
-|0.75%.................|6.86%|6.82%|6.80%|6.80%|6.79%|6.78%|6.77%|6.77%|
-|1.00%.................|6.79%|6.82%|6.80%|6.80%|6.79%|6.78%|6.77%|6.77%|
-|1.50%.................|(0.88)%|6.84%|6.80%|6.80%|6.79%|6.78%|6.78%|6.77%|
-|2.00%.................|(7.26)%|0.46%|6.80%|6.79%|6.79%|6.78%|6.78%|6.77%|
-|3.00%.................|(21.73)%|(13.54)%|(2.81)%|6.78%|6.79%|6.79%|6.78%|6.77%|
+|0.00% |6.84%|6.81%|6.80%|6.79%|6.79%|6.78%|6.77%|6.76%|
+|0.25% |6.85%|6.81%|6.80%|6.79%|6.79%|6.78%|6.78%|6.77%|
+|0.50% |6.86%|6.81%|6.80%|6.80%|6.79%|6.78%|6.78%|6.77%|
+|0.75% |6.86%|6.82%|6.80%|6.80%|6.79%|6.78%|6.77%|6.77%|
+|1.00% |6.79%|6.82%|6.80%|6.80%|6.79%|6.78%|6.77%|6.77%|
+|1.50% |(0.88)%|6.84%|6.80%|6.80%|6.79%|6.78%|6.78%|6.77%|
+|2.00% |(7.26)%|0.46%|6.80%|6.79%|6.79%|6.78%|6.78%|6.77%|
+|3.00% |(21.73)%|(13.54)%|(2.81)%|6.78%|6.79%|6.79%|6.78%|6.77%|
 
 Prospective investors should make investment decisions based on determinations of anticipated rates of prepayments and Credit Events and Modification Events under a variety of scenarios. Prospective investors should fully consider the risk that the occurrence of Credit Events and Modification Events on the Reference Obligations could result in the failure to fully recover investments.
 
@@ -6871,7 +6871,7 @@ Tranches (in the aggregate), (v) the Class 2M-2B and Class 2M-BH Reference Tranc
 
 The definition of an "originator" for the purposes of both the EU Securitization Rules and the UK Securitization Rules includes "an entity which: ... purchases a third party's exposures on its own account and then securitises them." In connection therewith, EU Institutional Investors and UK Institutional Investors may wish to review the information set forth above under " _Loan Acquisition Practices and Servicing Standards"_ in this Offering Memorandum.
 
-Each of the EU Securitization Rules and the UK Securitization Rules provide that an entity will not be considered an "originator" within the meaning thereof if it has been established or operates for the sole purpose of securitising exposures. Commission Delegated Regulation (EU) 2023/2175 provides further that "[a]n entity shall not be considered to have been established or to operate for the sole purpose of securitising exposures... where all of the following applies: (a) the entity has a strategy and the capacity to meet payment obligations consistent with a broader business model that involves material support from capital, assets, fees or other sources of income, by virtue of which the entity does not rely on the exposures to be securitised, on any interests retained or proposed to be retained in accordance with Article 6 of the [EU Securitization Regulation], or on any corresponding income from such exposures and interests, as its sole or predominant source of revenue...." The UK Securitization Rules include similar (but not identical) wording. In particular, the corresponding passages in the UK Securitization Framework do not refer to the relevant entity's "sole or predominant source of revenue". On March 31, 2025, the Joint Committee of the European Supervisory Authorities published a report on "the implementation and functioning of the Securitisation Regulation (Article 44)" (the " **JC Report** "). The JC Report includes, among other things, certain statements with respect to interpretation of the term "predominant source of revenue" in the context of the aforementioned requirements, including that the term "predominant" used in Commission Delegated Regulation (EU) 2023/2175 "should be understood as corresponding to a threshold of more than 50%". The JC Report goes on to state that "...this means that the entity's revenues should correspond to no more than 50% on the exposures to be securitised, risk retained assets or proposed to be retained in accordance with Article 6 of the [EU Securitization Regulation], or any corresponding income from such exposures and risk retained assets" and that "going forward,
+Each of the EU Securitization Rules and the UK Securitization Rules provide that an entity will not be considered an "originator" within the meaning thereof if it has been established or operates for the sole purpose of securitising exposures. Commission Delegated Regulation (EU) 2023/2175 provides further that "[a]n entity shall not be considered to have been established or to operate for the sole purpose of securitising exposures... where all of the following applies: (a) the entity has a strategy and the capacity to meet payment obligations consistent with a broader business model that involves material support from capital, assets, fees or other sources of income, by virtue of which the entity does not rely on the exposures to be securitised, on any interests retained or proposed to be retained in accordance with Article 6 of the [EU Securitization Regulation], or on any corresponding income from such exposures and interests, as its sole or predominant source of revenue " The UK Securitization Rules include similar (but not identical) wording. In particular, the corresponding passages in the UK Securitization Framework do not refer to the relevant entity's "sole or predominant source of revenue". On March 31, 2025, the Joint Committee of the European Supervisory Authorities published a report on "the implementation and functioning of the Securitisation Regulation (Article 44)" (the " **JC Report** "). The JC Report includes, among other things, certain statements with respect to interpretation of the term "predominant source of revenue" in the context of the aforementioned requirements, including that the term "predominant" used in Commission Delegated Regulation (EU) 2023/2175 "should be understood as corresponding to a threshold of more than 50%". The JC Report goes on to state that "...this means that the entity's revenues should correspond to no more than 50% on the exposures to be securitised, risk retained assets or proposed to be retained in accordance with Article 6 of the [EU Securitization Regulation], or any corresponding income from such exposures and risk retained assets" and that "going forward,
 
 <!-- page 253 -->
 
@@ -6963,33 +6963,33 @@ Under the terms and subject to the conditions set forth in the Note Purchase Agr
 
 ||**Principal Balance of** **Class 2A-1 Notes**|**Amount of Initial** **Purchaser Fee for** **Class 2A-1 Notes**|
 |---|---|---|
-|Nomura Securities International, Inc....................................|$123,796,725.00|$309,491.84|
-|Cantor Fitzgerald & Co. .......................................................|$66,659,775.00|$166,649.44|
-|BMO Capital Markets Corp..................................................|$15,871,375.00|$39,678.43|
-|BofA Securities, Inc. ............................................................|$15,871,375.00|$39,678.43|
-|Morgan Stanley & Co. LLC ................................................|$15,871,375.00|$39,678.43|
-|Wells Fargo Securities, LLC ...............................................|$15,871,375.00|$39,678.43|
-|Total....................................................................................|$253,942,000.00|$634,855.00|
+|Nomura Securities International, Inc |$123,796,725.00|$309,491.84|
+|Cantor Fitzgerald & Co |$66,659,775.00|$166,649.44|
+|BMO Capital Markets Corp |$15,871,375.00|$39,678.43|
+|BofA Securities, Inc |$15,871,375.00|$39,678.43|
+|Morgan Stanley & Co. LLC |$15,871,375.00|$39,678.43|
+|Wells Fargo Securities, LLC |$15,871,375.00|$39,678.43|
+|Total |$253,942,000.00|$634,855.00|
 
 ||**Principal Balance of** **Class 2M-1 Notes**|**Amount of Initial** **Purchaser Fee for** **Class 2M-1 Notes**|
 |---|---|---|
-|Nomura Securities International, Inc....................................|$123,796,725.00|$309,491.81|
-|Cantor Fitzgerald & Co. .......................................................|$66,659,775.00|$166,649.43|
-|BMO Capital Markets Corp..................................................|$15,871,375.00|$39,678.44|
-|BofA Securities, Inc. ............................................................|$15,871,375.00|$39,678.44|
-|Morgan Stanley & Co. LLC ................................................|$15,871,375.00|$39,678.44|
-|Wells Fargo Securities, LLC ...............................................|$15,871,375.00|$39,678.44|
-|Total....................................................................................|$253,942,000.00|$634,855.00|
+|Nomura Securities International, Inc |$123,796,725.00|$309,491.81|
+|Cantor Fitzgerald & Co |$66,659,775.00|$166,649.43|
+|BMO Capital Markets Corp |$15,871,375.00|$39,678.44|
+|BofA Securities, Inc |$15,871,375.00|$39,678.44|
+|Morgan Stanley & Co. LLC |$15,871,375.00|$39,678.44|
+|Wells Fargo Securities, LLC |$15,871,375.00|$39,678.44|
+|Total |$253,942,000.00|$634,855.00|
 
 ||**Principal Balance of** **Class 2M-2 Notes**|**Amount of Initial** **Purchaser Fee for** **Class 2M-2 Notes**|
 |---|---|---|
-|Nomura Securities International, Inc....................................|$54,390,375.00|$135,975.94|
-|Cantor Fitzgerald & Co. .......................................................|$29,287,125.00|$73,217.82|
-|BMO Capital Markets Corp..................................................|$6,973,125.00|$17,432.81|
-|BofA Securities, Inc. ............................................................|$6,973,125.00|$17,432.81|
-|Morgan Stanley & Co. LLC ................................................|$6,973,125.00|$17,432.81|
-|Wells Fargo Securities, LLC ...............................................|$6,973,125.00|$17,432.81|
-|Total....................................................................................|$111,570,000.00|$278,925.00|
+|Nomura Securities International, Inc |$54,390,375.00|$135,975.94|
+|Cantor Fitzgerald & Co |$29,287,125.00|$73,217.82|
+|BMO Capital Markets Corp |$6,973,125.00|$17,432.81|
+|BofA Securities, Inc |$6,973,125.00|$17,432.81|
+|Morgan Stanley & Co. LLC |$6,973,125.00|$17,432.81|
+|Wells Fargo Securities, LLC |$6,973,125.00|$17,432.81|
+|Total |$111,570,000.00|$278,925.00|
 
 The Initial Purchasers will be acting as the Issuer's agents in the placing of the Notes and the Initial Purchasers' responsibility in this regard is limited to a "commercially reasonable best efforts" basis in placing the Notes with no understanding, express or implied, on the Initial Purchasers' part of a commitment to purchase or place the Notes. The Issuer will sell the Notes to each purchaser through the Initial Purchasers as agents and the Initial Purchasers will have no ownership interest in or title to the Notes prior to the purchase thereof by the purchasers and, in the event any such purchase is not consummated for any reason by a purchaser, will have no obligation to purchase any related Notes from the Issuer for their own accounts; _provided, however_ , _that_ the Initial Purchasers will have the right, but will not be obligated, to purchase Notes as principals for their own accounts or to facilitate the sale of any Notes to a purchaser by acting as initial purchaser. The Note Purchase Agreement entitles the Initial Purchasers or the Issuer to terminate such sale in certain circumstances before payment for the Notes is made to the Issuer. Except under certain circumstances, any Initial Purchaser may sell the Notes it has purchased as principal to other dealers at a concession, in the form of a discount that other Initial Purchasers receive. The concession may be all or a portion of the underwriting compensation. For a description of potential conflicts that exist among the parties involved in this transaction, see " _Risk Factors — The Interests of Fannie Mae, the Initial Purchasers and Others May Conflict With and Be Adverse to the Interests of the Noteholders_ ."
 
@@ -7107,309 +7107,309 @@ Fannie Mae's General Counsel or one of its Deputy General Counsels will render a
 
 #### **INDEX OF DEFINITIONS**
 
-|30-day Average SOFR.............................................|**Page** ..............97|**Page** Collateral............................................................................... 89|
+|30-day Average SOFR |**Page** 97|**Page** Collateral 89|
 |---|---|---|
-| Additional Supplements...........................................| ..............xv|Collateral Administration Agreement.................................... 11|
-|Administrator...........................................................|................8|Combination RCR Note ...................................................... 221|
-|Adverse REMIC Event ............................................ |..............88 |Combinations .................................................................... 7, 14 |
-|Affected Investor......................................................|............229|Common Depositary.............................................................. 92|
-|AIFM Regulations....................................................|............228| Conservator ............................................................................iii|
+| Additional Supplements | xv|Collateral Administration Agreement 11|
+|Administrator | 8|Combination RCR Note 221|
+|Adverse REMIC Event | 88 |Combinations 7, 14 |
+|Affected Investor | 229|Common Depositary 92|
+|AIFM Regulations | 228| Conservator iii|
 |Annual Interest Amount|S-4|CPR 176|
-|........................................... Appraisal Sample.....................................................|............ ............166|..................................................................................... Credit Event......................................................................... 105|
-|Article 9 ................................................................... Automatic Termination............................................|............210 ...............iv|Credit Event Amount........................................................... 105 Credit Event Net Gain ......................................................... 105|
-|Available Loans .......................................................|............155|Credit Event Net Loss ......................................................... 106|
-|Benchmark...............................................................|............E-1|Credit Event Reference Obligation...................................... 106|
-|Benchmark Replacement..........................................|............E-1|Credit Event UPB................................................................ 106|
-|Benchmark Replacement Adjustment ...................... |............E-1 |Credit Scores ......................................................................... 48 |
-|Benchmark Replacement Conforming Changes.......|............E-2|CTA....................................................................................... 66|
-|Benchmark Replacement Date.................................|............E-2|Cumulative Net Loss Test ................................................... 104|
-| Benchmark Replacement Terms ..............................| ........73, 97|Current Accrual Rate........................................................... 106|
-|Benchmark Transition Event....................................|............E-2|Custodian........................................................................... 8, 90|
-|Benefit Plan..............................................................|............235|Cut-off Date....................................................................... 1, 32|
-|Benefit Plan Investor................................................|............234|Cut-off Date Balance............................................................... 1|
-|BMO Capital Markets..............................................|............235|Definitive Notes .............................................................. 18, 91|
-| BofA Securities........................................................| ............235| Delaware Trustee............................................................... 8, 90|
-|Book-Entry Notes .................................................... |........18, 82 |Delinquency Test................................................................. 104 |
-|borrower...................................................................|................1|Designated Q-REMIC Interests....................................... 9, 115|
-|BPMI........................................................................|............135| Designated Q-REMIC Interests Account......................... 9, 115|
-|Business Day............................................................ |..............95 | Diligence Provider............................................................... 162 |
-|CAA Early Termination Date...................................|............114|Diligence Sample ................................................................ 162|
-|CAA Early Termination Event................................. |............114 |Distressed Principal Balance ............................................... 104 |
-|CAA Termination Date............................................|............113|Dodd-Frank Act..................................................................... 64|
-|CAA Trigger Event..................................................|............113|DOL .................................................................................... 233|
-|Canadian Purchaser..................................................|............D-1|DTC................................................................................... 2, 92|
-|Cantor Fitzgerald......................................................|............235| DTI...................................................................................... 128|
-|Capital Contribution Agreement ..............................|..............13|DU....................................................................................... 130|
-| Capital Contribution Amount...................................| ..............99|Early Redemption Date ................................................... 17, 97|
+| Appraisal Sample | 166| Credit Event 105|
+|Article 9 Automatic Termination | 210 iv|Credit Event Amount 105 Credit Event Net Gain 105|
+|Available Loans | 155|Credit Event Net Loss 106|
+|Benchmark | E-1|Credit Event Reference Obligation 106|
+|Benchmark Replacement | E-1|Credit Event UPB 106|
+|Benchmark Replacement Adjustment | E-1 |Credit Scores 48 |
+|Benchmark Replacement Conforming Changes | E-2|CTA 66|
+|Benchmark Replacement Date | E-2|Cumulative Net Loss Test 104|
+| Benchmark Replacement Terms | 73, 97|Current Accrual Rate 106|
+|Benchmark Transition Event | E-2|Custodian 8, 90|
+|Benefit Plan | 235|Cut-off Date 1, 32|
+|Benefit Plan Investor | 234|Cut-off Date Balance 1|
+|BMO Capital Markets | 235|Definitive Notes 18, 91|
+| BofA Securities | 235| Delaware Trustee 8, 90|
+|Book-Entry Notes | 18, 82 |Delinquency Test 104 |
+|borrower | 1|Designated Q-REMIC Interests 9, 115|
+|BPMI | 135| Designated Q-REMIC Interests Account 9, 115|
+|Business Day | 95 | Diligence Provider 162 |
+|CAA Early Termination Date | 114|Diligence Sample 162|
+|CAA Early Termination Event | 114 |Distressed Principal Balance 104 |
+|CAA Termination Date | 113|Dodd-Frank Act 64|
+|CAA Trigger Event | 113|DOL 233|
+|Canadian Purchaser | D-1|DTC 2, 92|
+|Cantor Fitzgerald | 235| DTI 128|
+|Capital Contribution Agreement | 13|DU 130|
+| Capital Contribution Amount | 99|Early Redemption Date 17, 97|
 |Caital Contribution Assinee|114|Earl Redemtion Otion 17 96|
-|p g ................................. Capital Contribution Provider ..................................|............ ........1, 114|y p p................................................ , EEA................................................................................ xi, 227|
-| CARES Act..............................................................| ..............40|Eligibility Criteria.................................................................. 31|
-|Cash Collateral Account...........................................|....2, 9, 116|Eligibility Defect................................................................. 142|
-|CBRS .......................................................................|..............55| Eligibility Defect Rate......................................................... 142|
-|CDR.........................................................................|............176|Eligible Investments...................................................... 10, 117|
-|CEA .........................................................................|..............75| Eligible Review Population................................................. 162|
-|Certificate Paying Agent.......................................... |..............88 |Employee Benefit Plan........................................................ 235 |
-|Certificate Registrar .................................................|..............88|ERISA ................................................................................... 37|
-|Certificateholders..................................................... |..............88 |EU ....................................................................................... 227 |
-|Certificates...............................................................|..............88|EU CRR .............................................................................. 227|
-|CFPB........................................................................|..............50|EU Due Diligence Requirements................................... 77, 227|
-|CFTC ....................................................................... |..............75 |EU Institutional Investors.............................................. 77, 227 |
-|Charter Act...............................................................|............. vii|EU PRIIPs Regulation............................................................ xi|
-|Citibank....................................................................|..........8, 90|EU Prospectus Regulation...................................................... xi|
-| Class.........................................................................| ..............15| EU Securitization Regulation .................................. xii, 77, 226|
-|Class 2A-1 Additional Reduction Amount...............|............110| EU Securitization Rules ................................................ 77, 226|
-|Class 2A-1 Reduction Amount................................. |............102 |EU Supplemental Resources ............................................... 231 |
-|Class Coupon ........................................................... Class Notional Amount|..............22 27|EU/UK Risk Retention Letter.............................................. 229 Euroclear 93|
-|............................................ Class Principal Balance............................................|.............. ..............15|............................................................................... Euroclear Operator ................................................................ 94|
-|Classes ..................................................................... Clearstream ..............................................................|..............15 ..............93|Euroclear Participants............................................................ 93 EUWA.................................................................................... xi|
-|Clearstream International.........................................|..............93|Event of Default .................................................................. 121|
-|Clearstream Participants...........................................|..............93|Excess Credit Event Amount............................................... 104|
-|Closing Date............................................................. CLTV|..............16 133|Exchange Act ................................................................. xiv, 37 Exchange Administrator 8 90|
-|...................................................................... Code.........................................................................|............ ......37, 214|.................................................... , Exchangeable Notes .......................................................... 1, 14|
+|p g Capital Contribution Provider | 1, 114|y p p , EEA xi, 227|
+| CARES Act | 40|Eligibility Criteria 31|
+|Cash Collateral Account | 2, 9, 116|Eligibility Defect 142|
+|CBRS | 55| Eligibility Defect Rate 142|
+|CDR | 176|Eligible Investments 10, 117|
+|CEA | 75| Eligible Review Population 162|
+|Certificate Paying Agent | 88 |Employee Benefit Plan 235 |
+|Certificate Registrar | 88|ERISA 37|
+|Certificateholders | 88 |EU 227 |
+|Certificates | 88|EU CRR 227|
+|CFPB | 50|EU Due Diligence Requirements 77, 227|
+|CFTC | 75 |EU Institutional Investors 77, 227 |
+|Charter Act | vii|EU PRIIPs Regulation xi|
+|Citibank | 8, 90|EU Prospectus Regulation xi|
+| Class | 15| EU Securitization Regulation xii, 77, 226|
+|Class 2A-1 Additional Reduction Amount | 110| EU Securitization Rules 77, 226|
+|Class 2A-1 Reduction Amount | 102 |EU Supplemental Resources 231 |
+|Class Coupon Class Notional Amount| 22 27|EU/UK Risk Retention Letter 229 Euroclear 93|
+| Class Principal Balance | 15| Euroclear Operator 94|
+|Classes Clearstream | 15 93|Euroclear Participants 93 EUWA xi|
+|Clearstream International | 93|Event of Default 121|
+|Clearstream Participants | 93|Excess Credit Event Amount 104|
+|Closing Date CLTV| 16 133|Exchange Act xiv, 37 Exchange Administrator 8 90|
+| Code | 37, 214| , Exchangeable Notes 1, 14|
 
 <!-- page 265 -->
 
-|Fannie Mae QC Review.......................................................162 AA 4|
+|Fannie Mae QC Review 162 AA 4|
 |---|
-|FTC ..................................................................................8 FATCA withholding tax ......................................................225|
-| FCA Rules................................................................xii, 77, 227|
-|FDIC ......................................................................................64|
-|FHA .......................................................................................31 |
-|FHFA..................................................................................... iii FIEA ....................................................................................D-2|
-|FIEL..................................................................................... xiii |
-|Financial Intermediary ...........................................................92 |
-|FPO.........................................................................................xi FRBNY's Website................................................................E-3|
-|Freddie Mac .......................................................................... vii|
-| FSCMA................................................................................D-2|
-|FSMA .......................................................................xi, 77, 227|
-| Garn-St Germain Act ...........................................................212|
-|Guaranty Obligations ...........................................................228|
-|Hague Securities Convention...............................................124|
-|HARP.....................................................................................31|
-|HERA .................................................................................... iii|
-|HFA Preferred......................................................................137|
-|High LTV Refinance Hold Criteria........................................34|
-|High LTV Refinance Option................................................136|
-| High LTV Refinance Reference Obligation...........................32|
-|HOEPA ..................................................................................66 |
-|Holder ......................................................................................2 Holders2|
-|..................................................................................... HUD...................................................................................... vii|
-|Incorporated Documents .......................................................xiv Indenture..........................................................................8, 115|
-|Indenture Trustee ...............................................................8 90|
-|, Index Determination Date......................................................97|
-|Indirect Participants ...............................................................92|
-| Initial Cohort Pool................................................................156|
-|Initial Exchange Date...............................................................7|
-| Initial Purchaser .......................................................................1|
-|Initial Purchasers..................................................................235|
-| Interest Accrual Amount........................................................99|
-|Interest Only RCR Notes........................................................16 |
-|Interest Payment Amount.......................................................99|
+|FTC 8 FATCA withholding tax 225|
+| FCA Rules xii, 77, 227|
+|FDIC 64|
+|FHA 31 |
+|FHFA iii FIEA D-2|
+|FIEL xiii |
+|Financial Intermediary 92 |
+|FPO xi FRBNY's Website E-3|
+|Freddie Mac vii|
+| FSCMA D-2|
+|FSMA xi, 77, 227|
+| Garn-St Germain Act 212|
+|Guaranty Obligations 228|
+|Hague Securities Convention 124|
+|HARP 31|
+|HERA iii|
+|HFA Preferred 137|
+|High LTV Refinance Hold Criteria 34|
+|High LTV Refinance Option 136|
+| High LTV Refinance Reference Obligation 32|
+|HOEPA 66 |
+|Holder 2 Holders2|
+| HUD vii|
+|Incorporated Documents xiv Indenture 8, 115|
+|Indenture Trustee 8 90|
+|, Index Determination Date 97|
+|Indirect Participants 92|
+| Initial Cohort Pool 156|
+|Initial Exchange Date 7|
+| Initial Purchaser 1|
+|Initial Purchasers 235|
+| Interest Accrual Amount 99|
+|Interest Only RCR Notes 16 |
+|Interest Payment Amount 99|
 |Investment Accrual Period10|
-|..................................................... Investment Advisers Act......................................................239|
-|Investment Agency Agreement................................................8 |
-|Investment Agent...............................................................8, 90|
+| Investment Advisers Act 239|
+|Investment Agency Agreement 8 |
+|Investment Agent 8, 90|
 |Investment Company Act234|
-|..................................................... Investment Liquidation Contribution .....................................99|
-|Investment Liquidation Contribution .....................................14 |
-|IO Q-REMIC Interest.......................................................9, 115|
-|IRA ........................................................................................37 IRAs.....................................................................................233|
+| Investment Liquidation Contribution 99|
+|Investment Liquidation Contribution 14 |
+|IO Q-REMIC Interest 9, 115|
+|IRA 37 IRAs 233|
 |IRS83|
-|......................................................................................... ISDA Definitions .................................................................E-3|
-|ISDA Fallback Adjustment..................................................E-3 |
-|ISDA Fallback Rate .............................................................E-3|
-|Issuer........................................................................................8 |
-|January 2021 Letter Agreement ..............................................ix Januar 2025 Letter Areement ix|
-|y g .............................................. Japanese Retention Requirement.......................................... xiii|
-| JC Report .............................................................................230 |
-|JFSA .................................................................................... xiii|
+| ISDA Definitions E-3|
+|ISDA Fallback Adjustment E-3 |
+|ISDA Fallback Rate E-3|
+|Issuer 8 |
+|January 2021 Letter Agreement ix Januar 2025 Letter Areement ix|
+|y g Japanese Retention Requirement xiii|
+| JC Report 230 |
+|JFSA xiii|
 |JRR Rule xiii|
-|.............................................................................. Junior Reference Tranche.......................................................19|
-|Junior Reference Tranches.....................................................19 |
-|KBRA ....................................................................................37 Lender Contract125|
-|.................................................................... life of loan representations and warranties...........................141|
+| Junior Reference Tranche 19|
+|Junior Reference Tranches 19 |
+|KBRA 37 Lender Contract125|
+| life of loan representations and warranties 141|
 
-|Limited Compliance Reviews.............................................. 143 Liidi Pd 106|
+|Limited Compliance Reviews 143 Liidi Pd 106|
 |---|
-|quaton rocees........................................................... Loan File or Underwriting Errors........................................ 142|
-| LPMI ................................................................................... 135|
-|LTV..................................................................................... 128|
-|Majority Noteholders........................................................... 120 |
-|Master Servicer........................................................................ 8|
-|Material Finding.................................................................. 164|
-|Maturity Date .................................................................. 16, 96 |
-|MBS ........................................................................................ 1|
-|MERS.................................................................................. 209|
-|Mezzanine Reference Tranche .............................................. 19|
-|Mezzanine Reference Tranches............................................. 19|
-|MIFID II................................................................................. xi|
-|Minimum Credit Enhancement Test.............................104, 107|
-|Modeling Assumptions........................................................ 173|
-|Modification Event.............................................................. 106|
-|Modification Loss Amount.................................................. 106|
-|Moody's........................................................................... 37 63|
-|, Morgan Stanley ................................................................... 235|
-|mortgage.................................................................................. 1|
-| Mortgage Insurance Credit Amount .................................... 106|
-|mortgage loan.......................................................................... 1 |
-|mortgage note.......................................................................... 1|
-|mortgaged property ................................................................. 1 Neighborhood Stabilization Initiative.................................... 85|
-|Net Liquidation Proceeds .................................................... 107|
-| NFIP...................................................................................... 55|
-|NI 31-103 ............................................................................ D-1|
-| NI 45-106 ............................................................................ D-1|
-|Nomura................................................................................ 235 |
-|non-performing loans ............................................................ 85|
+|quaton rocees Loan File or Underwriting Errors 142|
+| LPMI 135|
+|LTV 128|
+|Majority Noteholders 120 |
+|Master Servicer 8|
+|Material Finding 164|
+|Maturity Date 16, 96 |
+|MBS 1|
+|MERS 209|
+|Mezzanine Reference Tranche 19|
+|Mezzanine Reference Tranches 19|
+|MIFID II xi|
+|Minimum Credit Enhancement Test 104, 107|
+|Modeling Assumptions 173|
+|Modification Event 106|
+|Modification Loss Amount 106|
+|Moody's 37 63|
+|, Morgan Stanley 235|
+|mortgage 1|
+| Mortgage Insurance Credit Amount 106|
+|mortgage loan 1 |
+|mortgage note 1|
+|mortgaged property 1 Neighborhood Stabilization Initiative 85|
+|Net Liquidation Proceeds 107|
+| NFIP 55|
+|NI 31-103 D-1|
+| NI 45-106 D-1|
+|Nomura 235 |
+|non-performing loans 85|
 |non-US Persons 214|
-|.. ................................................................. Note Accrual Period .............................................................. 24|
-|Note Distribution Account............................................... 11 95|
-|, Note Owners.......................................................................... 92|
+| Note Accrual Period 24|
+|Note Distribution Account 11 95|
+|, Note Owners 92|
 |Note Purchase Agreement 235|
-|................................................... Noteholder............................................................................... 2|
-|Noteholders ............................................................................. 2|
-| Notes ....................................................................................... 1|
-|NRSRO ................................................................................. 37 |
-|Offered Notes.................................................................... 1, 90|
+| Noteholder 2|
+|Noteholders 2|
+| Notes 1|
+|NRSRO 37 |
+|Offered Notes 1, 90|
 |Offered Reference Tranche Percentage 110|
-|............................... OID Regulations.................................................................. 216|
+| OID Regulations 216|
 |OPA 55|
-|....................................................................................... Original Accrual Rate.......................................................... 107|
+| Original Accrual Rate 107|
 |Origination Rep and Warrant Settlement 109|
-|y ........................... Overcollateralization Amount ............................................. 108|
+|y Overcollateralization Amount 108|
 |Ownership Certificate 88|
-|............................................................ Participants............................................................................ 92|
+| Participants 92|
 |Pament Date 16 95|
-|y .................................................................. , Payment Date Statement...................................................... 118|
-|Permitted Variances............................................................... 48 |
-|Plan Asset Regulation.......................................................... 234 Plan Fiduciary ..................................................................... 233 |
-|Plans.................................................................................... 233|
+|y , Payment Date Statement 118|
+|Permitted Variances 48 |
+|Plan Asset Regulation 234 Plan Fiduciary 233 |
+|Plans 233|
 |PRA Rules 77 227|
-|..................................................................... , PRASR.................................................................................. xii|
-|Preliminary Class Notional Amount.................................... 111 |
-|Preliminary Eligibility Criteria............................................ 162|
+| , PRASR xii|
+|Preliminary Class Notional Amount 111 |
+|Preliminary Eligibility Criteria 162|
 | Preliminary Principal Loss Amount 110|
-|.................................... Preliminary Tranche Write-down Amount .......................... 110|
-|Preliminary Tranche Write-up Amount............................... 111 |
-|Premium Note ..................................................................... 218 Preament Assumtion 216|
-|py p...................................................... Principal Loss Amount........................................................ 108|
+| Preliminary Tranche Write-down Amount 110|
+|Preliminary Tranche Write-up Amount 111 |
+|Premium Note 218 Preament Assumtion 216|
+|py p Principal Loss Amount 108|
 
 <!-- page 266 -->
 
-|Principal Recovery Amount.................................................108 Prohibited Transactions........................................................233|
+|Principal Recovery Amount 108 Prohibited Transactions 233|
 |---|
-| Projected Recovery Amount ..................................................97|
-| QC........................................................................................139|
-|Qualified Institutional Buyer................................................238 |
-|Rated Notes............................................................................37 |
-|Rating Agency Condition.....................................................114|
-|RCR Notes.........................................................................1, 14|
-|RDC Guide...........................................................................138 |
-|Record Date .....................................................................16, 95|
+| Projected Recovery Amount 97|
+| QC 139|
+|Qualified Institutional Buyer 238 |
+|Rated Notes 37 |
+|Rating Agency Condition 114|
+|RCR Notes 1, 14|
+|RDC Guide 138 |
+|Record Date 16, 95|
 |Reference Obligations1|
-|.............................................................. Reference Pool.........................................................................1|
-|Reference Pool Removal........................................................33|
-|Reference Time....................................................................E-3|
-|Reference Tranche .............................................................2, 18|
-|RefiNow Program ..........................................................85, 137|
-|Regular Classes....................................................................215|
-|Regular Notes.......................................................................215|
-| Regular Owner.....................................................................216|
-|Release Date...........................................................................34|
-|Relevant Governmental Body ..............................................E-3|
-|Relevant Persons................................................................... xii|
-|Relief Act.............................................................................213|
-|REMIC...................................................................................36|
-|REMIC WAC Rate ..............................................................215|
-|Remittance Date.....................................................................16|
-|REO .....................................................................................125|
-|Rep and Warrant Framework ...............................................140 |
-|Rep and Warranty Settlement Amount.................................109|
-| Rep and Warranty Settlement Coverage Amount.................109|
-|Reporting Period ....................................................................19|
-| Residual Certificateholders ....................................................88|
-|Residual Certificates ..............................................................88|
-|RESPA...................................................................................66|
-|Retained Interest ..................................................................229|
-|Return Amount.......................................................................12|
-|Return Amounts...................................................................100|
-|Return Reimbursement Amount.............................................13|
-|Return Reimbursement Amounts.........................................100|
-|Reversed Credit Event Amount............................................107|
-|Reversed Credit Event Reference Obligation.......................107|
-|Review File..........................................................................142|
-|Rules ......................................................................................92|
-|Scheduled Principal..............................................................103|
-|SEC....................................................................................... vii|
-|Secured Parties.......................................................................88 |
-|Securities Act.....................................................................1, vii Securities Intermediary ........................................................124|
-| Securities Laws ....................................................................D-1|
-|Selling Guide .......................................................................125|
-| Senior Percentage.................................................................103|
-| Senior Preferred Stock Purchase Agreement........................ viii|
-|Senior Reduction Amount....................................................102|
-|Senior Reference Tranche......................................................19|
-|Senior Reference Tranches.....................................................19|
-|September 2019 Letter Agreement....................................... viii|
+| Reference Pool 1|
+|Reference Pool Removal 33|
+|Reference Time E-3|
+|Reference Tranche 2, 18|
+|RefiNow Program 85, 137|
+|Regular Classes 215|
+|Regular Notes 215|
+| Regular Owner 216|
+|Release Date 34|
+|Relevant Governmental Body E-3|
+|Relevant Persons xii|
+|Relief Act 213|
+|REMIC 36|
+|REMIC WAC Rate 215|
+|Remittance Date 16|
+|REO 125|
+|Rep and Warrant Framework 140 |
+|Rep and Warranty Settlement Amount 109|
+| Rep and Warranty Settlement Coverage Amount 109|
+|Reporting Period 19|
+| Residual Certificateholders 88|
+|Residual Certificates 88|
+|RESPA 66|
+|Retained Interest 229|
+|Return Amount 12|
+|Return Amounts 100|
+|Return Reimbursement Amount 13|
+|Return Reimbursement Amounts 100|
+|Reversed Credit Event Amount 107|
+|Reversed Credit Event Reference Obligation 107|
+|Review File 142|
+|Rules 92|
+|Scheduled Principal 103|
+|SEC vii|
+|Secured Parties 88 |
+|Securities Act 1, vii Securities Intermediary 124|
+| Securities Laws D-1|
+|Selling Guide 125|
+| Senior Percentage 103|
+| Senior Preferred Stock Purchase Agreement viii|
+|Senior Reduction Amount 102|
+|Senior Reference Tranche 19|
+|Senior Reference Tranches 19|
+|September 2019 Letter Agreement viii|
 |September 2021 Letter Agreementix|
-|.......................................... Servicing Guide....................................................................125|
+| Servicing Guide 125|
 
-|SFA ....................................................................................D-3 SFHA .................................................................................... 55|
+|SFA D-3 SFHA 55|
 |---|
-| Similar Law................................................................... 37, 233|
-|Singapore Exchange.............................................................. xii|
-|Single Family Loan-Level Dataset ...............................156, 170|
-|SMMEA........................................................................ 36, 226|
-|SOFR....................................................................................E-3|
-|SOFR Interest Component............................................. 12, 117 |
-|SOFR Interest Component Contribution ......................... 13, 99 |
-|SR 2024................................................................... xii, 77, 227|
-|SSPE.............................................................................. 77, 227|
-|SSV ..................................................................................... 132|
-|Strip RCR Note ................................................................... 221 |
-|sub-accounts........................................................................ 116 |
-|Subordinate Percentage ....................................................... 103|
-|Subordinate Q-REMIC Interest....................................... 9, 115|
-|Subordinate Reduction Amount .......................................... 103|
-|Supplemental Class 2A-H Increase Amount ....................... 110|
-|Supplemental Reduction Amount........................................ 110|
-|Temporary Interest Rate Buydown Loans ........................... 134 |
-|Termination Date............................................................. 17, 97|
-|Terms and Conditions............................................................ 94|
-|Tranche Write-up Amount................................................... 108|
-| Transaction.......................................................................... 226|
-|Transaction Documents......................................................... 88|
-|Transfer Amount ............................................................. 12, 99|
-|Treasury................................................................................. vii|
-|TRID ..................................................................................... 66|
-|Trust Agreement................................................................ 8, 87|
-|Trust Estate Yield.......................................................... 12, 113|
-|Trustor..................................................................................... 8|
-|U.S. Bank .............................................................................. 90|
-|U.S. Government Securities Business Day...........................E-3|
-|U.S. Person.......................................................................... 214 |
-|UCC .................................................................................... 122|
-|UCITS ................................................................................. 227|
-|UK.................................................................................... xi, 77|
-|UK CRR.............................................................................. 228|
-|UK Due Diligence Requirements .................................. 77, 227|
-|UK Institutional Investors ............................................. 77, 228 |
-|UK PRIIPs Regulation ........................................................... xi|
-| UK Prospectus Regulation...................................................... xi|
-|UK Securitization Framework................................. xii, 77, 227|
-|UK Securitization Rules........................................................ 78|
-|UK Supplemental Resources............................................... 232|
-|ULDD.................................................................................. 138|
+| Similar Law 37, 233|
+|Singapore Exchange xii|
+|Single Family Loan-Level Dataset 156, 170|
+|SMMEA 36, 226|
+|SOFR E-3|
+|SOFR Interest Component 12, 117 |
+|SOFR Interest Component Contribution 13, 99 |
+|SR 2024 xii, 77, 227|
+|SSPE 77, 227|
+|SSV 132|
+|Strip RCR Note 221 |
+|sub-accounts 116 |
+|Subordinate Percentage 103|
+|Subordinate Q-REMIC Interest 9, 115|
+|Subordinate Reduction Amount 103|
+|Supplemental Class 2A-H Increase Amount 110|
+|Supplemental Reduction Amount 110|
+|Temporary Interest Rate Buydown Loans 134 |
+|Termination Date 17, 97|
+|Terms and Conditions 94|
+|Tranche Write-up Amount 108|
+| Transaction 226|
+|Transaction Documents 88|
+|Transfer Amount 12, 99|
+|Treasury vii|
+|TRID 66|
+|Trust Agreement 8, 87|
+|Trust Estate Yield 12, 113|
+|Trustor 8|
+|U.S. Bank 90|
+|U.S. Government Securities Business Day E-3|
+|U.S. Person 214 |
+|UCC 122|
+|UCITS 227|
+|UK xi, 77|
+|UK CRR 228|
+|UK Due Diligence Requirements 77, 227|
+|UK Institutional Investors 77, 228 |
+|UK PRIIPs Regulation xi|
+| UK Prospectus Regulation xi|
+|UK Securitization Framework xii, 77, 227|
+|UK Securitization Rules 78|
+|UK Supplemental Resources 232|
+|ULDD 138|
 |Unadjusted Benchmark RelacementE-3|
-|p................................... Unscheduled Principal......................................................... 103|
-| UPB..................................................................................... 104|
-|USBTNA............................................................................... 90|
-|VA......................................................................................... 31|
-|VRDIs ................................................................................. 217|
-|Wells Fargo Securities......................................................... 235|
-|Withholding Agent.............................................................. 223|
-| Write-up Excess .................................................................. 108|
-|written VOE ........................................................................ 131 XIO Itt 88|
-|- neres ......................................................................... X-IO Interestholder ............................................................... 88|
+|p Unscheduled Principal 103|
+| UPB 104|
+|USBTNA 90|
+|VA 31|
+|VRDIs 217|
+|Wells Fargo Securities 235|
+|Withholding Agent 223|
+| Write-up Excess 108|
+|written VOE 131 XIO Itt 88|
+|- neres X-IO Interestholder 88|
 
 <!-- page 267 -->
 
@@ -7513,18 +7513,18 @@ S-2
 
 |**Class of** **Interest Only RCR Notes**|**Negative** **SOFR Trigger**|
 |---|---|
-|Class 2A-I1 Notes ..............................|-1.00%|
-|Class 2A-I2 Notes ..............................|-1.30%|
-|Class 2A-I3 Notes ..............................|-1.60%|
-|Class 2A-I4 Notes ..............................|-1.90%|
-|Class 2B-I1 Notes...............................|-1.00%|
-|Class 2B-I2 Notes...............................|-1.30%|
-|Class 2B-I3 Notes...............................|-1.60%|
-|Class 2B-I4 Notes...............................|-1.90%|
-|Class 2C-I1 Notes...............................|-1.00%|
-|Class 2C-I2 Notes...............................|-1.30%|
-|Class 2C-I3 Notes...............................|-1.60%|
-|Class 2C-I4 Notes...............................|-1.90%|
+|Class 2A-I1 Notes |-1.00%|
+|Class 2A-I2 Notes |-1.30%|
+|Class 2A-I3 Notes |-1.60%|
+|Class 2A-I4 Notes |-1.90%|
+|Class 2B-I1 Notes |-1.00%|
+|Class 2B-I2 Notes |-1.30%|
+|Class 2B-I3 Notes |-1.60%|
+|Class 2B-I4 Notes |-1.90%|
+|Class 2C-I1 Notes |-1.00%|
+|Class 2C-I2 Notes |-1.30%|
+|Class 2C-I3 Notes |-1.60%|
+|Class 2C-I4 Notes |-1.90%|
 
 S-3
 
@@ -7534,14 +7534,14 @@ S-3
 
 |**Class of** **Interest Only RCR Notes**|**Negative** **SOFR Trigger**|
 |---|---|
-|Class 2-X1 Notes ...............................|-1.00%|
-|Class 2-X2 Notes ...............................|-1.30%|
-|Class 2-X3 Notes ...............................|-1.60%|
-|Class 2-X4 Notes ...............................|-1.90%|
-|Class 2-Y1 Notes ...............................|-1.00%|
-|Class 2-Y2 Notes ...............................|-1.30%|
-|Class 2-Y3 Notes ...............................|-1.60%|
-|Class 2-Y4 Notes ...............................|-1.90%|
+|Class 2-X1 Notes |-1.00%|
+|Class 2-X2 Notes |-1.30%|
+|Class 2-X3 Notes |-1.60%|
+|Class 2-X4 Notes |-1.90%|
+|Class 2-Y1 Notes |-1.00%|
+|Class 2-Y2 Notes |-1.30%|
+|Class 2-Y3 Notes |-1.60%|
+|Class 2-Y4 Notes |-1.90%|
 
 - (5) This Class has a Class Principal Balance as of any Payment Date equal to a specified percentage of the outstanding Class Principal Balance of the related Class of Exchangeable or RCR Notes that has a Class Principal Balance; _provided_ , _however_ , _that_ , if the Class Principal Balance of the related Class of Exchangeable or RCR Notes that has a Class Principal Balance has been reduced to zero and the Class Notional Amount of the related Class of Exchangeable or RCR Notes with a Class Notional Amount is greater than zero, then this Class will no longer have a Class Principal Balance.
 

@@ -1,0 +1,8 @@
+# Documents compared by `python main.py chunk-compare`. Not used by `chunk`.
+# match: substring of the markdown file name. pages: last page to keep; omit for the whole file.
+documents:
+  - match: gs01_                 # offering summary table
+  - match: gs9_                  # long dense paragraphs, no tables
+  - match: Retreat_at_Arcway     # mid-size OM
+  - match: Centurion             # a slice of the largest OM
+    pages: 40

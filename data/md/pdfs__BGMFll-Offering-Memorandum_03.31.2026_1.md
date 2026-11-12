@@ -27,7 +27,7 @@ ocr_pages:
 - 54
 - 55
 - 56
-content_hash: f6465423af6b5ae07417282452afa6e2c675299e096c798036cd727ccb2a87eb
+content_hash: ad482a5fc0e76d9ec68c9ef9f0720e72b20ebe121add2c5bfc744c2759d2535d
 ---
 
 <!-- page 1 -->
@@ -92,23 +92,23 @@ The Company is a connected issuer of the Manager, due t its role as manager of t
 
 # **TABLE OF CONTENTS**
 
-|**CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION**................ 4|
+|**CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION** 4|
 |---|
-|**ITEM 1** **USE OF NET PROCEEDS**.......................................................................................... 6|
-|**ITEM 2** **BUSINESS OF THE COMPANY**................................................................................. 6|
-|**ITEM 3** **COMPENSATION AND SECURITY HOLDINGS OF CERTAIN PARTIES**............... 18|
-|**ITEM 4** **CAPITAL STRUCTURE**............................................................................................ 21|
-|**ITEM 5** **SECURITIES OFFERED**........................................................................................... 22|
-|**ITEM 6 ** **REPURCHASE REQUESTS**..................................................................................... 27|
-|**ITEM 7** **CERTAIN DIVIDENDS OR DISTRIBUTIONS**........................................................... 28|
-|**ITEM 8** **CANADIAN INCOME TAX CONSEQUENCES AND RRSP ELIGIBILITY**................ 28|
-|**ITEM 9 ** **COMPENSATION PAID TO SELLERS AND FINDERS**............................................ 29|
-|**ITEM 10 RISK FACTORS**........................................................................................................ 29|
-|**ITEM 11 REPORTING OBLIGATIONS**.................................................................................... 34|
-|**ITEM 12 RESALE RESTRICTIONS**......................................................................................... 34|
-|**ITEM 13 PURCHASERS' RIGHTS**.......................................................................................... 34|
-|**ITEM 14 FINANCIAL STATEMENTS**...................................................................................... 35|
-|**ITEM 15 DATE AND CERTIFICATE**........................................................................................ 36|
+|**ITEM 1** **USE OF NET PROCEEDS** 6|
+|**ITEM 2** **BUSINESS OF THE COMPANY** 6|
+|**ITEM 3** **COMPENSATION AND SECURITY HOLDINGS OF CERTAIN PARTIES** 18|
+|**ITEM 4** **CAPITAL STRUCTURE** 21|
+|**ITEM 5** **SECURITIES OFFERED** 22|
+|**ITEM 6 ** **REPURCHASE REQUESTS** 27|
+|**ITEM 7** **CERTAIN DIVIDENDS OR DISTRIBUTIONS** 28|
+|**ITEM 8** **CANADIAN INCOME TAX CONSEQUENCES AND RRSP ELIGIBILITY** 28|
+|**ITEM 9 ** **COMPENSATION PAID TO SELLERS AND FINDERS** 29|
+|**ITEM 10 RISK FACTORS** 29|
+|**ITEM 11 REPORTING OBLIGATIONS** 34|
+|**ITEM 12 RESALE RESTRICTIONS** 34|
+|**ITEM 13 PURCHASERS' RIGHTS** 34|
+|**ITEM 14 FINANCIAL STATEMENTS** 35|
+|**ITEM 15 DATE AND CERTIFICATE** 36|
 
 14086340.2
 
@@ -1033,7 +1033,7 @@ Attached to this Offering Memorandum are the audited statements of Operations an
 ## December 31, 2025
 
 | | Page |
-|-----------------------------------------------|--------|
+|---|---|
 | Independent Auditors' Report | 2-3 |
 | Statement of Operations and Changes in Equity | 4 |
 | Statement of Financial Position | 5 |
@@ -1099,7 +1099,7 @@ Chartered Professional Accountants
 ## Statement of Operations and Changes in Equity
 
 | For the year ended December 31, | 2025 | 2024 |
-|----------------------------------------------------------|---------------|------------|
+|---|---|---|
 | Revenue | $ 10,833,998$ | 10,521,545 |
 | Expenses | | |
 | Provision for mortgage and interest losses (note 6) | 2,455,673 | 2,155,207 |
@@ -1127,7 +1127,7 @@ Chartered Professional Accountants
 ## Statement of Financial Position
 
 | December 31, | 2025 | 2024 |
-|--------------------------------------------------|----------------|-------------|
+|---|---|---|
 | Assets | | |
 | Current | | |
 | Cash | $ 358,692 $ | |
@@ -1157,7 +1157,7 @@ The financial statements were approved on March 16, 2026.
 Approved on behalf of the Board:
 
 | "Douglas H. Bentley" | Director |
-|------------------------|------------|
+|---|---|
 | "Garry Wong" | Director |
 
 <!-- page 42 -->
@@ -1167,7 +1167,7 @@ Approved on behalf of the Board:
 ## Statement of Cash Flows
 
 | For the year ended December 31, | 2025 | 2024 |
-|----------------------------------------------------------------|--------------|--------------|
+|---|---|---|
 | Cash provided by (used for) | | |
 | Operating activities | | |
 | Net income | $ S | |
@@ -1393,7 +1393,7 @@ The valuation of investments measured at fair value, including the Company's inv
 ## 5. Investment
 
 | | 2025 | 2024 |
-|----------------------|-------------|--------|
+|---|---|---|
 | 1485 Davie Street LP | $ 887,219 $ | |
 
 The Company participated in a subordinated mortgage investment related to the property at 1485 Davie Street, Vancouver, BC. Following prolonged market weakness and unsuccessful sale attempts, a portion of the subordinated loan was converted in August 2025 into Class B units of 1485 Davie Street Limited Partnership, which acquired the property on August 14, 2025 as part of a joint venture arrangement with an arms' length party.
@@ -1415,7 +1415,7 @@ During the year, a loss provision of $563,953 was recognized as a change in fair
 ## 6. Mortgages receivable
 
 | | 2025 | 2024 |
-|--------------------------------------|----------------|-------------|
+|---|---|---|
 | Residential mortgages | $ 55,863,311 $ | 59,816,202 |
 | Commercial mortgages | 7,416,167 | 9,093,304 |
 | Less: Allowance for mortgage losses | (2,129,586) | (1,297,000) |
@@ -1433,7 +1433,7 @@ There are two mortgages past maturity and in collection as at December 31, 2025 
 As at December 31, 2025, management has recorded a credit loss on mortgages receivable of $2,129,586 related to the portfolio of credit impaired mortgages (2024 - $1,297,000), and an allowance for interest receivable of $3,446,009 related to seven mortgages (2024 - $1,822,922 related to three mortgages). As at December 31, 2025, $4,729,697 (2024 - $2,337,165) of the gross interest receivable balance is past due.
 
 | | 2025 | 2024 |
-|-----------------------------|---------------|-------------|
+|---|---|---|
 | Interest receivable | $ 5,602,894 $ | 3,236,008 |
 | Less: credit loss allowance | (3,446,009) | (1,822,922) |
 | | $ 2,156,885 $ | 1,413,086 |
@@ -1449,7 +1449,7 @@ As at December 31, 2025, management has recorded a credit loss on mortgages rece
 ## 6. Mortgages receivable (continued)
 
 | | 2025 | 2024 |
-|-----------------------------------------------------------|---------------|-----------|
+|---|---|---|
 | Increase in provision for mortgage losses from prior year | $ 2,455,673 $ | 2,155,207 |
 | Interest write-offs recognized in the current year | 1,236,105 | |
 | | $ 3,691,778 $ | 2,155,207 |
@@ -1483,7 +1483,7 @@ The Company was in compliance with its covenants as at December 31, 2025 and 202
 ## 8. Dividends payable
 
 | | 2025 | 2024 |
-|----------------------|---------------|-------------|
+|---|---|---|
 | Cash dividends | S 519,453 | $ 1,441,346 |
 | Reinvested dividends | 766,480 | 1,661,959 |
 | | $ 1,285,933 $ | 3,103,305 |
@@ -1499,7 +1499,7 @@ Bano n n ( ne rrol Bancorp Investor Services Inc. ("BISL"), fund service provide
 These transactions are in the normal course of operations and are measured at the exchange amount, which is the amount of consideration established and agreed to by the related parties.
 
 | | 2025 | 2024 |
-|-----------------------|---------------|-----------|
+|---|---|---|
 | Expenses | | |
 | Management fees | $ 1,195,924$ | 1,183,081 |
 | Performance incentive | | 54,842 |
@@ -1521,7 +1521,7 @@ The management fees and performance incentives are paid to BFSI, and are in acco
 ## 10. Common shares
 
 | | 2025 Number of Shares Issued | 2025 Amount | 2024 Number of Shares Issued | 2024 Amount |
-|------------------------------|--------------------------------|---------------|--------------------------------|---------------|
+|---|---|---|---|---|
 | Opening balance, December 31 | 1,100 $ | 1,100 | 1,100 | $ 1,100 |
 | Issued for cash | 100 | 100 | | |
 | Redeemed | (100) | (100) | | |
@@ -1548,7 +1548,7 @@ Unlimited Class D redeemable, non-voting, participating shares with par value of
 Unlimited Class F redeemable, non-voting, participating shares with par value of $1.00
 
 | | 2025 Number of Shares Issued | 2025 Amount | 2024 Number of Shares Issued | 2024 Amount |
-|----------------------------------|--------------------------------|---------------|--------------------------------|---------------|
+|---|---|---|---|---|
 | Class D Non-voting common shares | | | | |
 | Balance beginning of year | 61,122,703 $ | 61,122,703 | 59,345,834$ | 59,345,834 |
 | Issued for cash | 346,193 | 346,193 | | |

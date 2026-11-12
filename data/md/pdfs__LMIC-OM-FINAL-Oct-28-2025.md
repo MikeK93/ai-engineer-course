@@ -26,7 +26,7 @@ ocr_pages:
 - 93
 - 94
 - 95
-content_hash: 40d836acbda23b8d3905e6a4c7854a4ba7446fb5ffa775ccb374118522a6abd3
+content_hash: 7e537f3ccd5dc7ae045151c571b1684787fdfe02088b8a2d79f495dd7967dc06
 ---
 
 <!-- page 1 -->
@@ -170,50 +170,50 @@ The following are definitions of certain terms used in this Offering Memorandum:
 
 ## **TABLE OF CONTENTS**
 
-|PURPOSE O|F THE OFFERING.................................................................................................................................8|
+|PURPOSE O|F THE OFFERING 8|
 |---|---|
-|ITEM 1: USE|OF AVAILABLE FUNDS...................................................................................................................8|
-|1.1|Funds.....................................................................................................................................................8|
-|1.2|Use of Available Funds.......................................................................................................................9|
-|ITEM 2: BUS |INESS OF THE CORPORATION AND OTHER INFORMATION AND TRANSACTIONS....9 |
-|2.1|Structure...............................................................................................................................................9|
-|2.2|The Business......................................................................................................................................10|
-|2.3|Development of Business..................................................................................................................18|
-|2.4|Long-Term Objectives......................................................................................................................22|
-|2.5|Short Term Objectives.......................................................................................................................22|
-|2.6|Insufficient Proceeds.........................................................................................................................22|
-|2.7|Material Contracts.............................................................................................................................22|
-|2.8|Related Party Transactions................................................................................................................24|
-|ITEM 3: CO |MPENSATION AND SECURITY HOLDINGS OF CERTAIN PARTIES....................................25 |
-|3.1|Compensation and Securities Held...................................................................................................25|
-|3.2|Management Experience...................................................................................................................25|
-|3.3|Penalties, Sanctions, Bankruptcy, Insolvency and Criminal or Quasi-Criminal Matters............26|
-|3.4|Certain Loans.....................................................................................................................................27|
-|ITEM 4: CAP|ITAL STRUCTURE............................................................................................................................28|
-|4.1|Securities Except for Debt Securities...............................................................................................28|
-|4.2|Debt Securities...................................................................................................................................28|
-|4.3|Long-Term Debt................................................................................................................................29|
-|4.4|Prior Sales..........................................................................................................................................29|
-|ITEM 5: SEC|URITIES OFFERED............................................................................................................................30|
-|5.1|Terms of Securities............................................................................................................................30|
-|5.2|Subscription Qualification................................................................................................................34|
-|5.3|Subscription Procedure.....................................................................................................................36|
-|5.4|Proceeds of Crime (Money Laundering) Legislation.....................................................................37|
-|ITEM 6: RED|EMPTION REQUESTS......................................................................................................................38|
-|ITEM 7: INC|OME TAX CONSEQUENCES AND REGISTERED PLAN ELIGIBILITY................................38|
-|ITEM 8: CO|MPENSATION PAID TO SELLERS AND FINDERS.....................................................................42|
-|ITEM 9: RIS|K FACTORS..........................................................................................................................................43|
-|9.1|Investment Risk.................................................................................................................................43|
-|9.2|Corporation Risk................................................................................................................................44|
-|9.3|Industry Risk......................................................................................................................................46|
-|ITEM 10: RE|PORTING OBLIGATIONS................................................................................................................49|
-|10.1|Continuous Disclosure......................................................................................................................49|
-|10.2|Access to Corporate and Securities Information About the Corporation......................................49|
-|ITEM 11: RE|SALE RESTRICTIONS......................................................................................................................49|
-|ITEM 12: PU|RCHASER’S RIGHTS........................................................................................................................50|
-|ITEM 13: FI|NANCIAL STATEMENTS..................................................................................................................53|
-|ITEM 14: DA|TE AND CERTIFICATE OF THE ISSUER................................................................................... C-1|
-|SCHEDULE|“A” – SUBSCRIPTION AGREEMENT.......................................................................................... S-1|
+|ITEM 1: USE|OF AVAILABLE FUNDS 8|
+|1.1|Funds 8|
+|1.2|Use of Available Funds 9|
+|ITEM 2: BUS |INESS OF THE CORPORATION AND OTHER INFORMATION AND TRANSACTIONS 9 |
+|2.1|Structure 9|
+|2.2|The Business 10|
+|2.3|Development of Business 18|
+|2.4|Long-Term Objectives 22|
+|2.5|Short Term Objectives 22|
+|2.6|Insufficient Proceeds 22|
+|2.7|Material Contracts 22|
+|2.8|Related Party Transactions 24|
+|ITEM 3: CO |MPENSATION AND SECURITY HOLDINGS OF CERTAIN PARTIES 25 |
+|3.1|Compensation and Securities Held 25|
+|3.2|Management Experience 25|
+|3.3|Penalties, Sanctions, Bankruptcy, Insolvency and Criminal or Quasi-Criminal Matters 26|
+|3.4|Certain Loans 27|
+|ITEM 4: CAP|ITAL STRUCTURE 28|
+|4.1|Securities Except for Debt Securities 28|
+|4.2|Debt Securities 28|
+|4.3|Long-Term Debt 29|
+|4.4|Prior Sales 29|
+|ITEM 5: SEC|URITIES OFFERED 30|
+|5.1|Terms of Securities 30|
+|5.2|Subscription Qualification 34|
+|5.3|Subscription Procedure 36|
+|5.4|Proceeds of Crime (Money Laundering) Legislation 37|
+|ITEM 6: RED|EMPTION REQUESTS 38|
+|ITEM 7: INC|OME TAX CONSEQUENCES AND REGISTERED PLAN ELIGIBILITY 38|
+|ITEM 8: CO|MPENSATION PAID TO SELLERS AND FINDERS 42|
+|ITEM 9: RIS|K FACTORS 43|
+|9.1|Investment Risk 43|
+|9.2|Corporation Risk 44|
+|9.3|Industry Risk 46|
+|ITEM 10: RE|PORTING OBLIGATIONS 49|
+|10.1|Continuous Disclosure 49|
+|10.2|Access to Corporate and Securities Information About the Corporation 49|
+|ITEM 11: RE|SALE RESTRICTIONS 49|
+|ITEM 12: PU|RCHASER’S RIGHTS 50|
+|ITEM 13: FI|NANCIAL STATEMENTS 53|
+|ITEM 14: DA|TE AND CERTIFICATE OF THE ISSUER C-1|
+|SCHEDULE|“A” – SUBSCRIPTION AGREEMENT S-1|
 
 <!-- page 8 -->
 
@@ -2090,7 +2090,7 @@ Interim Financial Statements (Unaudited)
 ## Contents
 
 | | Page |
-|-----------------------------------------|--------|
+|---|---|
 | Interim Statement of Financial Position | 2 |
 | Interim Statement of Income | 3 |
 | Interim Statement of Changes in Equity | 4 |
@@ -2104,7 +2104,7 @@ Interim Financial Statements (Unaudited)
 Interim Statement of Financial Position As at June 30, 2025 (Unaudited)
 
 | | June 30, 2025 | Dec 31 2024 |
-|---------------------------------------------------|-----------------|---------------|
+|---|---|---|
 | ASSETS | | |
 | Current assets | | |
 | Cash | $ 11,361,173$ | 4,230,011 |
@@ -2138,7 +2138,7 @@ Interim Statement of Financial Position As at June 30, 2025 (Unaudited)
 Interim Statement of Income Year ended June 30, 2025 (Unaudited)
 
 | | June 30, 2025 | June 30, 2024 |
-|--------------------------------------------------|-----------------|-----------------|
+|---|---|---|
 | Revenue | | |
 | Mortgage interest revenue | $ 3,784,214 $ | 2,859,449 |
 | Fees | 867,281 | 647,117 |
@@ -2169,7 +2169,7 @@ See accompanying notes
 (Unaudited)
 
 | | Common shares - Number of shares | Common shares - Amount | Retained earnings | Total equity |
-|----------------------------|------------------------------------|--------------------------|---------------------|----------------|
+|---|---|---|---|---|
 | Balance, December 31, 2024 | 1,000,000 | $ 104 $ | | S 104 |
 | Net income | | | 3,260,099 | 3,260,099 |
 | Dividends paid | | | (3,260,099) | (3,260,099) |
@@ -2184,7 +2184,7 @@ See accompanying notes
 Interim Statement of Cash Flows Year ended June 30, 2025 (Unaudited)
 
 | | June 30, 2025 | June 30, 2024 |
-|--------------------------------------------------------------|-----------------|-----------------|
+|---|---|---|
 | Operating activities | | |
 | Net income | $ 3,260,099 | $ 2,455,483 |
 | Item not involving cash | 987 | |
@@ -2338,7 +2338,7 @@ Transaction costs related to financial assets and liabilities held for trading a
 ## 4. Amounts receivable
 
 | | June 30, 2025 | Dec 31 2024 |
-|-------------------------------|-----------------|---------------|
+|---|---|---|
 | Accounts receivable | $ 495,071 | $ 333,202 |
 | Accrued interest receivable | 1,139,865 | 970,248 |
 | Other recoveries | 598 | |
@@ -2360,7 +2360,7 @@ Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
 ## 6. Mortgages receivable
 
 | | 2025 # mortgages | 2025 $ | 2024 # mortgages | 2024 $ |
-|--------------------------|--------------------|--------------|--------------------|--------------|
+|---|---|---|---|---|
 | 7.25% | 1 | 840,402 | 1 | 781,845 |
 | 7.99% | 6 | 8,716,672 | 5 | 7,836,672 |
 | 8.50% | 3 | 1,453,000 | 3 | 676,000 |
@@ -2399,7 +2399,7 @@ Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
 ## 7. Accounts payable and accrued liabilities
 
 | | June 30, 2025 | Dec 31 2024 |
-|------------------------|-----------------|---------------|
+|---|---|---|
 | Trade accounts payable | $ 312,846 $ | 250,650 |
 | Construction holdbacks | 193,767 | 473,972 |
 | | $ 506,613 $ | 724,622 |
@@ -2413,7 +2413,7 @@ Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
 The following table details the transactions that occurred during the six months ended June 30, 2025 and the year ended December 31, 2024 and total shares issued at those dates.
 
 | | June 30, 2025 | Dec 31 2024 |
-|----------------------------------------------------|-----------------|---------------|
+|---|---|---|
 | Shares issued and outstanding, beginning of period | $ 73,630,580 $ | 61,042,972 |
 | Issued | 7,371,828 | 14,710,889 |
 | DRIP purchases | 2,339,751 | 4,785,988 |
@@ -2441,7 +2441,7 @@ Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
 ## 9. Common shares
 
 | | June 30, 2025 - Issued | June 30, 2025 - Amount | June 30, 2025 - Issued | Dec 31 2024 - Amount |
-|---------------|--------------------------|--------------------------|--------------------------|------------------------|
+|---|---|---|---|---|
 | Issued | | | | |
 | Common shares | 1,000,000 $ | 104 | 1,000,000 $ | 104 |
 
@@ -2458,7 +2458,7 @@ Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
 The company is related to Liahona Capital Inc. by virtue of elements of common control. Transactions and balances are as follows:
 
 | | June 30, 2025 | Dec 31 2024 |
-|----------------------------------------------|-----------------|---------------|
+|---|---|---|
 | Expenses | | |
 | Expenses - Administration fees paid | $ 1,116,145 $ | 1,832,614 |
 | Other | | |

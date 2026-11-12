@@ -24,7 +24,7 @@ ocr_pages:
 - 98
 - 99
 - 100
-content_hash: 0c889bee1f25ee14dd3239b0e2a7c4c57c2e7db36f53deeb2247142534e3768d
+content_hash: 18a161de1e7b492128ad53c8b635fadc09e9346d98e31d0ce06d3f2be8ed127c
 ---
 
 <!-- page 1 -->
@@ -79,72 +79,72 @@ You have two (2) business days to cancel your agreement to purchase these securi
 
 ##### **TABLE OF CONTENTS**
 
-|ABOUT|THIS OFFERING MEMORANDUM ....................................................................................................................... 4|
+|ABOUT|THIS OFFERING MEMORANDUM 4|
 |---|---|
-|RISKY I|NVESTMENT ........................................................................................................................................................... 4|
-|CONFID|ENTIALITY .............................................................................................................................................................. 4|
-|APPEND|ICES .......................................................................................................................................................................... 5|
-|MARKE|TING MATERIALS .................................................................................................................................................. 5|
-|NOTE R|EGARDING FORWARD-LOOKING STATEMENTS ............................................................................................ 5|
-|GLOSSA|RY OF TERMS ........................................................................................................................................................ 7|
-|PURPOS|E OF THE OFFERING ............................................................................................................................................. 9|
-|ITEM 1|USE OF AVAILABLE FUNDS ............................................................................................................................. 9|
-|1.1|Funds ...................................................................................................................................................................... 9|
-|1.2|Use of Available Funds .......................................................................................................................................... 9|
-|1.3|Reallocation .......................................................................................................................................................... 10|
-|ITEM 2|BUSINESS OF THE CORPORATION ................................................................................................................ 10|
-|2.1|Structure ............................................................................................................................................................... 10|
-|2.2|Our Business ........................................................................................................................................................ 10|
-|2.3|Development of Business ..................................................................................................................................... 21|
-|2.4|Long Term Objectives .......................................................................................................................................... 24|
-|2.5|Short Term Objectives........................................................................................................................................ 256|
-|2.6|Insufficient Funds ................................................................................................................................................. 26|
-|2.7|Material Agreements ............................................................................................................................................ 26|
-|2.8|Related Party Transactions and Conflicts of Interest ........................................................................................... 32|
-|ITEM 3|INTERESTS OF DIRECTORS, MANAGEMENT, PROMOTERS AND PRINCIPAL HOLDERS .................. 33|
-|3.1|Compensation and Securities Held ....................................................................................................................... 33|
-|3.2|Portfolio Management .......................................................................................................................................... 34|
-|3.3|Management Experience ...................................................................................................................................... 35|
-|3.4|Penalties, Sanctions and Bankruptcy .................................................................................................................... 37|
-|3.5|Loans .................................................................................................................................................................... 38|
-|ITEM 4|CAPITAL STRUCTURE ...................................................................................................................................... 38|
-|4.1|Share Capital ........................................................................................................................................................ 38|
-|4.2|Long Term Debt ................................................................................................................................................... 38|
-|4.3|Prior Sales ............................................................................................................................................................ 39|
-|ITEM 5|SECURITIES OFFERED ...................................................................................................................................... 39|
-|5.1|Terms of Securities ............................................................................................................................................... 39|
-|5.2|Subscription Procedure......................................................................................................................................... 43|
-|ITEM 6|REPURCHASE REQUESTS ................................................................................................................................ 44|
-|ITEM 7|INCOME TAX CONSEQUENCES AND RRSP ELIGIBILITY ......................................................................... 45|
-|7.1|Status of the Corporation ...................................................................................................................................... 46|
-|7.2|Taxation of the Corporation ................................................................................................................................. 47|
-|7.3|Taxation of Shareholders ...................................................................................................................................... 47|
+|RISKY I|NVESTMENT 4|
+|CONFID|ENTIALITY 4|
+|APPEND|ICES 5|
+|MARKE|TING MATERIALS 5|
+|NOTE R|EGARDING FORWARD-LOOKING STATEMENTS 5|
+|GLOSSA|RY OF TERMS 7|
+|PURPOS|E OF THE OFFERING 9|
+|ITEM 1|USE OF AVAILABLE FUNDS 9|
+|1.1|Funds 9|
+|1.2|Use of Available Funds 9|
+|1.3|Reallocation 10|
+|ITEM 2|BUSINESS OF THE CORPORATION 10|
+|2.1|Structure 10|
+|2.2|Our Business 10|
+|2.3|Development of Business 21|
+|2.4|Long Term Objectives 24|
+|2.5|Short Term Objectives 256|
+|2.6|Insufficient Funds 26|
+|2.7|Material Agreements 26|
+|2.8|Related Party Transactions and Conflicts of Interest 32|
+|ITEM 3|INTERESTS OF DIRECTORS, MANAGEMENT, PROMOTERS AND PRINCIPAL HOLDERS 33|
+|3.1|Compensation and Securities Held 33|
+|3.2|Portfolio Management 34|
+|3.3|Management Experience 35|
+|3.4|Penalties, Sanctions and Bankruptcy 37|
+|3.5|Loans 38|
+|ITEM 4|CAPITAL STRUCTURE 38|
+|4.1|Share Capital 38|
+|4.2|Long Term Debt 38|
+|4.3|Prior Sales 39|
+|ITEM 5|SECURITIES OFFERED 39|
+|5.1|Terms of Securities 39|
+|5.2|Subscription Procedure 43|
+|ITEM 6|REPURCHASE REQUESTS 44|
+|ITEM 7|INCOME TAX CONSEQUENCES AND RRSP ELIGIBILITY 45|
+|7.1|Status of the Corporation 46|
+|7.2|Taxation of the Corporation 47|
+|7.3|Taxation of Shareholders 47|
 
 <!-- page 4 -->
 
-|7.4|Taxation of Registered Plans ................................................................................................................................ 49|
+|7.4|Taxation of Registered Plans 49|
 |---|---|
-|ITEM 8|COMPENSATION PAID TO SELLERS AND FINDERS .................................................................................. 50|
-|ITEM 9|RISK FACTORS ................................................................................................................................................... 50|
-|ITEM 10|REPORTING OBLIGATIONS ............................................................................................................................. 57|
-|ITEM 11|RESALE RESTRICTIONS ................................................................................................................................... 57|
-|11.1|General Statement ................................................................................................................................................ 57|
-|11.2|Restricted Period – For trades in British Columbia, Alberta, Saskatchewan, Ontario, New Brunswick, Nova Scotia, and Prince Edward Island ......................................................................................................................... 57|
-|11.3|Restricted Period – For trades in Manitoba .......................................................................................................... 57|
-|ITEM 12|PURCHASER’S RIGHTS..................................................................................................................................... 58|
-|12.1|Two Day Cancellation Right ................................................................................................................................ 58|
-|12.2|Statutory Rights of Action in the Event of a Misrepresentation ........................................................................... 58|
-|12.3|Investors in Alberta .............................................................................................................................................. 58|
-|12.4|Investors in British Columbia ............................................................................................................................... 59|
-|12.5|Investors in Manitoba ........................................................................................................................................... 60|
-|12.6|Investors in New Brunswick ................................................................................................................................ 61|
-|12.7|Investors in Nova Scotia....................................................................................................................................... 62|
-|12.8|Investors in Ontario .............................................................................................................................................. 63|
-|12.9|Investors in Prince Edward Island ........................................................................................................................ 64|
-|12.10|Investors in Saskatchewan .................................................................................................................................... 65|
-|ITEM 13|FINANCIAL STATEMENTS ............................................................................................................................... 67|
-|DATE A|ND CERTIFICATE ............................................................................................................................................... C-1|
-|APPEND|IX 1 - SUBSCRIPTION AGREEMENT .............................................................................................................. A1-1|
+|ITEM 8|COMPENSATION PAID TO SELLERS AND FINDERS 50|
+|ITEM 9|RISK FACTORS 50|
+|ITEM 10|REPORTING OBLIGATIONS 57|
+|ITEM 11|RESALE RESTRICTIONS 57|
+|11.1|General Statement 57|
+|11.2|Restricted Period – For trades in British Columbia, Alberta, Saskatchewan, Ontario, New Brunswick, Nova Scotia, and Prince Edward Island 57|
+|11.3|Restricted Period – For trades in Manitoba 57|
+|ITEM 12|PURCHASER’S RIGHTS 58|
+|12.1|Two Day Cancellation Right 58|
+|12.2|Statutory Rights of Action in the Event of a Misrepresentation 58|
+|12.3|Investors in Alberta 58|
+|12.4|Investors in British Columbia 59|
+|12.5|Investors in Manitoba 60|
+|12.6|Investors in New Brunswick 61|
+|12.7|Investors in Nova Scotia 62|
+|12.8|Investors in Ontario 63|
+|12.9|Investors in Prince Edward Island 64|
+|12.10|Investors in Saskatchewan 65|
+|ITEM 13|FINANCIAL STATEMENTS 67|
+|DATE A|ND CERTIFICATE C-1|
+|APPEND|IX 1 - SUBSCRIPTION AGREEMENT A1-1|
 
 <!-- page 5 -->
 
@@ -2436,7 +2436,7 @@ _15 of 15_
 For the year ended October 31, 2023
 
 | AUDITOR'S REPORT | 3-4 |
-|---------------------------------------------------------|--------|
+|---|---|
 | FINANCIAL STATEMENTS | |
 | Statement of Financial Position | 5 |
 | Statement of Comprehensive Income and Changes in Equity | 6 |
@@ -2506,7 +2506,7 @@ Chartered Professional Accountants Licensed Public Accountants
 As at October 31, 2023
 
 | | 2023 $ | 2022 $ |
-|------------------------------------------|----------------------|----------------------|
+|---|---|---|
 | ASSETS | ASSETS | ASSETS |
 | Cash | | 340,695 |
 | Prepaid expenses | 11,992 | 11,610 |
@@ -2541,7 +2541,7 @@ Duue Director
 For the year ended October 31, 2023
 
 | | 2023 $ | 2022 $ |
-|------------------------------------------------|-----------|-----------|
+|---|---|---|
 | Revenues | | |
 | Mortgage interest | 7,505,723 | 5,634,298 |
 | Other income | 615,200 | 1,397,015 |
@@ -2574,7 +2574,7 @@ The accompanying notes are an integral part of these financial statements.
 For the year ended October 31, 2023
 
 | | 2023 $ | 2022 $ |
-|--------------------------------------------------------------------------|--------------|---------------|
+|---|---|---|
 | Cash flows from operating activities | | |
 | Net comprehensive income for the year | 3,585 | 22,251 |
 | Adjustments to reconcile net income to cash flows | | |
@@ -2789,7 +2789,7 @@ Credit risk is the risk of financial loss to the Corporation if a customer or co
 The carrying amount of financial assets represents the maximum credit exposure. The maximum exposure to credit risk at the reporting date was:
 
 | | 2023 | 2022 |
-|----------------------|------------|--------------|
+|---|---|---|
 | Cash | $ | $ 340,695 |
 | Accounts receivable | 120,000 | 837,467 |
 | Mortgages receivable | 79,916,379 | 84,181,972 |
@@ -2858,7 +2858,7 @@ Accounts receivable consists of funds receivable from new shareholders whose Cla
 The following is a breakdown of the mortgages receivable as at October 31:
 
 | | 2023 | 2022 |
-|-------------------------------|--------------|-------------------------|
+|---|---|---|
 | First mortgages | | 43,670,592 $ 50,269,754 |
 | Non-first mortgages | 35,345,847 | 33,252,742 |
 | | 79,016,439 | 83,522,496 |
@@ -2885,7 +2885,7 @@ Not s s rd t s s s re ws s-lne ratios not exceeding 85% at inception of the mort
 Broken down into the three-stages per the impairment model, mortgages receivable and provision for mortgage losses are as follows:
 
 | | Stage 1 | Stage 2 | Stage 3 | Total |
-|-------------------------------|--------------|-------------|-----------|----------------------|
+|---|---|---|---|---|
 | Gro $ r $r r50o | | | $ | 1,000,000$79,016,439 |
 | Provision for mortgage losses | | | (67,000) | (67,000) |
 | | $ 73,794,939 | $ 4,221,500 | $ 933,000 | $ 78,949,439 |
@@ -2895,7 +2895,7 @@ T e e s o e eily c s o s s d s r s o o Canada when measured by loan amount. Ther
 Principal repayments based on contractual maturity dates are as follows:
 
 | | 2023 |
-|------|--------------|
+|---|---|
 | 2024 | 77,964,439 |
 | 2025 | 1,052,000 |
 | | $ 79,016,439 |
@@ -2937,7 +2937,7 @@ The Corporation has an optional dividend reinvestment plan (DRIP) for preferred 
 The following Class A Common Shares were issued and outstanding as at October 31, 2023:
 
 | | # Shares | Amount |
-|-----------------------------------|------------|----------|
+|---|---|---|
 | Balance, beginning of year | 1,000 | $ 10,000 |
 | New shares issued during the year | | |
 | Balance, end of year | 1,000 | $ 10,000 |
@@ -2945,7 +2945,7 @@ The following Class A Common Shares were issued and outstanding as at October 31
 The following Class B Preferred Shares were issued and outstanding as at October 31, 2023:
 
 | | # Shares | Amount |
-|----------------------------|-------------|--------------|
+|---|---|---|
 | Balance, beginning of year | 7,075,562 | $ 70,755,624 |
 | New shares issued | 808,701 | 8,279,390 |
 | Dividend Reinvestment Plan | 214,613 | 2,146,126 |
@@ -2955,7 +2955,7 @@ The following Class B Preferred Shares were issued and outstanding as at October
 Class B preferred shares consists of:
 
 | | 2023 | 2022 |
-|--------------------------|--------------|--------------|
+|---|---|---|
 | Class B Preferred Shares | $ 67,732,654 | $ 70,755,624 |
 | Share issuance costs | (2,741,804) | (3,074,140) |
 | | $ 64,990,850 | $ 67,681,483 |

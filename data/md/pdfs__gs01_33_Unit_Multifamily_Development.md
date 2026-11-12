@@ -10,7 +10,7 @@ ocr_pages:
 - 7
 - 8
 - 13
-content_hash: 9eb873821a58193b2a1092d125c3b98aefc2e9c05e0db825f2e12052860ae1bb
+content_hash: 6ab21ef44fd4f0d72ed04436db3a8b3070e40c20cc61e2860179042ac285ae78
 ---
 
 <!-- page 1 -->
@@ -35,7 +35,7 @@ ALL PROPERTY SHOWINGS ARE BY APPOINTMENT ONLY. PLEASE CONTACT THE MARCUS & MILLI
 
 # TABLE OF CONTENTS
 
-EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . 4 LOCATION AND MARKET OVERVIEW . . . . . . . . . . 7 DEVELOPMENT PRO FORMA . . . . . . . . . . . . . . . . . 13
+EXECUTIVE SUMMARY 4 LOCATION AND MARKET OVERVIEW 7 DEVELOPMENT PRO FORMA 13
 
 <!-- page 4 -->
 

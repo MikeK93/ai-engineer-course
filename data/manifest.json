@@ -1,5 +1,5 @@
 {
-  "dataset_version": "5c24822b709a",
+  "dataset_version": "79b7bfa659c2",
   "docs": [
     {
       "as_of": "2026-11-11",
@@ -134,8 +134,8 @@
     },
     {
       "as_of": "2025-02-25",
-      "chars": 447873,
-      "content_hash": "0c889bee1f25ee14dd3239b0e2a7c4c57c2e7db36f53deeb2247142534e3768d",
+      "chars": 439219,
+      "content_hash": "18a161de1e7b492128ad53c8b635fadc09e9346d98e31d0ce06d3f2be8ed127c",
       "doc_id": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares",
       "doc_type": "fund_om",
       "md": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.md",
@@ -165,8 +165,8 @@
     },
     {
       "as_of": "2020-11-06",
-      "chars": 612401,
-      "content_hash": "9c642a901ad0a5d668bfb93c8140c2da2d7d201532a4f029af2a758989870a02",
+      "chars": 603306,
+      "content_hash": "addb8eee8d29bcc5ccf98c2430a943741827f311c71694eb3cf368442e160e56",
       "doc_id": "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2",
       "doc_type": "fund_om",
       "md": "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.md",
@@ -176,8 +176,8 @@
     },
     {
       "as_of": "2025-04-11",
-      "chars": 386773,
-      "content_hash": "23525716e7bba85cf59bcb272e7f66483597809cdb414fe2493fdf0f3153693b",
+      "chars": 380393,
+      "content_hash": "28972dd1b8bb57c9df2567624738f82fdd46ba9815f00d43193d321b95b51894",
       "doc_id": "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1",
       "doc_type": "fund_om",
       "md": "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.md",
@@ -187,8 +187,8 @@
     },
     {
       "as_of": "2026-03-31",
-      "chars": 146368,
-      "content_hash": "f6465423af6b5ae07417282452afa6e2c675299e096c798036cd727ccb2a87eb",
+      "chars": 144411,
+      "content_hash": "ad482a5fc0e76d9ec68c9ef9f0720e72b20ebe121add2c5bfc744c2759d2535d",
       "doc_id": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1",
       "doc_type": "fund_om",
       "md": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1.md",
@@ -221,8 +221,8 @@
     },
     {
       "as_of": "2025-05-01",
-      "chars": 559197,
-      "content_hash": "6eef1dca16a365205895fa424821fdbb8b787571ed4624bb17168ebd69f2346b",
+      "chars": 558594,
+      "content_hash": "00d4eb7b8b28049fe7e55434e5ef5b92704644da9476f3ab2217b0aac4ff1e57",
       "doc_id": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final",
       "doc_type": "fund_om",
       "md": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final.md",
@@ -232,8 +232,8 @@
     },
     {
       "as_of": "2024-04-25",
-      "chars": 471953,
-      "content_hash": "2e5331e9327fe770033ec5dcdbeded9881b34936dd9d0a7526193359aacd56c2",
+      "chars": 456161,
+      "content_hash": "9dc7c80b769a3def8dcea5421d2953dfaab3dcae0492a86afe5ae9bc41c83f06",
       "doc_id": "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425",
       "doc_type": "fund_om",
       "md": "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.md",
@@ -254,8 +254,8 @@
     },
     {
       "as_of": "2025-08-15",
-      "chars": 295990,
-      "content_hash": "40d836acbda23b8d3905e6a4c7854a4ba7446fb5ffa775ccb374118522a6abd3",
+      "chars": 290614,
+      "content_hash": "7e537f3ccd5dc7ae045151c571b1684787fdfe02088b8a2d79f495dd7967dc06",
       "doc_id": "pdfs__LMIC-OM-FINAL-Oct-28-2025",
       "doc_type": "fund_om",
       "md": "pdfs__LMIC-OM-FINAL-Oct-28-2025.md",
@@ -404,8 +404,8 @@
     },
     {
       "as_of": "2017-12-08",
-      "chars": 271730,
-      "content_hash": "2f9c971e107c2a52ed235d3baa53fa3514f06e8e86b368561e6a98138cf70078",
+      "chars": 262927,
+      "content_hash": "d918f3296a0efc1c662834db2a48516c19231c1f393f329caf65525147fb5e07",
       "doc_id": "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST",
       "doc_type": "fund_om",
       "md": "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST.md",
@@ -432,8 +432,8 @@
     },
     {
       "as_of": "2025-04",
-      "chars": 1248926,
-      "content_hash": "66e29ac70b22e1690cfa20b3a006857220e2640375b27b2dcc04240069c3bb5e",
+      "chars": 1168078,
+      "content_hash": "5f8c9198827303d72a47f31a746a653aa1d3c130d0855e9d2d49f1615b9a8fc9",
       "doc_id": "pdfs__connave-2025-r03-offering-memorandum",
       "doc_type": "other",
       "md": "pdfs__connave-2025-r03-offering-memorandum.md",
@@ -468,8 +468,8 @@
     },
     {
       "as_of": "2017-10",
-      "chars": 12258,
-      "content_hash": "9eb873821a58193b2a1092d125c3b98aefc2e9c05e0db825f2e12052860ae1bb",
+      "chars": 12158,
+      "content_hash": "6ab21ef44fd4f0d72ed04436db3a8b3070e40c20cc61e2860179042ac285ae78",
       "doc_id": "pdfs__gs01_33_Unit_Multifamily_Development",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs01_33_Unit_Multifamily_Development.md",
