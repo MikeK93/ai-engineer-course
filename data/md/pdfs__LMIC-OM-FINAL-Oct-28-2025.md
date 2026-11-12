@@ -5,7 +5,28 @@ source: pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf
 doc_type: fund_om
 as_of: '2025-08-15'
 pages: 1-97
-content_hash: 2dc28cafecea86bf4df5907b51061682489cd33793c8d106754ed54a2dcee4cb
+ocr_pages:
+- 76
+- 77
+- 78
+- 79
+- 80
+- 81
+- 82
+- 83
+- 84
+- 85
+- 86
+- 87
+- 88
+- 89
+- 90
+- 91
+- 92
+- 93
+- 94
+- 95
+content_hash: 40d836acbda23b8d3905e6a4c7854a4ba7446fb5ffa775ccb374118522a6abd3
 ---
 
 <!-- page 1 -->
@@ -2053,6 +2074,559 @@ _[Provide the information specified in the following table.]_
 |**(E)**|**Closing unused proceeds** _[Line (E) = Line (C) – Line (D)]_|$0.00|
 
 _[If any of the proceeds required to be disclosed in this table were paid directly or indirectly to a related party (as defined in Instruction A.6 of Form 45-106F2 Offering Memorandum Form for Non-Qualifying Issuers) of the issuer, state in each case the name of the related party to whom the payment was made, their relationship to the issuer and the amount paid to the related party.]_
+
+<!-- page 76 -->
+
+LIAHONA MORTGAGE INVESTMENT CORP.
+
+2025 Interim Financial Statements (Unaudited)
+
+<!-- page 77 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Interim Financial Statements (Unaudited)
+
+## Contents
+
+| | Page |
+|-----------------------------------------|--------|
+| Interim Statement of Financial Position | 2 |
+| Interim Statement of Income | 3 |
+| Interim Statement of Changes in Equity | 4 |
+| Interim Statement of Cash Flows | 5 |
+| Notes to Interim Financial Statements | 6 - 19 |
+
+<!-- page 78 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Interim Statement of Financial Position As at June 30, 2025 (Unaudited)
+
+| | June 30, 2025 | Dec 31 2024 |
+|---------------------------------------------------|-----------------|---------------|
+| ASSETS | | |
+| Current assets | | |
+| Cash | $ 11,361,173$ | 4,230,011 |
+| Amounts receivable (note 4) | 2,855,095 | 2,523,488 |
+| Deposit security | 3,192 | 1,723 |
+| Promissory Note receivable (note 5) | 3,400,000 | |
+| Current portion of mortgages receivable (note 6) | 61,232,200 | 57,910,789 |
+| | 78,851,660 | 64,666,011 |
+| Non current | | |
+| Mortgages receivable (note 6) | 2,476,382 | 11,680,182 |
+| Equipment | 3,583 | 1,808 |
+| | 2,479,965 | 11,681,990 |
+| | $ 81,331,625 $ | 76,348,001 |
+| LIABILITIES AND SHAREHOLDERS' EQUITY | | |
+| Current liabilities | | |
+| Accounts payable and accrued liabilities (note 7) | $ 506,613 $ | 724,622 |
+| Deferred interest revenue | 504,290 | 520,247 |
+| Dividends payable | 1,737,515 | 1,472,448 |
+| Note payable | 3,920,000 | |
+| Preferred shares (note 8) | 74,663,103 | 73,630,580 |
+| | 81,331,521 | 76,347,897 |
+| Shareholders' equity | | |
+| Common shares (note 9) | 104 | 104 |
+| | 6 81,331,625 $ | 76,348,001 |
+| See accompanying notes | | |
+
+<!-- page 79 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Interim Statement of Income Year ended June 30, 2025 (Unaudited)
+
+| | June 30, 2025 | June 30, 2024 |
+|--------------------------------------------------|-----------------|-----------------|
+| Revenue | | |
+| Mortgage interest revenue | $ 3,784,214 $ | 2,859,449 |
+| Fees | 867,281 | 647,117 |
+| | 4,651,495 | 3,506,566 |
+| Expenses | | |
+| Marketing and promotion | 12,088 | 6,486 |
+| Amortization | 987 | |
+| Computer software | 20,478 | 15,835 |
+| Insurance | 10,780 | 9,370 |
+| Bank charges and interest | 85,024 | 2,989 |
+| Management fees | 1,116,145 | 863,691 |
+| Broker fees | 1,500 | |
+| Office and administration | 8,662 | 3,989 |
+| Professional fees | 58,594 | 55,206 |
+| Salaries and related benefits | 77,138 | 93,517 |
+| | 1,391,396 | 1,051,083 |
+| Net income and comprehensive income for the year | $ 3,260,099 $ | 2,455,483 |
+| Basic earnings per share | 0.0848 | 0.0768 |
+| Diluted earnings per share | 0.0848 | 0.0768 |
+| Average weighted number of diluted shares | 76,911,814 | 63,948,452 |
+
+See accompanying notes
+
+<!-- page 80 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP. Interim Statement of Changes in Equity Year ended June 30, 2025
+
+(Unaudited)
+
+| | Common shares - Number of shares | Common shares - Amount | Retained earnings | Total equity |
+|----------------------------|------------------------------------|--------------------------|---------------------|----------------|
+| Balance, December 31, 2024 | 1,000,000 | $ 104 $ | | S 104 |
+| Net income | | | 3,260,099 | 3,260,099 |
+| Dividends paid | | | (3,260,099) | (3,260,099) |
+| Balance, June 30, 2025 | 1,000,000 $ | 104 $ | | $ 104 |
+
+See accompanying notes
+
+<!-- page 81 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Interim Statement of Cash Flows Year ended June 30, 2025 (Unaudited)
+
+| | June 30, 2025 | June 30, 2024 |
+|--------------------------------------------------------------|-----------------|-----------------|
+| Operating activities | | |
+| Net income | $ 3,260,099 | $ 2,455,483 |
+| Item not involving cash | 987 | |
+| | 3,261,086 | 2,455,483 |
+| Net change in non-cash working capital items | | |
+| Amounts receivable | (331,607) | 637,607 |
+| Deposit security | (1,469) | (718) |
+| Promissory Note receivable | (3,400,000) | |
+| Accounts payable and accrued liabilities | (218,009) | 438,050 |
+| Deferred interest revenue | (15,957) | (384,544) |
+| Dividends payable | 265,067 | (679,145) |
+| Note payable | 3,920,000 | |
+| Mortgages receivable | 5,882,389 | (14,761,477) |
+| | 6,100,414 | (14,750,227) |
+| Cash flows from operating activities | 9,361,500 | (12,294,744) |
+| Preferred shares | 1,032,523 | 12,587,608 |
+| Dividends paid | (3,260,099) | (2,455,483) |
+| Cash flows from financing activities | (2,227,576) | 10,132,125 |
+| Investing activity | | |
+| Purchase of equipment and cash flows from investing activity | (2,762) | (1,991) |
+| Net change in cash during the year | 7,131,162 | (2,164,610) |
+| Cash, beginning of year | 4,230,011 | 6,394,621 |
+| Cash, end of year | $ 11,361,173 $ | 4,230,011 |
+| Cash consists of: | | |
+| Cash | $ 11,361,173 $ | 4,230,011 |
+
+See accompanying notes
+
+<!-- page 82 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 1. Nature of operations
+
+Liahona Mortgage Investment Corp. was incorporated under the Ontario Business Corporations Act on December 22, 2006 and is engaged in the principal business activity of lending private funds as first and second claim residential, commercial and construction mortgages and land servicing loans. All of the real estate over which the Company holds mortgage collateral are located in the Greater Toronto Area.
+
+The company's head office is located at 4 - 47 Harley Court, Barrie, Ontario.
+
+## 2. Statement of compliance
+
+These financial statements have been prepared in accordance with International Accounting Sta ( ( rim naid ced id eid oi d o sts atcil statements for the year ended December 31, 2024. Material accounting policies have been consistently applied in the preparation of these interim financial statements.
+
+The financial statements were approved by the Board of Directors and authorized for issue on August 11, 2025.
+
+## 3. Summary of material accounting policies
+
+These interim financial statements are prepared in accordance with IFRS Accounting Standards as issued by the International Accounting Standards Board which require management to make estimates and assumptions. These estimates and assumptions affect:
+
+- 1) the reported amounts of assets and liabilities at the date of the financial statement and;
+- 2) the disclosure of contingent assets and liabilities at the date of the financial statements and;
+- 3) the reported amounts of revenue and expenses for the period.
+
+These interim financial statements are based on the following material policies:
+
+## Deferred interest revenue
+
+Deferred interest revenue represents interest paid in advance on mortgages. These amounts are not currently due and are recognized in the period in which they pertain.
+
+<!-- page 83 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 3. Summary of material accounting policies — continued
+
+## Basis of measurement
+
+The financial statements have been prepared on the historical cost basis
+
+## Functional and presentation currency
+
+These financial statements are presented in Canadian dollars, which is the Company's functional currency.
+
+## Financial instruments
+
+Financial assets and financial liabilities are initially measured at fair value. Fair value is the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm's length transaction. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities other than financial assets and financial liabilities at fair value through profit or loss ("FVTPL") are added to or deducted from the fair value of the financial assets or financial liabilities, as appropriate, on initial recognition. Transaction costs directly attributable to the acquisition of financial assets or financial liabilities at FVTPL are recognized immediately in profit or loss. Transactions to purchase or sell these items are recorded on the trade date. During the year, there has been no reclassification of financial instruments.
+
+## Financial assets at fair value through profit or loss
+
+The Company has classified cash and cash equivalents and marketable securities as a financial asset at fair value through profit or loss. Any gain/loss arising as a result of the difference between the carrying amount and fair value is recognized in total comprehensive income.
+
+Financial instruments at fair value through profit or loss are subsequently measured at their fair value.
+
+## Loans and receivables
+
+The Company has classified accounts receivable and due from related parties as loans and receivables.
+
+Loans and receivables are subsequently measured at their amortized cost. Amortized cost is the amount at which the financial asset is measured at initial recognition less principal repayments, plus or minus the cumulative amortization using the effective interest method of any difference between that initial amount and the maturity amount, plus or minus any reduction for impairment or uncollectability. Net gains and losses arising from changes in fair value are recognized in total comprehensive income upon de-recognition or impairment.
+
+## Financial liabilities measured at amortized cost
+
+The Company has classified accounts payable and accruals, and due to related parties as financial liabilities measured at amortized cost.
+
+Financial liabilities measured at amortized cost are measured at their amortized cost subsequent to initial recognition. Amortized cost is the amount at which the financial liability is measured at initial recognition less principal repayments, plus or minus the cumulative amortization using the effective interest method of any difference between that initial amount and the maturity amount. Net gains and losses arising from changes in fair value are recognized in total comprehensive income upon de-recognition or impairment.
+
+<!-- page 84 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 3. Summary of material accounting policies — continued
+
+## Impairment of mortgages and loans receivable
+
+Mortgages and loans receivable are classified as impaired when, in the opinion of Management, there is reasonable doubt as to the timely collection of principal and interest. The carrying amount of a mortgage or loan receivable classified as impaired is reduced to its estimated fair value.
+
+## Income taxes
+
+The Company qualifies as a mortgage investment corporation "MiC" for Canadian income tax uere o -s a Act (Canada) and is generally able to deduct, in computing its income for a given taxation year, the amount of income for that year and within 90 days of the year end that is distributed to its shareholders. Shareholders who receive any amounts as, or on account of, a taxable dividend, other than a capital gains dividend, will be subject to Canadian income or withholding taxes accordingly.
+
+The Company intends to make distributions to the extent necessary to reduce its taxable income each year to NIL so that it has no income taxes payable under Part I of the Income Tax Act (Canada).
+
+To qualify as a MIC for Canadian income tax purposes, the Company must comply with the following requirements:
+
+i. at least 50% of the Company's assets must consist of residentially-oriented mortgages and/or cash;
+
+ii. the Company's only business activity is investing funds of the Company and not managing or developing any real property;
+
+iii. the Company must not hold any investments secured by real property situated outside Canada or have debts owing to it by non-resident individuals, other than debts secured by real property situated in Canada; and
+
+iv. no shareholder may own more than 25% of the issued shares of any one class.
+
+## Revenue recognition
+
+The Company's main source of revenue is interest from its mortgages and fee income. Interest is accrued on mortgage investments in the period in which the interest becomes payable under the terms of the mortgage. Interest is not accrued on mortgages that are identified as impaired. Mortgage investment income consists of interest earned from the mortgage portfolio.
+
+## Mortgages receivable
+
+<!-- page 85 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 3. Summary of material accounting policies — continued
+
+## Mortgages receivable —continued
+
+Mortgages receivable are initially recorded at fair value which is equal to the initial loan advance and are subsequently measured at amortized cost using the effective interest method, less any impairment losses.
+
+The company measures the mortgage loss allowance on an individual basis plus a cushion general provision, as the concentration of credit risk is limited due to the customer base being large and unrelated.
+
+## Transaction costs
+
+Transaction costs related to financial assets and liabilities held for trading are expensed as they are incurred. Transactions costs related to financial assets held to maturity, loans and receivables, and other financial liabilities are taken into account in the carrying value of the asset and liability and subsequently amortized over the expected useful life of the instrument using the effective interest method. Transaction costs related to available-for-sale assets are capitalized upon initial recognition and then transferred to other comprehensive income immediately thereafter.
+
+## 4. Amounts receivable
+
+| | June 30, 2025 | Dec 31 2024 |
+|-------------------------------|-----------------|---------------|
+| Accounts receivable | $ 495,071 | $ 333,202 |
+| Accrued interest receivable | 1,139,865 | 970,248 |
+| Other recoveries | 598 | |
+| 2424155 Ontario Inc. | 1,215,025 | 1,215,025 |
+| Collins | 4,536 | 5,013 |
+| | S 2,855,095 $ | 2,523,488 |
+| 5. Promissory Note receivable | | |
+| | June 30, 2025 | Dec 31 2024 |
+| Promissory note | $ 3,400,000 $ | |
+
+The promissory note has an interest rate of 9.99% and was subsequently repaid in fult on July 8, 2025.
+
+<!-- page 86 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 6. Mortgages receivable
+
+| | 2025 # mortgages | 2025 $ | 2024 # mortgages | 2024 $ |
+|--------------------------|--------------------|--------------|--------------------|--------------|
+| 7.25% | 1 | 840,402 | 1 | 781,845 |
+| 7.99% | 6 | 8,716,672 | 5 | 7,836,672 |
+| 8.50% | 3 | 1,453,000 | 3 | 676,000 |
+| 8.74% | 1 | 865,000 | | |
+| 8.99% | 7 | 4,838,762 | 6 | 3,866,283 |
+| 9.00% | 2 | 1,207,000 | | |
+| 9.25% | 1 | 390,000 | 1 | 390,000 |
+| 9.50% | 2 | 2,780,000 | 1 | 1,080,000 |
+| %696 | 21 | 23,735,130 | 24 | 24,195,147 |
+| 10.00% | 1 | 1,200,000 | 1 | 5,000,000 |
+| 10.25% | 2 | 2,440,450 | 3 | 3,200,450 |
+| 10.50% | 10 | 4,946,657 | 9 | 4,382,021 |
+| 10.99% | 1 | 4,000,000 | 1 | 4,000,000 |
+| 11.00% | | | 1 | 3,180,825 |
+| 11.25% | 1 | 1,663,000 | 2 | 1,650,000 |
+| 11.99% | 5 | 4,890,047 | 7 | 3,907,900 |
+| 12.99% | 1 | 253,237 | 1 | 100,328 |
+| 13.25% | | | 1 | 3,855,475 |
+| 13.99% | 1 | 160,000 | 1 | 160,000 |
+| 15.00% | | | 1 | 2,000,000 |
+| | 66 | 64,379,357 | 69 | 70,262,946 |
+| Reserve for impairment | | (670,775) | | (671,975) |
+| Due within twelve months | | (61,232,200) | | (57,910,789) |
+| | 66 | 2,476,382 | 69 | 11,680,182 |
+
+Of the 66 (2024 - 69) mortgages receivable and outstanding, 55 (2024 - 56) are first mortgages, and 11 (2024 - 13) are second mortgages. There are no third mortgages. The mortgage portfolio includes residential, commercial and construction mortgages and land servicing loans. Of the total mortgages receivable and outstanding and disclosed above, 55 (2024-64) are residential mortgages, 3 are commercial mortgages, 6 are construction mortgages, and 2 are land servicing loans. (2024-5 commercial mortgages). To manage overall mortgage risk, the company restricts the funding of commercial properties to no more than 30% of its loan portfolio.
+
+The mortgages are secured by real property having a combined recently assessed market value totalling $102,727,553 (2024 $147,208,010), average weighted loan to value (LTV) is 62.67% (2024- 47.7%. average loan to value).
+
+<!-- page 87 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 7. Accounts payable and accrued liabilities
+
+| | June 30, 2025 | Dec 31 2024 |
+|------------------------|-----------------|---------------|
+| Trade accounts payable | $ 312,846 $ | 250,650 |
+| Construction holdbacks | 193,767 | 473,972 |
+| | $ 506,613 $ | 724,622 |
+
+## 8. Preferred shares
+
+## Authorized:
+
+- Unlimited number of Class A non-voting shares, purchasable for cancellation, retractable and redeemable
+
+The following table details the transactions that occurred during the six months ended June 30, 2025 and the year ended December 31, 2024 and total shares issued at those dates.
+
+| | June 30, 2025 | Dec 31 2024 |
+|----------------------------------------------------|-----------------|---------------|
+| Shares issued and outstanding, beginning of period | $ 73,630,580 $ | 61,042,972 |
+| Issued | 7,371,828 | 14,710,889 |
+| DRIP purchases | 2,339,751 | 4,785,988 |
+| Shares redeemed | (8,679,056) | (6,909,269) |
+| | 74,663,103$ | 73,630,580 |
+
+## Dividends
+
+The Corporation distributes net income to shareholders of record of the preferred shares at the en se t e n se o the recipients and varies from year to year as a direct result of continuing operations less any writeoffs incurred during the current fiscal period. Expressed as a percentage, each Preferred Class A shares received a quarterly compounded rate of return of 8.48% (2024 - 7.68%) which is the equivalent of an annual simple rate of return (ROl) of 8.55% (2024 - 7.75%). No dividends were declared or paid on the outstanding common shares.
+
+## Dividend Reinvestment Plan (DRIP)
+
+The company has adopted a DRIP under which holders of the preferred shares may elect to reinvest cash dividends received from such shares to purchase additional shares of the same class.
+
+## Classification
+
+The preferred shares are classified as debt as they have a fixed payment obligation as specified by the rate of return on the mortgage receivable portfolio.
+
+<!-- page 88 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 9. Common shares
+
+| | June 30, 2025 - Issued | June 30, 2025 - Amount | June 30, 2025 - Issued | Dec 31 2024 - Amount |
+|---------------|--------------------------|--------------------------|--------------------------|------------------------|
+| Issued | | | | |
+| Common shares | 1,000,000 $ | 104 | 1,000,000 $ | 104 |
+
+Voting shares are fully paid.
+
+<!-- page 89 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 10. Related party transactions
+
+The company is related to Liahona Capital Inc. by virtue of elements of common control. Transactions and balances are as follows:
+
+| | June 30, 2025 | Dec 31 2024 |
+|----------------------------------------------|-----------------|---------------|
+| Expenses | | |
+| Expenses - Administration fees paid | $ 1,116,145 $ | 1,832,614 |
+| Other | | |
+| Other - Fees payable to Liahona Capital Inc. | $ 178,844 $ | 175,834 |
+
+During the year, the company paid a monthly fee to Liahona Capital Inc. for administrative functions related to the preparation and filing of OSC filings and the provision of exempt market dealer (EMD) services. These transactions are in the normal course of operations and have been valued in these financial statements at the exchange amount which is the amount of consideration established and agreed to by the related parties and are determined at fair market values.
+
+## 11. Financial instruments risk management objectives and policies
+
+## (i) Classification
+
+The Company classifies its financial assets in the following measurement categories:
+
+- those to be measured subsequently at fair value (either through other comprehensive income or through profit or loss),
+
+and
+
+- those to be measured at amortized cost.
+
+The classification depends on the entity's business model for managing the financial assets and the contractual terms of the cash flows in accordance with IFRS 9.
+
+For assets measured at fair value, gains and losses will either be recorded in profit or loss or OCl. For investments in equity instruments that are not held for trading, this will depend on whether the Company has made an irrevocable election at the time of initial recognition to account for the equity investment at fair value through other comprehensive income (FVOCI).
+
+<!-- page 90 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 11. Financial instruments risk management objectives and policies — continued
+
+## (ii) Recognition and derecognition
+
+Regular way purchases and sales of financial assets are recognized on trade-date, the date on which the Company commits to purchase or sell the asset. Financial assets are derecognized when the rights to receive cash flows from the financial assets have expired or have been transferred and the Company has transferred substantially all the risks and rewards of ownership.
+
+## (iii) Measurement
+
+At initial recognition, the Company measures a financial asset at its fair value plus, in the case of a financial asset not at fair value through profit or loss (FVPL), transaction costs that are directly attributable to the acquisition of the financial asset. Transaction costs of financial assets carried at FVPL are expensed in profit or loss.
+
+Financial assets with embedded derivatives are considered in their entirety when determining Whs dad o s s est
+
+## Debt instruments
+
+Subs es mn ns t ds s s os us or managing the asset and the cash flow characteristics of the asset. There are three measurement categories into which the Company classifies its debt instruments:
+
+- Amortized cost: Assets that are held for collection of contractual cash flows where those cash flows represent solely payments of principal and interest are measured at amortized cost.
+
+Interest income from these financial assets is included in finance income using the effective interest rate method. Any gain or loss arising on derecognition is recognized directly in profit or os l s e d le e (e ed em in the statement of profit or loss.
+
+- FVOCI: Assets that are held for collection of contractual cash flows and for selling the financial assets, where the assets' cash flows represent solely payments of principal and interest, are measured at FVOCI. Movements in the carrying amount are taken through OCl, except for the recognition of impairment gains or losses, interest income and foreign exchange gains and losses which are recognised in profit or loss. When the financial asset is derecognized, the cumulative gain or loss previously recognized in OCl is reclassified from equity to profit or loss and recognized in other gains/(losses). Interest income from these financial assets is included in finance income using the effective interest rate method. Impairment expenses are presented as separate line item in the statement of profit or loss.
+
+- FVTPL: Assets that do not meet the criteria for amortized cost or FVOCI are measured at FVTPL. A gain or loss on a debt investment that is subsequently measured at FVTPL is recognized in profit or loss and presented net within other gains/(losses) in the period in which it arises.
+
+<!-- page 91 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 11. Financial instruments risk management objectives and policies — continued
+
+## (iv) Impairment
+
+The Company assesses on a forward looking basis the expected credit losses associated with its dea it t a t ai mi ied depends on whether there has been a significant increase in credit risk.Reclassification
+
+The Company could choose to reclassify a non-derivative trading financial asset out of the held for trading category if the financial asset was no longer held for the purpose of selling it in the near term. Financial assets other than loans and receivables were permitted to be reclassified out of thtr tt o en r s sr e rirg was n to reclassify financial assets that would meet the definition of loans and receivables out of the held for trading or available-for-sale categories if the company had the intention and ability to hold these financial assets for the foreseeable future or until maturity at the date of reclassification.
+
+Reclassifications were made at fair value as of the reclassification date. Fair value became the new cost or amortized cost as applicable, and no reversals of fair value gains or losses recorded before reclassification date were subsequently made. Effective interest rates for financial assets reclassified to loans and receivables and held-to-maturity categories were determined at the reclassification date. Further increases in estimates of cash flows adjusted effective interest rates prospectively.
+
+## (vi) Liquidity risk
+
+Liquidity risk is the risk that the company cannot repay its obligations when they become due to its creditors. The Company is exposed to liquidity risk due to the accounts payable and accrued liabilities, dividends payable and preferred share liability, as presented on the statements of financial position. The Company reduces its exposure to liquidity risk by ensuring that it documents when authorized payments become due; maintains an adequate line of credit to repay trade creditors and repays long term debt interest and principal as they become due.
+
+## (vii) Credit risk
+
+Ccree o t it it i t et t t s si tnd cause the other party to incur a financial loss. The company's exposure arises from amounts advanced on mortgages to third parties and accrued mortgage interest receivable and is limited to theen n nt t d t any oc n - t s n redi ri rais r eit r rss i r s retings credit upon a review of the credit history of the applicant and creating an allowance for bad debts when applicable. The Company maintains strict credit policies and limits in respect to counterparties. In the opinion of management the credit risk exposure to the Company is low and is not material.
+
+<!-- page 92 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 11. Financial instruments risk management objectives and policies — continued
+
+## (viii) Market risk
+
+Market risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices. Market risk comprises three types of risk: currency risk, interest rate risk and other price risk. The company's exposure to risk results from fluctuations in market-determined interest rates as well as fluctuations in property market values. The company rt r uo s us s u f r aie values of property could impact the company in terms of mortgages issued, value of security, or the provision of collection on mortgages.
+
+## (ix) Concentration risk
+
+Concentration risk is the risk that one borrower (or group of related borrowers) has more than 10% of the balance of the accounts receivable of the Corporation or that more than 10% of the Corporation's capital is invested in any one mortgage. As at June 30, 2025, one (1) borrower had more than 10% of the balance of the accounts receivable of the Corporation (14.16%) but no more than 10% of the Corporation's capital was invested in any one mortgage.
+
+## (x) Interest rate risk
+
+The Company is exposed to interest rate risk due to the changing market rates for interest on their mortgages receivable. Significant changes in the prevailing market lending rates may cause fluctuations in future cash flows and interest revenues. In the opinion of management, interest rate risk is low given the short term maturities associated with the mortgages receivable.
+
+## (xi) Fair value
+
+The fair value of current financial assets and current financial liabilities approximates their carrying value due to their short-term maturity dates.
+
+## (xii) Other price risk
+
+Other price risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices (other than those arising from interest rate risk or cur a sr sa r iial instrument or its issuer, or factors affecting all similar financial instruments traded in the market.Other price risk is disclosed under credit risk. The company's exposure is limited to the fair market value of real assets held as security. In the event of default on a mortgage receivable, the company has recourse through lien and sale of the associated real property. If the fair market value of the property is less than the mortgage outstanding or there are other creditors in a secured position, there is potential impact on the amount that the company is able to recover. The company has set policies and procedures in place that effectively limit the exposure to fluctuations in fair market value.
+
+<!-- page 93 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 12. Capital management
+
+Capital is comprised of the Company's shareholders' equity and preferred share liability and totalled $74,663,207 at June 30, 2025 (December 31, 2024 - $73,630,684). The Company's objectives when managing capital are to continue as a going concern, to protect its ability to meet its ongoing liabilities, and to maximize returns for shareholders over the long term.
+
+ten u i e sn o unn son r eun tn proceeds from the ongoing issuance of preferred shares.
+
+<!-- page 94 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 13. Unearned revenue
+
+Certain of the mortgagors have prepaid, or requested to hold back on existing mortgage a n s a s d es re map s t t e t ad le scheduled loan repayments. No reduction in interest is permitted due to early repayment or pre se t ns un se e n sd nhe payment is due and is recognized in the period to which it pertains.
+
+## 14. New accounting standards effective 2024
+
+Amendment to lAS 1 - Non-current liabilities with covenants
+
+On October 31, 2022, the lASB issued new amendments in IAS 1 to clarify how conditions with which an entity must comply within twelve months after the reporting date affect the classification of a liability.
+
+IFRS S1 - General requirements for disclosure of sustainability-related financial information
+
+In June 2023 the ISSB issued a new section requiring an entity to disclose information about its sustainability-related risks and opportunities. The section prescribes how an entity prepares and reports its sustainability-related financial disclosures with respect to the above and its impact on the entity's cash flows, access to finance or cost of capital over the short, medium or long term. These requirements include the disclosure of the following:
+
+- the governance processes, controls and procedures used to monitor, manage and oversee sustainability-related risks and opportunities;
+- the entity's strategy for managing these risks and opportunities;
+- the processes in place which enables the entity to identify, assess, prioritize and monitor these risks; and
+- the entity's performance in relation to these risks including any progress towards any targets the entity has set or is required to meet by law or regulation.
+
+<!-- page 95 -->
+
+## LIAHONA MORTGAGE INVESTMENT CORP.
+
+Notes to Interim Financial Statements Year ended June 30, 2025 (Unaudited)
+
+## 14. New accounting standards effective 2024 — continued
+
+IFRS S2 - Climate-related disclosures
+
+In June 2023 the ISSB issued new guidance requiring an entity to disclose information about its climate-related risks and opportunities. Specifically this section requires an entity to disclose infomraiton that could reasonably be expected to affect the entity's cash flows, its access to finance or cost of capital over the short, medium, or long term and is in conjunction with IFRS S1.
+
+These requirements include the disclosure of the following:
+
+a) climate-related risks to which the entity is exposed which are (i) climate-related physical risks and (ii) climate-related transition risks
+
+b) climate-related opportunities available to the entity
+
+In addition the following disclosure is required:
+
+- the governance processes, controls and procedures used to monitor, manage and oversee climate-related risks and opportunities;
+- the entity's strategy for managing these risks and opportunities;
+- the processes in place which enables the entity to identify, assess, prioritize and monitor these risks, including whether and how these processes are integrated into and inform the entity's overall risk management process; and
+- the entity's performance in relation to these risks including any progress towards any targets the entity has set or is required to meet by law or regulation.
+
+The above new standards are effective for reporting periods beginning on or after January 1, 2024. Management is currently assessing the impact, if any, of the application of the above standards and the required disclosure for its December 31, 2024 reporting period.
 
 <!-- page 96 -->
 

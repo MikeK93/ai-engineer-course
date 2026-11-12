@@ -5,7 +5,10 @@ source: pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf
 doc_type: listing
 as_of: '2024-02-26'
 pages: 1-6
-content_hash: 65a06ef284d9bfb455414566a564034d86f0d42e65028e915cf33f9f5fcda986
+ocr_pages:
+- 4
+- 5
+content_hash: d1399373cf90f37f4b5dcb585ae5ef4e8706cab9d45f8d52bee239e47ae76a02
 ---
 
 <!-- page 1 -->
@@ -57,6 +60,14 @@ Once the servicing requirements are handled, the end result will be a signature 
 The top of the hill was flattened by rock excavation between 2001 and 2003. The access road was also cut into the hill around this time.
 
 A full Geotechnical report / field investigation was completed and available upon a signed CA.
+
+<!-- page 4 -->
+
+## SITE EXPOSURES
+
+<!-- page 5 -->
+
+## LOCATION WEST KELOWNA \_
 
 <!-- page 6 -->
 

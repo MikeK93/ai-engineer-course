@@ -5,7 +5,17 @@ source: pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf
 doc_type: single_asset_om
 as_of: '2024-05-15'
 pages: 1-25
-content_hash: 7094cf907d1653951b3a49363f72f711382cd13302757bacecb9819f5e604de9
+ocr_pages:
+- 4
+- 7
+- 9
+- 12
+- 13
+- 15
+- 17
+- 18
+- 22
+content_hash: 9aed0ff0ec908aed31b639e17133f112e58d2590180ad25d237fd72525b9b047
 ---
 
 <!-- page 1 -->
@@ -66,6 +76,10 @@ EXECUTIVE SUMMARY
 
 The asset provides an investor with the unique opportunity to acquire a truly turnkey multifamily holding in California with a highly qualified and stable tenant base to produce superior returns to market rate t-bills, bonds, etc while also receiving the various tax benefits and appreciation returns of California real estate.
 
+<!-- page 7 -->
+
+OFFERING MEMORANDUM
+
 <!-- page 8 -->
 
 ## **<mark>HIGHLIGHTS</mark>**
@@ -97,6 +111,18 @@ Secure rental market with continual supply of Military tenants providing stable 
 
 Strong California Real Estate Fundamentals
 
+<!-- page 9 -->
+
+Visikos EDCNADAS
+
+PED
+
+BAKE
+
+OFFERING MEMORANDUM
+
+THE LO
+
 <!-- page 10 -->
 
 **6563 OASIS AVENUE 1 6 4 5 3 2** 2 SALES COMPARABLES
@@ -118,6 +144,14 @@ Strong California Real Estate Fundamentals
 ||AVERAGES|1980|$1,736,000|$161,514|4.44|15.40||
 
 OFFERING MEMORANDUM 11
+
+<!-- page 12 -->
+
+SMEERCAL
+
+1]
+
+ıI
 
 <!-- page 14 -->
 
@@ -158,6 +192,52 @@ The City of Twentynine Palms rests in the Mojave Desert of Southern California l
 **3 Hour drive from LA, Orange County, and North San Diego**
 
 **1.5 hour Drive from Big Bear Lake**
+
+<!-- page 17 -->
+
+Angeles National Forest
+
+LOS ANGELES
+
+Anaheim
+
+Long Beach
+
+405
+
+Huntington Beach
+
+nd Essential Fish Habitat...
+
+Irvine Ontario ENTO P I BEALAC
+
+San Bernardino National'Forest
+
+Riverside
+
+Morena Valley
+
+Temecula
+
+Escondido
+
+SAN DIEGO
+
+6563
+
+Ave
+
+Joshua Tree National Park
+
+Palm Desert ndie
+
+Anza Borrego Desert State Park Salton Sea
+
+OFFERING MEMORANDUM
+
+Sheephole Valley
+
+Bra
 
 <!-- page 19 -->
 

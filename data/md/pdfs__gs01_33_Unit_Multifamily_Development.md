@@ -5,7 +5,12 @@ source: pdfs/gs01_33 Unit Multifamily Development.pdf
 doc_type: single_asset_om
 as_of: 2017-10
 pages: 1-15
-content_hash: b29a3ca927e7fcda62c86106f30b6e3bc482dc181d4c39d0b07611b29f1b7584
+ocr_pages:
+- 4
+- 7
+- 8
+- 13
+content_hash: 9eb873821a58193b2a1092d125c3b98aefc2e9c05e0db825f2e12052860ae1bb
 ---
 
 <!-- page 1 -->
@@ -31,6 +36,10 @@ ALL PROPERTY SHOWINGS ARE BY APPOINTMENT ONLY. PLEASE CONTACT THE MARCUS & MILLI
 # TABLE OF CONTENTS
 
 EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . 4 LOCATION AND MARKET OVERVIEW . . . . . . . . . . 7 DEVELOPMENT PRO FORMA . . . . . . . . . . . . . . . . . 13
+
+<!-- page 4 -->
+
+Executive Summary
 
 <!-- page 5 -->
 
@@ -62,6 +71,14 @@ INVESTMENT OVERVIEW
 Marcus & Millichap is pleased to present this offering for the sale of the development of 33 units located at 9850 E. Girard Avenue, Denver, CO 80231. The develpoment consists of 34,076 SF of land, fully entitled and ready to develop 33 units of multifamily, located right off of Hampden Avenue and Havana Street in Denver, CO. The property has been fully vetted and entitled for the proposed develpoment. The proximity to the Denver Tech Center, the University of Denver and Cherry Creek, with quick access to both I-25 and I-225, make this a fantastic location for workforce, student or young professional housing.
 
 The proposed development would be 33 units (24 two bed/two bath, 3 two bed/1.5 bath, 6 one bed/one bath). All units are proposed to have their own washer/dryer hookups, a patio/balcony, 9-10 foot ceilings and covered parking for some. The building would be fully enclosed and have an elevator, an amenity that is unique to the area. The proposed development would be the first new development in the area in over 25 years.
+
+<!-- page 7 -->
+
+Location and Market Overview
+
+<!-- page 8 -->
+
+## AERIAL MAP
 
 <!-- page 9 -->
 
@@ -210,6 +227,10 @@ Denver sees 300 days of sunshine per year. -Denver.org
 - 72.86% White Collar Jobs
 
 - 26.59% Blue Collar Jobs
+
+<!-- page 13 -->
+
+Development Pro Forma
 
 <!-- page 14 -->
 

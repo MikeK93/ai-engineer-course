@@ -5,8 +5,33 @@ source: pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf
 doc_type: fund_om
 as_of: '2025-02-25'
 pages: 1-141
-content_hash: c11aa0e70c94d7875020b1fb4d3511e52d708139242068c31f64217b2761d697
+ocr_pages:
+- 1
+- 84
+- 85
+- 86
+- 87
+- 88
+- 89
+- 90
+- 91
+- 92
+- 93
+- 94
+- 95
+- 96
+- 97
+- 98
+- 99
+- 100
+content_hash: 0c889bee1f25ee14dd3239b0e2a7c4c57c2e7db36f53deeb2247142534e3768d
 ---
+
+<!-- page 1 -->
+
+## IT'S TIME TO CONSIDER THE ALTERNATIVES.
+
+Offering Memorandum February 25, 2025
 
 <!-- page 2 -->
 
@@ -2395,6 +2420,569 @@ The Class B Preferred Shares are recorded as liabilities as the shares provide t
 Related Parties, including directors and common shareholders of the Corporation and related corporations held 267,940 Class B preferred shares as at October 31, 2024 (2023 - 263,287)
 
 _15 of 15_
+
+<!-- page 84 -->
+
+## RESCO Mortgage Investment Corporation
+
+## FINANCIAL STATEMENTS FOR THE YEAR ENDED OCTOBER 31, 2023
+
+<!-- page 85 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Index to Financial Statements
+
+For the year ended October 31, 2023
+
+| AUDITOR'S REPORT | 3-4 |
+|---------------------------------------------------------|--------|
+| FINANCIAL STATEMENTS | |
+| Statement of Financial Position | 5 |
+| Statement of Comprehensive Income and Changes in Equity | 6 |
+| Statement of Cash Flows | 7 |
+| Notes to Financial Statements | 8 - 17 |
+
+<!-- page 86 -->
+
+Rosenswig
+
+## INDEPENDENT AUDITORS' REPORT
+
+To the shareholders of RESCO Mortgage Investment Corporation,
+
+## Opinion
+
+We have audited the financial statements of RESCO Mortgage Investment Corporation ("the Company") which comprise the statement of financial position as at October 31, 2023, and the statements of comprehensive income and changes in equity, and cash flows for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Company as at October 31, 2023 and the results of its operations and its cash flows for the year then ended in accordance with International Financial Reporting Standards.
+
+## Basis for Opinion
+
+We conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities under those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the Company in accordance with the ethical requirements that are relevant to our audit of the financial statements in Canada, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+## Responsibilities of Management and Those Charged with Governance for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with International Financial Reporting Standards, and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing these financial statements, management is responsible for assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters related to a going concern and using the going concern basis of accounting unless management either intends to liquidate the Company or to cease operations, or has no realistic alternative to do so.
+
+Those charged with governance are responsible for overseeing the Company's financial reporting process.
+
+## Auditors'Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with Canadian generally accepted auditing standards will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+Michael Rosenswig Jeff McRae Tony Rosso Lorraine Varga Michelle Koscec Dustin Jainaraine
+
+<!-- page 87 -->
+
+We also:
+
+As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise professional judgment and maintain professional skepticism throughout the audit.
+
+· Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+· Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control.
+
+· Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+
+· Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+
+· Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+Toronto, Ontario February 22, 2024
+
+Chartered Professional Accountants Licensed Public Accountants
+
+<!-- page 88 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Statement of Financial Position
+
+As at October 31, 2023
+
+| | 2023 $ | 2022 $ |
+|------------------------------------------|----------------------|----------------------|
+| ASSETS | ASSETS | ASSETS |
+| Cash | | 340,695 |
+| Prepaid expenses | 11,992 | 11,610 |
+| Accounts receivable (note 7) | 120,000 | 837,467 |
+| Mortgages receivable (note 8) | 79,916,379 | 84,181,972 |
+| | 80,048,371 | 85,371,744 |
+| LIABILITIES | LIABILITIES | LIABILITIES |
+| Bank loan (note 9) | 14,125,675 | 16,805,000 |
+| Accounts payable and accrued liabilities | 458,629 | 415,629 |
+| Class B preferred shares (note 11) | 64,990,850 | 67,681,483 |
+| | 79,575,154 | 84,902,112 |
+| SHAREHOLDERS' EQUITY | SHAREHOLDERS' EQUITY | SHAREHOLDERS' EQUITY |
+| Common shares (note 11) | 10,000 | 10,000 |
+| Retained earnings | 463,217 | 459,632 |
+| | 473,217 | 469,632 |
+| | 80,048,371 | 85,371,744 |
+
+Director
+
+The accompanying notes are an integral part of these financial statements.
+
+Approved on behalf of the Board:
+
+Duue Director
+
+<!-- page 89 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Statement of Comprehensive Income and Changes in Equity
+
+For the year ended October 31, 2023
+
+| | 2023 $ | 2022 $ |
+|------------------------------------------------|-----------|-----------|
+| Revenues | | |
+| Mortgage interest | 7,505,723 | 5,634,298 |
+| Other income | 615,200 | 1,397,015 |
+| | 8,120,923 | 7,031,313 |
+| Operating expenses | | |
+| Dividend on Class B preferred shares (note 10) | 5,453,876 | 5,485,790 |
+| Redemption cost | 485,908 | 280,722 |
+| Management fees (note 6) | 872,611 | 821,283 |
+| Audit and accounting fees | 45,397 | 40,589 |
+| Legal fees | 15,553 | 17,163 |
+| Regulatory fees | 6,444 | 9,482 |
+| Insurance | 20,792 | 19,711 |
+| Interest on loan | 888,562 | 272,907 |
+| Bank charges | 11,109 | 8,742 |
+| Office expenses | 14,628 | 31,335 |
+| Mortgage losses | 302,458 | 21,338 |
+| | 8,117,338 | 7,009,062 |
+| Net comprehensive income for the year | 3,585 | 22,251 |
+| Opening retained earnings | 459,632 | 437,381 |
+| Closing retained earnings | 463,217 | 459,632 |
+
+The accompanying notes are an integral part of these financial statements.
+
+<!-- page 90 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Statement of Cash Flows
+
+For the year ended October 31, 2023
+
+| | 2023 $ | 2022 $ |
+|--------------------------------------------------------------------------|--------------|---------------|
+| Cash flows from operating activities | | |
+| Net comprehensive income for the year | 3,585 | 22,251 |
+| Adjustments to reconcile net income to cash flows | | |
+| from operating activities: | | |
+| Increase in mortgage interest receivable | (212,247) | (244,413) |
+| Increase in prepaid expenses | (382) | (2,676) |
+| Increase (decrease) in accounts payable and accrued liabilities | 43,001 | (29,535) |
+| Cash used in operating activities | (166,043) | (254,373) |
+| Cash flows from investing activities | | |
+| Funding of mortgage investments | (59,199,656) | (131,725,632) |
+| Discharge of mortgage investments | 63,677,496 | 105,040,004 |
+| Cash provided by (used in) investing activities | 4,477,840 | (26,685,628) |
+| Cash flows from financing activities | | |
+| Proceeds from issuance of Class B preferred shares | 10,233,136 | 15,090,628 |
+| Decrease (increase) receivable from issuance of Class B preferred shares | 717,467 | (480,280) |
+| Redemption of Class B preferred shares | (13,256,106) | (8,340,825) |
+| Advances from (repayments to) bank loan | (2,679,325) | 16,805,000 |
+| Share issuance costs | 332,336 | (102,809) |
+| Cash (used in) provided by financing activities | (4,652,492) | 22,971,714 |
+| Net decrease in cash | (340,695) | (3,968,287) |
+| Cash , beginning of year | 340,695 | 4,308,982 |
+| Cash , end of year | | 340,695 |
+
+The accompanying notes are an integral part of these financial statements.
+
+<!-- page 91 -->
+
+## Corporate information
+
+The financial statements of RESCO Mortgage Investment Corporation (the "Corporation") for the year ended October 31, 2023 were authorized for issue in accordance with a resolution of the directors on February 21, on n (o o e o s e o ber 21, 2013. The financial year end of the Corporation is October 31.
+
+Tan n n rne t t d (nn onn mn n s oo dda Section 130.1. The objective of the Corporation is to make prudent investments in mortgages against real property located in Canada in order to generate sustainable and stable income while preserving investment capital for shareholders.
+
+The Corporation is subject to rules under the Income Tax Act (Canada) that permit the Corporation to flowthrough its net income to its shareholders. The income of the Corporation for purposes of the Income Tax Act s o e a ao t a s an computing its taxable income, is generally entitled to deduct the full amount of all taxable dividends (other than aei n t i s u d e n (s i her than capital gains dividends, which are paid by the Corporation to shareholders, will be included in shareholders' income as interest income.
+
+Thn oi t t o oti on s oi oi lths Province of Ontario, Manitoba and Alberta. The registered office of the Corporation is 360 Highway 7 East, Unit 28, Richmond Hill, Ontario L4B 3Y7.
+
+## 2. Basis of presentation
+
+## Statement of compliance
+
+Thas a a n e er ss a rdds ("IFRS") as issued by the International Accounting Standards Board ("IASB") and interpretations of the International Financial Reporting Interpretations Committee ("IFRIC"). The adoption of new and amended standards did not have any material impact on the disclosures or on the amounts reported in the financial sa s ii t ss o sties any new or revised standards that have been issued but not yet effective.
+
+## Functional and presentation currency
+
+The financial statements are presented in Canadian dollars, which is the functional currency of the Corporation.
+
+## Basis of measurement
+
+The financial statements have been prepared on a historical cost basis, except for financial instruments that are measured at fair value. The methods used to measure fair values are discussed in note 4.
+
+## Use of estimates and judgments
+
+The preparation of financial statements in conformity with IFRS require management to make judgments, estimates and assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities, income and expenses. Actual results may vary from these estimates.
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 92 -->
+
+## 2. Basis of presentation (continued)
+
+## Fair value of mortgages receivable
+
+The Corporation is required to make estimates relating to the fair value determination of mortgage receivable. These estimates may include assumptions regarding local real estate market conditions, interest rates and the availability of credit, cost and terms of financing, the impact of present of future legislation or regulation, prior encumbrances and other factors affecting the investments and underlying security of the investments. These assumptions are limited by the availability of reliable comparable data, economic uncertainty, ongoing geopolitical concerns and the uncertainly of predictions concerning future events.
+
+By their nature, estimates of fair value are subjective and do not necessarily result in precise determinations. Should the underlying assumptions change, the estimated fair value could vary by a material amount.
+
+## Expected credit losses on mortgage receivable
+
+The Corporation assesses the impairment and extent of losses on mortgage at each reporting date, and books a provision for mortgage losses accordingly. Judgement by management is required in assessing where there had been a significant increase in credit risk of when a mortgage is impaired. Estimates are required to determine the amount and timing of future cash flows when determining losses.
+
+lois s st t ss oi s s ti u tie ion and the net realizable value of collateral. These estimates are based on assumptions about a number of factors and actual results may differ, resulting in future changes to the provision.
+
+## 3. Significant accounting policies
+
+## Financial instruments
+
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity. Financial instruments are recognized in accordance with IFRS 9.
+
+## Recognition and initial measurement
+
+Financial instruments are recognized on the date of origination at the fair value of consideration exchanged. Except for financial instruments carried at fair value through profit or loss, the initial measurement includes transaction costs that are directly attributable to its issuance.
+
+## Classification and subsequent measurement
+
+Under IFRS 9, classification of financial assets is determined based on:
+
+- (i) the business model under which the assets is held; and
+- (ii) the contractual cash flow characteristics of the instrument
+
+The Corporation's financial assets are predominantly comprised of mortgages receivable. Mortgages are man ao an h o o so ocows are s nns t s n s n nn t principal and interest ("SPPI") on the principal amount outstanding. Accordingly, mortgages receivable are classified as amortized cost instruments using the effective interest rate method.
+
+All other financial assets and liabilities are classified as amortized cost instruments.
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 93 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+## Significant accounting policies (continued)
+
+## Impairment of financial assets
+
+Ts t t t e ( r it d rs o isk mo ie s s s on lifetime ECL is recorded on performing mortgages which are considered to have experienced a significant increase in credit risk (Stage 2) and on credit impaired financial assets (Stage 3).
+
+The main factors considered in determining a significant increase in credit risk include relative changes in probability of default since origination and certain other criteria such loan delinquency.
+
+Evidence of a significant increase in credit risk include factors such as:
+
+- significant financial difficulty of the borrower;
+- default or delinquency in interest or principal payments;
+- high probability of the borrower entering a phase of bankruptcy or a financial reorganization; and/or
+- measurable decrease in the estimated future cash flows from the loan or underlying assets that back the mortgage.
+
+Generally, mortgages overdue for 60 days are considered Stage 2 mortgages and those overdue by 90 days or o e o oe ore ( re e Stage 2 if the liquidation value of the collateralized assets is sufficient to prevent mortgage losses. All other performing assets are considered Stage 1.
+
+Credit loss calculations are outputs of models with a number of underlying assumptions regarding the choice o , , , tho present value of all cash shortfalls related to default events over the expected life of a financial instrument.
+
+The probability of default ("PD"), exposure at default ("EAD"), and loss given default ("LGD") inputs used to estimate expected credit losses are modelled based on macroeconomic variables that are most closely related with credit losses in the relevant portfolio. The measurement of expected credit losses considers information about past events and current conditions as well as reasonable and supportable forecasts of future events and economic conditions. The estimation and application of forward-looking information requires significant judgement.
+
+## Presentation of allowance for ECL
+
+o , s s s s or mortgage losses") are deducted from the gross carrying amount of the assets.
+
+## Write-offs
+
+Mortgages are written off when there is no realistic prospect of recovery. This is generally the case when the Corporation determines that the borrower does not have assets or a source of income that could generate sutt t set t tt ft t t r t uten off could still be subject to enforcement activities.
+
+## Revenue recognition
+
+Mortgage interest is recognized in the statement of comprehensive income using the effective interest method. Other income is recognized as earned.
+
+<!-- page 94 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+## 3. Significant accounting policies (continued)
+
+## Preferred shares
+
+Class B preferred shares are classified as a liability. Costs directly related to the issuance of the preferred shares are recognized as a deduction from the liability.
+
+## Income taxes
+
+The Corporation qualifies as a MIC under the Income Tax Act, and as such is not taxed on income provided that its taxable income is distributed to its shareholders in the form of dividends within 90 days after October 31 each Yee oo u e s , u u uo o to retain income.
+
+## Provisions and contingent liabilities
+
+Pose oi nn r id se rt n ie sei nn e ssing as a result of a past event for which it is probable that an outflow of economic benefits will be required to settle the obligation and where a reliable estimate can be made of the amount of the obligation. Provisions and contingent liabilities are stated at the present value of the expenditure expected to settle the obligation.
+
+Where it is not probable that an outflow of economic benefits will be required, or the amount cannot be estimated reliably, the obligation is disclosed as a contingent liability, unless the probability of outflow of economic benefit is remote. Possible obligations whose existence will only be confirmed by the occurrence or non-occurrence of one or more future events are also disclosed as contingent liabilities unless the probability of outflow of economic benefits is remote.
+
+## Related party transactions
+
+All related party transactions must be disclosed in the financial statements which include the amount of the transactions, the amount of outstanding balances, including terms, provisions for doubtful debts related to out r n s r onm related parties.
+
+## 4. Determination of fair values
+
+The Corporation's financial instruments are recorded at fair value or at amounts that approximate fair value in the financial statements. The Corporation classifies fair value measurements within a hierarchy which gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1) and the lowest priority to unobservable inputs (level 3). The three levels of the fair value hierarchies are:
+
+Level 1: Inputs that reflect unadjusted quoted prices in active markets for identical assets or liabilities.
+
+- Level 2: Inputs, other than quoted prices, that are observable for the asset or liability, either directly or indirectly, including inputs in markets that are not considered to be active.
+- Level 3: Inputs that are unobservable. There is little if any market activity. Inputs into the determination of fair value require significant management judgement or estimation.
+
+Art t l t i significant to the fair value measurement. Cash is classified as level 1. Mortgage receivable is classified as level 3.
+
+<!-- page 95 -->
+
+## 4. Determination of fair values (continued)
+
+For mortgages receivable, there are no quoted prices in an active market. Management makes its fair value determination by discounting future cash flows at the effective interest rate of the mortgage receivable. The discounted cash flow analysis assumed that all mortgages will be held until maturity. Given the short-term nature of the Corporation's mortgage receivables, generally the fair values approximate their carrying values.
+
+## 5. Financial risk management
+
+## Overview
+
+The Corporation's planned operations will expose it to a variety of financial risks that arise as a result of its operating and financing activities:
+
+- i. credit risk;
+- ii. liquidity risk;
+- ii. market risk;
+- iv. operational risk;
+- v. interest rate risk; and
+- vi. capital risk.
+
+This note presents information about the Corporation's exposure, objectives, policies and processes for measuring and managing each of the above risks.
+
+The Corporation employs risk management strategies and policies to ensure that any exposure to risk is in Co ri s s o s rn s the overall responsibility for the establishment and oversight of the Corporation's risk management framework, management has the responsibility to administer and monitor these risks.
+
+## Credit risk
+
+Credit risk is the risk of financial loss to the Corporation if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Corporation's mortgage receivables.
+
+The carrying amount of financial assets represents the maximum credit exposure. The maximum exposure to credit risk at the reporting date was:
+
+| | 2023 | 2022 |
+|----------------------|------------|--------------|
+| Cash | $ | $ 340,695 |
+| Accounts receivable | 120,000 | 837,467 |
+| Mortgages receivable | 79,916,379 | 84,181,972 |
+| | 80,036,379 | $ 85,360,134 |
+
+Cas i oi oi i si stn financial institutions with high credit ratings. Mortgages receivable are issued to borrowers who must pass a credit check. Credit risk is reduced by ensuring that appraisals are completed and loan to value are maintained in accordance with the Corporation's policies.
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 96 -->
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+## 5. Financial risk management (continued)
+
+## Liquidity risk
+
+Liquidity risk is the risk that the Corporation will not be able to meet its financial obligations as they are due. i mii rn r r m t t s lio exceeds projected needs.
+
+The obligations for future advances under the Corporation's investment portfolio are anticipated to be funded from existing cash, mortgage interest, borrower repayments and future issuance of preferred shares.
+
+As at October 31, 2023, management considers that the Corporation does not have significant exposure to liquidity risk.
+
+## Market risk
+
+Market risk is the risk that changes in market prices, such as real estate prices, will affect the Corporation's net income or the value of financial instruments. The objective of the Corporation is to manage and mitigate market risk exposures within acceptable limits, while maximizing returns.
+
+## Operational risk
+
+Operational risk is the risk of direct or indirect loss arising from a wide variety of causes associated with the Corporation's processes, personnel, technology and infrastructure, and from external factors other than credit, market and liquidity risks such as those arising from legal and regulatory requirements and generally accepted standards of corporate behaviour. The Corporation manages its operational risk by setting appropriate policies related to human resources, IT, regulatory compliance, and other factors.
+
+## Interest rate risk
+
+Interest rate risk is the risk that future cash flows will fluctuate as a result of changes in market interest rates. The Corporation is exposed to interest rate risk on balance, if any, drawn from its credit facility.
+
+The Corporation had no interest rate swaps or financial contracts in place as at or during the year ended October 31, 2023.
+
+## Capital risk management
+
+Trrons cs c ns ms r s ss mon s ns ron nns ability to grow, maintain investor and creditor confidence and to provide a platform to create value for its shareholder. The Corporation intends to maintain a flexible capital structure to maximize its ability to pursue additional investment opportunities, which considers the requirement to sustain future development of the business.
+
+<!-- page 97 -->
+
+## 6. Related party transactions
+
+Radiance Mortgage Brokerage Inc. (Radiance), a related party by virtue of common management, acts as the o r ( r a I oo oaromon management, acts as the mortgage administrator to the Corporation. The directors of the related parties are the same individuals as the directors of the Corporation.
+
+The Corporation entered into a Management Services Agreement with Radiance effective November 21, 2013. Thi e s o d ig r d e ing aar a oin o o on o n in ho 1.0% per annum of the book value of the total assets of the Corporation.
+
+The Corporation entered into an Administration Agreement with 5C Capital effective November 21, 2013. The agreement provides for 5C Capital to provide mortgage administrative services including but not limited to the administration of mortgage loans and collecting all amounts due from borrowers of the Corporation. The terms of that agreement provide that 5C Capital will collect a fee of 0.33% of the mortgages under administration. The gart h rh t s tt ns s s ta
+
+D n n ( - n, nts payable is an amount due to Radiance of $75,740 (2022 - $81,957). These transactions were conducted by the Corporation in the normal course of business.
+
+## 7. Accounts receivable
+
+Accounts receivable consists of funds receivable from new shareholders whose Class B share subscriptions co d i ion upon the closing of the new subscriptions. The funds were disbursed to the Corporation in November 2023.
+
+## 8. Mortgages receivable
+
+The following is a breakdown of the mortgages receivable as at October 31:
+
+| | 2023 | 2022 |
+|-------------------------------|--------------|-------------------------|
+| First mortgages | | 43,670,592 $ 50,269,754 |
+| Non-first mortgages | 35,345,847 | 33,252,742 |
+| | 79,016,439 | 83,522,496 |
+| Interest receivable | 1,053,362 | 687,693 |
+| Provision for mortgage losses | (153,422) | (28,217) |
+| Total mortgages receivable | $ 79,916,379 | $ 84,181,972 |
+
+The following is a continuity of the provision for mortgage losses as at October 31:
+
+The Corporation recognizes expected credit losses (ECL) at an amount equal to 12 month ECL, if the credit risk o( o e s s s a
+
+Generally, mortgages overdue for 60 days are considered Stage 2 mortgages and those overdue by 90 days are considered impaired (Stage 3). However, a mortgage overdue by 90 days or more may be considered Stage 2 if the liquidation value of the collateralized assets is sufficient to prevent mortgage losses. All other performing assets are considered Stage 1.
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 98 -->
+
+## 8. Mortgages receivable (continued)
+
+Not s s rd t s s s re ws s-lne ratios not exceeding 85% at inception of the mortgage. All mortgages are secured by residential properties in Canada. Of the total mortgages, $5,221,500, or 6.6% of the total, are in arrears more than 90 days. Based on the expected realizable value of the collateral, the Corporation expects to recover the principal amounts fully or substantially. A provision for mortgage losses of $67,000 has been recorded.
+
+Broken down into the three-stages per the impairment model, mortgages receivable and provision for mortgage losses are as follows:
+
+| | Stage 1 | Stage 2 | Stage 3 | Total |
+|-------------------------------|--------------|-------------|-----------|----------------------|
+| Gro $ r $r r50o | | | $ | 1,000,000$79,016,439 |
+| Provision for mortgage losses | | | (67,000) | (67,000) |
+| | $ 73,794,939 | $ 4,221,500 | $ 933,000 | $ 78,949,439 |
+
+T e e s o e eily c s o s s d s r s o o Canada when measured by loan amount. There are no further commitment to fund additional mortgages as at October 31, 2023.
+
+Principal repayments based on contractual maturity dates are as follows:
+
+| | 2023 |
+|------|--------------|
+| 2024 | 77,964,439 |
+| 2025 | 1,052,000 |
+| | $ 79,016,439 |
+
+During 2023, no transaction costs were incurred by the Corporation in the mortgage transactions.
+
+## 9. Bank loan
+
+The Corporation has a revolving credit facility with Bank of Montreal with an authorized limit of $50,000,000. The facility is repayable on demand and is secured by a general security agreement and an unlimited blanket assignment of mortgages signed by the Corporation in favour of the bank. External counsel has issued an opinion letter confirming that the Corporation's Preferred Shares are ranked behind bank debt.
+
+As a condition of maintaining the revolving credit facility, the Corporation has to meet certain covenants under its agreements with Bank of Montreal. As at year-end, Corporation was in compliance with these covenants.
+
+The facility can be drawn down as a revolving Prime Rate Loan at variable interest rate of Prime + 0.75%, and/or as one or more CDOR loans at fixed interest rates with 30 to 90-day terms. The facility was drawn upon and repaid at various times throughout the reporting period.
+
+The Corporation's previous revolving credit facility with Royal Bank of Canada was fully repaid and discharged.
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 99 -->
+
+## 10. Dividends
+
+The Corporation intends to make dividend payments to the shareholders on a monthly basis on or about the 15th day of each month. The Corporation has the discretion to distribute to shareholders, within 90 days after the year en ns (c e t mae e om t e t certain adjustments.
+
+In fiscal year 2023, the Corporation declared dividends of $5,453,876 (2022 - $5,485,790) to its shareholders.
+
+## 11. Share capital
+
+As at October 31, 2023, the Corporation was authorized to issue the following:
+
+Unlimited number of Class A Common Shares
+
+Unlimited number of Class B Preferred Shares
+
+The Corporation has an optional dividend reinvestment plan (DRIP) for preferred shareholders, whereby participants may reinvest cash dividends in additional preferred shares of the Corporation at the current share price as at the date of conversion. Class B Preferred Shares issued under the DRIP are issued by the Corporation from its treasury.
+
+The following Class A Common Shares were issued and outstanding as at October 31, 2023:
+
+| | # Shares | Amount |
+|-----------------------------------|------------|----------|
+| Balance, beginning of year | 1,000 | $ 10,000 |
+| New shares issued during the year | | |
+| Balance, end of year | 1,000 | $ 10,000 |
+
+The following Class B Preferred Shares were issued and outstanding as at October 31, 2023:
+
+| | # Shares | Amount |
+|----------------------------|-------------|--------------|
+| Balance, beginning of year | 7,075,562 | $ 70,755,624 |
+| New shares issued | 808,701 | 8,279,390 |
+| Dividend Reinvestment Plan | 214,613 | 2,146,126 |
+| Redemption of shares | (1,325,611) | (13,448,486) |
+| Balance, end of year | 6,773,265 | $ 67,732,654 |
+
+Class B preferred shares consists of:
+
+| | 2023 | 2022 |
+|--------------------------|--------------|--------------|
+| Class B Preferred Shares | $ 67,732,654 | $ 70,755,624 |
+| Share issuance costs | (2,741,804) | (3,074,140) |
+| | $ 64,990,850 | $ 67,681,483 |
+
+The Class B Preferred Shares are recorded as liabilities as the shares provide the holders with redemption privileges. Each share is redeemable for the lesser of $10 and the net asset value per share. Most Preferred Shares are also subject to early redemption charges if redeemed within four years of issuance.
+
+Related Parties, including directors and common shareholders of the Corporation and related corporations held 263,287 Class B preferred shares as at October 31, 2023 (2022 - 356,790).
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
+
+<!-- page 100 -->
+
+## 12. Future accounting changes
+
+Various pronouncements have been issued by IASB or IFRS Interpretations Committee (IFRIC) that will be effective for future accounting periods. IAS 1 provides guidelines for the overall requirements for the presentation of the financial statements, guidelines for their structure and minimum requirements for their content. The standards that are applicable to the Company are summarized as follows:
+
+These amendments continue the IASB's clarifications on applying the concept of materiality. These amendments help companies provide useful accounting policy disclosures, and they include: requiring companies to disclose their material accounting policies instead of their significant accounting policies; clarifying that accounting policies related to immaterial transactions, other events or conditions are themselves immaterial and do not need to be disclosed; and clarifying that not all accounting policies that relate to material transactions, other events or conditions are themselves material. The IASB also amended IFRS Practice Statement 2 to include guidance and examples on applying materiality to accounting policy disclosures.
+
+These amendments are effective for reporting periods beginning on or after January 1, 2023. These amendments are expected to reduce the disclosure of accounting policies for the Corporation.
+
+## RESCO Mortgage Investment Corporation
+
+## Notes to Financial Statements
+
+For the year ended October 31, 2023
 
 <!-- page 101 -->
 

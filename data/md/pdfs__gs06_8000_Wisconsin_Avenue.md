@@ -5,7 +5,19 @@ source: pdfs/gs06_8000 Wisconsin Avenue.pdf
 doc_type: single_asset_om
 as_of: 2021-06
 pages: 1-40
-content_hash: bfc8be93b49ffbac762bafc59c73e4d85f5db898b45d6c2de67d9e63f95c5f89
+ocr_pages:
+- 4
+- 5
+- 11
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 28
+- 29
+content_hash: b71de80856817b128b946b63c32bfd7bf19dcec590fb4da0c9499c7fb961bc3c
 ---
 
 <!-- page 1 -->
@@ -42,6 +54,14 @@ The Seller will be responsible for any commission due to the Agent in connection
 
 01 PROPERTY OVERVIEW 02 FLOOR AND MASSING PLANS 03 MAPS AND RENDERINGS 04 LOCATION HIGHLIGHTS
 
+<!-- page 4 -->
+
+COFFESI
+
+<!-- page 5 -->
+
+PROPERTY OVERVIEW
+
 <!-- page 6 -->
 
 Newmark is pleased to present 8000 Wisconsin Avenue, a fully entitled, residential mixed-use development opportunity in the heart of the Woodmont Triangle in Bethesda, Maryland. The 20-story building has been designed as a state-of-the art apartment complex with 437 units ranging from studios to 3-bedroom floor plans as well as 19,500 square feet of Class-A retail space.
@@ -53,6 +73,8 @@ Future residents will enjoy outstanding, immediate access to all of the upscale 
 ### LOCATION
 
 The property is located on the west side of Wisconsin Avenue, just south of Cordell Avenue in the Woodmont Triangle neighborhood of Bethesda Maryland. With frontage and access on both Wisconsin Avenue and Woodmont Avenue, the location and convenience of this site is unparalleled. Transportation alternatives include immediate access to the Bethesda Metro Station (WMATA Red Line), Metro Bus service along Wisconsin Avenue and a planned Bus Rapid Transit Station in front of the property. The option for multiple commuting routes into DC or other parts of the region further enhances the location’s convenience and accessibility. Shopping and services are within an easy walk including a Harris Teeter Grocery Store two blocks north of the site. Wisconsin Avenue is a strong employment corridor highlighted by the new Marriott Headquarters just three blocks south of the site.
+
+**6** | 8000 WISCONSIN AVENUE
 
 <!-- page 7 -->
 
@@ -94,6 +116,8 @@ DEVELOPMENT 437 Multifamily Units 329 Market Rate 108 MPDUs
 
 *25% MPDUs
 
+**8** | 8000 WISCONSIN AVENUE
+
 <!-- page 9 -->
 
 BUILDING PLAN APPROVAL December 2021
@@ -104,6 +128,12 @@ CONSTRUCTION COMPLETION Mid-Year 2024
 
 OFFERING MEMORANDUM | **9**
 
+<!-- page 11 -->
+
+C
+
+FLOOR AND MASSING PLANS
+
 <!-- page 12 -->
 
 #####
@@ -113,6 +143,8 @@ OFFERING MEMORANDUM | **9**
 1st FLOOR — WOODMONT AVENUE — — WISCONSIN AVENUE — 2nd–3rd FLOOR
 
 — WOODMONT AVENUE —
+
+**12** | 8000 WISCONSIN AVENUE
 
 <!-- page 13 -->
 
@@ -136,15 +168,51 @@ MASSING PLANS
 
 WIS NT AV — WOODMONT AVENUE — — WISCONSIN AVENUE —
 
+**14** | 8000 WISCONSIN AVENUE
+
 <!-- page 15 -->
 
 BETHESDA 8 CHOCOLATES THROUG NSIN BLOCK NUE CONNECT — WOODMONT AVENUE — — WISCONSIN AVENUE —
 
 OFFERING MEMORANDUM | **15**
 
+<!-- page 16 -->
+
+KSIGNAGE
+
+X
+
+V
+
+<!-- page 17 -->
+
+MAPS AND RENDERINGS
+
+<!-- page 18 -->
+
+WASHOKO RESTAURANT
+
+HOLD-REST
+
+<!-- page 19 -->
+
+PARKII
+
+<!-- page 20 -->
+
+COFFEE SHOF
+
+<!-- page 21 -->
+
+PANRIDNE GARAGE
+
+OFFERING MEMORANDUM21
+
 <!-- page 22 -->
 
 8000 WISCONSIN
+
+**22** | 8000 WISCONSIN AVENUE
 
 <!-- page 23 -->
 
@@ -157,6 +225,8 @@ OFFERING MEMORANDUM | **23**
 WOODMONT TRIANGLE OLD GEORGETOWN ROAD
 
 BETHESDA, MD
+
+**24** | 8000 WISCONSIN AVENUE
 
 <!-- page 25 -->
 
@@ -172,6 +242,8 @@ OFFERING MEMORANDUM | **25**
 
 4 WISCONSIN WOODMONT 1 TRIANGLE 5 2 6 8 3 9 7 11 12 10 20 15 16 13 21 28 22 17 14 23 18 24 19 25 26 29 27 30
 
+**26** | 8000 WISCONSIN AVENUE
+
 <!-- page 27 -->
 
 W VIRGI
@@ -179,6 +251,18 @@ W VIRGI
 CHA
 
 SAPHIIRE 1 2 3 CAFE 4 5 6 FLANAGAN’S 7 8 9 HARP AND FIDDLE 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 OFFERING MEMORANDUM | 27 LOCAL AMENITIES
+
+<!-- page 28 -->
+
+mn
+
+mm
+
+<!-- page 29 -->
+
+PARKING GARAGE
+
+LOCATION HIGHLIGHTS
 
 <!-- page 30 -->
 
@@ -195,6 +279,8 @@ With the Metro station just steps away from the property, residents will enjoy t
 Downtown Bethesda will also be a bookend to the Purple Line, a 16-mile, $5.6 billion, East-West line, connecting Bethesda to New Carrollton in Prince George’s County. Many stops will connect riders with Metro as well as MARC commuter rail. The project is under construction and planned to open in 2022.
 
 The area is a vibrant urban center that serves as home to a dynamic mix of restaurants, shops and service retailers, art galleries and live performance theaters. The area has been designated as an official Arts & Entertainment District by the state of Maryland, facilitating a high quality of life for local residents. Downtown Bethesda is poised for further development via the Bethesda Downtown Plan, which was adopted in May 2017 by the Montgomery County Council. The plan aims to build on downtown Bethesda’s success by increasing its mixed-use density, enhancing its parks/open spaces and improving its walkability to ensure its long-term sustainability.
+
+**30** | 8000 WISCONSIN AVENUE
 
 <!-- page 31 -->
 
@@ -235,6 +321,8 @@ The Wilson broke ground in late 2017 and recently topped out. The majority of it
 - Size: 280,000 SF
 
 The first in the current generation of trophy office product in Bethesda, 4747 Bethesda delivered late last year, nearly fully leased. The trophy office building is located on the same block as the Wilson and immediately across from the Bethesda Row retail district. The building’s developer, JBG Smith, is also its largest tenant, occupying about 80,000 SF. Host Hotels, Booz Allen Hamilton, Orano USA, and Pebblebrook REIT round out the tenant roster.
+
+**32** | 8000 WISCONSIN AVENUE
 
 <!-- page 33 -->
 
@@ -303,6 +391,8 @@ EDGEMONT AT BETHESDA METRO II – 4885 EDGEMOOR LANE
 - Size: 154 units
 
 Edgemont II is going up on the western end of the same block as Maizon Bethesda. This project will be a 15-story high-rise and is the second phase of the existing eight-story Edgemont at Bethesda Metro apartments. The new building’s underground parking garage will functionally be an addition to the existing building’s garage, so residents of either building can park on both sides. The construction of Edgemont II and Maizon resulted in the demolition of older singlefamily homes that had been converted to office use and will result in nearly the entire block being used for high-density uses — the sole exception being a relatively new standalone TD Bank.
+
+**34** | 8000 WISCONSIN AVENUE
 
 <!-- page 35 -->
 
@@ -388,6 +478,8 @@ Two Bedroom - 46 Three Bedroom
 |Concession %|15.4%|Concession % 8.3%|
 |Unit Mix|Studio/One Bed - 196 Two Bedroom - 101 Three Bedroom - 17|Unit Mix Studio/One Bed - 166 Two Bedroom - 68 Three Bedroom - 0|
 
+**36** | 8000 WISCONSIN AVENUE
+
 <!-- page 37 -->
 
 ### WASHINGTON DC MSA
@@ -425,6 +517,8 @@ OFFERING MEMORANDUM | **37**
 - **4)** The inclusion of 25% MPDU’s significantly reduces development fees and for immediate lease up of these units.
 
 - **5)** Flexible deal structures include finished building pre-sale, land sale-ground lease, joint venture or direct land sale.
+
+**38** | 8000 WISCONSIN AVENUE
 
 <!-- page 39 -->
 

@@ -1,5 +1,5 @@
 {
-  "dataset_version": "5c38792da9b0",
+  "dataset_version": "5c24822b709a",
   "docs": [
     {
       "as_of": "2026-11-11",
@@ -134,11 +134,31 @@
     },
     {
       "as_of": "2025-02-25",
-      "chars": 412882,
-      "content_hash": "c11aa0e70c94d7875020b1fb4d3511e52d708139242068c31f64217b2761d697",
+      "chars": 447873,
+      "content_hash": "0c889bee1f25ee14dd3239b0e2a7c4c57c2e7db36f53deeb2247142534e3768d",
       "doc_id": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares",
       "doc_type": "fund_om",
       "md": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.md",
+      "ocr_pages": [
+        1,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
       "pages": "1-141",
       "source": "pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf",
       "title": "RESCO Mortgage Investment Corporation - Class B Preferred Shares Offering Memorandum"
@@ -167,11 +187,34 @@
     },
     {
       "as_of": "2026-03-31",
-      "chars": 105481,
-      "content_hash": "c270c0be865c4d14353f16cd9830c58898c11fb3c2a218fd3f71edaee5e6bd8c",
+      "chars": 146368,
+      "content_hash": "f6465423af6b5ae07417282452afa6e2c675299e096c798036cd727ccb2a87eb",
       "doc_id": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1",
       "doc_type": "fund_om",
       "md": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1.md",
+      "ocr_pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
       "pages": "1-57",
       "source": "pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf",
       "title": "BGMFll Offering Memorandum"
@@ -211,11 +254,33 @@
     },
     {
       "as_of": "2025-08-15",
-      "chars": 262792,
-      "content_hash": "2dc28cafecea86bf4df5907b51061682489cd33793c8d106754ed54a2dcee4cb",
+      "chars": 295990,
+      "content_hash": "40d836acbda23b8d3905e6a4c7854a4ba7446fb5ffa775ccb374118522a6abd3",
       "doc_id": "pdfs__LMIC-OM-FINAL-Oct-28-2025",
       "doc_type": "fund_om",
       "md": "pdfs__LMIC-OM-FINAL-Oct-28-2025.md",
+      "ocr_pages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
       "pages": "1-97",
       "source": "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf",
       "title": "LMIC Offering Memorandum"
@@ -274,39 +339,65 @@
       "doc_id": "pdfs__PORTER_SQUARE_SHOPPING_CENTER",
       "doc_type": "single_asset_om",
       "md": "pdfs__PORTER_SQUARE_SHOPPING_CENTER.md",
+      "ocr_pages": [
+        6,
+        7
+      ],
       "pages": "1-15",
       "source": "pdfs/PORTER SQUARE SHOPPING CENTER.pdf",
       "title": "Porter Square Shopping Center, Georgia - Offering Memorandum"
     },
     {
       "as_of": "2022-02-08",
-      "chars": 73011,
-      "content_hash": "ca5673f8bfbcf714b394fe266a3441c53f4cc5dc6493e69a8f562c094509ccf0",
+      "chars": 73242,
+      "content_hash": "6a2a7b8e6076107b0aa1013bcc13405db6086a04809836e026aae8d5b8e518ec",
       "doc_id": "pdfs__Retreat_at_Arcway_Investor_Memorandum",
       "doc_type": "other",
       "md": "pdfs__Retreat_at_Arcway_Investor_Memorandum.md",
+      "ocr_pages": [
+        8,
+        17,
+        18,
+        19,
+        20,
+        30
+      ],
       "pages": "1-54",
       "source": "pdfs/Retreat at Arcway Investor Memorandum.pdf",
       "title": "Retreat at Arcway - Investor Overview Deck (Ashcroft Value-Add Fund II)"
     },
     {
       "as_of": "2024-02-26",
-      "chars": 3681,
-      "content_hash": "65a06ef284d9bfb455414566a564034d86f0d42e65028e915cf33f9f5fcda986",
+      "chars": 3729,
+      "content_hash": "d1399373cf90f37f4b5dcb585ae5ef4e8706cab9d45f8d52bee239e47ae76a02",
       "doc_id": "pdfs__Shannon-Lake-Listing-Brochure-1-1-1",
       "doc_type": "listing",
       "md": "pdfs__Shannon-Lake-Listing-Brochure-1-1-1.md",
+      "ocr_pages": [
+        4,
+        5
+      ],
       "pages": "1-6",
       "source": "pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf",
       "title": "Shannon Lake, Shannon View Drive, West Kelowna - Listing Brochure (12.98 acres)"
     },
     {
       "as_of": "2024-06-11",
-      "chars": 27163,
-      "content_hash": "c89979efea96627a0ce9c1a768e981b9e0a1e6a8841e90687ebee934d4f6b50c",
+      "chars": 27480,
+      "content_hash": "5f1f69aa775e98bcb38b8facc2c1ef248450cbf134dcb04d7b5ea4605238fe1c",
       "doc_id": "pdfs__Topaz",
       "doc_type": "single_asset_om",
       "md": "pdfs__Topaz.md",
+      "ocr_pages": [
+        3,
+        4,
+        6,
+        10,
+        21,
+        28,
+        34,
+        37
+      ],
       "pages": "1-40",
       "source": "pdfs/Topaz.pdf",
       "title": "Topaz - Institutional Multifamily Offering Memorandum (Cushman and Wakefield)"
@@ -324,11 +415,17 @@
     },
     {
       "as_of": "2020-05-26",
-      "chars": 13260,
-      "content_hash": "16e9edc1c046f2c0263e9c8119fe25434fd4c39f484fdd3a9119bf62813e831b",
+      "chars": 13426,
+      "content_hash": "3c9dc27209be0ec5ca2dce6134e105a5c1c9b9d40d00574c4a803eb7b5d72bf2",
       "doc_id": "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb",
       "doc_type": "single_asset_om",
       "md": "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb.md",
+      "ocr_pages": [
+        7,
+        10,
+        13,
+        17
+      ],
       "pages": "1-17",
       "source": "pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf",
       "title": "Sunnybrook Business Park Pad Sites, Olathe, KS - Offering Memorandum"
@@ -340,6 +437,9 @@
       "doc_id": "pdfs__connave-2025-r03-offering-memorandum",
       "doc_type": "other",
       "md": "pdfs__connave-2025-r03-offering-memorandum.md",
+      "ocr_pages": [
+        297
+      ],
       "pages": "1-297",
       "source": "pdfs/connave-2025-r03-offering-memorandum.pdf",
       "title": "Connecticut Avenue Securities Trust 2025-R03 - Offering Memorandum (Fannie Mae)"
@@ -368,66 +468,123 @@
     },
     {
       "as_of": "2017-10",
-      "chars": 12171,
-      "content_hash": "b29a3ca927e7fcda62c86106f30b6e3bc482dc181d4c39d0b07611b29f1b7584",
+      "chars": 12258,
+      "content_hash": "9eb873821a58193b2a1092d125c3b98aefc2e9c05e0db825f2e12052860ae1bb",
       "doc_id": "pdfs__gs01_33_Unit_Multifamily_Development",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs01_33_Unit_Multifamily_Development.md",
+      "ocr_pages": [
+        4,
+        7,
+        8,
+        13
+      ],
       "pages": "1-15",
       "source": "pdfs/gs01_33 Unit Multifamily Development.pdf",
       "title": "33 Unit Multifamily Development, 9850 East Girard Avenue, Denver, CO - Offering Memorandum"
     },
     {
       "as_of": "2023-12-27",
-      "chars": 10465,
-      "content_hash": "48c8ad57d8feae79e15947b79cb6c7df37366e43895bc6462a192a6f567c8ac3",
+      "chars": 10514,
+      "content_hash": "c3c84215745bbdd9f994c715ffedbf532f8f86878751520c3eebcbf26cc4be45",
       "doc_id": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM.md",
+      "ocr_pages": [
+        4,
+        10,
+        16
+      ],
       "pages": "1-19",
       "source": "pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
       "title": "708-712 New Depot Street, Los Angeles, CA - Offering Memorandum"
     },
     {
       "as_of": "2024-08-06",
-      "chars": 17893,
-      "content_hash": "a081cab1f5d45dc77e05c2b3a45778f58f9f559c4e25eb35257664a096fa4dee",
+      "chars": 18577,
+      "content_hash": "9e3067bd8024486a201bc56ac80070b30e22bd6531d478d8ad28e4721fa4d250",
       "doc_id": "pdfs__gs03_849_N_Bunker_Hill_OM",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs03_849_N_Bunker_Hill_OM.md",
+      "ocr_pages": [
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        25,
+        31
+      ],
       "pages": "1-34",
       "source": "pdfs/gs03_849+N+Bunker+Hill+OM.pdf",
       "title": "849 North Bunker Hill Avenue, Los Angeles, CA - Offering Memorandum"
     },
     {
       "as_of": "2023-05-17",
-      "chars": 8963,
-      "content_hash": "036c64eec916670dd13e7dcd9a94dc5c57f0cfe662cd8c7a5ddb122064ca77d5",
+      "chars": 9004,
+      "content_hash": "0b55807f9898c20d79e123d82e1b20760e8c2c2b3c7083c74d7698fa21b5e3d2",
       "doc_id": "pdfs__gs04_5623_Meridian_Los_Angeles",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs04_5623_Meridian_Los_Angeles.md",
+      "ocr_pages": [
+        4,
+        8
+      ],
       "pages": "1-14",
       "source": "pdfs/gs04_5623+Meridian+Los+Angeles.pdf",
       "title": "5623 Meridian Street, Los Angeles, CA - Offering Memorandum"
     },
     {
       "as_of": "2024-05-15",
-      "chars": 14084,
-      "content_hash": "7094cf907d1653951b3a49363f72f711382cd13302757bacecb9819f5e604de9",
+      "chars": 14558,
+      "content_hash": "9aed0ff0ec908aed31b639e17133f112e58d2590180ad25d237fd72525b9b047",
       "doc_id": "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277.md",
+      "ocr_pages": [
+        4,
+        7,
+        9,
+        12,
+        13,
+        15,
+        17,
+        18,
+        22
+      ],
       "pages": "1-25",
       "source": "pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
       "title": "Oasis Avenue, Twentynine Palms, CA - Multifamily Offering Memorandum"
     },
     {
       "as_of": "2021-06",
-      "chars": 27069,
-      "content_hash": "bfc8be93b49ffbac762bafc59c73e4d85f5db898b45d6c2de67d9e63f95c5f89",
+      "chars": 27681,
+      "content_hash": "b71de80856817b128b946b63c32bfd7bf19dcec590fb4da0c9499c7fb961bc3c",
       "doc_id": "pdfs__gs06_8000_Wisconsin_Avenue",
       "doc_type": "single_asset_om",
       "md": "pdfs__gs06_8000_Wisconsin_Avenue.md",
+      "ocr_pages": [
+        4,
+        5,
+        11,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        28,
+        29
+      ],
       "pages": "1-40",
       "source": "pdfs/gs06_8000 Wisconsin Avenue.pdf",
       "title": "8000 Wisconsin Avenue, Bethesda, MD - Offering Memorandum"
@@ -606,8 +763,7 @@
       "docs": [
         "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         1,
         84,
         85,
@@ -627,9 +783,10 @@
         99,
         100
       ],
+      "ocr_required_pages": [],
       "pages": 141,
       "raw_hash": "d4466c6da4ef798f698bdcefed6c133d8f62b752c8e3fecaee708473fc8ace04",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.pdf": {
       "blank_pages": [],
@@ -658,8 +815,7 @@
       "docs": [
         "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         36,
         37,
         38,
@@ -682,9 +838,10 @@
         55,
         56
       ],
+      "ocr_required_pages": [],
       "pages": 57,
       "raw_hash": "3aed81b507eaee0ae781f77d7f2ded5418217ec4d240b3522ac36e49842f4bf5",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).pdf": {
       "blank_pages": [
@@ -730,8 +887,7 @@
       "docs": [
         "pdfs__LMIC-OM-FINAL-Oct-28-2025"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         76,
         77,
         78,
@@ -753,9 +909,10 @@
         94,
         95
       ],
+      "ocr_required_pages": [],
       "pages": 97,
       "raw_hash": "8d708c3f24ccb9cb5a3dc8ae581ac91a2724a9a5da0a3f32e2c609e0a5ef3922",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/Listing-Brochure-Tesson-Hills-1.pdf": {
       "blank_pages": [],
@@ -796,22 +953,21 @@
       "docs": [
         "pdfs__PORTER_SQUARE_SHOPPING_CENTER"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         6,
         7
       ],
+      "ocr_required_pages": [],
       "pages": 15,
       "raw_hash": "5dbfa71f216a5340b12cf642ee5273cf5353d18f63cf18fee85a3d3a06d4ead1",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/Retreat at Arcway Investor Memorandum.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__Retreat_at_Arcway_Investor_Memorandum"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         8,
         17,
         18,
@@ -819,46 +975,48 @@
         20,
         30
       ],
+      "ocr_required_pages": [],
       "pages": 54,
       "raw_hash": "fa610465867d2c8f132c0a18a63b4937259f183df5e7ee12de27ab01cda916b3",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__Shannon-Lake-Listing-Brochure-1-1-1"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         5
       ],
+      "ocr_required_pages": [],
       "pages": 6,
       "raw_hash": "2c5db20c90af9f639ff43db3a1de018b84af71d2bdaca8f2f36246fb906f3a62",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/Topaz.pdf": {
-      "blank_pages": [],
+      "blank_pages": [
+        7,
+        9,
+        38
+      ],
       "docs": [
         "pdfs__Topaz"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         3,
         4,
         6,
-        7,
-        9,
         10,
         21,
         28,
         34,
-        37,
-        38
+        37
       ],
+      "ocr_required_pages": [],
       "pages": 40,
       "raw_hash": "9dc7357bc36d8650dc231b7f286705ab99e1162d704466af795a3820277d9208",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf": {
       "blank_pages": [],
@@ -876,29 +1034,29 @@
       "docs": [
         "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         7,
         10,
         13,
         17
       ],
+      "ocr_required_pages": [],
       "pages": 17,
       "raw_hash": "658db29c374c4078f666d007d6b4db024885a562d8ff4a452c9b43a6e9210189",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/connave-2025-r03-offering-memorandum.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__connave-2025-r03-offering-memorandum"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         297
       ],
+      "ocr_required_pages": [],
       "pages": 297,
       "raw_hash": "34de19fe72bbe4cddc3608db867c02c6e27a6ecc53734c8e882f0e6388e5a643",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/document.pdf": {
       "blank_pages": [],
@@ -927,39 +1085,38 @@
       "docs": [
         "pdfs__gs01_33_Unit_Multifamily_Development"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         7,
         8,
         13
       ],
+      "ocr_required_pages": [],
       "pages": 15,
       "raw_hash": "24e01b9ad5d519759867f37ef99a33f34a8265d96165a6635720cf9007af2930",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         10,
         16
       ],
+      "ocr_required_pages": [],
       "pages": 19,
       "raw_hash": "01ee43e7cc07e2af56119027d31db3d0b79e4de1818e2f49c67962b9ceca9881",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs03_849+N+Bunker+Hill+OM.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__gs03_849_N_Bunker_Hill_OM"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         8,
         9,
@@ -977,9 +1134,10 @@
         25,
         31
       ],
+      "ocr_required_pages": [],
       "pages": 34,
       "raw_hash": "1fe584f82c7e356004a643542b0e5a43c55070a0a2878adafe6573c305ca8173",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs04_5623+Meridian+Los+Angeles.pdf": {
       "blank_pages": [
@@ -988,22 +1146,21 @@
       "docs": [
         "pdfs__gs04_5623_Meridian_Los_Angeles"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         8
       ],
+      "ocr_required_pages": [],
       "pages": 14,
       "raw_hash": "381091fe7d231f434a3711db3e77e40bf4658523cccd13b0b7ce637c6274a11f",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf": {
       "blank_pages": [],
       "docs": [
         "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         7,
         9,
@@ -1014,20 +1171,21 @@
         18,
         22
       ],
+      "ocr_required_pages": [],
       "pages": 25,
       "raw_hash": "6b8c3e3c5dd722d6e13f1942b2c2c020c8e1badfd266ed9fe41cf56467f7093a",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs06_8000 Wisconsin Avenue.pdf": {
-      "blank_pages": [],
+      "blank_pages": [
+        10
+      ],
       "docs": [
         "pdfs__gs06_8000_Wisconsin_Avenue"
       ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
+      "ocr_pages": [
         4,
         5,
-        10,
         11,
         16,
         17,
@@ -1038,9 +1196,10 @@
         28,
         29
       ],
+      "ocr_required_pages": [],
       "pages": 40,
       "raw_hash": "f6de15f138b0fb69712b53fc812d635532cbe6029798adcfd387f6e54e2b778d",
-      "status": "ocr_required"
+      "status": "ok"
     },
     "pdfs/gs10_document.pdf": {
       "blank_pages": [],

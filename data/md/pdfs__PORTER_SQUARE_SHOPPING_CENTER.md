@@ -5,6 +5,9 @@ source: pdfs/PORTER SQUARE SHOPPING CENTER.pdf
 doc_type: single_asset_om
 as_of: '2017-04-19'
 pages: 1-15
+ocr_pages:
+- 6
+- 7
 content_hash: 4331b0f5545e36c9ab8c59e3143ad780053fd376c9e894940b07fb6dd1bbf6aa
 ---
 

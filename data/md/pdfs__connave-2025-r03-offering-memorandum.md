@@ -5,6 +5,8 @@ source: pdfs/connave-2025-r03-offering-memorandum.pdf
 doc_type: other
 as_of: 2025-04
 pages: 1-297
+ocr_pages:
+- 297
 content_hash: 66e29ac70b22e1690cfa20b3a006857220e2640375b27b2dcc04240069c3bb5e
 ---
 

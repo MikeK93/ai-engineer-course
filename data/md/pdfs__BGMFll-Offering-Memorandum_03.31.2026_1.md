@@ -5,7 +5,29 @@ source: pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf
 doc_type: fund_om
 as_of: '2026-03-31'
 pages: 1-57
-content_hash: c270c0be865c4d14353f16cd9830c58898c11fb3c2a218fd3f71edaee5e6bd8c
+ocr_pages:
+- 36
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+- 45
+- 46
+- 47
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+- 54
+- 55
+- 56
+content_hash: f6465423af6b5ae07417282452afa6e2c675299e096c798036cd727ccb2a87eb
 ---
 
 <!-- page 1 -->
@@ -997,6 +1019,633 @@ Reference is made to the _Securities Act_ (British Columbia) and the _Securities
 Attached to this Offering Memorandum are the audited statements of Operations and Changes in Equity and Cash Flows for the most recently completed financial year that ended before the date of this Offering Memorandum and an audited Statement of Financial Position dated as at the last day of such financial year are attached to this Offering Memorandum.
 
 14086340.2
+
+<!-- page 36 -->
+
+## Bancorp Growth Mortgage Fund II Ltd. Financial Statements December 31, 2025
+
+<!-- page 37 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Financial Statements
+
+## December 31, 2025
+
+| | Page |
+|-----------------------------------------------|--------|
+| Independent Auditors' Report | 2-3 |
+| Statement of Operations and Changes in Equity | 4 |
+| Statement of Financial Position | 5 |
+| Statement of Cash Flows | 6 |
+| Notes to the Financial Statements | 7-20 |
+
+<!-- page 38 -->
+
+## Independent Auditors'Report
+
+## To the Shareholders of Bancorp Growth Mortgage Fund II Ltd.
+
+## Opinion
+
+We have audited the financial statements of Bancorp Growth Mortgage Fund II Ltd., which comprise the stst e s ns t a a en ei ns equity and statement of cash flows for the year then ended, and notes to the financial statements, including a summary of material accounting policies.
+
+In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Company as at December 31, 2025, and its financial performance and its cash flows for the year then ended in accordance with IFRS Accounting Standards as issued by the International Accounting Standards Board.
+
+## Basis for Opinion
+
+We conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities under those standards are further described in the Auditors' Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the Company in accordance with the ethical requirements that are relevant to our audit of the financial statements in Canada, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Responsibilities of Management and Those Charged with Governance for the Financial Statements Management is responsible for the preparation and fair presentation of the financial statements in ceg sds Sc d s ds d Id ds crd and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, management is responsible for assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+
+Tho i in i r o r o i ei oing process.
+
+## Auditors' Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with Canadian generally accepted auditing standards will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered mam t i o te mic decisions of users taken on the basis of these financial statements. As part of an audit in accordance with Can n er as a srss a cn n aaain professional skepticism throughout the audit. We also:
+
+Crowe MacKay LLP 1400 - 1185 West Georgia Street
+
+Vancouver, BC V6E 4E6
+
+Main +1 (604) 687-4511
+
+Fax +1 (604) 687-5805
+
+www.crowemackay.ca
+
+<!-- page 39 -->
+
+## Independent Auditors' Report (continued)
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fran n n s e en r r r n di evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- ◆ Obtain an understanding of internal control relevant to the audit in order to design audit procedures ta o e rn t n s t e e r he effectiveness of the Company's internal control.
+- ◆ Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors' report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors' report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+- ◆ Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+Vancouver, Canada March 17, 2026
+
+Chartered Professional Accountants
+
+<!-- page 40 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Statement of Operations and Changes in Equity
+
+| For the year ended December 31, | 2025 | 2024 |
+|----------------------------------------------------------|---------------|------------|
+| Revenue | $ 10,833,998$ | 10,521,545 |
+| Expenses | | |
+| Provision for mortgage and interest losses (note 6) | 2,455,673 | 2,155,207 |
+| Write-off of mortgage interest receivable (note 6) | 1,236,105 | |
+| Management and director fees (notes 9 and 14) | 1,200,924 | 1,187,081 |
+| Accounting and legal expense | 103,638 | 90,941 |
+| Interest and bank charges | 94,755 | 94,151 |
+| Office and miscellaneous | 20,923 | 20,386 |
+| Non-voting common share issue costs | 7,958 | 4,995 |
+| Performance incentive (notes 9 and 14) | | 54,842 |
+| | 5,119,976 | 3,607,603 |
+| Income before other items | 5,714,022 | 6,913,942 |
+| Other item | | |
+| Dividends declared on Non-voting common shares (note 13) | 5,150,069 | 6,913,942 |
+| Change in fair value of investment (note 5) | 563,953 | |
+| | 5,714,022 | 6,913,942 |
+| Net income | | |
+| Retained earnings, beginning of year | | |
+| Retained earnings, end of year | $ $ | |
+
+<!-- page 41 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Statement of Financial Position
+
+| December 31, | 2025 | 2024 |
+|--------------------------------------------------|----------------|-------------|
+| Assets | | |
+| Current | | |
+| Cash | $ 358,692 $ | |
+| Interest receivable (note 6) | 2,156,885 | 1,413,086 |
+| Prepaid expenses | 13,648 | 14,645 |
+| Current portion of mortgages receivable (note 6) | 53,676,500 | 59,135,101 |
+| | 56,205,725 | 60,562,832 |
+| Investment (note 5) | 887,219 | |
+| Mortgages receivable (note 6) | 7,473,392 | 8,477,405 |
+| | $ 64,566,336$ | 69,040,237 |
+| Liabilities | | |
+| Current | | |
+| Bank indebtedness (note 7) | $ | $ 1,820,225 |
+| Accounts payable and accrued liabilities | 64,567 | 52,785 |
+| Dividends payable (note 8) | 1,285,933 | 3,103,305 |
+| Due to fund manager (note 9) | 178,075 | 189,577 |
+| | 1,528,575 | 5,165,892 |
+| Common shares (notes 10 and 12) | 1,100 | 1,100 |
+| Non-voting common shares (notes 11 and 12) | 63,036,661 | 63,873,245 |
+| | 63,037,761 | 63,874,345 |
+| | $ 64,566,336 $ | 69,040,237 |
+
+## Commitments (note 15)
+
+The financial statements were approved on March 16, 2026.
+
+Approved on behalf of the Board:
+
+| "Douglas H. Bentley" | Director |
+|------------------------|------------|
+| "Garry Wong" | Director |
+
+<!-- page 42 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Statement of Cash Flows
+
+| For the year ended December 31, | 2025 | 2024 |
+|----------------------------------------------------------------|--------------|--------------|
+| Cash provided by (used for) | | |
+| Operating activities | | |
+| Net income | $ S | |
+| Items not affecting cash | | |
+| Non-cash dividends issued in the year | 3,838,336 | 3,838,828 |
+| Change in non-cash dividends payable | (895,479) | (137,552) |
+| Provision for mortgage and interest losses | 2,455,673 | 2,155,207 |
+| Write-off of mortgage interest receivable | 1,236,105 | |
+| Change in fair value of investment | 563,953 | |
+| | 7,198,588 | 5,856,483 |
+| Change in non-cash working capital items | | |
+| Interest receivable | (3,602,991) | (1,264,885) |
+| Prepaid expenses | 997 | (1,372) |
+| Accounts payable and accrued liabilities | 11,782 | 14,559 |
+| Cash dividends payable | (921,893) | (73,149) |
+| Due to fund manager | (11,502) | 33,704 |
+| | 2,674,981 | 4,565,340 |
+| Financing activities | | |
+| Change in bank indebtedness | (1,820,225) | 1,820,225 |
+| Redemption of Non-voting common shares | (3,344,966) | (2,073,959) |
+| Issuance of Non-voting common shares | 350,292 | 44,000 |
+| Share capital transferred to BGMF II fund | (1,680,246) | |
+| | (6,495,145) | (209,734) |
+| Investing activities | | |
+| Mortgage advances | (18,746,859) | (42,676,228) |
+| Mortgage repayments | 22,925,715 | 37,641,830 |
+| | 4,178,856 | (5,034,398) |
+| Increase (decrease) in cash | 358,692 | (678,792) |
+| Cash, beginning of year | ■ | 678,792 |
+| Cash, end of year | $ 358,692 $ | |
+| Supplemental cash flow information | | |
+| Cash dividends paid | $ 3,127,744 | 3,278,034 |
+| Conversion of mortgage receivable to investment in LP (note 5) | $ 1,451,172 | |
+
+<!-- page 43 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 1. Nature of operations
+
+Bancorp Growth Mortgage Fund II Ltd. ("the Company") was incorporated on July 16, 2009 under the Canada Business Corporations Act. Business operations commenced effective September 21, 2009. The Company operates as a mortgage investment corporation as defined in the Canadian Income Tax Act.
+
+The address of the Company's corporate office and principal place of business is #1420 – 1090 West Georgia Street, Vancouver, BC, V6E 3V7.
+
+## 2. Basis of preparation
+
+## (a) Statement of Compliance
+
+These financial statements have been prepared in accordance with IFRS Accounting Standards ("IFRS") as issued by the International Accounting Standards Board ("IASB") effective for the Company's reporting for the year ended December 31, 2025.
+
+To s s f ri f orsn se effective March 16, 2026.
+
+## (b) Basis of Measurement
+
+The financial statements have been prepared on a historical cost basis.
+
+The financial statements are presented in Canadian dollars, which is also the Company's functional currency.
+
+The preparation of financial statements in compliance with IFRS requires management to make certain critical accounting estimates. It also requires management to exercise judgment in applying the Company's accounting policies. The areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates are significant to the financial statements are disclosed in note 4.
+
+## 3. Material accounting policies
+
+These financial statements are prepared in accordance with IFRS Accounting Standards as issued by the International Accounting Standards Board. The material accounting policies are detailed as follows:
+
+## (a) Revenue recognition
+
+The Company's main source of revenue is interest from its mortgages. Interest revenue is calculated using the effective interest method by applying the effective interest rate to the carrying amount of financial assets at amortized cost. For credit-impaired financial assets, the effective interest rate is applied to the amortized cost, net of any impairment, of those financial assets.
+
+<!-- page 44 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 3. Material accounting policies (continued)
+
+## (a) Revenue recognition (continued)
+
+Interest income on mortgage loans is recognized on the accrual basis except for certain impaired mortgages. Interest income on impaired mortgages will continue to be recognized on the accrual basis when collectability of the principal amount and accrued interest is reasonably assured.
+
+## (b) Non-voting common shares
+
+Non-voting common shares have been classified as a liability because they are retractable at the option of the holder. Share issue costs are expensed in the year incurred. Dividends paid on Non-voting common shares are recorded in the statement of operations as an expense.
+
+## (c) Common shares
+
+Common shares have been classified as a liability because they are retractable at the option of the holder. Share issue costs are expensed in the year incurred. Dividends paid on Common shares are recorded in the statement of operations as an expense.
+
+## (d) Income taxes
+
+Income taxes are recognized for the estimated income taxes payable for the current year and deferred income taxes are recognized for temporary differences between tax and accounting bases of assets and liabilities and for the benefit of losses available to be carried forward for tax purposes that are probable to be realized.
+
+Under the terms of the Canadian Income Tax Act ("Act"), for each year that the Company qualifies as a mortgage investment corporation, no income taxes will be payable on net earnings from which dividends will be paid. Income in excess of allowable deductible reserves under the Act which is not distributed to shareholders within ninety days of the fiscal year-end will be subject to corporate taxation.
+
+## (e) Earnings per share
+
+Quarterly dividends are paid based on the outstanding number of shares of each class at the end of the quarter. Earnings per share is calculated based on the weighted average number of Common and Non-voting common shares outstanding during the year.
+
+<!-- page 45 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 3. Material accounting policies (continued)
+
+## (f) Financial instruments
+
+Financial assets and financial liabilities classified as at amortized cost are initially recognized at fair value and subsequently measured using the effective interest method.
+
+Cash, interest receivable, mortgages receivable, bank indebtedness, accounts payable and accrued liabilities, dividends payable, due to fund manager, common shares and non-voting common shares are classified as at amortized cost.
+
+Fin e a m se a a a ss mach reporting period using the expected credit loss ("ECL") model. The measurement options for the ECLs are lifetime ECLs or 12 months ECLs, depending on whether credit risk has increased significantly since initial recognition on the financial asset.
+
+## (i) Mortgages and interest receivable
+
+Mortgages receivable is carried at the unpaid principal amount plus capitalized charges less loss allowances. Interest receivable is carried at the amount earned bas e he Company establishes a loss allowance on the basis of a 12-month ECL, unless there has been a significant increase in the credit risk of the mortgage, in which case, the loss allowance is measured at the amount of the lifetime ECL. Loss allowances write down mortgages and interest receivable to their estimated recoverable value when full recovery is considered in doubt.
+
+## (ii) Allowance for mortgages and interest receivable losses
+
+The Company reviews mortgages and interest receivable for impairment and will maintain an allowance when required to reduce the carrying value of any mortgages identified as impaired to their estimated realizable value. The estimated realizable value is the principal amount of the mortgage and accrued interest less ECLs. The Ee ol o n o n nts history of individual mortgages, mortgages past their maturity dates and the value of the security underlying the mortgages.
+
+Allowances are established for individual mortgages and interest accruals as well as groups of mortgages identified as credit impaired, which the Company has elected to measure at an amount equal to lifetime ECLs.
+
+## (iii) Investment in limited partnership units
+
+The Company received limited partnership units in a Limited Partnership (the "LP") upon conversion of a portion of its subordinated mortgage position. The Company has determined that it does not have signficiant influence over the LP and, accordingly, accounts for the LP units as a financial asset under IFRS 9.
+
+The LP units are initially recognized at fair value, and are subsequently measured at fair value through profit or loss (FVPL) at each reporting date. Changes in fair value are r re ased as incurred when the asset is measured at FVPL.
+
+<!-- page 46 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 3. Material accounting policies (continued)
+
+## (iv) Determination of fair value
+
+The determination of fair value requires judgment and is based on market information, where available and appropriate. The Company classifies fair value measurements using a fair value hierarchy that reflects the significance of the inputs used in making the measurements. The fair value hierarchy has the following levels:
+
+- Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+- Level 2 – Inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly or indirectly; and
+- Level 3 – Inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+
+As the investment in limited partnership units is not quoted in an active market and fair value is determined using an independent appraisal and residual value analysis, the investment is classified within Level 3 of the fair value hierarchy.
+
+## Credit risk
+
+Financial instruments that potentially subject the Company to a significant concentration of credit risk consist primarily of interest receivable and mortgages receivable.
+
+Credit risk is inherent in this industry, however, the Company carefully monitors its loan portfolio to ensure credit risk and concentrations of risk are minimized. The risk is managed by the Company's overall risk management framework, including monitoring credit exposures, obtaining appropriate security, conducting third party appraisals of the security obtained, and assessing the credit worthiness of counterparties, prior to committing to the investment. The Company's Credit Committee must unanimously approve each loan prior to funding. Refer to note 6 for further information on the credit risk related to the Company's mortgages receivable.
+
+## Liquidity risk
+
+The Company's current financial liabilities are anticipated to mature within the next fiscal period. The Company intends to settle these with funds from its positive working capital position.
+
+## (g) Capital disclosures
+
+The Company manages its capital to ensure that it will be able to continue as a going concern while maximizing the return to stakeholders through a suitable debt and share can ss s sn s s as overall strategy remains unchanged from the prior year. The capital structure of the Company consists of Common and Non-voting common shares, and cash. The Company has externally-imposed restrictions on share capital and bank indebtedness. Refer to disclosures in note 12 and note 7 respectively.
+
+<!-- page 47 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 3. Material accounting policies (continued)
+
+## (h) New accounting standards and interpretations
+
+## IFRS 18 Presentation and Disclosure in Financial Statements
+
+IFRS 18 introduces three sets of new requirements to give investors more transparent and comparable information about companies' financial performance for better investment decisions.
+
+1. Three defined categories for income and expenses (operating, investing and financing) to improve the structure of the income statement, and require all companies to provide new defined subtotals, including operating profit.
+
+2. Requirement for companies to disclose explanations of management-defined performance measures (MPMs) that are related to the income statement.
+
+3. Enhanced guidance on how to organise information and whether to provide it in the primary financial statements or in the notes.
+
+This new standard is effective for reporting periods beginning on or after January 1, 2027 and the Company has not yet assessed its impact.
+
+## 4. Critical Accounting Estimates and Judgments
+
+Mortgage investment corporations make estimates and assumptions about the future that affect the reported amounts of assets and liabilities. Estimates and judgments are continually evaluated based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances. In the future, actual experience may differ from these estimates and assumptions.
+
+The effect of a change in an accounting estimate is recognized prospectively by including it in comprehensive income in the period of the change, if the change affects that period only, or in the period of the change and future periods, if the change affects both. Information about critical judgments and estimates in applying accounting policies that have the most significant risk of causing material adjustment to the carrying amounts of assets and liabilities recognized in the financial statements within the next financial year are discussed below:
+
+## (a) Critical Accounting Judgments
+
+Critical accounting judgments are accounting policies that have been identified as being complex or involving subjective judgments or assessments. The determination by management as to whether mortgage or interest receivable is impaired has been identified as a critical judgment.
+
+<!-- page 48 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 4. Critical Accounting Estimates and Judgments (continued)
+
+## (b) Critical Accounting Estimates
+
+Expected credit losses for mortgages receivable and interest receivable are recorded based on the Company's estimates. Assumptions are based on the current economic environment, historical repayment history, and circumstances of particular borrowers. Estimates and assumptions made may change if new information becomes available. If information becomes available that the full recovery of the mortgage is unlikely, an impairment is recorded in the profit or loss in the period the new information becomes available.
+
+The valuation of investments measured at fair value, including the Company's investment in limited partnership units, also requires the use of significant estimates and assumptions. Fair value is determined based on the underlying value of the investment assets and prevailing market conditions. Changes in assumptions or market conditions could result in changes to the carrying value of the investment, which are recognized in profit or loss.
+
+## 5. Investment
+
+| | 2025 | 2024 |
+|----------------------|-------------|--------|
+| 1485 Davie Street LP | $ 887,219 $ | |
+
+The Company participated in a subordinated mortgage investment related to the property at 1485 Davie Street, Vancouver, BC. Following prolonged market weakness and unsuccessful sale attempts, a portion of the subordinated loan was converted in August 2025 into Class B units of 1485 Davie Street Limited Partnership, which acquired the property on August 14, 2025 as part of a joint venture arrangement with an arms' length party.
+
+The Class B units are held through a nominee acting as bare trustee for the benefit of the coowners. Based on the Company's proportionate interest in the underlying syndicated mortgage, the Company's portion of the converted interest was $1,451,172 or 19.35% of $7.5M.
+
+The limited partnership units are presented as a financial asset measured at fair value through profit or loss, with fair value changes recognized in net income. Although the Company holds Class B units, these units confer primarily economic rights and do not provide ongoing voting rights or participation in the financial and operating policy decisions of the limited partnership, as voting is restricted to Unanimous Resolutions only. Accordingly, the Company does not have significant influence over the limited partnership, and the investment is not accounted for using the equity method.
+
+During the year, a loss provision of $563,953 was recognized as a change in fair value of the investment, reducing the carrying value of the limited partnership units, with the corresponding fair value recognized in net income.
+
+<!-- page 49 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 6. Mortgages receivable
+
+| | 2025 | 2024 |
+|--------------------------------------|----------------|-------------|
+| Residential mortgages | $ 55,863,311 $ | 59,816,202 |
+| Commercial mortgages | 7,416,167 | 9,093,304 |
+| Less: Allowance for mortgage losses | (2,129,586) | (1,297,000) |
+| Total mortgages receivable | 61,149,892 | 67,612,506 |
+| Less | | |
+| Current portion mortgages receivable | 53,676,500 | 59,135,101 |
+| Non-current mortgages receivable | $ 7,473,392 $ | 8,477,405 |
+
+The majority of the mortgages receivable have interest charges determined based on the higher of a specified floating interest rate or fixed interest rate and mature within 22 months. The floating interest rates range from 4.25% to 14.84% above the Canadian Bank Prime rate and the fixed interest rates range from 8.70% to 19.75%.
+
+As at December 31, 2025, the mortgages receivable consists of 88% (2024 – 87%) residential and 12% (2024 – 13%) commercial properties which are located 100% (2024 - 100%) in British Columbia. As at December 31, 2025, $56,585,099 (2024 - $62,795,875) of the principal outstanding is associated with mortgages that have second charge on the security, and t st t ss ( - t ht security.
+
+There are two mortgages past maturity and in collection as at December 31, 2025 (2024 - two past maturity and in collections) with a principal outstanding of $2,587,206 (2024 - $4,435,813 past maturity and in collections), and gross interest receivable of $814,920 (2024 - $1,687,917 pa n n t m s n nt basis.
+
+As at December 31, 2025, management has recorded a credit loss on mortgages receivable of $2,129,586 related to the portfolio of credit impaired mortgages (2024 - $1,297,000), and an allowance for interest receivable of $3,446,009 related to seven mortgages (2024 - $1,822,922 related to three mortgages). As at December 31, 2025, $4,729,697 (2024 - $2,337,165) of the gross interest receivable balance is past due.
+
+| | 2025 | 2024 |
+|-----------------------------|---------------|-------------|
+| Interest receivable | $ 5,602,894 $ | 3,236,008 |
+| Less: credit loss allowance | (3,446,009) | (1,822,922) |
+| | $ 2,156,885 $ | 1,413,086 |
+
+<!-- page 50 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 6. Mortgages receivable (continued)
+
+| | 2025 | 2024 |
+|-----------------------------------------------------------|---------------|-----------|
+| Increase in provision for mortgage losses from prior year | $ 2,455,673 $ | 2,155,207 |
+| Interest write-offs recognized in the current year | 1,236,105 | |
+| | $ 3,691,778 $ | 2,155,207 |
+
+During the year ended December 31, 2025, there were $1,236,105 of write-offs (2024 - $Nil), relating to mortgage interest that had previously been identified as non-performing.
+
+The outstanding principal balances and accrued interest on the mortgages represents the Company's maximum credit exposure. At this time, management is of the opinion that the loss provision recorded is appropriate. In determining the loss provision, management assesses the value of security and different scenarios with respect to collection of the mortgages and interest receivable balance owing and determines the provision amount required.
+
+## 7. Bank indebtedness
+
+The Company has a facility with National Bank for the provision of a demand operating loan with a bo d p i s is iy balance of the principal advanced. A stand-by fee calculated at 0.15% per annum on the undrawn portion of the loan is also charged.
+
+The loan is secured by a first security interest over its present and future acquired personal property, including its mortgages and receivables, and all bank deposit balances. This loan is guaranteed by Bancorp Financial Services Inc. through a secured charge on its assets. As at December 31, 2025, there was $Nil (2024 - $1,820,225) drawn on the facility.
+
+The Company is subject to capital requirements imposed by National Bank. The bank requires the Company to ensure that its covenants are met to continue to hold the loan; if they are not met then the bank has the right to call the loan at any time. The covenants in place are:
+
+- (i) The Company must maintain a cash flow coverage ratio not less than 2:1.
+- (ii) The Company must maintain a tangible net worth of no less than $30,000,000 at all times. Tann oin s n s o oing common share capital, intangible assets, and advances to affiliated companies and shareholder loans specifically postponed to the bank.
+- (iii) donnnt o n nt n nn an norp Financial Services Inc. and entities they control while the loan is in place.
+
+The Company was in compliance with its covenants as at December 31, 2025 and 2024.
+
+<!-- page 51 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 8. Dividends payable
+
+| | 2025 | 2024 |
+|----------------------|---------------|-------------|
+| Cash dividends | S 519,453 | $ 1,441,346 |
+| Reinvested dividends | 766,480 | 1,661,959 |
+| | $ 1,285,933 $ | 3,103,305 |
+
+## 9. Related party transactions
+
+- (a) During the year, the Company entered into transactions with the following related parties:
+
+Bano n n ( ne rrol Bancorp Investor Services Inc. ("BISL"), fund service provider under common control
+
+## (b) Transactions
+
+These transactions are in the normal course of operations and are measured at the exchange amount, which is the amount of consideration established and agreed to by the related parties.
+
+| | 2025 | 2024 |
+|-----------------------|---------------|-----------|
+| Expenses | | |
+| Management fees | $ 1,195,924$ | 1,183,081 |
+| Performance incentive | | 54,842 |
+| Directors fee | 5,000 | 4,000 |
+| | $ 1,200,924 $ | 1,241,923 |
+
+The management fees and performance incentives are paid to BFSI, and are in accordance wt t mn mt m tee calculated in accordance with the management agreement, an Exempt Market Dealer ("EMD") fee of $31,500 (2024 - $31,500) was charged by BISL during the year and is included in the management fees.
+
+- (c) The balance due to the fund manager represents unpaid management fees at year end, which are due within 15 days of month end, and performance incentive fees at year end, which are due within 90 days of year end. The balance due to the fund manager is unsecured and non-interest bearing. As at December 31, 2025, the balance due to fund manager is $178,075 (2024 - $189,577).
+
+<!-- page 52 -->
+
+## Bancorp Growth Mortgage Fund IlI Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 10. Common shares
+
+| | 2025 Number of Shares Issued | 2025 Amount | 2024 Number of Shares Issued | 2024 Amount |
+|------------------------------|--------------------------------|---------------|--------------------------------|---------------|
+| Opening balance, December 31 | 1,100 $ | 1,100 | 1,100 | $ 1,100 |
+| Issued for cash | 100 | 100 | | |
+| Redeemed | (100) | (100) | | |
+| Ending balance, December 31 | 1,100 $ | 1,100 | 1,100 $ | 1,100 |
+
+<!-- page 53 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 11. Non-voting common shares
+
+## Authorized
+
+Unlimited Class A redeemable, non-voting, participating shares with par value of $1.00
+
+Unlimited Class E redeemable, non-voting, participating shares with par value of $1.00
+
+Unlimited Class D redeemable, non-voting, participating shares with par value of $1.00
+
+Unlimited Class F redeemable, non-voting, participating shares with par value of $1.00
+
+| | 2025 Number of Shares Issued | 2025 Amount | 2024 Number of Shares Issued | 2024 Amount |
+|----------------------------------|--------------------------------|---------------|--------------------------------|---------------|
+| Class D Non-voting common shares | | | | |
+| Balance beginning of year | 61,122,703 $ | 61,122,703 | 59,345,834$ | 59,345,834 |
+| Issued for cash | 346,193 | 346,193 | | |
+| Issued as stock dividend | 3,726,039 | 3,726,039 | 3,699,051 | 3,699,051 |
+| Redemptions | (3,151,999) | (3,151,999) | (1,922,182) | (1,922,182) |
+| Transfer to BMMF II | (1,680,246) | (1,680,246) | | |
+| | 60,362,690 | 60,362,690 | 61,122,703 | 61,122,703 |
+| Class F Non-voting common shares | | | | |
+| Balance beginning of year | 2,750,542 | 2,750,542 | 2,718,541 | 2,718,541 |
+| Issued for cash | 4,000 | 4,000 | 44,000 | 44,000 |
+| Issued as stock dividend | 112,296 | 112,296 | 139,778 | 139,778 |
+| Redemptions | (192,867) | (192,867) | (151,777) | (151,777) |
+| | 2,673,971 | 2,673,971 | 2,750,542 | 2,750,542 |
+| | 63,036,661 $ | 63,036,661 | 63,873,245 $ | 63,873,245 |
+
+<!-- page 54 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 12. Share capital
+
+The Common shares and Non-voting common shares are retractable on at least 60 days written notice before the end of any fiscal quarter of the Company. The shares will be redeemed at the book value of the shares plus any unpaid dividends as determined by the Company's year-end audited or quarter-end unaudited financial statements.
+
+Where shares are being redeemed within one year of their issuance, the redemption price will be reduced by an amount equal to 5.0% of the original issuance price of such shares. Where shares aret r ser o i r r er ie redemption price will be reduced by an amount equal to 3.5% of original issuance price of such shares. Where shares are being redeemed after two years of their issuance but within three years of their issuance, the redemption price will be reduced by an amount equal to 2.5% of original issuance price of such shares. Shares being redeemed beyond three years of their issuance will receive the full redemption price.
+
+Notwithstanding the foregoing, the Company has waived such reductions of the redemption price for shares for Class A, D and F shares purchased on or before March 31, 2026. The redemption fee is not waived for Class E shares.
+
+The Common shares and Non-voting common shares will be redeemed unless:
+
+- (i) as a result of such redemption, one holder of the shares or a related group of holders of any class would hold more than 25% of the outstanding shares of that class;
+- (ii) the number of holders within any class of shares would be less than 20;
+- (iii) as a result of such redemption the Company would cease to quality as a "mortgage investment corporation" as defined in the Tax Act; or
+
+Where cash is not available for full redemption of the shares, the Company will redeem as many shares as can be redeemed with the available cash, on a pro rata basis and continue to redeem shares on a pro rata basis as cash becomes available until all of the Common shares and Nonvoting common shares have been redeemed.
+
+To or n sons omnn onn n son omo o or oen o ata basis irrespective of the order in which the Company receives retraction notice from its shareholders.
+
+In the event of liquidation, dissolution or wind-up of the Company, the distribution of the assets of the Company shall be made on a pro-rata basis to the Common and Non-voting common shareholders.
+
+As a result of the redemption notification provisions and restrictions noted above, the Common shares and Non-voting common shares have been recorded as liabilities.
+
+<!-- page 55 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 13. Income distribution
+
+The holders of Non-voting and Common shares are entitled to non-cumulative dividends ("Priority Dividends") from the Company's net profits available for dividends. Such dividends will be calculated as follows:
+
+- (a) the Class A Non-voting shareholders, a return equal to the average of the Benchmark twoYeo on d o o rs business day of the week following the end of each month in the fiscal period;
+- (b) the Class D Non-voting and Common shareholders, a return equal to the average of the Benchmark two-year Government of Canada Bond Rate plus 7.0% per annum as determined on the first business day of the week following the end of each month in the fiscal period;
+- (c) the Class E Non-voting shareholders, a return equal to the average of the Benchmark twoyear Government of Canada Bond Rate plus 6.5% per annum as determined on the first business day of the week following the end of each month in the fiscal period; and
+- (d) the Class F Non-voting shareholders, a return equal to the average of the Benchmark twoyear Government of Canada Bond Rate plus 7.5% per annum as determined on the first business day of the week following the end of each month in the fiscal period
+
+Or such lesser amount as is available for dividends (such amount to be pro-rated in the case of shares not issued for full fiscal year), before any Performance Incentive as described in note 14 is paid to the Fund Manager.
+
+If all or any part of the Company's profits for the year are not available for Priority Dividends due to retained in the Company for the benefit of the shareholders to the extent necessary to eliminate the Company's deficit position, and any balance of profits will be paid out as Priority Dividends.
+
+After payment of the Priority Dividends, and/or after any Priority Capital Allocation, the balance of the Company's profits will be distributed as follows:
+
+- (a) 75% will be paid by way of a dividend to the holders of the Non-voting common and Common shares; and
+- (b) 25% will be paid to the fund manager as profit participation under the management agreement (note 14).
+
+The Company has determined that $5,150,069 (2024 - $6,913,942), being net income before other item, is to be distributed as dividends to Non-voting and Common shareholders, representing weighted average earnings per share of $0.08 (2024 - $0.11). Shareholders have the right to select payment of dividends in cash or Common share or Non-voting common share equivalent.
+
+<!-- page 56 -->
+
+## Bancorp Growth Mortgage Fund II Ltd.
+
+## Notes to the Financial Statements
+
+## December 31, 2025
+
+## 14. Management agreement
+
+The Company has entered into an agreement for the provision of management services with BFSl, a company controlled by the directors and common shareholders involving the Company's business operations, under the terms of which the Company is committed to pay:
+
+- (a) a monthly management fee of 1.75% per annum of the total paid up capital, as defined, of the Company's Class D Non-voting common shares, plus 2.25% per annum of the total paid up capital, as defined, of the Company's Class A Non-voting common shares, plus 2.25% per annum of the total paid up capital, as defined, of the Company's Class E Non-voting common shares, and 1.25% per annum of the total paid up capital, as defined, of the Company's Class F Non-voting common shares, calculated as of the last day of each calendar month and payable within fifteen days after the end of each such calendar month; and
+- (b) a performance incentive of 25% of annual net income after provisions for all expenses including provision of reserves against potential losses and provision for Priority Dividends and/or Priority Capital Allocations to the shareholders of the Company. This incentive will be paid annually based on the net income of the Company, as reported in its audited annual financial statements, within ninety days after the Company's fiscal year-end.
+
+The agreement, effective March 31, 2025, has a five year term and will automatically be renewed for successive one year periods thereafter unless notice of intention not to renew is given by either party at least 180 days before the end of the term.
+
+## 15. Commitments
+
+As at December 31, 2025, outstanding commitments to fund mortgages over the next 12 months totaled $9,187,816 (2024 - $13,249,618). The funding commitments are contingent upon completion of certain milestones by the borrowers.
+
+## 16. Comparative figures
+
+The financial statements have been reclassified, where applicable, to conform to the presentation used in the current year. The changes do not affect prior year earnings.
 
 <!-- page 57 -->
 

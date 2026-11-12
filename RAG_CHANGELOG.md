@@ -15,6 +15,19 @@ Rules: one entry per meaningful change (code, data, prompt, config, model). Reco
 
 ---
 
+## 2026-11-12 | Phase 3 | OCR command and OCR pages merged   (commit pending)
+
+What: added `src/rag/ocr.py` and `python main.py ocr` (`--only`, `--limit`). It OCRs every page in the manifest's `ocr_required_pages` with Docling on CPU and writes `data/ocr/<doc_id>/page-<n>.md`; the next `ingest` merges them. Ran it on the corpus: 124 pages (131 total with the 7 trial pages), then re-ingested.
+
+Why, by decision:
+- **Separate command, engine injected** (`OcrEngine`), same pattern as the extractors. `ingest` never imports `ocr.py`, so ingest, CI and the later phases work without Docling or PyTorch OCR models; tests use a fake engine.
+- **Full-page OCR, one page at a time**, because these pages have no usable text layer, and per-page output is written immediately so a 40-minute run can be interrupted and resumed.
+- **Empty OCR result still writes an empty file**, and `ingest` turns that page into `blank`. Without this, photo pages stay `ocr_required` forever and every run offers to OCR them again.
+- **Reads the manifest, not the audit log**, since the audit log now has one file per run.
+- Known limit: OCR files are keyed by file name, not by file hash. If a PDF is replaced, its old OCR files must be deleted by hand.
+
+Effect: 0 pages need OCR after re-ingest. 4 pages found no text (`gs06` page 10, Topaz pages 7, 9, 38). Outlined-text financial statements (RESCO, BGMFll) now come out as correct Markdown tables, with small glitches such as `$ 10,833,998$` in one cell. About 16 seconds per page on CPU. 22 tests pass.
+
 ## 2026-11-12 | Phase 2 | Versioned manifest, timestamped audit log   (commit pending)
 
 What:

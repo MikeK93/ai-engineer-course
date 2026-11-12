@@ -138,7 +138,7 @@ def _prepare(entry: DocEntry, pages: list[Page], paths: IngestPaths, record: dic
     record["pages"] = len(pages)
     record["ocr_required_pages"] = [p.number for p in pages if p.status == OCR_REQUIRED]
     record["blank_pages"] = [p.number for p in pages if p.status == BLANK]
-    record["ocr_pages"] = [p.number for p in pages if p.source == "ocr"]
+    record["ocr_pages"] = [p.number for p in pages if p.source == "ocr" and p.status == OK]
     if record["ocr_required_pages"]:
         record["status"] = OCR_REQUIRED
         events.append({"event": "ocr_required", "file": entry.file, "pages": record["ocr_required_pages"]})
@@ -160,10 +160,14 @@ def _prepare(entry: DocEntry, pages: list[Page], paths: IngestPaths, record: dic
 
 
 def _merge_ocr(pages: list[Page], ocr: dict[int, str]) -> list[Page]:
-    return [
-        replace(p, text=ocr[p.number], status=OK, source="ocr") if p.status == OCR_REQUIRED and p.number in ocr else p
-        for p in pages
-    ]
+    """Fill `ocr_required` pages from OCR output. OCR that found nothing makes the page blank."""
+    merged = []
+    for p in pages:
+        if p.status == OCR_REQUIRED and p.number in ocr:
+            text = ocr[p.number]
+            p = replace(p, text=text, status=OK if text else BLANK, source="ocr")
+        merged.append(p)
+    return merged
 
 
 def _fail(record: dict, events: list[dict], entry: DocEntry, message: str) -> None:

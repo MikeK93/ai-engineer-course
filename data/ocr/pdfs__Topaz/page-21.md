@@ -1,0 +1,25 @@
+MEN
+
+Arizona State
+
+ASU
+
+University
+
+TOPAZ
+
+HISTORIC CORE
+
+USC
+
+agn  e rtea
+
+ASUFIDM
+
+Arizona State University
+
+UCLA
+
+CAL STATE LA
+
+CALIFORNIA STATE UNIVERSITY, LOS ANGELES

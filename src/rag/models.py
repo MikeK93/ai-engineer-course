@@ -45,4 +45,4 @@ class LogicalDoc:
 
     @property
     def ocr_pages(self) -> list[int]:
-        return [p.number for p in self.pages if p.source == "ocr"]
+        return [p.number for p in self.pages if p.source == "ocr" and p.status == OK]

@@ -5,7 +5,16 @@ source: pdfs/Topaz.pdf
 doc_type: single_asset_om
 as_of: '2024-06-11'
 pages: 1-40
-content_hash: c89979efea96627a0ce9c1a768e981b9e0a1e6a8841e90687ebee934d4f6b50c
+ocr_pages:
+- 3
+- 4
+- 6
+- 10
+- 21
+- 28
+- 34
+- 37
+content_hash: 5f1f69aa775e98bcb38b8facc2c1ef248450cbf134dcb04d7b5ea4605238fe1c
 ---
 
 <!-- page 1 -->
@@ -52,6 +61,26 @@ The terms and conditions stated in this section will relate to all of the sectio
 
 900 Wilshire Blvd., Suite 2400 Los Angeles, CA 90017 Lic. #616335
 
+<!-- page 4 -->
+
+s
+
+ms m ses
+
+6TH ST
+
+TOPAZ
+
+HISTORIC CORE
+
+LOS ANGELES ST
+
+MPHER
+
+BOREEB
+
+BBBRR
+
 <!-- page 5 -->
 
 # THE OFFERING
@@ -73,6 +102,10 @@ Cushman & Wakefield, Inc., as exclusive advisor, is offering for sale Topaz (the
 **Heart of the 2028 Olympics** – Downtown Los Angeles will host the highest concentration of sporting events during the 2028 Summer Olympics, which is expected to create approximately $9.6 billion in economic impact for Los Angeles, including more than 64,000 new jobs.
 
 **Expanding Transit & Amenity Base** – Boasting a Walk Score of 98 and Transit Score of 100, Topaz is walkable to hip lifestyle retail, minutes to Little Tokyo and the Arts District, and three blocks from the Metro Rail, which will soon connect to Beverly Hills, Century City, and Westwood.
+
+<!-- page 6 -->
+
+川
 
 <!-- page 8 -->
 
@@ -304,6 +337,34 @@ In addition to UCLA’s new Downtown campus, Topaz is in proximity to campuses f
 
 - First programs (7 of 31 identified to date) will commence operations in June 2024
 
+<!-- page 21 -->
+
+MEN
+
+Arizona State
+
+ASU
+
+University
+
+TOPAZ
+
+HISTORIC CORE
+
+USC
+
+agn e rtea
+
+ASUFIDM
+
+Arizona State University
+
+UCLA
+
+CAL STATE LA
+
+CALIFORNIA STATE UNIVERSITY, LOS ANGELES
+
 <!-- page 22 -->
 
 ### GLOBAL STUDIO HUB IN THE MAKING
@@ -426,6 +487,16 @@ As can be seen in the chart below, Topaz’s rents are well-below average rents 
 |Weighted Average|2017|316|763|$2,766|$3.62|-|$2,598|$3.40|
 |Topaz (In-Place Rent)|2018|159|756|$2,315|$3.08|-|-|-|
 
+<!-- page 28 -->
+
+CECO11
+
+mun
+
+cmm
+
+mm
+
 <!-- page 29 -->
 
 ### LIMITED NEW SUPPLY WILL DRIVE RENT GROWTH
@@ -503,6 +574,12 @@ Palace Theatre
 Million Dollar Theater
 
 The United Theater on Broadway
+
+<!-- page 37 -->
+
+Orpheum Theatre
+
+Los Angeles Theatre
 
 <!-- page 39 -->
 

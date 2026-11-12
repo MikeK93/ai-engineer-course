@@ -60,14 +60,21 @@ def remove_stale_markdown(md_dir: Path, keep: set[str]) -> list[str]:
 # --- OCR text -----------------------------------------------------------------
 
 def load_ocr_pages(ocr_dir: Path, file_doc_id: str) -> dict[int, str]:
-    """{page number: Markdown} produced earlier by the `ocr` command for this file."""
+    """{page number: Markdown} produced earlier by the `ocr` command for this file.
+
+    A page whose OCR found no text is present with an empty string: it was tried, so it is resolved.
+    """
     folder = ocr_dir / file_doc_id
-    pages = {}
-    for path in sorted(folder.glob("page-*.md")) if folder.is_dir() else []:
-        text = path.read_text(encoding="utf-8").strip()
-        if text:
-            pages[int(path.stem.split("-")[1])] = text
-    return pages
+    return {
+        int(path.stem.split("-")[1]): path.read_text(encoding="utf-8").strip()
+        for path in sorted(folder.glob("page-*.md")) if folder.is_dir()
+    }
+
+
+def write_ocr_page(ocr_dir: Path, file_doc_id: str, page: int, text: str) -> None:
+    path = ocr_dir / file_doc_id / f"page-{page}.md"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text.strip() + "\n" if text.strip() else "", encoding="utf-8", newline="\n")
 
 
 # --- extraction cache ---------------------------------------------------------

@@ -5,7 +5,11 @@ source: pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf
 doc_type: single_asset_om
 as_of: '2023-12-27'
 pages: 1-19
-content_hash: 48c8ad57d8feae79e15947b79cb6c7df37366e43895bc6462a192a6f567c8ac3
+ocr_pages:
+- 4
+- 10
+- 16
+content_hash: c3c84215745bbdd9f994c715ffedbf532f8f86878751520c3eebcbf26cc4be45
 ---
 
 <!-- page 1 -->
@@ -51,6 +55,10 @@ Property Profile
 Market Context
 
 Area Overview
+
+<!-- page 4 -->
+
+Property Profile
 
 <!-- page 5 -->
 
@@ -111,6 +119,10 @@ Floor Plans
 **FRONT ELEVATION**
 
 **WEST ELEVATION**
+
+<!-- page 10 -->
+
+Market Context
 
 <!-- page 11 -->
 
@@ -195,6 +207,10 @@ Floor Plans
 ## Sale **Comparables**
 
 1 3 2 4
+
+<!-- page 16 -->
+
+Area Overview
 
 <!-- page 17 -->
 

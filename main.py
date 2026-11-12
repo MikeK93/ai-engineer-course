@@ -101,8 +101,15 @@ def cmd_ingest(args):
         raise SystemExit(1)
 
 
+def cmd_ocr(args):
+    from src.rag.ocr import run_ocr
+
+    report = run_ocr(only=args.only, limit=args.limit)
+    print(f"{report['done']} pages OCRed ({report['empty']} found no text), {report['pending']} still pending. "
+          "Now run `python main.py ingest` to merge them.")
+
+
 RAG_STUBS = {
-    "ocr": (3, "Run Docling on pages marked ocr_required and write data/ocr/"),
     "chunk": (4, "Chunk data/md/ by heading into data/chunks.jsonl"),
     "index": (5, "Embed data/chunks.jsonl into Qdrant and build the BM25 index"),
     "search": (5, "Search the index (vector, bm25, hybrid, rerank) and print the top hits"),
@@ -169,6 +176,11 @@ def main():
     p.add_argument("--only", nargs="+", help="Trial run: only catalog files whose path contains one of these texts")
     p.add_argument("--out", help="Write md/, manifest.json, manifests/ and audit/ here instead of data/")
     p.set_defaults(fn=cmd_ingest)
+
+    p = sub.add_parser("ocr", help="[RAG] OCR the pages ingest marked ocr_required (needs requirements-ocr.txt)")
+    p.add_argument("--only", nargs="+", help="Only files whose path contains one of these texts")
+    p.add_argument("--limit", type=int, help="Stop after this many pages (trial run)")
+    p.set_defaults(fn=cmd_ocr)
 
     _add_rag_stubs(sub)
 

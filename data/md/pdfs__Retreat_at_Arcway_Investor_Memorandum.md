@@ -5,7 +5,14 @@ source: pdfs/Retreat at Arcway Investor Memorandum.pdf
 doc_type: other
 as_of: '2022-02-08'
 pages: 1-54
-content_hash: ca5673f8bfbcf714b394fe266a3441c53f4cc5dc6493e69a8f562c094509ccf0
+ocr_pages:
+- 8
+- 17
+- 18
+- 19
+- 20
+- 30
+content_hash: 6a2a7b8e6076107b0aa1013bcc13405db6086a04809836e026aae8d5b8e518ec
 ---
 
 <!-- page 1 -->
@@ -117,6 +124,12 @@ Retreat at Arc Way
 |Prepayment|Noprepayment after a short lockoutperiod|
 
 *Subject to change prior to closing.
+
+<!-- page 8 -->
+
+## Retreat at Arc Way
+
+## INVESTMENT SUMMARY
 
 <!-- page 9 -->
 
@@ -318,6 +331,26 @@ Retreat at Arc Way
 |**Average**||**945**||**$1,117**|
 |**Total**||**268,384**|**284**|**$317,497**|
 
+<!-- page 17 -->
+
+## Retreat at Arc Way
+
+## ONE-BEDROOM FLOOR PLANS
+
+<!-- page 18 -->
+
+## Retreat at Arc Way
+
+## TWO-BEDROOM FLOOR PLANS
+
+<!-- page 19 -->
+
+## THREE-BEDROOM FLOOR PLANS
+
+<!-- page 20 -->
+
+## Retreat at Arc Way SITE MAP
+
 <!-- page 21 -->
 
 Retreat at Arc Way MARKET OVERVIEW & COMPARABLE ANALYSIS
@@ -476,6 +509,10 @@ _*Retreat at Arc Way rents are inclusive of Ashcroft’s post renovation upgrade
 |**Retreat at Arcway**|**284**|**1986**||**$251,232**|**$71,350,000**|
 
 _*Rumored Estimated Contract Price_
+
+<!-- page 30 -->
+
+VALUE-ADD FUN D ) 2
 
 <!-- page 31 -->
 

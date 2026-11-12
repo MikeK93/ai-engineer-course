@@ -1,0 +1,3 @@
+## RESCO Mortgage Investment Corporation
+
+## FINANCIAL STATEMENTS FOR THE YEAR ENDED OCTOBER 31, 2023

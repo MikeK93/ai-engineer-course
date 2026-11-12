@@ -114,3 +114,56 @@ def test_full_flag_ignores_cache_and_stale_markdown_is_removed(paths):
     ingest(paths=paths, extractors={"pdf": lambda p: calls.append(p) or fake_pdf(p)}, log=lambda _: None, full=True)
     assert len(calls) == len(FILES)
     assert not (paths.md / "pdfs__gone.md").exists()
+
+
+# --- ocr command --------------------------------------------------------------
+
+def fake_engine(text_for):
+    calls = []
+
+    def engine(pdf, pages):
+        calls.append((pdf.stem, list(pages)))
+        for n in pages:
+            yield n, text_for(n)
+
+    engine.calls = calls
+    return engine
+
+
+def test_ocr_writes_pending_pages_then_ingest_merges_them(paths):
+    from src.rag.ocr import run_ocr
+
+    run(paths)                                           # scan.pdf page 2 is ocr_required
+    engine = fake_engine(lambda n: f"Recovered text of page {n} from the scan.")
+    report = run_ocr(paths=paths, engine=engine, log=lambda _: None)
+    assert report == {"done": 1, "empty": 0, "pending": 0, "files": 1}
+    assert engine.calls == [("scan", [2])]
+    assert (paths.ocr / "pdfs__scan" / "page-2.md").read_text().startswith("Recovered text of page 2")
+
+    run_ocr(paths=paths, engine=engine, log=lambda _: None)   # nothing left to do: engine not called again
+    assert len(engine.calls) == 1
+
+    manifest = run(paths)
+    assert manifest["files"]["pdfs/scan.pdf"]["ocr_required_pages"] == []
+    assert manifest["files"]["pdfs/scan.pdf"]["ocr_pages"] == [2]
+
+
+def test_ocr_that_finds_nothing_resolves_the_page_as_blank(paths):
+    from src.rag.ocr import run_ocr
+
+    run(paths)
+    report = run_ocr(paths=paths, engine=fake_engine(lambda n: ""), log=lambda _: None)
+    assert report["empty"] == 1
+    manifest = run(paths)
+    record = manifest["files"]["pdfs/scan.pdf"]
+    assert record["ocr_required_pages"] == [] and record["blank_pages"] == [2] and record["ocr_pages"] == []
+
+
+def test_ocr_only_and_limit(paths):
+    from src.rag.ocr import run_ocr
+
+    run(paths)
+    engine = fake_engine(lambda n: "x" * 30)
+    assert run_ocr(paths=paths, engine=engine, only=["nothing-matches"], log=lambda _: None)["files"] == 0
+    assert run_ocr(paths=paths, engine=engine, limit=0, log=lambda _: None)["files"] == 0
+    assert engine.calls == []

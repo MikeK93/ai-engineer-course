@@ -5,7 +5,24 @@ source: pdfs/gs03_849+N+Bunker+Hill+OM.pdf
 doc_type: single_asset_om
 as_of: '2024-08-06'
 pages: 1-34
-content_hash: a081cab1f5d45dc77e05c2b3a45778f58f9f559c4e25eb35257664a096fa4dee
+ocr_pages:
+- 4
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 25
+- 31
+content_hash: 9e3067bd8024486a201bc56ac80070b30e22bd6531d478d8ad28e4721fa4d250
 ---
 
 <!-- page 1 -->
@@ -58,6 +75,10 @@ Market Context
 
 Area Overview
 
+<!-- page 4 -->
+
+## Property Profile
+
 <!-- page 5 -->
 
 # Property **Overview**
@@ -83,6 +104,8 @@ Area Overview
 ##### **Aerial Video click below**
 
 ##### **Marketing Video click below**
+
+Offering Memorandum | **5**
 
 <!-- page 6 -->
 
@@ -130,9 +153,63 @@ Bunker Height’s Apartment Homes are conveniently located in the business and c
 
 - **Opportunity to Also Purchase Adjacent Property Currently Under Construction at 708-712 New Depot Street. Contact Agent for More Information**
 
+Offering Memorandum | **6**
+
 <!-- page 7 -->
 
 Offering Memorandum | 7 ot Street l p Hil Alpine Street e r D West College Street ke n u w 110 Freeway B e h t New Depot Street N r o N North Figueroa Street Figueroa Terrace Cleveland St Yale Avenue North Hill Street Alpine Street
+
+<!-- page 8 -->
+
+## Property Photos
+
+<!-- page 9 -->
+
+## Property Photos
+
+<!-- page 10 -->
+
+## Property Photos
+
+<!-- page 11 -->
+
+## Property Photos
+
+<!-- page 12 -->
+
+## Property Photos
+
+<!-- page 13 -->
+
+## Property Photos
+
+<!-- page 14 -->
+
+## Property Photos
+
+<!-- page 15 -->
+
+## Property Photos
+
+<!-- page 16 -->
+
+## Floor Plans
+
+<!-- page 17 -->
+
+## Floor Plans
+
+<!-- page 18 -->
+
+## Floor Plans
+
+<!-- page 19 -->
+
+## Floor Plans
+
+<!-- page 20 -->
+
+Financial Analysis
 
 <!-- page 21 -->
 
@@ -167,6 +244,8 @@ Offering Memorandum | 7 ot Street l p Hil Alpine Street e r D West College Stree
 Watch Aerial Video
 
 _* Information herein has been obtained from sources deemed reliable, however its accuracy cannot be guaranteed. The user is required to conduct their own due diligence and verification._
+
+Offering Memorandum | **21**
 
 <!-- page 22 -->
 
@@ -216,6 +295,8 @@ _* Information herein has been obtained from sources deemed reliable, however it
 |Gross Sch|eduled MonthlyRental Income:|||||$85,374|$92,750|
 |**Total Yea**|**rly Scheduled Income:**|||||**$1,024,488**|**$1,113,000**|
 
+Offering Memorandum | **22**
+
 <!-- page 23 -->
 
 ## Unit Mix Summary
@@ -237,6 +318,8 @@ _* Information herein has been obtained from sources deemed reliable, however it
 |2 Bedroom 1 Bath Type I|1|$2,475.00|$2,475|$2,850|$2,850|
 |**Totals / Wtd. Averages**||**$2,315**|**$85,649**|**$2,507**|**$92,750**|
 |**Annual Rent Potential**|||**$1,027,788**||**$1,113,000**|
+
+Offering Memorandum | **23**
 
 <!-- page 24 -->
 
@@ -269,6 +352,12 @@ _* Information herein has been obtained from sources deemed reliable, however it
 |Alarm Service (Fire System)|$1,380|$0.05|$37|$1,380|$0.05|$37|Estimated|
 |**Total Expenses**|**$329,569**|**$10.75**|**$8,907**|**$332,048**|**$10.83**|**$8,974**||
 
+Offering Memorandum | **24**
+
+<!-- page 25 -->
+
+Market Context
+
 <!-- page 26 -->
 
 # Rent **Comparables**
@@ -293,6 +382,8 @@ _* Information herein has been obtained from sources deemed reliable, however it
 
 **1027 Wilshire Boulevard, Los Angeles, CA Year Built** : 2021 **Units:** 376 **Type** : 1 Bed + 1 Bath **Rent** : $2,980 **SF** : 670
 
+Offering Memorandum | **26**
+
 <!-- page 27 -->
 
 # Rent **Comparables**
@@ -315,11 +406,15 @@ _* Information herein has been obtained from sources deemed reliable, however it
 
 **801 South Hope Street, Los Angeles, CA Year Built** : 2012 **Units:** 290 **Type** : 2 Bed + 2 Bath **Rent** : $3,746 **SF** : 1,135
 
+Offering Memorandum | **27**
+
 <!-- page 28 -->
 
 # Rent **Comparables**
 
 1,5,10 2,7 3,6,9 8 4,11
+
+Offering Memorandum | **28**
 
 <!-- page 29 -->
 
@@ -369,11 +464,19 @@ _* Information herein has been obtained from sources deemed reliable, however it
 
 **Year Built:** 2019 **Units** : 472 **Building SF:** 535,949 **$/SF:** $580.28 **$/Unit:** $658,898 **Cap Rate:** N/A **GRM:** N/A **Sale Date:** 9/15/2022
 
+Offering Memorandum | **29**
+
 <!-- page 30 -->
 
 # Sale **Comparables**
 
 1 2 4 3 5 7 6
+
+Offering Memorandum | **30**
+
+<!-- page 31 -->
+
+Area Overview
 
 <!-- page 32 -->
 
@@ -398,6 +501,8 @@ Burbank (BUR) 23min / 16.0 mi
 Los Angeles (LAX) 25 min / 16.0 mi
 
 Union Station 20 min / 1.0 mi
+
+Offering Memorandum | **32**
 
 <!-- page 33 -->
 
@@ -447,6 +552,8 @@ Union Station 20 min / 1.0 mi
 |Construction/Extraction|1,965|9,199|25,001|
 
 Rent Occupied Household Growth Population Growth 90.4% within a within a 3 mile radius is expected within a 3 mile radius is expected 1 mile radius of property to reach 2.6% by 2027 to reach 1.3 % by 2027
+
+Offering Memorandum | **33**
 
 <!-- page 34 -->
 
