@@ -10,7 +10,7 @@ Extractors must be top-level functions so they can run in worker processes.
 from collections.abc import Callable
 from pathlib import Path
 
-from .config import MIN_CHARS_PER_PAGE
+from .config import MIN_CHARS_PER_PAGE, MIN_DRAWINGS_FOR_OCR
 from .models import BLANK, OCR_REQUIRED, OK, Page
 
 Extractor = Callable[[Path], list[Page]]
@@ -25,6 +25,9 @@ def default_extractors() -> dict[str, Extractor]:
 def extract_pdf(path: Path) -> list[Page]:
     """One Page per PDF page. Pages with too little text are flagged, not converted.
 
+    A page under MIN_CHARS_PER_PAGE is `ocr_required` when it has an image or more than
+    MIN_DRAWINGS_FOR_OCR vector paths (text converted to outlines); otherwise it is blank.
+
     Layout-aware Markdown (tables stay tables) via pymupdf4llm. Its built-in OCR is off on
     purpose: scanned pages are left to the separate `ocr` command.
     """
@@ -34,6 +37,9 @@ def extract_pdf(path: Path) -> list[Page]:
     with pymupdf.open(path) as doc:
         stats = [(len(p.get_text().strip()), len(p.get_images(full=True))) for p in doc]
         readable = [i for i, (chars, _) in enumerate(stats) if chars >= MIN_CHARS_PER_PAGE]
+        # Drawings are only counted for pages without text and images (it is the slow call).
+        drawings_by_page = {i: len(doc[i].get_drawings()) for i, (chars, images) in enumerate(stats)
+                            if chars < MIN_CHARS_PER_PAGE and not images}
         markdown: dict[int, str] = {}
         if readable:
             chunks = pymupdf4llm.to_markdown(
@@ -45,11 +51,14 @@ def extract_pdf(path: Path) -> list[Page]:
 
     pages = []
     for i, (chars, images) in enumerate(stats):
+        drawings = 0
         if i in markdown:
             status = OK
         else:
-            status = OCR_REQUIRED if images else BLANK
-        pages.append(Page(number=i + 1, text=markdown.get(i, ""), n_chars=chars, n_images=images, status=status))
+            drawings = drawings_by_page.get(i, 0)
+            status = OCR_REQUIRED if images or drawings > MIN_DRAWINGS_FOR_OCR else BLANK
+        pages.append(Page(number=i + 1, text=markdown.get(i, ""), n_chars=chars, n_images=images,
+                          n_drawings=drawings, status=status))
     return pages
 
 

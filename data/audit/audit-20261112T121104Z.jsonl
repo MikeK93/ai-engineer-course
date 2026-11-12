@@ -1,0 +1,62 @@
+{"event": "ocr_required", "file": "pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf", "pages": [1, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]}
+{"event": "ocr_required", "file": "pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf", "pages": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]}
+{"event": "blank_pages", "file": "pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).pdf", "pages": [159]}
+{"event": "blank_pages", "file": "pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf", "pages": [121]}
+{"event": "ocr_required", "file": "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf", "pages": [76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]}
+{"event": "blank_pages", "file": "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf", "pages": [97]}
+{"event": "version_marker", "file": "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf", "line": "Amendment to IAS 1 - Non-current liabilities with covenants", "page": 73}
+{"event": "ocr_required", "file": "pdfs/PORTER SQUARE SHOPPING CENTER.pdf", "pages": [6, 7]}
+{"event": "ocr_required", "file": "pdfs/Retreat at Arcway Investor Memorandum.pdf", "pages": [8, 17, 18, 19, 20, 30]}
+{"event": "ocr_required", "file": "pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf", "pages": [4, 5]}
+{"event": "ocr_required", "file": "pdfs/Topaz.pdf", "pages": [3, 4, 6, 7, 9, 10, 21, 28, 34, 37, 38]}
+{"event": "ocr_required", "file": "pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf", "pages": [7, 10, 13, 17]}
+{"event": "ocr_required", "file": "pdfs/connave-2025-r03-offering-memorandum.pdf", "pages": [297]}
+{"event": "ocr_required", "file": "pdfs/gs01_33 Unit Multifamily Development.pdf", "pages": [4, 7, 8, 13]}
+{"event": "ocr_required", "file": "pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf", "pages": [4, 10, 16]}
+{"event": "ocr_required", "file": "pdfs/gs03_849+N+Bunker+Hill+OM.pdf", "pages": [4, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 31]}
+{"event": "ocr_required", "file": "pdfs/gs04_5623+Meridian+Los+Angeles.pdf", "pages": [4, 8]}
+{"event": "blank_pages", "file": "pdfs/gs04_5623+Meridian+Los+Angeles.pdf", "pages": [12]}
+{"event": "ocr_required", "file": "pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf", "pages": [4, 7, 9, 12, 13, 15, 17, 18, 22]}
+{"event": "ocr_required", "file": "pdfs/gs06_8000 Wisconsin Avenue.pdf", "pages": [4, 5, 10, 11, 16, 17, 18, 19, 20, 21, 28, 29]}
+{"chars": 2258, "doc_id": "html__20-ohltown-rd-austintown-sale", "event": "ingested"}
+{"chars": 2232, "doc_id": "html__2223-barrett-drive-greenfield-sale", "event": "ingested"}
+{"chars": 1430, "doc_id": "html__5301-e-39th-ave-denver-sale", "event": "ingested"}
+{"chars": 2021, "doc_id": "html__600-coolidge-dr-folsom-lease", "event": "ingested"}
+{"chars": 1584, "doc_id": "html__6515-carnegie-avenue-cleveland-sale", "event": "ingested"}
+{"chars": 1819, "doc_id": "html__6855-philips-hwy-jacksonville-sale", "event": "ingested"}
+{"chars": 2179, "doc_id": "html__6900-w-morelos-pl-chandler-sale", "event": "ingested"}
+{"chars": 2708, "doc_id": "html__8747-squires-ln-ne-warren-sale", "event": "ingested"}
+{"chars": 2409, "doc_id": "html__km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale", "event": "ingested"}
+{"chars": 1242, "doc_id": "html__terra-cotta-road-lake-elsinore-sale", "event": "ingested"}
+{"chars": 1495, "doc_id": "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2", "event": "ingested"}
+{"chars": 412882, "doc_id": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares", "event": "ingested"}
+{"chars": 612401, "doc_id": "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2", "event": "ingested"}
+{"chars": 386773, "doc_id": "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1", "event": "ingested"}
+{"chars": 105481, "doc_id": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1", "event": "ingested"}
+{"chars": 559197, "doc_id": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final", "event": "ingested"}
+{"chars": 471953, "doc_id": "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425", "event": "ingested"}
+{"chars": 85200, "doc_id": "pdfs__Fort_Myers_2-Pack_Offering_Memorandum", "event": "ingested"}
+{"chars": 262792, "doc_id": "pdfs__LMIC-OM-FINAL-Oct-28-2025", "event": "ingested"}
+{"chars": 2867, "doc_id": "pdfs__Listing-Brochure-Tesson-Hills-1", "event": "ingested"}
+{"chars": 7413, "doc_id": "pdfs__Lund-PointeApts_OfferingMemorandum", "event": "ingested"}
+{"chars": 5657, "doc_id": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1", "event": "ingested"}
+{"chars": 162667, "doc_id": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original", "event": "ingested"}
+{"chars": 13056, "doc_id": "pdfs__PORTER_SQUARE_SHOPPING_CENTER", "event": "ingested"}
+{"chars": 73011, "doc_id": "pdfs__Retreat_at_Arcway_Investor_Memorandum", "event": "ingested"}
+{"chars": 3681, "doc_id": "pdfs__Shannon-Lake-Listing-Brochure-1-1-1", "event": "ingested"}
+{"chars": 27163, "doc_id": "pdfs__Topaz", "event": "ingested"}
+{"chars": 271730, "doc_id": "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST", "event": "ingested"}
+{"chars": 13260, "doc_id": "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb", "event": "ingested"}
+{"chars": 1248926, "doc_id": "pdfs__connave-2025-r03-offering-memorandum", "event": "ingested"}
+{"chars": 2381, "doc_id": "pdfs__document", "event": "ingested"}
+{"chars": 152744, "doc_id": "pdfs__formca", "event": "ingested"}
+{"chars": 12171, "doc_id": "pdfs__gs01_33_Unit_Multifamily_Development", "event": "ingested"}
+{"chars": 10465, "doc_id": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM", "event": "ingested"}
+{"chars": 17893, "doc_id": "pdfs__gs03_849_N_Bunker_Hill_OM", "event": "ingested"}
+{"chars": 8963, "doc_id": "pdfs__gs04_5623_Meridian_Los_Angeles", "event": "ingested"}
+{"chars": 14084, "doc_id": "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277", "event": "ingested"}
+{"chars": 27069, "doc_id": "pdfs__gs06_8000_Wisconsin_Avenue", "event": "ingested"}
+{"chars": 4361, "doc_id": "pdfs__gs10_document", "event": "ingested"}
+{"chars": 2613, "doc_id": "pdfs__gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08", "event": "ingested"}
+{"chars": 4389, "doc_id": "pdfs__gs8_COMMGATE_FLYER_67.0_acres_I-45_and_FM_2004", "event": "ingested"}
+{"chars": 3033, "doc_id": "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1", "event": "ingested"}

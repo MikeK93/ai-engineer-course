@@ -24,7 +24,8 @@ MD_DIR = DATA / "md"                  # one Markdown file per logical document v
 OCR_DIR = DATA / "ocr"                # data/ocr/<doc_id>/page-<n>.md, written by `ocr`
 CHUNKS = DATA / "chunks.jsonl"
 MANIFEST = DATA / "manifest.json"
-AUDIT = DATA / "audit.jsonl"
+MANIFEST_DIR = DATA / "manifests"        # one snapshot per extract version: manifest-<extract_version>.json
+AUDIT_DIR = DATA / "audit"               # one file per ingest run: audit-<UTC timestamp>.jsonl
 
 # --- index, caches, outputs (not committed) ---------------------------------
 INDEX_DIR = ROOT / "index"            # embedded Qdrant
@@ -37,10 +38,11 @@ EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
 
 # --- pipeline constants -----------------------------------------------------
 PIPELINE_VERSION = "rag-v1"           # bump when ingest or chunk behavior changes
-EXTRACT_VERSION = "extract-v1"        # bump when an extractor changes: invalidates the extraction cache
+EXTRACT_VERSION = "extract-v2"        # bump when an extractor changes: invalidates the extraction cache
 EXTRACT_CACHE = CACHE_DIR / "ingest"  # extracted pages, keyed by file hash + EXTRACT_VERSION
 
-MIN_CHARS_PER_PAGE = 50               # a page below this with an image is `ocr_required`
+MIN_CHARS_PER_PAGE = 50               # a page below this needs an image or drawings to be `ocr_required`
+MIN_DRAWINGS_FOR_OCR = 20             # text drawn as vector outlines has no text layer and no image
 NEAR_DUP_JACCARD = 0.8                # word 5-shingles
 SHINGLE_WORDS = 5
 
@@ -60,8 +62,9 @@ class IngestPaths:
     doc_meta: Path = DOC_META
     md: Path = MD_DIR
     ocr: Path = OCR_DIR
-    manifest: Path = MANIFEST
-    audit: Path = AUDIT
+    manifest: Path = MANIFEST          # always the latest run
+    manifest_dir: Path = MANIFEST_DIR
+    audit_dir: Path = AUDIT_DIR
     cache: Path = EXTRACT_CACHE
 
 

@@ -91,6 +91,23 @@ def write_json(path: Path, data: dict) -> None:
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
 
 
+def archive_manifest_if_changed(current: Path, new: dict, archive_dir: Path) -> Path | None:
+    """Move the existing manifest to `archive_dir/manifest-<extract_version>-<hash>.json` if `new` differs.
+
+    The old file is moved, not rewritten. An identical re-run archives nothing.
+    """
+    if not current.is_file():
+        return None
+    old_text = current.read_bytes()
+    if json.loads(old_text) == json.loads(json.dumps(new)):
+        return None
+    version = json.loads(old_text).get("extract_version", "unknown")
+    target = archive_dir / f"manifest-{version}-{hashlib.sha256(old_text).hexdigest()[:8]}.json"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    current.replace(target)
+    return target
+
+
 def read_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 

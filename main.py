@@ -92,10 +92,11 @@ def cmd_ingest(args):
     paths = IngestPaths()
     if args.out:
         out = Path(args.out)
-        paths = replace(paths, md=out / "md", manifest=out / "manifest.json", audit=out / "audit.jsonl")
+        paths = replace(paths, md=out / "md", manifest=out / "manifest.json",
+                        manifest_dir=out / "manifests", audit_dir=out / "audit")
     manifest = ingest(full=args.full, workers=args.workers, only=args.only, paths=paths)
     print(summarize(manifest))
-    print(f"Details: {paths.manifest} and {paths.audit}")
+    print(f"Details: {paths.manifest} (also in {paths.manifest_dir}) and the newest file in {paths.audit_dir}")
     if any(f["status"] == "error" for f in manifest["files"].values()):
         raise SystemExit(1)
 
@@ -166,7 +167,7 @@ def main():
     p.add_argument("--full", action="store_true", help="Ignore the extraction cache and re-extract every file")
     p.add_argument("--workers", type=int, default=1, help="Parallel extraction processes")
     p.add_argument("--only", nargs="+", help="Trial run: only catalog files whose path contains one of these texts")
-    p.add_argument("--out", help="Write md/, manifest.json and audit.jsonl here instead of data/")
+    p.add_argument("--out", help="Write md/, manifest.json, manifests/ and audit/ here instead of data/")
     p.set_defaults(fn=cmd_ingest)
 
     _add_rag_stubs(sub)

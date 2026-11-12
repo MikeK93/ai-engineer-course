@@ -478,7 +478,7 @@
     }
   ],
   "duplicates": {},
-  "extract_version": "extract-v1",
+  "extract_version": "extract-v2",
   "files": {
     "html/20-ohltown-rd-austintown-sale.html": {
       "blank_pages": [],
@@ -602,10 +602,18 @@
       "status": "ok"
     },
     "pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf": {
-      "blank_pages": [
+      "blank_pages": [],
+      "docs": [
+        "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [
+        1,
         84,
         85,
         86,
+        87,
+        88,
         89,
         90,
         91,
@@ -618,15 +626,6 @@
         98,
         99,
         100
-      ],
-      "docs": [
-        "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares"
-      ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
-        1,
-        87,
-        88
       ],
       "pages": 141,
       "raw_hash": "d4466c6da4ef798f698bdcefed6c133d8f62b752c8e3fecaee708473fc8ace04",
@@ -655,9 +654,16 @@
       "status": "ok"
     },
     "pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf": {
-      "blank_pages": [
+      "blank_pages": [],
+      "docs": [
+        "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [
         36,
         37,
+        38,
+        39,
         40,
         41,
         42,
@@ -675,14 +681,6 @@
         54,
         55,
         56
-      ],
-      "docs": [
-        "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1"
-      ],
-      "ocr_pages": [],
-      "ocr_required_pages": [
-        38,
-        39
       ],
       "pages": 57,
       "raw_hash": "3aed81b507eaee0ae781f77d7f2ded5418217ec4d240b3522ac36e49842f4bf5",

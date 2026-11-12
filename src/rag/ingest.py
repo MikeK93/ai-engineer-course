@@ -8,8 +8,11 @@ Public API: `ingest(...)`. Steps, in order:
 4. drop duplicates across all documents
 5. write Markdown, manifest and audit log
 
-Only step 2 is cached. Steps 3-5 are cheap and run every time, so output depends only on the
-inputs and the code, never on what an earlier run left behind.
+Only step 2 is cached. Steps 3-5 are cheap and run every time, so the Markdown and manifest
+depend only on the inputs and the code, never on what an earlier run left behind.
+
+Outputs: `manifest.json` (latest; the previous one is moved to `manifests/` when the new one
+differs, never overwritten) and `audit/audit-<UTC timestamp>.jsonl` (one new file per run).
 """
 
 import hashlib
@@ -17,6 +20,7 @@ import time
 from collections.abc import Callable
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from dataclasses import replace
+from datetime import datetime, timezone
 
 from .config import EXTRACT_VERSION, PIPELINE_VERSION, IngestPaths
 from .dedup import content_hash, find_duplicates
@@ -24,7 +28,7 @@ from .extract import Extractor, default_extractors
 from .meta import DocEntry, load_catalog
 from .models import BLANK, OCR_REQUIRED, OK, LogicalDoc, Page
 from .normalize import normalize_pages
-from .store import (file_sha256, load_cached_pages, load_ocr_pages, remove_stale_markdown,
+from .store import (archive_manifest_if_changed, file_sha256, load_cached_pages, load_ocr_pages, remove_stale_markdown,
                     save_cached_pages, write_json, write_jsonl, write_markdown)
 from .versions import find_version_markers, split_versions
 
@@ -37,6 +41,7 @@ def ingest(
     paths: IngestPaths = IngestPaths(),
     extractors: dict[str, Extractor] | None = None,
     log: Callable[[str], None] = print,
+    now: Callable[[], datetime] = lambda: datetime.now(timezone.utc),
 ) -> dict:
     """Run the whole ingest and return the manifest that was written.
 
@@ -77,8 +82,7 @@ def ingest(
         events.append({"event": dup.kind, "doc_id": doc_id, "of": dup.of, "similarity": dup.similarity})
     kept = [d for d in docs if d.doc_id not in duplicates]
 
-    manifest = _write_outputs(kept, duplicates, files, paths, events)
-    return manifest
+    return _write_outputs(kept, duplicates, files, paths, events, now, log)
 
 
 # --- step 2: extraction -------------------------------------------------------
@@ -169,7 +173,7 @@ def _fail(record: dict, events: list[dict], entry: DocEntry, message: str) -> No
 
 # --- step 5: outputs ----------------------------------------------------------
 
-def _write_outputs(kept, duplicates, files, paths, events) -> dict:
+def _write_outputs(kept, duplicates, files, paths, events, now, log) -> dict:
     docs_meta = []
     for doc in sorted(kept, key=lambda d: d.doc_id):
         digest = content_hash(doc.text)
@@ -198,8 +202,12 @@ def _write_outputs(kept, duplicates, files, paths, events) -> dict:
         "files": files,
         "duplicates": {k: vars(v) for k, v in sorted(duplicates.items())},
     }
+    archive_manifest_if_changed(paths.manifest, manifest, paths.manifest_dir)
     write_json(paths.manifest, manifest)
-    write_jsonl(paths.audit, events)
+    stamp = now().astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    audit_path = paths.audit_dir / f"audit-{stamp}.jsonl"
+    write_jsonl(audit_path, events)
+    log(f"audit log: {audit_path}")
     return manifest
 
 

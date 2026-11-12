@@ -15,6 +15,7 @@ class Page:
     text: str                  # Markdown; empty unless status is OK
     n_chars: int = 0           # raw characters found on the page, before Markdown
     n_images: int = 0
+    n_drawings: int = 0        # vector paths; text converted to outlines shows up here
     status: str = OK
     source: str = "extract"    # "extract" or "ocr"
 
