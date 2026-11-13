@@ -1,0 +1,8 @@
+- (i) is married to another individual and is not living separate and apart within the meaning of the Divorce Act (Canada), from the other individual,
+- (ii) is living with another individual in a marriage-like relationship, including a marriage-like relationship between individuals of the same gender, or
+- (iii) in Alberta, is an individual referred to in paragraph (i) or (ii), or is an adult interdependent partner within the meaning of the Adult Interdependent Relationships Act (Alberta);
+- (dd) "subsidiary" means an issuer that is controlled directly or indirectly by another issuer and includes a subsidiary of that subsidiary;
+- (ee) a person (first person) is considered to "control" another person (second person) if:
+- (i) the first person, directly or indirectly, beneficially owns or exercises control or direction over securities of the second person carrying votes which, if exercised, would entitle the first person to elect a majority of the directors of the second person, unless that first person holds the voting securities only to secure an obligation;
+- (ii) the second person is a partnership, other than a limited partnership, and the first person holds more than 50% of the interests of the partnership; or
+- (iii) the second person is a limited partnership and the general partner of the limited partnership is the first person.

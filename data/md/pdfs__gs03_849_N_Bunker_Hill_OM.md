@@ -22,7 +22,7 @@ ocr_pages:
 - 20
 - 25
 - 31
-content_hash: 9e3067bd8024486a201bc56ac80070b30e22bd6531d478d8ad28e4721fa4d250
+content_hash: 7f1f5063e60c8bdff3a59041361e056440d5cf3cac55ef79bc3688ee4d15e8ab
 ---
 
 <!-- page 1 -->
@@ -114,43 +114,24 @@ Offering Memorandum | **5**
 Bunker Height’s Apartment Homes are conveniently located in the business and cultural heart of Downtown L.A. China Town. Each of these Los Angeles apartments presents excellent Studios, one-bedroom or two-bedroom floor plans with beautiful views of the downtown skyline, spacious kitchens, large living and dining areas. From the contemporary hilltop hideaway with sweeping views of the L.A. skyline, the luxury of Los Angeles surrounds this building, taking in everything that China Town apartments have to offer.
 
 - 2022 Construction, Certificate of Occupancy September 2022
-
 - New 6-Story Apartment Building: Type I Basement and Ground Level Parking; Type III- B - 5 Levels of Residential. Total of 37 Residential Units, 2 Dedicated to Very Low Income
-
 - Controlled Access with Private Underground Parking. Two levels of Underground Parking
-
 - Elevator
-
 - High Speed Internet Access
-
 - Closed-Circuit Security System
-
 - In-Unit Washers & Dryers
-
 - Central A/C and Heat
-
 - Fitness Center
-
 - Kitchen Island
-
 - Key Fob Entry
-
 - Video Patrol
-
 - EV Chargers in Parking Spaces
-
 - Designer Granite Countertops
-
 - Balconies with Fantastic Views of Downtown Los Angeles, the San Gabriel Mountains and Dodger Stadium
-
 - Walking Distance to Union Station
-
 - Rooftop Lounge Area with View of L.A. Downtown and Dodger Stadium
-
 - Leasing Office
-
 - Separately Metered for All Utilities, Including Water
-
 - **Opportunity to Also Purchase Adjacent Property Currently Under Construction at 708-712 New Depot Street. Contact Agent for More Information**
 
 Offering Memorandum | **6**

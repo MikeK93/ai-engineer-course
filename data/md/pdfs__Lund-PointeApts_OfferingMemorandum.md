@@ -5,7 +5,7 @@ source: pdfs/Lund-PointeApts_OfferingMemorandum.pdf
 doc_type: single_asset_om
 as_of: '2016-02-16'
 pages: 1-17
-content_hash: f7a6e0c961edca2f6750c140ed04901d1587e12999ca58831142c3dade174406
+content_hash: cde828e3e63475e3189c5bb84c35f12d43971ce00a798ad2862f49534ed3ff61
 ---
 
 <!-- page 1 -->
@@ -81,13 +81,9 @@ The Asset | 5
 ## Unit Amenities
 
 - Newer counters
-
 - New hard surface floors
-
 - Full size refrigerator/freezer
-
 - Hookups for washer and dryer
-
 - Private decks
 
 ## Demographics Summary

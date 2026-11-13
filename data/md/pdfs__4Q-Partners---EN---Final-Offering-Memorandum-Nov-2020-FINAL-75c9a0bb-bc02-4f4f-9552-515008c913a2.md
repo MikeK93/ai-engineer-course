@@ -5,7 +5,7 @@ source: pdfs/4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0b
 doc_type: fund_om
 as_of: '2020-11-06'
 pages: 1-211
-content_hash: addb8eee8d29bcc5ccf98c2430a943741827f311c71694eb3cf368442e160e56
+content_hash: 7f3383efdbfbe17607c643e46017805d6e5a24a3fc4f10dc390e7fe0848e04a8
 ---
 
 <!-- page 1 -->
@@ -188,9 +188,7 @@ _The following is a summary of the principal features of the Offering and should
 with regular distributions. The Partnership seeks to accomplish its investment objectives by:
 
 - (i) investing across the capital structure of equity and debt instruments in order to combine the inflation-hedged benefits of real estate equity with the stability of consistent, yield-generating real estate debt;
-
 - (ii) investing in both public and private vehicles to optimize liquidity while minimizing volatility in the underlying investments; and
-
 - (iii) adhering to a value-based investment philosophy that mandates investing at prices that are below the Manager’s assessment of the long-term value of the underlying assets.
 
 The Partnership invests in equity and debt backed by real estate across all property types which may from time to time include residential, office, industrial, retail, healthcare, hotels, and self-storage. The investments are located and/or listed in the industrialized countries of the world such as the United States, Canada, New Zealand, Australia, Singapore, Japan, Hong Kong, Western Europe and the United Kingdom. In conjunction with the focus on global investment opportunities, the Partnership may invest directly or indirectly through other investment entities managed by the Manager to the extent that the Manager can achieve structural or tax efficiencies for the Partnership, provided that any such investment structure will not allow for the duplication of management or incentive fees payable to the Manager.
@@ -305,19 +303,12 @@ Subscriptions for Units will be received subject to rejection or allotment in wh
 ###### **RISK FACTORS**
 
 - **Summary of Risk Factors:** An investment in Units is subject to certain risk factors, including: (i) there can be no assurance that the Partnership will be able to achieve its objective;
-
 - (ii) the Class NAV per Unit and the funds available for distribution will vary according to, among other things, the Class of Units held, the value of the assets in the Portfolio and the distributions paid thereon;
-
 - (iii) there is no market for the Units which may impact the liquidity thereof; (iv) the financial performance of the Portfolio; (v) the market and economic conditions affecting the equity investments; (vi) reliance on the Manager and its key management personnel; (vii) the manner and timing of distributions to the Partners will be in the sole discretion of the General Partner;
-
 - (viii) sensitivity to interest rates; (ix) risks associated with the lack of information available regarding private issuers;
-
 - (x) risks relating to investments in real estate; (xi) risks relating to changes in real estate value; (xii) mortgage defaults and leverage risks; (xiii) risks associated with foreign market exposure; (xiv) risks relating to the use of leverage by the Partnership; (xv) risks relating to the use of derivative instruments; (xvi) risks associated with short selling; (xvii) risks associated with securities lending; (xviii) risks associated with foreign currency exposure and the hedging of foreign currencies;
-
 - (xix) risks regarding redemptions; (xx) potential conflicts of interest; (xxi) fair allocation of investment opportunities among accounts managed by the Manager;
-
 - (xxii) risks associated with offering more than one Class of Units; (xxiii) changes in legislation; (xxiv) risks relating to taxation of the Partnership and of Unitholders, including risks relating to the Partnership’s tax status and exposure to foreign taxes and U.S. withholding tax risks;
-
 - (xxv) risks relating to limited liability of Unitholders; (xxvi) the fact that Units are neither fixed income nor equity securities, and Unitholders will not have certain rights associated with investments in such securities;
 
 <!-- page 14 -->
@@ -327,9 +318,7 @@ Subscriptions for Units will be received subject to rejection or allotment in wh
 (xxviii) general risk of investing in debt instruments;
 
 - (xxix) risks related to global financial developments;
-
 - (xxx) the possibility that the Partnership will be unable to acquire or dispose of illiquid securities; and
-
 - (xxxi) global health risks.
 
 See “Item 8 - Risk Factors”.
@@ -482,7 +471,6 @@ The General Partner is acting as the transfer agent and registrar for the Partne
 The Partnership was formed for the purpose of constructing, on a discretionary basis, a globally diversified, actively managed portfolio of real estate investments in accordance with the investment objectives of the Partnership, which are to:
 
 - maximize total returns for Unitholders, consisting of income and capital appreciation; and
-
 - provide Unitholders with regular distributions;
 
 by selecting, purchasing and actively managing diversified real estate related assets and investments, including but not limited to direct interests in real estate, mortgages and other real estate related debts and investments (the “ **Portfolio** ”).
@@ -494,9 +482,7 @@ _The Partnership Investment Overview_
 The Partnership seeks to accomplish its investment objectives by being mindful of preserving capital and:
 
 - investing across the capital structure of equity and debt instruments in order to combine the inflationhedged benefits of real estate equity with the stability of consistent, yield-generating real estate debt;
-
 - investing in both public and private vehicles to optimize liquidity while minimizing volatility in the underlying investments; and
-
 - adhering to a value-based investment philosophy that mandates investing at prices that do not reflect the long-term value of the underlying assets.
 
 The Partnership invests in equity and debt backed by real estate across all property types which may from time to time include residential, office, industrial, retail, health-care, hotels, and self-storage. The investments are located and/or listed in the industrialized countries of the world such as the United States, Canada, New Zealand, Australia, Singapore, Japan, Hong Kong, Western Europe and the United Kingdom. In conjunction with the focus on global investment opportunities, the Partnership may invest directly or indirectly through other investment entities managed by the Manager to the extent that the Manager can achieve structural or tax efficiencies for the Partnership, provided that any such investment structure will not allow for the duplication of management or incentive fees payable to the Manager.
@@ -508,9 +494,9 @@ The Partnership has a strategy of investing in private equity, private debt, pub
 ||**GROWTH**|**YIELD**|
 |---|---|---|
 ||**Private equity**|**Private Debt**|
-|**STABLE**| 20% to 50% allocation to private investments in operating companies or through joint-venture opportunities and direct ownership| 20% to 40% allocation to private, senior and subordinate debt secured by real estate|
+|**STABLE**| 20% to 50% allocation to private investments in operating companies or through joint-venture opportunities and direct ownership| 20% to 40% allocation to private, senior and subordinate debt secured by real estate|
 ||**Public Equity**|**Public Debt**|
-|**LIQUID**| 10% to 30% allocation to common equity of publicly traded real estate investment trusts (“**REITs**”) and other publicly listed real estate companies| 10% to 30% allocation to publicly traded debt instruments including preferred shares, convertible debentures, corporate bonds, mortgage investment corporations and mortgage REITs|
+|**LIQUID**| 10% to 30% allocation to common equity of publicly traded real estate investment trusts (“**REITs**”) and other publicly listed real estate companies| 10% to 30% allocation to publicly traded debt instruments including preferred shares, convertible debentures, corporate bonds, mortgage investment corporations and mortgage REITs|
 
 _Investment Strategy_
 
@@ -569,13 +555,9 @@ With the belief that attractive investment returns are achieved by being an acti
 Active management includes, but is not limited to:
 
 - searching for premiere real estate in prime locations in the world’s top international cities;
-
 - dissecting income streams of companies to avoid those exposed to large amounts of development, funds management, non-real estate investments and other activities that reduce the stability of the income stream;
-
 - searching for attractively priced alternatives to invest in across the capital structure;
-
 - monitoring the cyclical and secular trends in local markets to determine where to allocate capital in order to maximize total return; and
-
 - selling assets that have attained their fair market value and reinvesting proceeds into other areas.
 
 ###### **_2.2.4 Risk Management_**
@@ -583,11 +565,8 @@ Active management includes, but is not limited to:
 The Partnership manages risk and minimizes volatility by:
 
 - building a diversified Portfolio comprised of private equity in real estate operating companies and real estate assets, private secured loans to real estate investors and real estate companies, and public equity and debt securities including common shares, trust units, preferred shares and convertible debentures in REITs, other publicly listed real estate companies and mortgage investment corporations in major markets around the world;
-
 - investing in securities across the capital structure of equity and debt instruments including corporate debt, preferred shares, mortgages, common equity/trust units and convertible debentures that have low correlations relative to one another;
-
 - employing a global investment and analytical team with people on the ground in Australia (which includes coverage of countries in the Pacific Rim), Europe and North America to closely monitor local market conditions and identify investment opportunities in each region; and
-
 - actively managing the Portfolio, including continuously reviewing the global investment strategy and actively searching for opportunities across the capital structure.
 
 The Manager believes that this approach reduces the overall volatility of the Partnership. The price of debt and equity react differently to economic events and interest rates, different asset classes have different lease lengths and demand elasticity, and individual markets are primarily influenced by local supply and demand dynamics. These factors assist the Manager in constructing a portfolio with investments having low correlations to each other, thereby assisting to reduce the volatility of the Partnership.
@@ -738,17 +717,11 @@ Unless otherwise required by the Limited Partnership Agreement or by law, every 
 In addition to the foregoing, unless otherwise required by law, the following acts require the approval of holders of Voting Units at a meeting called and held for such purpose. Each Voting Unit will have one vote at such a meeting. Items (a) through (i) require approval by an Extraordinary Resolution:
 
 - waive any default on the part of the General Partner on such terms as they may determine and release the General Partner from any claims in respect thereof;
-
 - dissolve the Partnership;
-
 - amend the investment objectives of the Partnership in any material respect;
-
 - approve an amendment to the Management Agreement increasing the fees payable to the Manager thereunder;
-
 - approve any amendment to the Limited Partnership Agreement (except as described below), including without limitation, to change the nature of the business permitted to be carried on by the Partnership or the investment restrictions;
-
 - remove and replace the General Partner;
-
 - approve a reorganization in respect of or pertaining to the Partnership, the assets of the Partnership, the interests in the Partnership or the Units as proposed by the General Partner in connection with an initial public offering and all other transactions related thereto or to give effect to such reorganization or to facilitate the successful completion of the initial public offering and any
 
 <!-- page 30 -->
@@ -756,7 +729,6 @@ In addition to the foregoing, unless otherwise required by law, the following ac
 amendments to the Limited Partnership Agreement relating to the foregoing, provided that, in each case, there is no material adverse on any of the Unitholders;
 
 - approve the sale, lease, transfer or other disposition of all or substantially all of the assets of the Partnership; and
-
 - amend or repeal any Extraordinary Resolution.
 
 At a meeting of Unitholders, a quorum (except for the purpose of passing an Extraordinary Resolution to remove the General Partner) constitutes 10% of the outstanding Voting Units, represented by the General Partner and two or more Limited Partners entitled to vote and who are present in person or by proxy at such meeting. If no quorum is present at such meeting within 30 minutes of the time called for such meeting, if called on the requisition of a Unitholder, the meeting will be terminated and otherwise will be adjourned to be held on the day that is no less than 10 or more than 21 days after the original meeting, at a time and place determined by the General Partner. At the reconvening of any adjourned meeting the Unitholders entitled to vote and then present in person or represented by proxy will form the necessary quorum.
@@ -768,13 +740,9 @@ Holders of Non-Voting Units shall not be entitled to receive notice of any meeti
 However, the Limited Partnership Agreement provides that if the number of Non-Voting Units exceeds 50% of the total number of Units outstanding from time to time, the following powers will only be exercisable if the written consent of the Commercial Trust (or the Trust, whichever is applicable) has been obtained (the “ **Fundamental Matter Consent** ”), in addition to any other approvals required under the Limited Partnership Agreement including, without limitation, the approval by Extraordinary Resolution of the holders of Voting Units:
 
 - waive any default on the part of the General Partner on such terms as they may determine and release the General Partner from any claims in respect thereof;
-
 - dissolve the Partnership, except as otherwise provided in the Limited Partnership Agreement;
-
 - approve an amendment to the Management Agreement increasing the fees payable to the Manager thereunder;
-
 - approve any amendment to the Limited Partnership Agreement (except as described below), including without limitation, to change the nature of the business permitted to be carried on by the Partnership or the investment restrictions; and
-
 - remove and replace the General Partner.
 
 ###### _Amendments to the Limited Partnership Agreement_
@@ -782,7 +750,6 @@ However, the Limited Partnership Agreement provides that if the number of Non-Vo
 The Limited Partnership Agreement may only be amended in writing and with the consent of the Unitholders given by Extraordinary Resolution and, where applicable, with the consent of the Commercial Trust (or the Trust, whichever is applicable) pursuant to the Fundamental Matter Consent. Notwithstanding the foregoing, the following amendments may only be made with the unanimous consent of the Partners:
 
 - any amendment of the provisions relating to the amendment of the Limited Partnership Agreement (including the provisions set out under “Amendments to the Limited Partnership Agreement” below); and
-
 - any amendment that gives any person the right to dissolve the Partnership, other than the General Partner’s right to dissolve the Partnership with the approval of the Unitholders by an Extraordinary Resolution.
 
 <!-- page 31 -->
@@ -790,23 +757,14 @@ The Limited Partnership Agreement may only be amended in writing and with the co
 The General Partner may, without the approval of or notice to the Unitholders, amend the Limited Partnership Agreement for the following purposes:
 
 - for the purpose of adding to the Limited Partnership Agreement any further covenants, restrictions, deletions or provisions which, in the opinion of counsel to the Partnership, are necessary for the protection of the Unitholders;
-
 - to cure an ambiguity or to correct or supplement any provision contained therein, which in the opinion of counsel to the Partnership, may be defective or inconsistent with any other provision contained therein, provided that such cure, correction or supplemental provision does not and will not, in the opinion of such counsel, adversely affect the interest of the Unitholders;
-
 - to make such other provisions in regard to matters or questions arising under the Limited Partnership Agreement which, in the opinion of the General Partner, does not and will not adversely affect the interests of the Unitholders;
-
 - to insert or amend existing provisions as may be required by the lenders to the Partnership provided such amendments do not change the proportionate interest of any Unitholders in the Partnership and provided such amendments do not impose a direct obligation on any Unitholders to contribute further capital to the Partnership or to give further security or assume further liabilities;
-
 - for the purpose of giving effect to an Ordinary Resolution, an Extraordinary Resolution or the unanimous consent of the Partners;
-
 - to bring the Limited Partnership Agreement into conformity with (i) applicable laws, rules and policies of Canadian securities regulators or (ii) current practice within the securities or investment fund industries, provided that any amendment contemplated by (ii) does not adversely affect the pecuniary value of the interests of the Unitholders;
-
 - create additional Classes of Units;
-
 - to change the registered office of the Partnership;
-
 - to change the name of the Partnership; or
-
 - to redesignate any class of Units to a different class, provided that there is no right to change the rights of such redesignated class.
 
 The General Partner will give the Unitholders details of any such amendment to the Limited Partnership Agreement within 30 days after the effective date of the amendment.
@@ -818,7 +776,6 @@ The manner and timing of such distributions are in the sole discretion of the Ge
 The net Income and net Loss of the Partnership for each financial year is allocated among the Partners as follows:
 
 - the General Partner is entitled to 0.01% of the net Income of the Partnership; and
-
 - the balance of the net Income or 100% of any net Loss of the Partnership is allocated among the Limited Partners of each Class of record at the end of the financial year in proportion to the amount of all distributions, if any, received by such Limited Partners during such financial year, or if no distributions are received by any Limited Partners during such financial year, in proportion to the equity attributable to each Class as determined by the General Partner acting in good faith and then within a Class, in proportion to the number of Units of each such Class held by each of them.
 
 <!-- page 32 -->
@@ -828,7 +785,6 @@ The net Income and net Loss of the Partnership for each financial year is alloca
 Unless determined otherwise by the General Partner in its sole discretion, after payment and reservation of all amounts necessary for payment of all expenses and commitments or anticipated commitments of the Partnership (including all amounts owing by the Partnership under the Management Agreement or any credit facilities or other loans or borrowings of the Partnership) and reservation of such amounts as in the opinion of the General Partner are necessary having regard to the then current and anticipated resources of the Partnership and its commitments and anticipated commitments, distributions of cash, assets or property of the Partnership (whether resulting from revenue or income earned by the Partnership or from the proceeds of sale of all or any part of the assets of the Partnership) will be made, at the sole discretion of the General Partner, to the Partners as follows:
 
 - General Partner – the General Partner receives, in its capacity as general partner, 0.01% of such distributions; and
-
 - Limited Partners – the balance of such distributions are made to the Limited Partners of each Class of Units of record on the record date established by the General Partner for the distribution (including, if applicable, the General Partner in its capacity as a Limited Partner) in proportion to the equity attributable to each Class as determined by the General Partner acting in good faith and then within a Class, in proportion to the number of Units of each such Class held by each of them.
 
 The General Partner is not required to make all or any part of a distribution to a Unitholder who the General Partner reasonably believes is a Non-Resident without having first received a legal opinion satisfactory to the General Partner that a distribution to the Unitholder does not adversely affect the Partnership or any of the Partners other than that Unitholder. A distribution so withheld is accumulated and held by the Partnership until arrangements satisfactory to the General Partner have been made by the Unitholder. The General Partner is entitled to apply any part of the distribution (liquidating any part of the distribution if the General Partner deems it appropriate to do so) and any income arising from the investment thereof toward the payment of any amount on account of any tax exigible or required to be remitted by the Partnership in connection with the distribution or the Units in respect of which the distribution was made.
@@ -868,7 +824,6 @@ In calculating the NAV or Net Asset Value, the Total Assets on such Valuation Da
 ###### Valuation Principles:
 
 - (i) the value of any cash on hand or on deposit, bills and demand notes and accounts receivable, prepaid expenses, distributions, dividends or other amounts received (or declared to holders of record of securities owned by the Partnership on a date before the Valuation Date as of which the Total Assets are being determined, and to be received) and interest accrued and not yet received, will be deemed to be the face amount thereof provided that if the Valuation Agent has determined that any such deposit, bill, demand note, accounts receivable, prepaid expense, distribution, dividend or other amount received (or declared to holders of record of securities owned by the Partnership on a date before the Valuation Date as of which the Total Assets are being determined, and to be received) or interest accrued and not yet received is not otherwise worth the face amount thereof, the value thereof will be deemed to be such value as the Valuation Agent determines to be the Fair Market Value thereof;
-
 - (ii) the value of any security, index future or index option which is listed or traded upon a stock exchange (or if more than one, on the principal stock exchange for the security, as determined by the Valuation Agent) will be determined by taking the latest available sale price of the Valuation Date, or lacking any sales on the Valuation Date, the latest available offer price on the Valuation Date (unless in the opinion of the Valuation Agent such value does not reflect the value thereof
 
 <!-- page 34 -->
@@ -876,25 +831,15 @@ In calculating the NAV or Net Asset Value, the Total Assets on such Valuation Da
 and in which case the latest available sale price may be used), as at the Valuation Date, all as reported by any means in common use;
 
 - (iii) the value of any security which is traded over-the-counter will be priced at the last bid price quoted by a major dealer (which may be the counterparty) in such securities or as the Valuation Agent determines to be the Fair Market Value;
-
 - (iv) the value of any purchased or written clearing corporation options, options on futures or over-the-counter options and listed warrants will be the most recent sale price, market close price or broker quote, as applicable, thereof;
-
 - (v) the value of any security or other asset for which a market quotation is not readily available (including but not limited to development projects/investments will be valued at its Fair Market Value on the Valuation Date on which the Total Assets are being determined by the Valuation Agent or the General Partner (generally the Valuation Agent will value such asset based on the latest valuation or similar reasonable evidence acceptable to the Manager and the General Partner showing a clear indication of an increase or decrease in value from the initial acquisition cost, taking into consideration the following adjustment factors (“Adjustment Factors”) as deemed appropriate by the General Partner and the Manager if any:
-
    - (A) the premium or discount that a portfolio of assets may attract (as compared to aggregation of individual values of each single asset within that portfolio), if any;
-
    - (B) portfolio inter-period timing adjustments, if any, and
-
    - (C) discretionary adjustments as the General Partner and the Manager in good faith deem appropriate, if any;
-
 - (vi) any market price reported in a currency other than Canadian dollars will be converted into Canadian funds by applying the rate of exchange , in effect on the transaction date, obtained from the best available sources to the Valuation Agent, including, but not limited to, the Valuation Agent or any of its affiliates;
-
 - (vii) listed securities subject to a hold period will be valued as described above with an appropriate discount as determined by the Valuation Agent or the General Partner;
-
 - (viii) capitalization of certain expenses, whose benefits accrue over a period of time and should be allocated between existing, remaining and incoming Unitholders, or where the value of such expense is not as yet reflected, in whole or in part in the investment portfolio valuation due to timing lags, if any;
-
 - (ix) the costs associated with the establishment, structuring and periodic offering of securities of the Partnership are attributable to each class of Units on a pro-rata basis, amortized monthly over a period of five years. Selling expenses incurred on a periodic offering of securities are attributable to that particular class of Units and not included within these costs;
-
 - (x) direct investments in private real estate companies and other assets for which no published market exists will be valued at the most recent appraisal or valuation (or if no such appraisal or valuation, at cost as adjusted by the Adjustment Factors, if any), unless a different Fair Market Value is determined to be appropriate by the Valuation Agent or the General Partner.
 
 If an investment cannot be valued under the above guidelines, or if the Valuation Agent or Manager determines that the above guidelines are at any time inappropriate under the circumstances, then notwithstanding such guidelines, the Valuation Agent will make such valuation as it considers fair and reasonable in consultation with the Manager and the General Partner and, if there is an appropriate industry practice, in a manner consistent with such industry practice for valuing such investment.
@@ -908,21 +853,13 @@ The Manager and the General Partner, will review and, if required from time to t
 The Class Net Asset Value of a Class of Units of the Partnership on a Valuation Date is determined in accordance with the following calculation:
 
 - the Class Net Asset Value last calculated for that Class; plus
-
 - the increase in the assets attributable to that Class as a result of the reclassification into, or the issue of, Units of that Class since the last calculation; minus
-
 - the decrease in the assets attributable to that Class as a result of the redemption or reclassification of Units of that Class since the last calculation; plus or minus
-
 - the Proportionate Share (attributable to that Class) of the Change in Non Portfolio Assets since the last calculation; plus or minus
-
 - the Proportionate Share (attributable to that Class) of the Net Portfolio Transactions since the last calculation; plus or minus
-
 - the Proportionate Share of market appreciation or depreciation of the Portfolio assets attributable to that Class since the last calculation; minus
-
 - any amounts to be paid by way of distributions to holders of Units of that Class since the last calculation; minus
-
 - any Class Expenses attributable to that Class since the last calculation; minus
-
 - the portion of the Common Expenses attributed to a Class of the Partnership.
 
 The “ **Class Net Asset Value per Unit** ” or “ **Class NAV per Unit** ” means, in respect of the Units of any particular Class of Units of the Partnership on any particular Business Day, the portion of the Net Asset Value of the Partnership attributed to each of the Units of such Class of the Partnership.
@@ -940,11 +877,8 @@ The General Partner has unlimited liability for the undertakings, liabilities an
 The Partnership is subject to the following investment restrictions as stipulated in the Limited Partnership Agreement that, among other things, limit the investments that may be made by the Partnership:
 
 - the Partnership may not undertake any activity or derive income from any source other than the investing of its funds in accordance with its investment objectives and investment strategies described above, in daily interest savings accounts of banks or trust companies and in High-Quality Money Market Instruments pending an investment directly or indirectly in real property by the Partnership;
-
 - the Partnership may not hold a direct investment in a general partnership or make or retain an investment in any partnership in circumstances in which any interest in that partnership is a “tax shelter investment” for the purpose of the Tax Act;
-
 - the Partnership may not make an investment which, within the knowledge of the General Partner after reasonable enquiry, is contrary to a law which restricts the investments in which the Partnership, the General Partner or the Manager may participate; and
-
 - the Partnership may not borrow money in excess of 40% of the Total Assets, excluding mortgage debts on properties acquired by the Partnership.
 
 Approval of the holders of Voting Units is required to change the investment objectives or investment restrictions of the Partnership. Since the Commercial Trust will invest only in the Non-Voting Units of the Partnership, the Commercial Trust will not be entitled to vote on matters submitted to a meeting of the Limited Partners, except in limited circumstances. See “Item 2.7.1 – Limited Partnership Agreement – Matters Requiring Unitholder Approval” and “Item 2.7.1 – Limited Partnership Agreement – Consent on Fundamental Matters”.
@@ -954,11 +888,8 @@ Approval of the holders of Voting Units is required to change the investment obj
 Pursuant to the Limited Partnership Agreement, each Unitholder represents and warrants that it has not financed, and will not finance, its acquisition of the Units with indebtedness for which recourse is or is deemed to be limited within the meaning of the Tax Act, where limited recourse indebtedness includes:
 
 - indebtedness in respect of which bona fide written arrangements were not made, at the time the indebtedness was incurred, for repayment of all principal and interest within a reasonable period not exceeding 10 years;
-
 - indebtedness on which interest is not payable, at least annually, at a rate equal to or greater than the lesser of the rate prescribed under the Tax Act at the time the indebtedness arose and the prescribed rate that is applicable from time to time during the term of the indebtedness;
-
 - indebtedness in respect of which such interest is not paid by the debtor within 60 days of the end of the debtor’s tax year; and
-
 - any indebtedness of a Unitholder, if the Unitholder is a limited partnership.
 
 If the Unitholder is not an individual, it may be obliged to provide the General Partner with a declaration that it is not a “financial institution” as that term is defined in subsection 142.2(1) of the Tax Act.
@@ -994,7 +925,6 @@ In respect of each annual period (a “ **Determination Year** ”) ending Decem
 The “ **High Water Mark** ” for a Unit is the higher of the following (after appropriate adjustment for distributions made, and any current or deferred tax liabilities for the relevant annual period):
 
 - (i) the initial issue price of that Unit; (ii) the Class Net Asset Value per Unit on the Performance Valuation Date of the annual period prior to the Determination Year; and
-
 - (iii) the Class Net Asset Value per Unit on the Performance Valuation Date of the last annual period in respect of which a Performance Fee was paid in respect of such Unit.
 
 If a Unit has not been outstanding for a full year at the time of calculation, the calculation shall be pro-rated proportional to the number of days for which that Unit has been outstanding.
@@ -1093,13 +1023,9 @@ No compensation is paid to any person by the Partnership or the General Partner.
 attributable to his time spent on the activities of the General Partner and the Partnership.
 
 - (4) Mr. Tamblyn resigned as President and Secretary of the General Partner effective March 2020.
-
 - (5) Represents the approximate portion of the compensation paid by a related party of the General Partner to Mr. Tamblyn attributable to his time spent on the activities of the General Partner and the Partnership. Mr. Tamblyn is not expected to receive any compensation for the current financial year due to his resignation as President of the General Partner.
-
 - (6) While Mr. Tamblyn does not hold Units of the Partnership, he does hold 24,945.95 Class J units of the Trust (representing approximately 0.04% of the outstanding units of the Trust).
-
 - (7) Represents the approximate portion of the compensation paid by a related party of the General Partner to Mr. Bizzarri attributable to his time spent on the activities of the General Partner and the Partnership.
-
 - (8) Represents the approximate portion of the compensation paid by a related party of the General Partner to Ms. Wong attributable to her time spent on the activities of the General Partner and the Partnership.
 
 ###### **3.2 Management Experience**
@@ -1157,11 +1083,8 @@ The following table sets out the details of the outstanding Units of the Partner
 **Notes:**
 
 - (1) The price per security is based on the Class NAV per Unit for the applicable Class of Units as at October 15, 2020. See “Item See “Item 2.7.1 - Limited Partnership Agreement – Calculation of Net Asset Value - Class Net Asset Value per Unit”.
-
 - (2) There is no minimum amount of funds to be raised pursuant to the Offering.
-
 - (3) Although there is no maximum amount to be raised pursuant to this Offering, this number assumes an offering of $200,000,000 by the Partnership.
-
 - (4) Assumes that the Offering funds to be raised pursuant to the Offering are distributed evenly between each of the Classes of Units being offered pursuant to the Offering and that the price per security remains the Class NAV per Unit for the applicable Class of Units as at October 15, 2020.
 
 The General Partner may, without the approval of or notice to the Unitholders, create additional Classes of Units at any time by amending the Limited Partnership Agreement and in doing so, the General Partner may, where applicable, fix before issuance the initial consideration per Unit and the designation of and the provisions attaching to the Units of each such Class.
@@ -1177,13 +1100,9 @@ As of the date hereof, the Partnership has the following long term debt outstand
 **Notes:**
 
 - (1) See “Item 2.7.3 – TD Credit Agreement”.
-
 - (2) Represents the interest rate payable in respect of the Canadian Prime Loans and USD Prime Loans (each as defined in the TD Credit Facility) advanced under the facility.
-
 - (3) Represents the interest rate payable in respect of the Lines of Credit (as defined in the TD Credit Facility) issued under the facility.
-
 - (4) Represents the amount outstanding under Prime Loans.
-
 - (5) Represents the amounts outstanding under the issued Lines of Credit.
 
 > (6) Represents the principal and interest payments due in respect of the outstanding Prime Loans, assuming that no further amounts are advanced to the Partnership under the TD Credit Facility and that the principal amount outstanding and the interest rate as at October 15, 2020 remain unchanged for the 12 month period following October 15, 2020.
@@ -1416,9 +1335,7 @@ Investors should carefully review the terms of the Subscription Agreement for mo
 To acquire Units of the Partnership, an Investor must:
 
 - complete and sign the form of Subscription Agreement relevant to the Class being purchased specifying the investment amount and class of Units being subscribed for (the Partnership reserves the right to use different forms of Subscription Agreements for different Investors) and whether, if such Investor is an Eligible Holder, such Eligible Holder elects not to participate in the DRIP together with all applicable forms and certificates as contemplated under the Subscription Agreement (including but not limited to those set out in Schedule A to the Subscription Agreement);
-
 - deliver or make arrangement to make available, no later than 5:00pm (Toronto time) at least two Business Day prior to the Closing Date, payment of the subscription price for the Units subscribed for, either directly or through his or her qualified representative, to the Manager by wire transfer or such other method as directed by the Manager as set out in the Subscription Agreement; and
-
 - deliver to the Manager those documents outlined in (a) to (b) above (as applicable) and any other forms, declarations and documents as may be required by the Manager or the Investor’s qualified representative to complete the subscription.
 
 Units may be purchased as at any Closing Date at a purchase price per Unit equal to the applicable Class NAV per Unit (unless the General Partner determines otherwise), if the Manager receives or arrangement have been made to make available through the facilities of Fundserv or directly the required payment no later than 5:00 p.m. (Toronto time) at least two business day prior to the Closing Date. The subscription price per Unit will be an amount equal to the Class NAV per Unit on the last Business Day prior to the Closing Date (unless the General Partner determines otherwise). The subscription price for the Class A Units, Class D Units, Class F Units, Class I Units, Class J Units will be payable in Canadian dollars. The subscription price for the Class UF Units and Class UJ Units will be determined in Canadian dollars but will be payable in U.S. dollars based on the closing exchange rate published by the Bank of Canada (the “ **Exchange Rate** ”) on the last Business Day prior to the Closing Date. On or after the Closing
@@ -1456,9 +1373,7 @@ Group and the investment advisor will have a period of 90 days to remedy the def
 The calculation of the total investments of an Advisor Group or any one Investor, as applicable, for the purposes of determining whether the Advisor Group or any one Investor, as applicable, maintains the $5,000,000 threshold and remains eligible to hold Class J Units or Class UJ Units (as applicable) will be made as follows:
 
 - only redemptions will decrease the amount of total investments of a particular Advisor Group or Investor, as applicable, for the purposes of the calculation;
-
 - market value fluctuations will not result in increases or decreases of the amount of total investments of a particular Advisor Group or Investor, as applicable, for the purposes of the calculation; and
-
 - additional subscriptions will increase the amount of total investments of a particular Advisor Group or Investor, as applicable, including as a result of participation in the DRIP.
 
 The reclassified Units will be subject to the fees and other terms and conditions applicable to Class F Units, Class J Units, Class UF Units or Class UJ Units, as applicable. See “ Item 2.7.1 – Limited Partnership Agreement - Fees and Expenses”.
@@ -1806,7 +1721,6 @@ Additionally, in Manitoba, unless permitted under securities legislation, you mu
 For trades in Manitoba, unless permitted under securities legislation, you must not trade the securities without the prior written consent of the regulator in Manitoba unless
 
 - the Partnership has filed a prospectus with the regulator in Manitoba with respect to the securities you have purchased and the regulator in Manitoba has issued a receipt for that prospectus, or
-
 - you have held the securities for at least 12 months.
 
 The regulator in Manitoba will consent to your trade if the regulator is of the opinion that to do so is not prejudicial to the public interest.
@@ -1834,11 +1748,8 @@ The information set forth below is not intended to be a comprehensive summary of
 Section 5.2 of Ontario Securities Commission Rule 45-501- _Ontario Prospectus and Registration Exemptions_ provides that when an offering memorandum, such as this Confidential Offering Memorandum, is delivered to an investor to whom securities are distributed in reliance upon certain prospectus exemptions in NI 45-106, the right of action referred to in Section 130.1 of the _Securities Act_ (Ontario) applies. Section 130.1 of the _Securities Act_ (Ontario) provides that a purchaser resident in Ontario who purchases Units offered by this Offering Memorandum during the period of distribution has, without regard to whether the purchaser relied upon the Misrepresentation, a right of action for damages or, alternatively, while still the owner of the Units, for rescission against the Partnership provided that:
 
 - if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the Partnership;
-
 - the Partnership will not be liable if it proves that the purchaser purchased the Units with knowledge of the Misrepresentation;
-
 - the Partnership will not be liable for all or any portion of damages that it proves does not represent the depreciation in value of the Units as a result of the Misrepresentation relied upon; and
-
 - in no case shall the amount recoverable for the Misrepresentation exceed the price at which the Units were offered.
 
 Section 138 of the _Securities Act_ (Ontario) provides that no action shall be commenced to enforce these rights more than:
@@ -1848,17 +1759,13 @@ Section 138 of the _Securities Act_ (Ontario) provides that no action shall be c
 <!-- page 68 -->
 
 - in the case of an action for damages, the earlier of:
-
 - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
 - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 This Offering Memorandum is being delivered in reliance on the exemption from the prospectus requirements (the “ **accredited investor exemption** ”) contained under section 73.3(2) of the _Securities Act_ (Ontario). The rights referred to in section 130.1 of the _Securities Act_ (Ontario) do not apply if the prospective purchaser is relying on the accredited investor exemption and is:
 
 - a Canadian financial institution or a Schedule III bank (each as defined in NI 45-106);
-
 - the Business Development Bank of Canada incorporated under the Business Development Bank of Canada Act (Canada); or
-
 - a subsidiary of any person referred to in paragraphs (a) and (b), if the person owns all of the voting securities of the subsidiary, except the voting securities required by law to be owned by directors of that subsidiary.
 
 ###### **_11.2.2 Saskatchewan_**
@@ -1866,21 +1773,15 @@ This Offering Memorandum is being delivered in reliance on the exemption from th
 Section 138 of _The Securities Act, 1988_ (Saskatchewan), as amended (the “ **Saskatchewan Act** ) provides that where this Confidential Offering Memorandum or any amendment to it is sent or delivered to a purchaser and it contains a misrepresentation (as defined in the Saskatchewan Act), a purchaser who purchases a Unit covered by this Confidential Offering Memorandum or any amendment to it has, without regard to whether the purchaser relied on the misrepresentation, a right of action for rescission against the Partnership on whose behalf the distribution is made or has a right of action for damages against:
 
 - the Partnership on whose behalf the distribution is made;
-
 - every promoter and director of the Partnership at the time the Confidential Offering Memorandum or any amendment to it was sent or delivered;
-
 - every person or company whose consent has been filed respecting the offering, but only with respect to reports, opinions or statements that have been made by them;
-
 - every person who or company that, in addition to the persons or companies mentioned in (a) to (c) above, signed this Confidential Offering Memorandum or the amendment thereto; and
-
 - every person who or company that sells Units on behalf of the Partnership under this Confidential Offering Memorandum or amendment to this Confidential Offering Memorandum.
 
 Such rights of rescission and damages are subject to certain limitations including the following:
 
 - if the purchaser elects to exercise its right of rescission against the Partnership, it shall have no right of action for damages against that party;
-
 - in an action for damages, a defendant will not be liable for all or any portion of the damages that he, she or it proves do not represent the depreciation in value of the Units resulting from the misrepresentation relied on;
-
 - no person or company, other than the Partnership, will be liable for any part of the Confidential Offering Memorandum or any amendment to it not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an
 
 <!-- page 69 -->
@@ -1896,7 +1797,6 @@ In addition, no person or company, other than the Partnership, will be liable if
 that:
 
 - this Confidential Offering Memorandum or any amendment to it was sent or delivered without the person’s or company’s knowledge or consent and that, on becoming aware of it being sent or delivered, that person or company immediately gave reasonable general notice that it was so sent or delivered; or
-
 - with respect to any part of this Confidential Offering Memorandum or any amendment to it purporting to be made on the authority of an expert, or purporting to be a copy of, or an extract from, a report, an opinion or a statement of an expert, that person or company had no reasonable grounds to believe and did not believe that there had been a misrepresentation, the part of this Confidential Offering Memorandum or any amendment to it did not fairly represent the report, opinion or statement of the expert, or was not a fair copy of, or an extract from, the report, opinion or statement of the expert.
 
 Not all defences upon which we or others may rely are described herein. Please refer to the full text of the Saskatchewan Act for a complete listing.
@@ -1918,9 +1818,7 @@ Section 147 of the Saskatchewan Act provides that no action shall be commenced t
 <!-- page 70 -->
 
 - in the case of any other action, other than an action for rescission, the earlier of:
-
 - (i) one year after the plaintiff first had knowledge of the facts giving rise to the cause of action; or
-
 - (ii) six years after the date of the transaction that gave rise to the cause of action.
 
 The Saskatchewan Act also provides a purchaser who has received an amended Confidential Offering Memorandum delivered in accordance with subsection 80.1(3) of the Saskatchewan Act with a right to withdraw from the agreement to purchase the Units by delivering a notice to the Partnership, indicating the purchaser’s intention not to be bound by the purchase agreement, provided such notice is delivered by the purchaser within two business days of receiving the amended Confidential Offering Memorandum.
@@ -1930,17 +1828,13 @@ The Saskatchewan Act also provides a purchaser who has received an amended Confi
 Section 141.1 of _The Securities Act_ (Manitoba) provides that if a purchaser is resident in Manitoba and if this Confidential Offering Memorandum contains a misrepresentation, each purchaser in Manitoba to whom this Confidential Offering Memorandum has been sent or delivered and who purchases Units, will be deemed to have relied upon such misrepresentation if it was a misrepresentation at the time of purchase, and such purchaser has a right of action for damages against the Partnership, and, subject to certain additional defences, against every director of the Partnership (who were directors at the date of this Confidential Offering Memorandum) and any person or company who signed this Confidential Offering Memorandum, but may elect instead to exercise a right of rescission against the Partnership, in which case such purchaser will have no right of action for damages against the Partnership or the directors of the Partnership (who were directors at the date of this Confidential Offering Memorandum) or any other person or company who signed this Confidential Offering Memorandum, provided that, among other limitations:
 
 - in an action for rescission or damages, no person or company will be liable if it proves that the purchaser purchased the Units with knowledge of the misrepresentation;
-
 - in an action for damages, the Partnership will not be held liable for all or any portion of the damages that it proves do not represent the depreciation in value of the Units as a result of the misrepresentation relied upon; and
-
 - in no case will the amount recoverable under the right of action described above exceed the price at which the Units were offered.
 
 In addition, no person or company other than the Partnership is liable if the person or company proves that:
 
 - this Confidential Offering Memorandum was sent or delivered to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its delivery, the person or company gave reasonable notice that it was delivered without the person or company’s knowledge or consent;
-
 - after delivery of this Confidential Offering Memorandum and before the purchase of the Units by the purchaser, on becoming aware of any misrepresentation in this Confidential Offering Memorandum, the person or company withdrew the person’s or company’s consent to this Confidential Offering Memorandum and gave reasonable notice of the withdrawal and the reason for it; or
-
 - with respect to any part of this Confidential Offering Memorandum purporting to be made on the authority of an expert, or to be a copy of, or an extract from, a report, an opinion or a statement of an expert, the person or company had no reasonable grounds to believe and did not believe that: (i) there had been a misrepresentation; or (ii) the relevant part of this Confidential Offering Memorandum (A) did not fairly represent the report, opinion or statement of the expert; or (B) was not a fair copy of, or an extract from, the report, opinion or statement of the expert.
 
 <!-- page 71 -->
@@ -1948,19 +1842,16 @@ In addition, no person or company other than the Partnership is liable if the pe
 In addition, no person or company other than the Partnership is liable with respect to any part of this Confidential Offering Memorandum not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company:
 
 - failed to conduct an investigation sufficient to provide reasonable grounds for a belief that there had been no misrepresentation; or
-
 - believed that there had been a misrepresentation.
 
 In addition, no person or company is liable for a misrepresentation in forward-looking information if the person or company proves that:
 
 - this Confidential Offering Memorandum contains, proximate to such information (i) reasonable cautionary language identifying the forward-looking information as such, and identifying material factors that could cause actual results to differ materially from a conclusion, forecast or projection in the forward-looking information, and (ii) a statement of the material factors or assumptions that were applied in drawing the conclusion or making the forecast or projection; and
-
 - the person or company had a reasonable basis for drawing the conclusions or making the forecasts or projections set out in the forward-looking information.
 
 Subject to _The Securities Act_ (Manitoba), no action shall be commenced to enforce these rights more than:
 
 - in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - in the case of any action, other than an action for rescission, the earlier of: (i) 180 days after the date on which the purchaser first had knowledge of the facts giving rise to the cause of action; or (ii) two years after the date of the transaction that gave rise to the cause of action.
 
 The rights discussed above are in addition to and without derogation from any other right or remedy which purchasers may have at law and are intended to correspond to the provisions of the relevant securities legislation and are subject to the defences contained therein.
@@ -1980,9 +1871,7 @@ In addition no person or company, other than the Partnership, is liable under se
 its being sent, the person or company promptly gave reasonable notice to the Partnership that it was sent without the person’s or company’s knowledge or consent;
 
 - the person or company proves that on becoming aware of any Misrepresentation in this Confidential Offering Memorandum, the person or company withdrew the person’s or company’s consent to this Confidential Offering Memorandum, and gave reasonable notice to the Partnership of the withdrawal and the reason for it;
-
 - with respect to any part of this Confidential Offering Memorandum purporting to be made on the authority of an expert (or purporting to be a copy of or an extract from a report, opinion or statement of an expert), the person or company proves they had no reasonable grounds to believe and did not believe that: (i) there had been a Misrepresentation; or (ii) the relevant part of this Confidential Offering Memorandum did not fairly represent the report, opinion or statement of the expert, or was not a fair copy of, or an extract from, the report, opinion or statement of the expert; or
-
 - with respect to any part of this Confidential Offering Memorandum not purporting to be made on the authority of an expert (and not purporting to be a copy of or an extract from a report, opinion or statement of an expert), unless the person or company: (i) did not conduct an investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation; or (ii) believed there had been a Misrepresentation.
 
 If a Misrepresentation is contained in a record incorporated by reference in, or deemed incorporated into this Confidential Offering Memorandum, the Misrepresentation is deemed to be contained in this Confidential Offering Memorandum.
@@ -1992,11 +1881,8 @@ The foregoing statutory right of action for rescission or damages conferred by t
 Pursuant to section 138 of the NL Act, no action shall be commenced to enforce the rights conferred by section 130.1 thereof unless commenced:
 
 - in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - in the case of an action, other than an action for rescission, the earlier of:
-
 - (i) 180 days after the plaintiff first had knowledge of the facts giving rise to the cause of action; or
-
 - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 ###### **_11.2.5 New Brunswick_**
@@ -2016,19 +1902,12 @@ This statutory right of action is available to New Brunswick purchasers whether 
 The right of action for damages or rescission described herein is conferred by section 138 of the _Securities Act_ (Nova Scotia). Section 138 of the _Securities Act_ (Nova Scotia) (the “Nova Scotia Act”) provides, in relevant part, that in the event that this Confidential Offering Memorandum, together with any amendment thereto, or any advertising or sales literature (as defined in the Nova Scotia Act) contains a misrepresentation, as defined in the Nova Scotia Act, the purchaser will be deemed to have relied upon such misrepresentation if it was a misrepresentation at the time of purchase and has, subject to certain limitations and defences, a statutory right of action for damages against the Partnership and, subject to certain additional defences, every director of the Partnership at the date of this Confidential Offering Memorandum and every person who signed this Confidential Offering Memorandum or, alternatively, while still the owner of the Units purchased by the purchaser, may elect instead to exercise a statutory right of rescission against the Partnership, in which case the purchaser shall have no right of action for damages against the Partnership, directors of the Partnership or persons who have signed this Confidential Offering Memorandum, provided that, among other limitations:
 
 - no action shall be commenced to enforce the right of action for rescission or damages by a purchaser in Nova Scotia later than 120 days after the date on which the initial payment was made for the Units;
-
 - no person will be liable if it proves that the purchaser purchased the Units with knowledge of the misrepresentation;
-
 - in the case of an action for damages, no person will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the Units as a result of the misrepresentation relied upon; and
-
    - in no case will the amount recoverable in any action exceed the price at which the Units were offered to the purchaser.
-
 - In addition, a person or company, other than the Partnership, will not be liable if that person or company proves
-
 - that:
-
 - this Confidential Offering Memorandum or amendment to this Confidential Offering Memorandum was sent or delivered to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its delivery, the person or company gave reasonable general notice that it was delivered without the person’s or company’s knowledge or consent;
-
 - after delivery of this Confidential Offering Memorandum or amendment to this Confidential Offering Memorandum and before the purchase of the Units by the purchaser, on becoming aware
 
 <!-- page 74 -->
@@ -2046,23 +1925,18 @@ If a misrepresentation is contained in a record incorporated by reference into, 
 The right of action for damages or rescission described herein is conferred by section 112 of the _Securities Act_ (Nunavut). Under section 112 of the _Securities Act_ (Nunavut), when an offering memorandum, such as this Confidential Offering Memorandum, is delivered to an investor to whom securities are distributed in reliance upon a prospectus exemption under Nunavut securities laws, a purchaser resident in Nunavut who purchases Units offered by this Confidential Offering Memorandum during the period of distribution has, without regard to whether the purchaser relied upon the misrepresentation (being an untrue statement of a material fact, an omission to state a material fact that is required to be stated by the _Securities Act_ (Nunavut), or an omission to state a material fact that needs to be stated so that a statement is not false or misleading in light of the circumstances in which it is made), a right of action for damages or, alternatively, while still the owner of the Units, for rescission against the Partnership provided that:
 
 - (1) if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the Partnership;
-
 - (2) the Partnership will not be liable if it proves that the purchaser purchased the Units with knowledge of the misrepresentation;
-
 - (3) the Partnership will not be liable for all or any portion of damages that it proves does not represent the depreciation in value of the Units as a result of the misrepresentation relied upon; and
-
 - (4) in no case shall the amount recoverable for the misrepresentation exceed the price at which the Units were offered.
 
 Section 121 of the _Securities Act_ (Nunavut) provides that no action shall be commenced to enforce these rights more than:
 
 - (1) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (2) in the case of an action for damages, the earlier of:
 
 <!-- page 75 -->
 
 - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
 - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 ###### **_11.2.8 Northwest Territories_**
@@ -2070,19 +1944,14 @@ Section 121 of the _Securities Act_ (Nunavut) provides that no action shall be c
 The right of action for damages or rescission described herein is conferred by section 112 of the _Securities Act_ (Northwest Territories). Under section 112 of the _Securities Act_ (Northwest Territories), when an offering memorandum, such as this Confidential Offering Memorandum, is delivered to an investor to whom securities are distributed in reliance upon a prospectus exemption under Northwest Territories securities laws, a purchaser resident in Northwest Territories who purchases Units offered by this Confidential Offering Memorandum during the period of distribution has, without regard to whether the purchaser relied upon the misrepresentation (being an untrue statement of a material fact, an omission to state a material fact that is required to be stated by the _Securities Act_ (Northwest Territories), or an omission to state a material fact that needs to be stated so that a statement is not false or misleading in light of the circumstances in which it is made), a right of action for damages or, alternatively, while still the owner of the Units, for rescission against the Partnership provided that:
 
 - (1) if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the Partnership;
-
 - (2) the Partnership will not be liable if it proves that the purchaser purchased the Units with knowledge of the misrepresentation;
-
 - (3) the Partnership will not be liable for all or any portion of damages that it proves does not represent the depreciation in value of the Units as a result of the misrepresentation relied upon; and
-
 - (4) in no case shall the amount recoverable for the misrepresentation exceed the price at which the Units were offered.
 
 Section 121 of the _Securities Act_ (Northwest Territories) provides that no action shall be commenced to enforce these rights more than:
 
 - (5) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (6) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
 
 (ii) three years after the date of the transaction that gave rise to the cause of action.
@@ -2092,7 +1961,6 @@ Section 121 of the _Securities Act_ (Northwest Territories) provides that no act
 In accordance with Section 132.1 of the _Securities Act_ (British Columbia), if you are a resident of British Columbia, and if there is a Misrepresentation in this Confidential Offering Memorandum, you have a statutory right to sue:
 
 - the Partnership to cancel your agreement to buy the Units, or
-
 - for damages against the Partnership, every person who was a director of the General Partner at the date of this Confidential Offering Memorandum, every person whose consent to the disclosure of information in this Confidential Offering Memorandum was filed and every other person who signed this Confidential Offering Memorandum.
 
 <!-- page 76 -->
@@ -2118,11 +1986,8 @@ The rights of action for damages or rescission discussed above are in addition t
 Attached to this Confidential Offering Memorandum immediately following this Item are the following:
 
 - audited financial statements for the Partnership for the fiscal year ended December 31, 2019;
-
 - audited financial statements for the General Partner for the fiscal year ended December 31, 2019;
-
 - unaudited interim financial statements for the Partnership for the period ended June 30, 2020; and
-
 - unaudited interim financial statements for the General Partner for the period ended June 30, 2020.
 
 <!-- page 77 -->
@@ -2184,15 +2049,10 @@ We also:
 The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
 
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Entity's internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Entity's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors’ report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors’ report. However, future events or conditions may cause the Entity to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
-
 - Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the group Entity to express an opinion on the financial statements. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinion.
-
 - Communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
 
 Chartered Professional Accountants, Licensed Public Accountants
@@ -2619,9 +2479,7 @@ Current tax is the expected tax payable or receivable on the taxable income or l
 Deferred tax is recognized with respect to temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognized for:
 
 - (i) temporary differences relating to investments in subsidiaries and jointly controlled entities to the extent that it is probable that they will not reverse in the foreseeable future;
-
 - (ii) temporary differences in the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor taxable profits; and
-
 - (iii) taxable temporary differences arising from the initial recognition of goodwill.
 
 Deferred tax is measured at tax rates that are expected to be applied to temporary differences when they reverse, based on laws that have been enacted or substantively enacted by the reporting date. Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets and they relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realized simultaneously. In determining the amount of current and deferred tax, the Partnership takes into account the impact of uncertain tax provisions and whether additional taxes and interest may be due.
@@ -2711,7 +2569,6 @@ In making estimates and judgements, management relies on external information an
 The Partnership measures financial instruments (such as derivatives and portfolio investments) and nonfinancial instruments (such as investment properties) at fair value on each balance sheet date. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date under current market conditions. The fair value measurement is based on the presumption that the transaction to sell the asset or transfer the liability takes place either:
 
 - In the principal market for the asset or liability, or
-
 - In the absence of a principal market, in the most advantageous market for the asset or liability
 
 The principal or the most advantageous market must be accessible by the Partnership.
@@ -2733,9 +2590,7 @@ The Partnership uses valuation techniques that are appropriate in the circumstan
 All assets and liabilities for which fair value is measured or disclosed in the consolidated financial statements are categorized within the fair value hierarchy, described as follows, based on the lowest level input that is significant to the fair value measurement as a whole:
 
 - Level 1 – Quoted (unadjusted) market prices in active markets for identical assets or liabilities;
-
 - Level 2 – Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable; or
-
 - Level 3 – Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
 
 For assets and liabilities that are recognized in the consolidated financial statements on a recurring basis, the Partnership determines whether transfers have occurred between levels in the hierarchy by re-assessing categorization (based on the lowest level input that is significant to the fair value measurement as a whole) at the end of each reporting period.
@@ -3626,15 +3481,12 @@ The Manager is entitled to a performance fee in respect of a unit if the total r
 The amount of performance fees payable on a unit for a determination year, if the test mentioned above is satisfied, is equal to 20% of the amount by which:
 
 - (1) the total return of the class of units to which that unit belongs, determined on a per-unit basis, during the year on the performance valuation date exceeds;
-
 - (2) the amount that results from multiplying the Hurdle Rate of the class of units to which that unit belongs by the High Water Mark of that unit.
 
 The High Water Mark for a unit is the higher of the following:
 
 - (1) the initial issue price of that unit;
-
 - (2) the Class NAV per unit (after deducting the performance fee payable by that class of units for the year prior to the determination year and any current or deferred tax liabilities) on the performance valuation date of the year before the determination year; and
-
 - (3) the Class NAV per unit on the performance valuation date of the last annual period in respect of which a performance fee was paid in respect of such unit.
 
 <!-- page 117 -->
@@ -3680,11 +3532,8 @@ As at December 31, 2019, the Partnership and TC Core LP (“TCCLP”), a related
 **(in thousands of Canadian dollars, except unit, per unit amounts and where otherwise noted)**
 
 - (c) As part of the Saskatchewan Apartment – New Summit acquisition, the Partnership, TF and a third-party co-owner acquired one of the investment properties from TCCLP, a related party by virtue of common management, which had temporarily held the property to facilitate the transaction. The Partnership’s share of the ownership, as at December 31, 2019 was $1,244 (December 31, 2018 - $1,004).
-
 - (d) As part of a Montreal Apartment – Sommet co-ownership, the Partnership and a third-party co-owner have entered into property management agreement with TAMI. TAMI provides property management, leasing and development services to the property and is entitled to receive property management and redevelopment fees (the “Property Management Fees”) at the disclosed rate in the agreement. During the year ended December 31, 2019, $35 Property Management fees were charged by TAMI to the Partnership (December 31, 2018 – nil). As at December 31, 2019, there was $5 Property Management Fees payable to TAMI (December 31, 2018 – nil).
-
 - (e) Upon acquisition of Toronto apartment – Dundonald, Timbercreek 4Q Multi-residential Limited Partnership has entered into property management agreement with Timbercreek Property Services Inc.(“TPSI”), a subsidiary of TAMI. TPSI provides property management, advisory and administrative services to the property and is entitled to receive Property Management Fees at the disclosed rate in the agreement. During the year ended December 31, 2019, $25 Property Management Fees were charged by TPSI to the Partnership (December 31, 2018 – nil). As at December 31, 2019, there was $7 Property Management Fees payable to TPSI (December 31, 2018 – nil).
-
 - (f) Upon acquisition of Ottawa apartment - Rideau, Chapel Street Limited Partnership (“CSLP”) has entered into development and construction management agreement (“DMA”) with TAMI and a third-party manager. Under the terms of DMA, TAMI earns a development fee (the “Development Fees”) at the disclosed rate in the DMA. During the year ended December 31, 2019, $239 Development Fees were charged by TAMI (December 31, 2018 – nil) to the CSLP, where the Partnership’s ownership in CSLP is 95% as at December 31, 2019 (December 31, 2018 – nil). As at December 31, 2019, there was no outstanding payable to TAMI (December 31, 2018 – nil).
 
 ###### **19. CAPITAL RISK MANAGEMENT**
@@ -3966,7 +3815,6 @@ As at December 31, 2019, portfolio investments include common equity of publicly
 Under the terms of the LPA, cash surpluses are to be distributed to the partners as follows:
 
 - (i) First, the General Partner will be entitled to 0.01% of distributions; and
-
 - (ii) Second, the balance of the distribution will be allocated amongst the unitholders based upon their proportional ownership interest within each given class of units.
 
 Losses are to be allocated to the limited partners in proportion to their ownership interests.
@@ -4070,13 +3918,9 @@ We also:
 The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
 
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Entity's internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Entity's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors’ report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors’ report. However, future events or conditions may cause the Entity to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represents the underlying transactions and events in a manner that achieves fair presentation.
-
 - Communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
 
 Chartered Professional Accounts, Licensed Public Accountants
@@ -4846,9 +4690,7 @@ Current tax is the expected tax payable or receivable on the taxable income or l
 Deferred tax is recognized with respect to temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognized for:
 
 - (i) temporary differences relating to investments in subsidiaries and jointly controlled entities to the extent that it is probable that they will not reverse in the foreseeable future;
-
 - (ii) temporary differences in the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor taxable profits; and
-
 - (iii) taxable temporary differences arising from the initial recognition of goodwill.
 
 Deferred tax is measured at tax rates that are expected to be applied to temporary differences when they reverse, based on laws that have been enacted or substantively enacted by the reporting date. Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets and they relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realized simultaneously. In determining the amount of current and deferred tax, the Partnership takes into account the impact of uncertain tax provisions and whether additional taxes and interest may be due.
@@ -4956,7 +4798,6 @@ The significant estimates and judgements used in determining the recorded amount
 The Partnership measures financial instruments (such as derivatives and portfolio investments) and nonfinancial instruments (such as investment properties) at fair value on each balance sheet date. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date under current market conditions. The fair value measurement is based on the presumption that the transaction to sell the asset or transfer the liability takes place either:
 
 - In the principal market for the asset or liability, or
-
 - In the absence of a principal market, in the most advantageous market for the asset or liability
 
 The principal or the most advantageous market must be accessible by the Partnership.
@@ -4968,9 +4809,7 @@ The Partnership uses valuation techniques that are appropriate in the circumstan
 All assets and liabilities for which fair value is measured or disclosed in the interim consolidated financial statements are categorized within the fair value hierarchy, described as follows, based on the lowest level input that is significant to the fair value measurement as a whole:
 
 - Level 1 – Quoted (unadjusted) market prices in active markets for identical assets or liabilities;
-
 - Level 2 – Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable; or
-
 - Level 3 – Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
 
 For assets and liabilities that are recognized in the interim consolidated financial statements on a recurring basis, the Partnership determines whether transfers have occurred between levels in the hierarchy by reassessing categorization (based on the lowest level input that is significant to the fair value measurement as a whole) at the end of each reporting period.
@@ -5211,9 +5050,7 @@ The fair value of the Partnership's investment properties is sensitive to change
 The acquisitions of the investment properties have been accounted for as an asset purchase and recognized initially at purchase price plus transaction costs, with results of operations included in these interim consolidated financial statements from the date of acquisition.
 
 - i) On May 15, 2019, the Partnership and a third-party co-investor completed an acquisition of a multiresidential investment property located in Montreal, Quebec for a total consideration of $84,254. The Partnership holds 25% of the ownership interest and its portion of consideration was $21,063. The coownership financed the acquisition through securing a new mortgage of $49,478 and remaining was funded in cash. The Partnership’s ownership of the mortgage is 30% of the total balance, which is $14,843 ($14,492, net of capitalized financing costs). The Partnership subsequently received the second advance on the mortgage $233 ($226, net of capitalized financing costs). The aggregate fair value of the investment properties is pledged as security for the mortgage payable (note 11). The co-ownership is subject to joint control based on the Partnership’s decision making authority with regards to the operating, financing and investing activities of the investment property. This co-ownership has been classified as a joint operation and, accordingly, the Partnership recognizes its share of the assets, liabilities, revenue and expenses generated from the assets in proportion to its rights.
-
 - ii) On August 29, 2019, the Partnership completed an acquisition of a multi-residential investment property located in Toronto, Ontario for a total consideration of $36,498. The Partnership financed the acquisition through a credit facility of $22,750 ($22,612, net of capitalized financing costs), and the remaining was funded in cash. The aggregate fair value of the investment property is pledged as security for the credit facility (note 12).
-
 - iii) On May 20, 2020, the Partnership and related party co-investors completed an acquisition of a multiresidential investment property located in Halifax, Nova Scotia, for a purchase price of $12,720. The Partnership holds 10% of the ownership interest and its portion of the purchase price was $1,272. The co-ownership financed the acquisition through securing a new non revolving credit facility of $7,500 and remaining was funded in cash. The Partnership’s ownership of the non-revolving credit facility is 10% of the total balance, which is $750 ($741 net of capitalized financing costs). The aggregate fair value of the investment properties is pledged as security for the credit facility (note 12). The co-ownership is subject to joint control based on the Partnership’s decision making authority with regards to the operating, financing and investing activities of the investment property. This co-ownership has been classified as a joint operation and, accordingly, the Partnership recognizes its share of the assets, liabilities, revenue and expenses generated from the assets in proportion to its rights.
 
 <!-- page 165 -->
@@ -5908,15 +5745,12 @@ The Manager is entitled to a performance fee in respect of a unit if the total r
 The amount of performance fees payable on a unit for a determination year, if the test mentioned above is satisfied, is equal to 20% of the amount by which:
 
 - (1) the total return of the class of units to which that unit belongs, determined on a per-unit basis, during the year on the performance valuation date exceeds; and
-
 - (2) the amount that results from multiplying the Hurdle Rate of the class of units to which that unit belongs by the High Water Mark of that unit.
 
 The High Water Mark for a unit is the higher of the following:
 
 - (1) the initial issue price of that unit;
-
 - (2) the Class NAV per unit (after deducting the performance fee payable by that class of units for the year prior to the determination year and any current or deferred tax liabilities) on the performance valuation date of the year before the determination year; and
-
 - (3) the Class NAV per unit on the performance valuation date of the last annual period in respect of which a performance fee was paid in respect of such unit.
 
 The Hurdle Rate is 10% for Founder Class units and 8% for all other classes of units.
@@ -5952,9 +5786,7 @@ As at June 30, 2020, the Partnership and TF invested in one indirect real estate
 As at June 30, 2020 the Partnership and TC Core LP (“TCCLP”), a limited partnership, the general partner of which is owned by TEC, co-invested in Edmonton Industrial, Rockport (MPE) LP and Bloor Dufferin Development LP. The Partnership’s share of ownership, as at June 30, 2020 was $2,543, $2,600 and $3,856, respectively (December 31, 2019 – $2,510, $2,234 and $3,630 respectively).
 
 - (c) Saskatchewan Apartment – New Summit acquisition, is co-owned by the Partnership, TF and a third party. The Partnership’s share of the ownership, as at June 30, 2020 was $1,263 (December 31, 2019 - $1,244).
-
 - (d) As part of a Montreal Apartment – Sommet co-ownership, the Partnership and a third-party co-owner entered into a management agreement with TAMI, as assigned to TEC. TEC provides property management, leasing and development services to the property and is entitled to receive property management and redevelopment fees (the “Property Management Fees”) at the disclosed rate in the agreement. During the period ended June 30, 2020, a total of $29 Property Management fees were charged by TEC, and prior to March 9, 2020, by TAMI to the Partnership (June 30, 2019 – nil). As at June 30, 2020, there was $6 Property Management Fees payable to TEC (December 31, 2019 – $5).
-
 - (e) Upon acquisition of Toronto apartment – Dundonald, Timbercreek 4Q Multi-residential Limited Partnership entered into a property management agreement with Timbercreek Property Services Inc.(“TPSI”), a subsidiary of TEC. TPSI provides property management, advisory and administrative services to the property (“Dundonald Property Management Fee”) and is entitled to receive Dundonald Property Management Fees at the disclosed rate in the agreement. During the period ended June 30, 2020, $53 in Dundonald Property Management Fees were charged
 
 <!-- page 184 -->
@@ -5970,7 +5802,6 @@ As at June 30, 2020 the Partnership and TC Core LP (“TCCLP”), a limited part
 by TPSI to the Partnership (June 30, 2019 – nil). As at June 30, 2020, there was $7 in Dundonald Property Management Fees payable to TPSI (December 31, 2019 – $7).
 
 - (f) Upon acquisition of Ottawa apartment - Rideau, Chapel Street Limited Partnership (“CSLP”) entered into a development and construction management agreement (“DMA”) with TAMI, as assigned to TEC and a third-party manager. Under the terms of DMA, TEC earns a development fee (the “Development Fees”) at the disclosed rate in the DMA. During the period ended June 30, 2020, a total of $216 Development Fees were charged by TEC, and prior to March 9, 2020, by TAMI (June 30, 2019 – nil) to the CSLP, where the Partnership’s ownership in CSLP is 95% as at June 30, 2020 (December 31, 2019 – 95%). As at June 30, 2020, there was no outstanding payable to TEC (December 31, 2019 – nil).
-
 - (g) Timbercreek Canadian Multi-Residential V LP, Timbercreek Canadian Multi-Residential V (Europe) LP and the T4Q MR V LP (collectively, "MRV Co-Owners") are related parties by virtue of a common management. The Manager, in its capacity as asset manager to the MRV Co-Owners, entered into a property management agreement with TPSI, where TPSI is entitled to receive property management, capital management and leasing fees ("MRV Property Management Fees"). During the period ended June 30, 2020, the T4Q MRV LP's proportionate share of MRV Property Management Fee was $1. This amount was outstanding at June 30, 2020.
 
 ###### **17. CAPITAL RISK MANAGEMENT**
@@ -6256,7 +6087,6 @@ As at June 30, 2020, portfolio investments include common equity of publicly-tra
 Under the terms of the LPA, cash surpluses are to be distributed to the partners as follows:
 
 - (i) First, the General Partner will be entitled to 0.01% of distributions; and
-
 - (ii) Second, the balance of the distribution will be allocated amongst the unitholders based upon their proportional ownership interest within each given class of units.
 
 Losses are to be allocated to the limited partners in proportion to their ownership interests.
@@ -6347,11 +6177,8 @@ Name: Gigi Wong Director
 “ **Change in Non Portfolio Assets** ” for the Partnership on a Valuation Date means:
 
 - (i) the aggregate of all income accrued by the Partnership on that Valuation Date, including cash dividends and distributions, interest and compensation; plus or minus
-
 - (ii) any change in the value of any non-portfolio assets or liabilities stated in any foreign currency accrued on that Valuation Date, including, without limitation, cash, accrued dividends or interest and any receivable or payables; plus or minus
-
 - (iii) any gain or loss resulting from transfers of currencies accrued on that Valuation Date; plus or minus
-
 - (iv) any other item accrued on that Valuation Date determined by the General Partner to be relevant in determining a Change in Non Portfolio Assets.
 
 “ **Class** ” means a class of Units of the Partnership.

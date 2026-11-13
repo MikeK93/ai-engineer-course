@@ -1,0 +1,12 @@
+- Offering Memorandum Exemption in the preceding 12 months (including the Preferred Shares to be acquired hereunder) does not exceed $30,000,
+- (3) is an "eligible investor" as such term is defined in NI 45-106, has received advice from a portfolio manager, investment dealer or exempt market dealer that the investment is suitable and the acquisition cost of all securities acquired by the Subscriber under the Offering Memorandum Exemption in the preceding 12 months (including the Preferred Shares to be acquired hereunder) does not exceed $100,000, or
+- (4) is an "eligible investor" as such term is defined in NI 45-106 because it is an "accredited investor" as such term is defined in NI 45-106 or, where applicable, section 73.3(1) of the Securities Act (Ontario) and the Subscriber has duly completed and executed Exhibit 1; or
+- (5) is an "eligible investor" as such term is defined in NI 45-106 because it is:
+- (I) a director, executive officer or control person of the issuer, or of an affiliate of the issuer (as such term is defined in NI 45-106 and reproduced in Exhibit 1 (Part I)) of the Corporation, or an affiliate of the Corporation;
+- (II) a spouse, parent, grandparent, brother, sister, child or grandchild of a director, executive officer, or control person (as such term is defined in NI 45-106 and reproduced in Exhibit 1 (Part I)) of the Corporation, or an affiliate of the Corporation; or
+- (III) a parent, grandparent, brother, sister, child or grandchild of the spouse of a director, executive officer, or control person (as such term is defined in NI 45-106 and reproduced in Exhibit 1 (Part I)) of the Corporation, or an affiliate of the Corporation; II
+- (IV) a close personal friend of a director, executive officer or control person of the Corporation, or an affiliate of the Corporation; or
+- (V) a close business associate of a director, executive officer or control person of the Corporation, or an affiliate of the Corporation; or
+- (VI) a founder of the Corporation or a spouse, parent, grandparent, brother, sister, child, grandchild, close personal friend or close business associate of a founder of the Trust; or
+- (VII) a parent, grandparent, brother, sister, child or grandchild of a spouse of a founder of the Corporation; or
+- (VIII) a person of which a majority of the voting securities are beneficially owned by, or a majority of the directors are, persons described in paragraphs (I) to (VII); or

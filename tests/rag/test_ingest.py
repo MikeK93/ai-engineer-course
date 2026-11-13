@@ -167,3 +167,14 @@ def test_ocr_only_and_limit(paths):
     assert run_ocr(paths=paths, engine=engine, only=["nothing-matches"], log=lambda _: None)["files"] == 0
     assert run_ocr(paths=paths, engine=engine, limit=0, log=lambda _: None)["files"] == 0
     assert engine.calls == []
+
+
+def test_garbled_page_is_sent_to_ocr_and_filled_by_the_ocr_text(tmp_path):
+    from src.rag.ingest import _merge_ocr
+
+    garbled = Page(number=2, text="\uf04d\uf05f\uf060\uf06a " * 30, n_chars=120)
+    fine = Page(number=1, text="Readable text of the first page.", n_chars=32)
+    pending = _merge_ocr([fine, garbled], {})
+    assert [(p.number, p.status, p.text) for p in pending] == [(1, OK, fine.text), (2, OCR_REQUIRED, "")]
+    done = _merge_ocr([fine, garbled], {2: "Financial statements, restored."})
+    assert (done[1].status, done[1].source, done[1].text) == (OK, "ocr", "Financial statements, restored.")

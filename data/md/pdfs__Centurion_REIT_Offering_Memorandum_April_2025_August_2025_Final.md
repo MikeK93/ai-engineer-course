@@ -5,7 +5,7 @@ source: pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).p
 doc_type: fund_om
 as_of: '2025-05-01'
 pages: 1-207
-content_hash: 00d4eb7b8b28049fe7e55434e5ef5b92704644da9476f3ab2217b0aac4ff1e57
+content_hash: 44b0bbb9b84ae12cd3d06cf004f2e2402d41855be4e407f7ff538e3f731da3d2
 ---
 
 <!-- page 1 -->
@@ -266,7 +266,6 @@ The table below sets forth the estimated total available funds to Centurion Apar
 |G. Notes:|**Total: G = (D+E) - F**|NIA|NIA||
 
 - (1) There is no minimum or maximum to this offering. Centurion Apartment REIT will offer an unlimited number of Units on a continuous basis.
-
 - (2) Centurion Apartment REIT sells Units through securities dealers. It is expected that Centurion Apartment REIT will pay compensation to such securities dealers, up to a maximum of approximately 5% of the subscription proceeds. Accordingly, Centurion Apartment REIT will also pay trailing commissions to securities dealers in respect of Units sold by them or held in the client accounts of such securities dealers. The trailing commission will depend on the purchase option through which the Units are purchased. To the extent that Centurion Apartment REIT is responsible for the payment of compensation to securities dealers, the funds available to Centurion Apartment REIT will be reduced. See Item 9 "Compensation Paid to Sellers and Finders".
 
 #### **1.2. Use of Available Funds**
@@ -281,7 +280,6 @@ The following table provides a breakdown of how Centurion Apartment REIT will us
 Notes:
 
 - (1) There is no minimum or maximum to this offering. Centurion Apartment REIT will offer an unlimited number of Units on a continuous basis.
-
 - (2) A portion of the available funds may be used by the Trust for payments to Related Parties, including to the Asset Manager, the Property Manager, and the Mortgage Servicer. See "Risk Factors - Potential Conflicts of Interest" in Appendix I.
 
 <!-- page 9 -->
@@ -297,7 +295,6 @@ Not applicable.
 For information concerning the structure of Centurion Apartment REIT, see the following sections of the Confidential Offering Memorandum attached hereto as Appendix I:
 
 - (a) "Centurion Apartment REIT"; and
-
 - (b) "Centurion Apartment REIT Operating Structure".
 
 #### **2.2. The Business**
@@ -347,9 +344,7 @@ Not applicable.
 For information regarding the material agreements of Centurion Apartment REIT, see the following sections of the Confidential Offering Memorandum attached hereto as Appendix I:
 
 - (a) "Ancillary Matters - Material Contracts";
-
 - (b) "Declaration of Trust and Description of Units"; and
-
 - (c) "Management of Centurion Apartment REIT".
 
 #### **2.9. Related Party Transactions**
@@ -381,21 +376,13 @@ A person who is employed by and receives a salary from Centurion Apartment REIT,
 Notes:
 
 - (1) Number represents the number of units held and does not include any deferred vested units.
-
 - (2) As at April 1, 2025.
-
 - (3) Units owned are Class A Units except for Mr. Romundt who owns Class A and Class F Units. .
-
 - (4) Mr. Romundt receives a salary of $nil and is not eligible for a bonus from the Trust. However, he indirectly owns all of the shares of the Asset Manager, its affiliates and the Special Limited Partner, and therefore has an interest in fees payable to the Asset Manager and distributions payable to the Special Limited Partner.
-
 - (5) These individuals are employees of the Asset Manager and their compensation is paid by the Asset Manager. Compensation for the current year, 2025, does not include any incentive component.
-
 - (6) This individual joined in November 2024.
-
 - (7) This individual joined in March 2025.
-
 - (8) Percentages of Securities Held of Centurion Apartment REIT for these individuals are well below 1% and are not disclosed.
-
 - (9) There is no minimum or maximum to this offering. Centurion Apartment REIT will offer an unlimited number of Units on a continuous basis.
 
 #### **3.2. Management Experience**
@@ -409,7 +396,6 @@ For information concerning management experience, see "Management of Centurion A
 Within the ten years preceding the date of this Offering Memorandum, no Trustee, executive officer or control person of Centurion Apartment REIT, or an issuer of which any of these persons has been a director, executive officer or control person at the time was subject to:
 
 - (a) a penalty or other sanction imposed by a court or a regulatory body relating to a contravention of securities legislation; or
-
 - (b) an order restricting trading in securities, not including an order that was in effect for less than 30 consecutive days.
 
 Within the ten years preceding the date of this Offering Memorandum, no Trustee, executive officer or control person of Centurion Apartment REIT, or an issuer of which any of these persons was a director, executive officer or control person at the time, has been subject to: (a) a penalty or other sanction imposed by a court or a regulatory body relating to a contravention of securities legislation; or (b) an order restricting trading in securities, not including an order that was in effect for less than 30 consecutive days.
@@ -441,7 +427,6 @@ Notes:
 (1) This includes the number of CAP II LP Exchangeable "B" and "C" Units issued and outstanding which are exchangeable into REIT Class "A" Units on a one for one basis as per the Exchange Agreements.
 
 - (2) There is no minimum or maximum to this offering. Centurion Apartment REIT will offer an unlimited number of Units on a continuous basis.
-
 - (3) The price per security is determined by the trustees of Centurion Apartment REIT from time to time and set forth in the subscription agreement(s) entered into between the Subscriber(s) and Centurion Apartment REIT.
 
 For information concerning the material terms of the Class A, F, and I Units, see "Declaration of Trust and Description of Units - Units" in Appendix I.
@@ -596,7 +581,6 @@ For purchasers in Alberta, British Columbia, New Brunswick, Newfoundland and Lab
 For purchasers in Manitoba, unless permitted under securities legislation, you must not trade the securities without the prior written consent of the regulator in Manitoba unless:
 
 - (a) Centurion Apartment REIT has filed a prospectus with the regulator in Manitoba with respect to the Units and the regulator in Manitoba has issued a receipt for that prospectus, or
-
 - (b) you have held the Units for at least 12 months.
 
 The regulator in Manitoba will consent to your trade if the regulator is of the opinion that to do so is not prejudicial to the public interest.
@@ -618,15 +602,10 @@ If you are purchasing Units pursuant to the offering memorandum exemption contai
 Section 130.1 of the _Securities Act_ (Ontario) provides that every purchaser of securities pursuant to an offering memorandum (such as this Offering Memorandum) shall have a statutory right of action for damages or rescission against the issuer and any selling security holder in the event that the offering memorandum contains a Misrepresentation. A purchaser who purchases securities offered by the offering memorandum during the period of distribution has, without regard to whether the purchaser relied upon the Misrepresentation, a right of action for damages or - alternatively, while still the owner of the securities, for rescission - against the issuer and any selling security holder provided that:
 
 - (a) if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the issuer and selling security holder, if any;
-
 - (b) the issuer and selling security holder, if any, will not be liable if they prove that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (c) the issuer and selling security holder, if any, will not be liable for all or any portion of damages that they prove do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon;
-
 - (d) in no case shall the amount recoverable exceed the price at which the securities were offered; and
-
 - (e) the issuer and selling security holder, if any, will not be liable for a Misrepresentation in forward-looking information if they prove:
-
    - (i) that the offering memorandum contains, proximate to the forward-looking information, reasonable cautionary language identifying the forward-looking information as such, and identifying material factors that could cause actual results to differ materially from a conclusion, forecast or projection in the forward- looking information, and a statement of material factors or assumptions that were applied in drawing a conclusion or making a forecast or projection set out in the forward- looking information; and
 
 <!-- page 18 -->
@@ -636,11 +615,8 @@ Section 130.1 of the _Securities Act_ (Ontario) provides that every purchaser of
 Section 138 of the _Securities Act_ (Ontario) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 This Offering Memorandum may also be delivered in reliance on the exemption from the prospectus requirements contained under section 2.3 of NI 45-106 (the "accredited investor exemption"). The rights referred to in section 130.1 of the _Securities Act_ (Ontario) do not apply in respect of an offering
@@ -648,9 +624,7 @@ This Offering Memorandum may also be delivered in reliance on the exemption from
 memorandum (such as this Offering Memorandum) delivered to a prospective purchaser in connection with a distribution made in reliance on the accredited investor exemption if the prospective purchaser is:
 
 - (a) a Canadian financial institution or Schedule III bank (each as defined in NI 45-106);
-
 - (b) the Business Development Bank of Canada incorporated under the Business Development Bank of Canada Act (Canada); or
-
 - (c) a subsidiary of any person referred to in (a) and (b), if the person owns all of the voting securities of the subsidiary, except the voting securities required by law to be owned by directors of that subsidiary.
 
 #### **Saskatchewan**
@@ -658,25 +632,17 @@ memorandum (such as this Offering Memorandum) delivered to a prospective purchas
 Section 138 of _The Securities Act_ , 1988 (Saskatchewan), as amended (the " **Saskatchewan Act** "), provides that where an offering memorandum (such as this Offering Memorandum), together with any amendment to it, sent or delivered to a purchaser contains a Misrepresentation, a purchaser who purchases securities covered by the offering memorandum or an amendment to it has, without regard to whether the purchaser relied on the Misrepresentation, a right of action for damages or, alternatively, for recission against:
 
 - (a) the issuer or selling security holder on whose behalf the distribution is made;
-
 - (b) every promoter and director of the issuer or selling security holder, as the case may be, at the time the offering memorandum or the amendment to it was sent or delivered;
-
 - (c) every person or company whose consent has been filed respecting the offering, but only with respect to reports, opinions or statements that have been made by them;
-
 - (d) every person who or company that, in addition to the persons or companies mentioned in (a) to (c) above, signed the offering memorandum or the amendment to it; and
-
 - (e) every person who or company that sells securities on behalf of the issuer or selling security holder under the offering memorandum or the amendment to it.
 
 Such rights of damages and recission are subject to certain limitations, including the following:
 
 - (a) if the purchaser elects to exercise its right of rescission against the issuer or selling security holder, it shall have no right of action for damages against that party;
-
 - (b) in an action for damages, a defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities resulting from the Misrepresentation relied on;
-
 - (c) no person or company, other than the issuer or selling security holder, will be liable for any part of the offering memorandum or of the amendment to it not purporting to be made on the authority of an expert and not purporting to be a copy of or an extract from a report, opinion or statement of an expert, unless the person or company failed to conduct a reasonable investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation or believed that there had been a Misrepresentation;
-
 - (d) in no case shall the amount recoverable exceed the price at which the securities were offered; and
-
 - (e) no person or company is liable in an action for damages or rescission if that person or company proves that the purchaser purchased the securities with knowledge of the Misrepresentation.
 
 <!-- page 19 -->
@@ -684,9 +650,7 @@ Such rights of damages and recission are subject to certain limitations, includi
 In addition, no person or company, other than the issuer or selling security holder, will be liable if the person or company proves that:
 
 - (a) the offering memorandum or the amendment to it was sent or delivered without the person's or company's knowledge or consent and that, on becoming aware of its being sent or delivered, the person or company immediately gave reasonable general notice that it was so sent or delivered;
-
 - (b) after the filing of the offering memorandum or the amendment to it and before the purchase of the securities by the purchaser, on becoming aware of any Misrepresentation in the offering memorandum or the amendment to it, the person or company withdrew the person's or company's consent to it and gave reasonable general notice of the person's or company's withdrawal and the reason for it;
-
 - (c) with respect to any part of the offering memorandum or of the amendment to it purporting to be made on the authority of an expert, or purporting to be a copy of or extract from a report, opinion or statement of an expert, the person or company had no reasonable grounds to believe and did not believe that there had been a Misrepresentation, the part of the offering memorandum or of the amendment to it did not fairly represent the report, opinion or statement of the expert or was not a fair copy of or extract from the report, opinion or statement of the expert.
 
 A person or company that sells securities on behalf of the issuer or selling security holder under the offering memorandum or the amendment to it is not liable for damages or rescission as provided in sections 138(1) or 138(2) of the Saskatchewan Act if that person or company can establish that it cannot reasonably be expected to have had knowledge of any Misrepresentation in the offering memorandum or the amendment to it.
@@ -706,11 +670,8 @@ The rights of action for damages or rescission under the Saskatchewan Act are in
 Section 147 of the Saskatchewan Act provides that no action shall be commenced to enforce any of the foregoing rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of any other action, other than an action for rescission, the earlier of:
-
    - (i) one year after the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) six years after the date of the transaction that gave rise to the cause of action.
 
 The Saskatchewan Act also provides that a purchaser who has received an amended offering memorandum delivered in accordance with section 80.1(3) of the Saskatchewan Act has a right to withdraw from the agreement to purchase the securities by delivering a notice to the person or company that is selling the securities, indicating the purchaser's intention not to be bound by the purchase agreement, provided such notice is delivered by the purchaser within two business days of receiving the amended offering memorandum.
@@ -722,15 +683,10 @@ The Saskatchewan Act also provides that a purchaser who has received an amended 
 Section 150 of the _Securities Act_ (New Brunswick) provides that where an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, a purchaser who purchases securities shall be deemed to have relied on the Misrepresentation if it was a Misrepresentation at the time of purchase, and:
 
 - (a) the purchaser has a right of action for damages against:
-
    - (i) the issuer;
-
    - (ii) the selling security holder on whose behalf the distribution is made;
-
    - (iii) every person who was a director of the issuer at the date of the offering memorandum;
-
    - (iv) every person who signed the offering memorandum; or
-
 - (b) where the purchaser purchased the securities from a person referred to in (a), the purchaser may elect to exercise a right of rescission against that person, in which case the purchaser shall have no right of action for damages against that person.
 
 This statutory right of action is available to New Brunswick purchasers whether or not such purchaser relied on the Misrepresentation. However, there are various defences available to the issuer and selling security holder. In particular, no person will be liable for a Misrepresentation if such person proves that the purchaser purchased the securities with knowledge of the Misrepresentation. Moreover, in an action for damages, the amount recoverable will not exceed the price at which the securities were offered under the offering memorandum, and any defendant will not be liable for all or any portion of the damages that the defendant proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied on.
@@ -738,7 +694,6 @@ This statutory right of action is available to New Brunswick purchasers whether 
 If the purchaser intends to rely on the rights described in (a) or (b) above, such purchaser must do so within strict time limitations. The purchaser must commence its action for rescission within 180 days after the date of the transaction that gave rise to the cause of action. The purchaser must commence its action for damages within the earlier of:
 
 - (a) one year after the purchaser first had knowledge of the facts giving rise to the cause of action; and
-
 - (b) six years after the date of the transaction that gave rise to the cause of action.
 
 #### **Nova Scotia**
@@ -746,11 +701,8 @@ If the purchaser intends to rely on the rights described in (a) or (b) above, su
 The right of action for damages or rescission described herein is conferred by section 138 of the _Securities Act_ (Nova Scotia). Section 138 of the _Securities Act_ (Nova Scotia) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum), together with any amendment to it, or any advertising or sales literature (as defined in the Securities Act (Nova Scotia)) contains a Misrepresentation, the purchaser will be deemed to have relied upon such Misrepresentation if it was a Misrepresentation at the time of purchase and has, subject to certain limitations and defences, a statutory right of action for damages against the issuer and, subject to certain additional defences, every director of the issuer at the date of the offering memorandum and every person who signed the offering memorandum or, alternatively, while still the owner of the securities purchased, may elect instead to exercise a statutory right of rescission against the issuer, in which case the purchaser shall have no right of action for damages against the issuer, directors of the issuer or persons who signed the offering memorandum, provided that, among other limitations:
 
 - (a) no action shall be commenced to enforce the right of action for rescission or damages by a purchaser resident in Nova Scotia later than 120 days after the date on which the initial payment was made for the securities;
-
 - (b) no person or company will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (c) in the case of an action for damages, no defendant will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (d) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the issuer, will not be liable if that person or company proves that:
@@ -760,7 +712,6 @@ In addition, a person or company, other than the issuer, will not be liable if t
 <!-- page 21 -->
 
 - (b) after delivery of the offering memorandum or the amendment to it and before the purchase of the securities by the purchaser, on becoming aware of any Misrepresentation in the offering memorandum or the amendment to it, the person or company withdrew the person's or company's consent to the offering memorandum or the amendment to it, and gave reasonable general notice of the withdrawal and the reason for it; or
-
 - (c) with respect to any part of the offering memorandum or the amendment to it purporting (i) to be made on the authority of an expert, or (ii) to be a copy of, or an extract from, a report, opinion or statement of an expert, the person or company had no reasonable grounds to believe and did not believe that (A) there had been a Misrepresentation, or (B) the relevant part of the offering memorandum or the amendment to it did not fairly represent the report, opinion or statement of the expert, or was not a fair copy of, or an extract from, the report, opinion or statement of the expert.
 
 Further, no person or company, other than the issuer, will be liable with respect to any part of the offering memorandum or the amendment to it not purporting (a) to be made on the authority of an expert or (b) to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company (i) failed to conduct a reasonable investigation to provide reasonable grounds for a belief that there had been no Misrepresentation or (ii) believed that there had been a Misrepresentation.
@@ -772,17 +723,13 @@ If a Misrepresentation is contained in a record incorporated by reference in, or
 The right of action for damages or rescission described herein is conferred by section 141.1 of _The Securities Act_ (Manitoba). Section 141.1 of _The Securities Act_ (Manitoba) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, the purchaser will be deemed to have relied upon such Misrepresentation if it was a Misrepresentation at the time of purchase and has, subject to certain limitations and defences, a statutory right of action for damages against the issuer and, subject to certain additional defences, every director of the issuer at the date of the offering memorandum and every person or company that signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the issuer, in which case the purchaser shall have no right of action for damages against the issuer, directors of the issuer or persons or companies that have signed the offering memorandum, provided that, among other limitations:
 
 - (a) no person or company will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the issuer, will not be liable if that person or company proves that:
 
 - (a) the offering memorandum was sent to the purchaser without the person's or company's knowledge or consent and that, after becoming aware that it was sent, the person or company promptly gave reasonable notice to the issuer that it was sent without the person's or company's knowledge and consent;
-
 - (b) after becoming aware of the Misrepresentation, the person or company withdrew the person's or company's consent to the offering memorandum and gave reasonable notice to the issuer of the withdrawal and the reason for it; or
-
 - (c) with respect to any part of the offering memorandum purporting (i) to be made on the authority of an expert or (ii) to be a copy of, or an extract from, an expert's report, opinion or statement, the person or company proves that the person or company had no reasonable grounds to believe and did not believe that (A) there had been a Misrepresentation or (B) the relevant part of the offering memorandum did not fairly represent the expert's report, opinion or statement or was not a fair copy of, or an extract from, an expert's report, opinion or statement.
 
 Further, where a Misrepresentation is contained in an offering memorandum, the directors of the issuer and every person or company who signed the offering memorandum shall not be liable with respect to any part of the offering memorandum not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company did not conduct an investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation or believed there had been a Misrepresentation.
@@ -794,11 +741,8 @@ If a Misrepresentation is contained in a record incorporated by reference into, 
 Section 141.4(2) of _The Securities Act_ (Manitoba) provides that no action may be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) two years after the date of the transaction that gave rise to the cause of action.
 
 #### **Newfoundland and Labrador**
@@ -806,17 +750,13 @@ Section 141.4(2) of _The Securities Act_ (Manitoba) provides that no action may 
 The right of action for damages or rescission described herein is conferred by section 130.1 of the _Securities Act_ (Newfoundland and Labrador). Section 130.1 of the _Securities Act_ (Newfoundland and Labrador) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, without regard to whether the purchaser relied upon the Misrepresentation, the purchaser has, subject to certain limitations and defences, a statutory right of action for damages against the issuer and, subject to certain additional defences, every director of the issuer at the date of the offering memorandum and every person or company that signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the issuer, in which case the purchaser shall have no right of action for damages against the issuer, directors of the issuer or persons or companies that have signed the offering memorandum, provided that, among other limitations:
 
 - (a) no person or company will be liable if it proves that the purchaser had knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the issuer, will not be liable if that person or company proves that:
 
 - (a) the offering memorandum was sent to the purchaser without the person's or company's knowledge or consent and that, on becoming aware of its being sent, the person or company promptly gave reasonable notice to the issuer that it was sent without the person's or company's knowledge and consent;
-
 - (b) on becoming aware of the Misrepresentation, the person or company withdrew the person's or company's consent to the offering memorandum and gave reasonable notice to the issuer of the withdrawal and the reason for it; or
-
 - (c) with respect to any part of the offering memorandum purporting (i) to be made on the authority of an expert or (ii) to be a copy of, or an extract from, an expert's report, opinion or statement, the person or company proves that the person or company had no reasonable grounds to believe and did not believe that (A) there had been a Misrepresentation or (B) the relevant part of the offering memorandum did not fairly represent the expert's report, opinion or statement or was not a fair copy of, or an extract from, an expert's report, opinion or statement.
 
 Further, where a Misrepresentation is contained in an offering memorandum, the directors of the issuer and every person or company that signed the offering memorandum shall not be liable with respect to any part of the offering memorandum not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company did not conduct an investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation or believed there had been a Misrepresentation.
@@ -826,13 +766,11 @@ If a Misrepresentation is contained in a record incorporated by reference into, 
 Section 138 of the _Securities Act_ (Newfoundland and Labrador) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
 
 <!-- page 23 -->
 
 - (i) 180 days after the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
 - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 #### **British Columbia**
@@ -840,17 +778,13 @@ Section 138 of the _Securities Act_ (Newfoundland and Labrador) provides that no
 The right of action for damages or rescission described herein is conferred by section 132.1 of the _Securities Act_ (British Columbia). Section 132.1 of the _Securities Act_ (British Columbia) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, the purchaser will be deemed to have relied on the Misrepresentation if it was a Misrepresentation at the time of purchase, and the purchaser has, subject to certain limitations and defences, a statutory right of action for damages against the issuer and, subject to certain additional defences, every director of the issuer at the date of the offering memorandum, every person whose consent to the disclosure of information in the offering memorandum was filed and every person who signed the offering memorandum. Alternatively, the purchaser may elect instead to exercise a statutory right of rescission against the issuer, in which case the purchaser shall have no right of action for damages against the issuer, provided that, among other limitations:
 
 - (a) no person will be liable if it proves that the purchaser had knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person, other than the issuer, will not be liable if that person proves that:
 
 - (a) the offering memorandum was delivered to the purchaser without the person's knowledge or consent and that, on becoming aware of its delivery, the person gave written notice to the issuer that it was delivered without the person's knowledge or consent;
-
 - (b) on becoming aware of any Misrepresentation in the offering memorandum, the person withdrew the person's consent to the offering memorandum and gave written notice to the issuer of the withdrawal and the reason for it; or
-
 - (c) with respect to any part of the offering memorandum purporting (i) to be made on the authority of an expert or (ii) to be a copy of, or an extract from, an expert's report, opinion or statement, the person had no reasonable grounds to believe and did not believe that (A) there had been a Misrepresentation or (B) the relevant part of the offering memorandum did not fairly represent the expert's report, opinion or statement or was not a fair copy of, or an extract from, an expert's report, opinion or statement.
 
 Further, where a Misrepresentation is contained in an offering memorandum, a person, other than the issuer, shall not be liable if that person proves that, with respect to any part of the offering memorandum not purporting to be made on the authority of an expert or to be a copy of, or an extract from, a report, opinion or statement of an expert, the person had, after reasonable investigation, reasonable grounds to believe and did believe that there had been no Misrepresentation.
@@ -862,11 +796,8 @@ If a Misrepresentation is contained in a record incorporated by reference into, 
 Section 140 of the _Securities Act_ (British Columbia) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 <!-- page 24 -->
@@ -880,23 +811,18 @@ In Prince Edward Island, the _Securities Act_ (Prince Edward Island), in Yukon, 
 In addition to any other right or remedy available at law, if an offering memorandum (such as this Offering Memorandum) is delivered to an investor resident in Quebec and contains a Misrepresentation, the purchaser will have: (1) statutory rights under Quebec legislation outlined in section 221 of the _Securities Act_ (Quebec); or (2) contractual rights in circumstances where the Quebec legislation does not provide such rights, as follows:
 
 - (a) a right of action for damages against the issuer or the holder, as the case may be, whose securities were distributed, its officers or directors, the dealer (if any) under contract to the issuer or holder, any person who is required to sign an attestation in the offering memorandum and any expert whose opinion, containing a Misrepresentation, appeared, with their consent, in the offering memorandum; and
-
 - (b) a right of action for rescission of the purchase contract or revision of the price at which the securities were sold to the investor, without prejudice to the investor's claim for damages.
 
 However, there are various defences available to the persons or companies against whom a right of action may be brought. Among other defences, no defendant will be liable if it proves that:
 
 - (a) the investor purchased the securities with knowledge of the Misrepresentation; or
-
 - (b) in an action for damages, that the defendant acted with prudence and diligence, except in an action brought against the issuer or holder.
 
 No action may be commenced to enforce such rights of action:
 
 - (a) for rescission or revision of price, more than three years from the date of the purchase; or
-
 - (b) for damages, later than the earlier of:
-
    - (i) three years after the purchaser first had knowledge of the facts giving rise to the cause of action, except on proof of tardy knowledge imputable to the negligence of the purchaser; or
-
    - (ii) five years from the filing of the offering memorandum with the _Autorite des marches financiers_ (Quebec).
 
 #### **Alberta**
@@ -904,35 +830,24 @@ No action may be commenced to enforce such rights of action:
 Section 204 of the _Securities Act_ (Alberta) provides that if an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, a purchaser who purchases securities offered by the offering memorandum has, without regard to whether the purchaser relied on the Misrepresentation, a right of action (a) for damages against (i) the issuer or selling security holder on whose behalf the distribution is made, (ii) every director of the issuer at the date of the offering memorandum and (iii) every person or company that signed the offering memorandum and (b) for rescission against the issuer or selling security holder, provided that:
 
 - (a) if the purchaser elects to exercise its right of rescission, it shall cease to have a right of action for damages against the person or company referred to above;
-
 - (b) no person or company referred to above will be liable if it proves that the purchaser had knowledge of the Misrepresentation;
-
 - (c) no person or company (other than the issuer) referred to above will be liable if it proves that the offering memorandum was sent to the purchaser without the person's or company's knowledge or consent and that, on becoming aware of its being sent, the person or company promptly gave reasonable notice to the Executive Director (as defined in the _Securities Act (Alberta)_ ) and the issuer that it was sent without the knowledge and consent of the person or company;
-
 - (d) no person or company (other than the issuer) referred to above will be liable if it proves that the person or company, after the sending of the offering memorandum and before the purchase of the securities, on becoming aware of the Misrepresentation, withdrew the person's or company's consent to the offering memorandum and gave reasonable notice to the Executive Director and the issuer of the withdrawal and the reason for it;
 
 <!-- page 25 -->
 
 - (e) no person or company (other than the issuer) referred to above will be liable if it proves that, with respect to any part of the offering memorandum purporting to be made on the authority of an expert or purporting to be a fair copy of, or an extract from, a report, opinion or statement of an expert, the person or company did not have any reasonable grounds to believe and did not believe that:
-
    - i. there had been a Misrepresentation; or
-
    - ii. the relevant part of the offering memorandum (A) did not fairly represent the report, opinion or statement of the expert or (B) was not a fair copy of, or an extract from, the report, opinion or statement of the expert;
-
 - (f) no person or company (other than the issuer) referred to above will be liable if it proves that, with respect to any part of the offering memorandum not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, after conducting a reasonable investigation, the person or company had no reasonable grounds to believe and did not believe that there was a Misrepresentation;
-
 - (g) in no case shall the amount recoverable exceed the price at which the securities were offered under the offering memorandum;
-
 - (h) the defendant will not be liable for all or any part of the damages that the defendant proves do not represent the depreciation in value of the securities as a result of the Misrepresentation.
 
 Section 211 of the _Securities Act_ (Alberta) provides that no action may be commenced to enforce these rights:
 
 - (a) in the case of an action for rescission, more than 180 days from the day on which the transaction that gave rise to the cause of action was completed; or
-
 - (b) in the case of any other action, later than the earlier of:
-
    - (i) 180 days from the day that the plaintiff first had knowledge of the facts giving rise to the cause of action; and
-
    - (ii) 3 years from the day on which the transaction that gave rise to the cause of action was completed.
 
 #### **GENERAL**
@@ -1002,9 +917,7 @@ This certificate (the “ **Additional Certificate** ”) forms part of the offe
 The Trust certifies all of the following to be true:
 
 - (i) the Offering Memorandum does not contain a misrepresentation when read as of the date of this Additional Certificate;
-
 - (ii) there has been no material change in relation to the Trust that is not disclosed in the Offering Memorandum; and
-
 - (iii) the Offering Memorandum, when read as of the date of this Additional Certificate, provides a reasonable purchaser with sufficient information to make an informed investment decision.
 
 #### **CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST**
@@ -1104,15 +1017,10 @@ The net proceeds to Centurion Apartment REIT of the Offering after deducting exp
 #### **Class A Units:**
 
 - (1) a deferred sales charge option;
-
 - (2) a low load option; and
-
 - (3) a front load option.
-
 - **Class F Units:**
-
 - (4) a fee-based account option (fee-based accounts only). **Class I Units:**
-
 - (5) an Institutional account option.
 
 See "Purchase Options".
@@ -1624,11 +1532,8 @@ $7,500,000,000 $7,000,000,000 $6,500,000,000 $6,000,000,000 $5,500,000,000 $5,00
 Centurion Apartment REIT invests primarily in the following areas:
 
 - (i) Multi-Unit Residential Real Estate (Apartments)
-
 - (ii) Student Housing
-
 - (iii) Medical Offices
-
 - (iv) Mortgage and Equity Investments
 
 #### **Asset Allocation Summary**
@@ -1733,35 +1638,22 @@ Purpose-built student housing is a niche and underserved multi-residential marke
 In the opinion of the Asset Manager, there are many student housing markets with some or all of the following potentially positive characteristics:
 
 - high occupancy rates due to a shortage of quality, well located properties
-
 - higher rents per square foot, generally translating into higher yields on student properties
-
 - low correlation to the economy; in slow economic periods, students may be more inclined to stay in school, and unemployed persons may return to school, creating further demand
-
 - a highly fragmented industry with few dominant competitors, ripe for consolidation by a well- capitalized and focused acquisition strategy
-
 - good inflation hedge characteristics due to frequency of lease turnover at market rates
-
 - generally strong tenant quality due to multiple lease guarantors
-
 - the specialized management skills in the business act as a barrier to entry
-
 - the higher purchase price (as most are new construction) and equity requirements act as a barrier to entry
-
 - the niche and emerging nature of the business has not yet attracted a large institutional following or participation, further acting to limit potential competition
-
 - student demands are becoming more discerning with a willingness to pay for a premium lifestyle accommodation with security and amenities driving demand for new purpose-built products
-
 - off-campus residents tend to be second through fourth-year students with most first-year students opting to stay on campus and remain in university residence
 
 In the opinion of the Asset Manager, student housing also has some potentially negative characteristics such as:
 
 - students move in and move out at the start and end of the academic year respectively. This means that if a property has some vacancy at the start of the academic year, that there is little potential to fill these units until the next term or academic year meaning that vacancies, if any will be less easy to fill than standard apartments.
-
 - students require a higher level of oversight than standard apartments as it often is their first independent living experience. Properties require this increased oversight to reduce the risk of property damages and noise that may otherwise disturb other residents
-
 - student properties are less well understood by financial institutions. This means fewer of them offer mortgage financing and the terms offered may not be as attractive as for regular apartments
-
 - student apartments with higher bedroom density (e.g. 4 and 5-bedroom units) that are off campus, are generally not eligible for CMHC-insured mortgage financing.
 
 <!-- page 55 -->
@@ -1915,7 +1807,6 @@ The Declaration of Trust provides that the assets and operations of Centurion Ap
 The Declaration of Trust provides for the appointment by the Trustees of an audit committee (the Audit Committee). The Declaration of Trust contains additional provisions for the following with respect to Trustees:
 
 - a majority of the Trustees must be Independent Trustees; and
-
 - a Trustee, other than a Centurion Appointee, may be removed at any time with or without cause by a majority of the votes cast at a meeting of Unitholders or by written consent of Unitholders holding not less than a majority of the outstanding Units entitled to vote or with cause by a resolution passed by an affirmative vote of not less than two-thirds of the other Trustees.
 
 Pursuant to the Declaration of Trust, each Trustee is required to exercise the powers and duties of his or her office honestly, in good faith with a view to the best interests of Centurion Apartment REIT and the Unitholders and, in connection therewith, to exercise that degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
@@ -2095,9 +1986,7 @@ The Asset Manager has significant experience in all aspects of the rental housin
 administration, collection, syndication and default management). These skills should permit Centurion Apartment REIT to capitalize upon many real estate opportunities which may be unavailable to other real estate investors who lack the requisite diversity of real estate experience. The Asset Manager will enhance the value of Centurion Apartment REIT's properties through a number of distinct and well executed strategies, including:
 
 - **Customer Satisfaction.** The Asset Manager strives to keep all customers satisfied and as long-term tenants by creating an environment that is clean and comfortable. By developing a sense of community within the properties through various programs, it will reduce turnover and vacancy which will create demand for people wanting to live in Centurion Apartment REIT's buildings. Through the reduction in costs associated with turnover and through higher demand allowing increasing rents, net income will grow accordingly.
-
    - **Maintenance and Repair Programs.** The Asset Manager is fundamentally driven by efficiencies and costeffective programs that are accretive to Centurion Apartment REIT's short-term and long- term value. Through the portfolio's conversion to a real estate investment trust, the Asset Manager has positioned Centurion Apartment REIT to take full advantage of efficiency programs and capital investments that will attract tenants and enhance the value of the portfolio.
-
    - **Quality On-Site Building Staff.** The Asset Manager believes that success of a property from both financial and customer satisfaction standpoints starts with the attitudes and work ethic from the on-site building staff.
 
 <!-- page 67 -->
@@ -2105,15 +1994,10 @@ administration, collection, syndication and default management). These skills sh
 From being the first point of contact, to the ongoing attention to the customer's needs, the building staff represents Centurion Apartment REIT. As well as being attentive and dedicated, the Property Manager will seek on-site staff that is skilled in many areas in order to reduce the requirement for outside trades to be required for ordinary day-to-day repairs and maintenance.
 
 - **Detailed Financial Reporting.** The Asset Manager utilizes sophisticated financial tools to maximize Centurion Apartment REIT's income and measure the effectiveness of cost control and efficiency programs. The Property Manager and the Asset Manager disclose financial reporting to those involved who have a direct impact on the financial success and control of those particular incomes and expenses.
-
 - S **trategic Mortgage Liability Management.** The Asset Manager will work diligently to seek out financing opportunities to optimize Centurion Apartment REIT's leveraged returns. The Asset Manager believes that staggered maturities and terms, at leveraged amounts set out by the Declaration of Trust, will ensure Centurion Apartment REIT's exposure to fluctuating interest rates over the short and long-term are both minimized and utilized to benefit Centurion Apartment REIT. The Asset Manager will make use of operating lines for capital expenditures and acquisitions to improve the returns of Centurion Apartment REIT.
-
 - **Strategic Mortgage Investments.** The Asset Manager will evaluate mortgage investment opportunities which provide the potential for a combination of yield, capital growth, a potential acquisition pipeline or be of strategic value to Centurion Apartment REIT.
-
 - **Strategic Partnerships, Joint Ventures, Divestitures and Relationships.** The Asset Manager will explore strategic partnerships, joint ventures, divestitures and relationships that meet Centurion Apartment REIT's investment objectives.
-
 - **Enhancement of Centurion Apartment REIT's Portfolio.** The Asset Manager is always evaluating opportunities to maximize Centurion Apartment REIT's portfolio. The Asset Manager may evaluateIassess whether using its call center, condominium conversion, utility retrofits, sub- metering and strategic upgrades, among other things as part of this strategy. Properties that are "mature" and are no longer adding value to Centurion Apartment REIT may be sold or repositioned if there is a market for an enhanced property. The Asset Manager will continue to diversify the portfolio by purchasing properties in thriving communities that will continue to strengthen and insulate Centurion Apartment REIT from concerns that may arise in any one community.
-
 - **Communications.** The Asset Manager will deliver concise and current information to existing Unitholders with respect to the activities within Centurion Apartment REIT's portfolio.
 
 The Asset Manager believes that multi-unit residential properties offer an attractive investment opportunity with both stability of yield, inflation protection characteristics and growth potential. Focusing on predominantly one asset class will enable Centurion Apartment REIT to acquire a critical mass of residential units. It will also enable Centurion Apartment REIT to bolster its market presence, thereby enhancing Centurion Apartment REIT's opportunities for future multi-unit residential property acquisitions at attractive prices. Through future acquisitions of properties, in compliance with its investment guidelines, Centurion Apartment REIT intends to geographically diversify its portfolio by purchasing properties in thriving communities that will continue to strengthen and insulate Centurion Apartment REIT from concerns that may arise in any community. As well, as Centurion Apartment REIT grows through the acquisition of new properties and the issuance of additional REIT Units, Centurion Apartment REIT will increase the stability of its income stream and provide Unitholders with increased liquidity.
@@ -2139,87 +2023,50 @@ The following sets forth the principal operating structure of Centurion Apartmen
 The Declaration of Trust provides for certain guidelines on investments which may be made by Centurion Apartment REIT. Notwithstanding anything contained herein to the contrary, the assets of Centurion Apartment REIT may be invested only in accordance with the following investment guidelines:
 
 - (a) Centurion Apartment REIT shall focus its activities primarily on the acquisition, holding, maintaining, improving, leasing or managing of multi-unit residential revenue producing properties and ancillary real estate ventures ("Focus Activities") in Canada and the United States of America;
-
 - (b) notwithstanding anything herein contained to the contrary, no investment shall be made that would result in:
-
    - i. Units of Centurion Apartment REIT being disqualified for any class of Deferred Income Plan; or
-
    - ii. Centurion Apartment REIT ceasing to qualify as a "mutual fund trust" for purposes of the Tax Act;
-
 - (c) no single asset (except as provided for in the Declaration of Trust) shall be acquired if the cost of such acquisition (net of the amount of debt secured by such asset) will exceed 15% of Gross Book Value, provided that where such asset is the securities of or an interest in an entity, the foregoing tests shall be applied individually to each asset of such entity;
-
 - (d) investments may be made in a joint venture arrangement only if:
-
    - i. the arrangement is in connection with a Focus Activity;
-
    - ii. the arrangement is with others ("joint venturers") either directly or through the ownership of securities of or an interest in an entity ("joint venture entity");
-
    - iii. the interest in the joint venture entity is an interest of not less than 10% and is not subject to any restriction on transfer other than a right of first refusal or right of first offer, if any, in favour of the joint venturers;
-
    - iv. Centurion Apartment REIT or an entity controlled by it has a right of first offer or a right of first refusal to buy the interests of the joint venturers in the joint venture entity;
-
    - v. Centurion Apartment REIT has the ability to provide input in the management decisions of the joint venture entity; and
-
    - vi. without limitation, any joint venture arrangement with a Related Party for the purposes of the related party provisions of the Trust Indenture have been entered into in accordance with such provisions;
-
 - (e) unless otherwise permitted in this Section and except for temporary investments held in cash, deposits with a Canadian or U.S. chartered bank or trust company registered under the laws of a province of Canada, short-term government debt securities or in money market instruments of, or guaranteed by, a schedule I Canadian chartered bank maturing prior to one year from the date of issue, Centurion Apartment REIT, directly or indirectly, may not hold securities other than (i) currency, commodity or interest rate futures contracts for hedging purposes to the extent that such hedging activity complies with the Canadian Securities Administrator's National Instrument 81-102 or any successor instrument or rule; (ii) securities of a joint venture entity, or any entity formed and operated solely for the purpose of carrying on ancillary activities to any real estate owned, directly or indirectly, by Centurion Apartment REIT, or an entity wholly-owned, directly or indirectly, by Centurion Apartment REIT formed and operated solely for the purpose of holding a particular real property or real properties; and securities of another issuer provided either (A) such securities derive their value, directly or indirectly, principally from real property, or (B) the principal business of the issuer of the securities is the owning or operating directly or indirectly, of real property, and provided in either case the entity whose securities are being acquired are engaged in a Focus Activity;
 
 <!-- page 70 -->
 
 - (f) no investment will be made, directly or indirectly, in operating businesses unless such investment is incidental to a transaction:
-
    - i. where revenue will be derived, directly or indirectly, principally from a Focus Activity; or
-
    - ii. which principally involves the ownership, maintenance, improvement, leasing or management, directly or indirectly, of real property;
-
 - (g) notwithstanding any other provisions of this Section, the securities of a reporting issuer in Canada may be acquired provided that:
-
    - i. the activities of the issuer are focused on Focus Activities; and
-
    - ii. in the case of any proposed investment or acquisition which would result in the beneficial ownership of more than 10% of the outstanding equity securities of the securities issuer, the investment or acquisition is of strategic interest to Centurion Apartment REIT as determined by the Trustees in their discretion;
-
 - (h) no investments will be made in rights to or interests in mineral or other natural resources, including oil or gas, except as incidental to an investment in real property;
-
 - (i) investments may be made in a mortgage, mortgage bonds, notes (except as provided for in the Trust Indenture) or debentures ("Debt Instruments") (including participating or convertible) only if:
-
    - i. the real property which is security thereof is real property;
-
    - ii. the security therefore includes a mortgage registered on title to the real property which is security thereof;
-
    - iii. the amount of the investment (not including any mortgage insurance fees incurred in connection therewith) does not exceed 85% of the market value of the real property which is the security thereof; and
-
 - (j) notwithstanding subsection i), Centurion Apartment REIT may also invest in mortgages where:
-
    - i. the mortgage is a "vendor take-back" mortgage granted to Centurion Apartment REIT in connection with the sale by it of existing real property and as a means of financing the purchaser's acquisition of such property from Centurion Apartment REIT;
-
    - ii. the mortgage is interest bearing;
-
    - iii. the mortgage is registered on title to the real property which is security thereof;
-
    - iv. the mortgage has a maturity not exceeding five years;
-
    - v. the amount of the mortgage loan is not in excess of 85% of the selling price of the property securing the mortgage; and
-
    - vi. the aggregate value of these mortgages (including mortgages and mortgage bonds in which Centurion Apartment REIT is permitted to invest by virtue of this Section, after giving effect to the proposed investment, will not exceed 15% of Gross Book Value of Centurion Apartment REIT calculated at the time of such investment;
-
 - (k) notwithstanding subsection i) and j), Centurion Apartment REIT may invest in mortgages of related entities that do not deal at arm's length to Centurion Apartment REIT provided that:
-
    - i. the purpose of the mortgage is to finance the redevelopment of a property that when complete, would be within the Investment Restrictions of Centurion Apartment REIT;
-
    - ii. Centurion Apartment REIT has a right of first refusal to purchase the property at less than or equal to its fair market value as determined by an independent third-party appraiser;
-
    - iii. the mortgage bears interest at a commercial rate of interest;
-
    - iv. the amount of the mortgage loan is not in excess of 90% of the selling price of the property securing the mortgage;
-
    - v. the mortgage has a maturity not exceeding five years;
-
    - vi. the mortgage is approved by the Trustees; and
 
 <!-- page 71 -->
 
 - vii. the aggregate value of these mortgages, after giving effect to the proposed investment, will not exceed 15% of Gross Book Value of Centurion Apartment REIT calculated at the time of such investment; and
-
 - viii. no investment shall be made in raw land (except for the acquisition of properties adjacent to Existing Properties of Centurion Apartment REIT for the purpose of renovation or expansion of existing facilities where the total cost of all such investments does not exceed 5% of Gross Book Value); and notwithstanding any other provisions hereof, investments may be made which do not comply with the provisions of this Section, provided (i) the aggregate cost thereof (which, in the case of an amount invested to acquire real property, is the purchase price less the amount of any indebtedness assumed or incurred in connection with the acquisition and secured by a mortgage on such property) does not exceed 15% of the Adjusted Unitholders' Equity of Centurion Apartment REIT and (ii) the making of such investment would not contravene subsection b).
 
 For the purpose of the foregoing guidelines, the assets, liabilities and transactions of a corporation, trust or other entity wholly or partially owned by Centurion Apartment REIT will be deemed to be those of Centurion Apartment REIT on a proportionate consolidation basis. In addition, any references in the foregoing to investment in real property will be deemed to include an investment in a joint venture arrangement or a limited partnership, the whole subject to Section a) of the Declaration of Trust. Except as specifically set forth in the Declaration of Trust to the contrary, all of the foregoing prohibitions, limitations or requirements for investment shall be determined as at the date of investment by Centurion Apartment REIT, but always subject to Section a).
@@ -2231,13 +2078,9 @@ For greater certainty, Sections (a) through l) are intended to set out generally
 The operations and affairs of Centurion Apartment REIT shall be conducted in accordance with the following operating policies:
 
 - (a) Centurion Apartment REIT may engage in construction or development of real property in order to maintain its real properties in good repair or to enhance the income-producing potential of properties that are capital property of Centurion Apartment REIT;
-
 - (b) title to each real property shall be held by and registered in the name of the Trustees or, to the extent permitted by applicable law, in the name of Centurion Apartment REIT or in the name of a corporation or other entity owned, directly or indirectly, by Centurion Apartment REIT or jointly- owned, directly or indirectly, by Centurion Apartment REIT, with joint venturers or a corporation which is a nominee of Centurion Apartment REIT which holds as its only property registered title to such real property pursuant to a nominee agreement with Centurion Apartment REIT;
-
 - (c) no indebtedness shall be incurred or assumed if, after giving effect to the incurring or assumption thereof of the indebtedness, the total indebtedness as a percentage of Gross Book Value would be more than 75% for indebtedness, including amounts drawn under an acquisition facility;
-
 - (d) except for any indebtedness existing at Closing, no new indebtedness (otherwise than by the assumption of existing indebtedness) will be incurred or renewed or refinanced or secured by a mortgage on any of the real property of the Trust unless, at the date of the proposed incurring of the indebtedness, the aggregate of: (i) the amount of all indebtedness secured by such real property, and (ii) the amount of additional indebtedness proposed to be incurred, does not exceed 75% of the market value of such real property, on or after that date which is 12 months from the acquisition date thereof, in either case not including mortgage insurance fees incurred in connection with the incurrence or assumption of such indebtedness, which amount shall be added to the amount of the permitted indebtedness;
-
 - (e) except for guarantees existing on the date of this "Trust Indenture", the Trust shall not, directly or indirectly, guarantee any indebtedness or liabilities of any kind of a third party, except indebtedness, liabilities or other obligations of: (i) any subsidiary of the Trust or other entity wholly-owned by the Trust, or (ii) any other entity jointly owned by the Trust with joint venturers and operated solely for the purpose of
 
 <!-- page 72 -->
@@ -2245,25 +2088,17 @@ The operations and affairs of Centurion Apartment REIT shall be conducted in acc
 holding a particular property or properties where such indebtedness, liabilities or other obligation, if granted, incurred or assumed by the Trust directly, would not cause the Trust to otherwise contravene the restrictions set out in Section 4.1 of the Declaration of Trust and, where such indebtedness, liabilities or other obligation is granted, incurred or assumed by a joint venture entity, subject to a joint venturer being required to give up its interest in a property owned by the joint venture entity as a result of another joint venturer's failure to honour its proportionate share of the obligations relating to such property, and, except with the prior approval of the Trustees and subject always to (b) under Section 4.1, the liability of the Trust is limited strictly to the proportion of the indebtedness, liabilities or other obligation equal to the Trust's proportionate ownership interest in the joint venture entity, or (iii) with the prior approval of the Trustees and subject always to (b) under Section 4.1, the indebtedness, liabilities or other obligations of joint venturers in circumstances where any such guarantee may also be given in respect of the associated joint venture entity. In addition, the Trust will not directly or indirectly guarantee any indebtedness, liabilities or other obligations of any Person if doing so would contravene (b) under Section 4.1;
 
 - (f) except for the **"Contributed Assets"** acquired pursuant to the Rollover Agreement, an engineering survey or physical review by an experienced third-party consultant will be obtained for each real property intended to be acquired with respect to the physical condition thereof;
-
 - (g) at all times insurance coverage will be obtained and maintained in respect of potential liabilities of the Trust and the accidental loss of value of the assets of the Trust from risks, in amounts and with such insurers, in each case as the Trustees consider appropriate, taking into account all relevant factors including the practices of owners of comparable properties;
-
 - (h) except for the Contributed Assets acquired pursuant to the Rollover Agreement, a Phase I environmental audit shall be conducted for each real property to be acquired and, if the Phase I environmental audit report recommends that further environmental audits be conducted, such further environmental audits shall be conducted, in each case by an independent and experienced environmental consultant;
-
 - (i) at least 8.5% of gross consolidated annual rental revenues generated from properties where the associated mortgage financing is insured by the Canadian Mortgage and Housing Corporation ( **"insured properties"** ) as determined pursuant to GAAP shall be expended annually on sustaining capital expenditures, repairs and maintenance, all determined on a portfolio basis for all insured properties. For this purpose, capital expenditures and repairs and maintenance include all onsite labour costs and other expenses and items associated with such capital expenditures, repairs and maintenance; and
-
 - (j) the Trust may engage asset managers under terms and conditions acceptable to the Trustees. As at the date hereof, the Trust has engaged the Asset Manager by the terms of the Asset Management Agreement, which agreement shall remain in full force and effect until terminated by the Trustees or the Asset Manager in accordance with its terms.
 
 For the purposes of the foregoing investment guidelines and operating policies, the assets, indebtedness, liabilities and transactions of a corporation, partnership or other entity wholly or partially owned by the Trust will be deemed to be those of the Trust on a proportionate, consolidated basis. In addition, any references in the foregoing investment guidelines and operating policies to investment in real property will be deemed to include an investment in a joint venture arrangement. In addition, the term **"indebtedness"** means (without duplication):
 
 - i. any obligation of the Trust for borrowed money;
-
 - ii. any obligation of the Trust incurred in connection with the acquisition of property, assets or business other than the amount of future income tax liability arising out of indirect acquisitions;
-
 - iii. any obligation of the Trust issued or assumed as the deferred purchase price of property;
-
 - iv. any capital lease obligation of the Trust; and
-
 - v. any obligation of the type referred to in clauses i. through iv. of another person, the payment of which the Trust has guaranteed or for which the Trust is responsible for or liable;
 
 provided that (A) for the purposes of i through iv, an obligation will constitute indebtedness only to the extent that it would appear as a liability on the consolidated balance sheet of the Trust in accordance with generally accepted accounting principles; (B) obligations referred to in clauses i through iii exclude trade accounts payable, distributions payable to Unitholders and accrued liabilities arising in the ordinary course of business.
@@ -2358,21 +2193,15 @@ The Trust is not a "reporting issuer" under securities legislation of any jurisd
 The Declaration of Trust may only be amended by a vote of a majority of the votes cast at a meeting of Unitholders duly called for that purpose, provided that the provisions of the Declaration of Trust may be amended by the Trustees without the consent, approval or ratification of the Unitholders or any other person for the following purposes:
 
 - to ensure continuing compliance with applicable laws (including the Tax Act and maintaining the Trust's status as a mutual fund trust under the Tax Act), regulations, requirements or policies of any governmental or other authority, having jurisdiction over the Trustees, the Trust or over the distribution of Trust Units;
-
 - to provide additional protection, in the opinion of the Trustees, for the Unitholders;
-
 - to remove any conflicts or inconsistencies in the Trust Indenture or making minor corrections including the rectification of any ambiguities, defective provisions, errors, mistakes or omissions which are, in the opinion of the Trustees, necessary or desirable and not prejudicial to the Unitholders;
-
 - to make amendments which, in the opinion of the Trustees, are necessary or desirable to remove conflicts or inconsistencies between the disclosure in the Circular and the Trust Indenture;
-
 - to make amendments which, in the opinion of the Trustees, are necessary or desirable as a result of changes in generally accepted accounting principles (including accounting guidelines) or taxation or other laws or the administration or enforcement thereof;
 
 <!-- page 78 -->
 
 - to enable the Trust to issue Units for which the purchase price is payable in installments;
-
 - to create one or more additional classes of units solely to provide voting rights to holders of shares, units or other securities that are exchangeable for Units entitling the holder thereof to a number of votes not exceeding the number of Units into which the exchangeable shares, units or other securities are exchangeable or convertible but that do not otherwise entitle the holder thereof to any rights with respect to the Trust's property or income other than a return of capital; or
-
 - for any purpose (except one in respect of which a Unitholder vote is specifically otherwise required) if the Trustees are of the opinion that the amendment is not prejudicial to Trust Unitholders and is necessary or desirable;
 
 but notwithstanding the foregoing, no such amendment shall modify the right to vote attached to any Unit or the entitlement to distributions from the Trust provided hereunder represented by any Unit without the consent of the Unitholders, and no such amendment shall reduce the percentage of votes required to be cast at a meeting of the Unitholders without the consent of the holders of all of the Units then outstanding or cause the Trust to fail or cease to qualify as a "mutual fund trust" under the Tax Act.
@@ -2380,25 +2209,15 @@ but notwithstanding the foregoing, no such amendment shall modify the right to v
 Notwithstanding the above, no action or authorization and no amendment may be made to the Declaration of Trust by the Trustees without a " **Special Resolution Vote** " with respect to:
 
 - the termination of the Trust;
-
 - any combination, merger, amalgamation or arrangement of the Trust, " **COT", CAP I LP or CAP II LP** , as the case may be, or any sale of all or substantially all of the assets of the Trust, **COT, CAP I LP or CAP II LP** , as the case may be, or the liquidation or dissolution of the Trust, **COT, CAP I LP, CAP II LP** , as the case may be, (other than as part of an internal reorganization of the assets of the Trust, **COT, CAP I LP or CAP II LP** , as the case may be, as approved by the Trustees);
-
 - these provisions of Declaration of Trust
-
 - the provisions of the COT Indenture concerning the computation of net income;
-
 - an exchange, reclassification or cancellation of all or part of the Trust Units or Special Voting Units other than as specifically provided for in the Declaration of Trust with respect to Special Voting Units;
-
 - the addition, change or removal of the rights, privileges, restrictions or conditions attached to the Trust Units or Special Voting Units and, including, without limiting the generality of the foregoing:
-
 - the removal or change of rights to distributions;
-
 - the addition or removal of or change to conversion privileges, options, voting, transfer or pre- emptive rights; or
-
 - the reduction or removal of a distribution preference or liquidation preference;
-
 - the creation of new rights or privileges attaching to certain of the Trust Units or Special Voting Units; or
-
 - the constraint on the issue, transfer or ownership of Trust Units or Special Voting Units or the change or removal of such constraint, except as otherwise provided herein;
 
 except in each case with the approval of Unitholders given by the affirmative vote of at least two-thirds of the votes cast at a meeting of Unitholders duly called for that purpose.
@@ -2428,7 +2247,6 @@ Centurion Apartment REIT applies judgment in determining if the acquisition of a
 The fair value of investment properties is determined using a detailed valuation framework developed by Centurion Apartment REIT's internal and external valuation teams. Each of these teams includes experts in the industry. The valuation teams considered the following approaches in determining the fair value:
 
 1. Consideration of recent prices of similar properties within similar market areas;
-
 2. The direct capitalization method, which is based on the conversion of current and future normalized earnings potential directly into an expression of market value. The Normalized Net Operating Income ("NNOI") for the year is divided by an overall capitalization rate (inverse of an earnings multiplier) to arrive at the estimate of fair value.
 
 The External Team, comprised of the auditors and valuators, are responsible for:
@@ -2436,45 +2254,33 @@ The External Team, comprised of the auditors and valuators, are responsible for:
 Quarterly by the valuators:
 
 - Determining the capitalization rates that would be used in valuing the properties
-
 - Providing charts of comparable sales and supporting relevant market information
 
 Annually by the valuators:
 
 - Determining the capitalization rates that would be used in valuing the properties
-
 - Providing charts of comparable sales and supporting relevant market information
-
 - Determining the appropriate industry standard "set off" and normalization assumptions used in the calculation of NNOI.
-
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Reviewing, for the audited year-end financial statements, the resultant values for reasonableness, compliance with the valuation framework and compliance with IAS 40
-
 - Supplying a "Fair Value" Report for financial statement purposes
 
 Annually by the auditors:
 
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Evaluating the work of the valuator including assumptions and comparisons to market
-
 - Reviewing of the controls over the underlying data provided to the valuator from the REIT's accounting system
 
 <!-- page 81 -->
 
 - Reviewing the "Fair Value" Report prepared by the valuators
-
 - Reviewing, for the audited year-end financial statements, the resultant values for reasonableness, compliance with the valuation framework and compliance with IAS 40
 
 The Internal Team, comprised of the Asset Manager, is responsible quarterly and annually for:
 
 - Assembling the property specific data used in the valuation model based on the process set forth in the valuation framework
-
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Inputting the capitalization rates, "set offs" and normalization assumptions provided by the valuators
-
 - Delivering the completed valuation framework to the external team for review at year-end for the audited financial statements
 
 Investment properties are derecognized when either they have been disposed of or when the investment property is permanently withdrawn from use and no future economic benefit is expected from its disposal. Any gains or losses on the retirement or disposal of investment property are recognized in the income statement in the year of retirement or disposal.
@@ -2492,7 +2298,6 @@ Participating loan interests are measured at fair value through profit and loss 
 The fair value of the underlying real estate assets related to participating loan interests was determined using a detailed valuation framework, and the techniques considered in this framework are as follows:
 
 1. Consideration of recent prices of similar properties within similar market areas; and
-
 2. The direct capitalized method, which is based on the conversion of future normalized earnings directly into an expression of market value.
 
 <!-- page 82 -->
@@ -2518,11 +2323,8 @@ The REIT Unit NAV is calculated by adding IFRS Balance Sheet Assets, subtracting
 The Adjustment Factors include, but are not limited to:
 
 - (a) portfolio premiums1, if any; plus
-
 - (b) capitalization of certain capital expenses, whose benefits accrue over a long period of time and should be allocated between exiting, remaining and incoming Unitholders but may be written off or effectively written off under IFRS, or where the value of such expense isn't as yet reflected, in whole or in part in the Investment Portfolio valuation due to timing lags, if any; plus
-
 - (c) portfolio inter-quarter timing adjustments, if any; less
-
 - (d) discretionary adjustments, if any.
 
 _I Portfolio premium means an adjustment to IFRS valuations to account for the difference that buyers may pay for a portfolio of properties over individual component properties considered on their own. The IFRS valuation approach evaluates each property on a standalone basis, without considering the value of economies of scale, clustering advantages, the time, expense and difficulty of assembling a portfolio and the attractiveness of a portfolio to potential buyers._
@@ -2876,31 +2678,20 @@ The REIT Units are not the same as shares of a corporation. As a result, the Uni
 Each Subscriber of Units will be deemed to have represented to Centurion Apartment REIT, the underwriters and any dealer who sells the Units to such Subscriber that:
 
 - (a) the offer and sale of REIT Units was made exclusively through the final version of the Offering Memorandum and was not made through an advertisement of the REIT Units in any printed media of general and regular paid circulation, radio, television or telecommunications, including electronic display, or any other form of advertising in Canada;
-
 - (b) it has reviewed and acknowledges the terms referred to above under the section entitled "Resale Restrictions";
 
 <!-- page 98 -->
 
 - (c) where required by law, it is purchasing as principal, or is deemed to be purchasing as principal in accordance with applicable Canadian securities laws in which it is resident, for its own account and not as agent for the benefit of another person;
-
 - (d) it is an accredited or eligible investor as defined in NI 45-106 if resident in a province in Canada; and
-
 - (e) it is not a person created or used solely to purchase or hold the REIT Units as an accredited investor as described in paragraph (m) of the definition of accredited investor in section 1.1 of NI 45-106.
-
 - (f) In addition, each resident of Ontario who purchases the REIT Units will be deemed to have represented to Centurion Apartment REIT, the underwriters and each dealer from whom a purchase confirmation is received, that such Subscriber:
-
    - (i) has been notified by Centurion Apartment REIT:
-
    - (ii) that Centurion Apartment REIT may be required to provide certain personal information ("personal information") pertaining to the Subscriber as required to be disclosed in Schedule I of Form 45-106F1 under NI 45-106 (including its name, address, telephone number and the number and value of any REIT Units purchased), which Form 45-106F1 may be required to be filed by the Company under NI 45-106;
-
    - (iii) that such personal information may be delivered to the Ontario Securities Commission (the "OSC") in accordance with NI 45-106;
-
    - (iv) that such personal information is collected indirectly by the OSC under the authority granted to it under the securities legislation of Ontario;
-
    - (v) that such personal information is collected for the purposes of the administration and enforcement of the securities legislation of Ontario; and
-
    - (vi) that the public official in Ontario who can answer questions about the OSC's indirect collection of such personal information is the Administrative Assistant to the Director of Corporate Finance at the OSC, Suite 1903, Box 55, 20 Queen Street West, Toronto, Ontario M5H 3S8, Telephone: (416) 593-8086; and
-
    - (vii) has authorized the indirect collection of the personal information by the OSC.
 
 Furthermore, the Subscriber acknowledges that its name, address, telephone number and other specified information, including the number of REIT Units it has purchased and the aggregate purchase price paid by the Subscriber, may be disclosed to other Canadian securities regulatory authorities and may become available to the public in accordance with the requirements of applicable Canadian laws. By purchasing REIT Units, the Subscriber consents to the disclosure of such information.
@@ -2942,19 +2733,12 @@ Upon receipt of this document, each investor hereby confirms that it has express
 The following is a list of all material documents related to Centurion Apartment REIT:
 
 - The Declaration of Trust of Centurion Apartment REIT;
-
 - The Centurion Operating Trust Indenture;
-
 - The Centurion Operating Trust Note Indenture;
-
 - The Asset Management Agreement;
-
 - The Exchange Agreement;
-
 - The Rollover Agreement;
-
 - The CAP I LP and CAP II LP Limited Partnership Agreements; and
-
 - The Asset Transfer Agreement.
 
 The Material Contracts are available for review by potential investors at the offices of the REIT and some are also online at www.centurion.ca
@@ -3633,23 +3417,14 @@ The following discloses the properties that are currently under contract and sho
 The following discloses the properties that are currently under development and shows, the location, the number of units, Centurion's ownership interest, the Centurion vehicle supporting the development and the year in which the property is expected to be completed.
 
 1. Madison Avenue - Calgary, Alberta - 2 Units - 50% - 2025
-
 2. ME Condo PH 2 & 3 - Scarborough, Ontario - 16 Units - 5,367 Com Sq Ft. - 65% - 2025
-
 3. Espace Nature IV - Vieus-Longueuil, Quebec - 78 Units - 50% - 2025
-
 4. Ste Julie - Sainte-Julie, Quebec - 214 Units - 50% - 2025
-
 5. 400 Alberta St (Main and Main) - Ottawa, Ontario - 567 Units - 18,577 Com Sq Ft- 50% - 2027
-
 6. Trinity Hill - Calgary, Alberta - 268 Units - 50% - 2026
-
 7. Arbour Lake - Calgary, Alberta - 151 Units - 50% - 2026
-
 8. Viva-Cite (Rivea RO1) - Terrebonne, Quebec - 153 units - 50% - 2025
-
 9. Springfield - Kelowna, British Columbia - 270 Units - 8,098 Com Sq Ft.- 67% - 2025
-
 10. Icon Trinity (Deveraux) Phase II - Calgary, Alberta - 277 Units - 50% - 2027
 
 <!-- page 121 -->
@@ -3692,13 +3467,9 @@ The following discloses the properties that are currently under development and 
 Notes:
 
 1. "Apt" is short for Apartment and "SH" is short for Student Housing.
-
 2. "Suites" means a rental suite, irrespective of the number of bedrooms or rental units in that suite. E.g., a 3-bedroom apartment that rents as a whole would be considered a single suite.
-
 3. "Rental UnitsIBeds" adjusts for the number of student tenants renting individual units inside a suite. For example, a 5-bedroom student unit, would show as 1 suite, but 5 rental units as there may be 5 separate leases, each pertaining to a bed. This distinction only applies to properties classified as Student Residences. Thus, an apartment that had a 2- bedroom suite that had roommates sharing the apartment and was not classified as a "student residence" would be 1 Suite and 1 Rental Unit only. We make no distinction in "Rental Units" between individual leases on bedrooms and multi-tenant leases with all residents in the suite on a single lease (the two forms of lease in the student rental business).
-
 4. "Undiluted" means that the number doesn't factor in any portion of the building that may be owned by partners. E.g., a 100-suite building owned 50I50 with a partner would show above as 100 suites on an undiluted basis and 50 suites on a diluted basis.
-
 5. "Diluted" means that portions of the property owned by partners has been subtracted from the total. E.g., a 100-suite building owned with a partner would show above as 50 diluted suites.
 
 <!-- page 122 -->
@@ -4621,21 +4392,15 @@ Location: Medicine Hat, Alberta Address: 770 6th Street SW Type of Building: Med
 Centurion Apartment REIT
 
 1. **Schedule 1 - Item 3(1) (Description of Real Property):** While the OM contains a fair amount of information about the Trust's interests in real property, please ensure that it includes information in respect of the following, to the extent applicable:
-
 - (i) any encumbrances that would be material to a reasonable investor; **N/A**
-
 - (ii) any restriction on sale or disposition; **N/A**
-
 - (iii) any environmental liabilities, hazards or contamination; **N/A**
-
 - (iv) any tax arrears; **N/A**
-
 - (v) if utilities and other services are not currently being provided, describe how they will be provided and who will provide them. **N/A**
 
 Similarly, with respect to a proposed acquisition of one or more interests in real property, the Trust must disclose its expectations regarding the following, to the extent applicable:
 
 - (i) any encumbrances that would be material to a reasonable investor; **N/A**
-
 - (ii) any restriction on sale or disposition. **N/A**
 
 As the Trust is providing disclosure on 10 or more interests in real property, it may disclose the information on a summarized basis with respect to: (i) the portfolio of real property interests as a whole; or (ii) the portfolio of real property interests broken into subgroups. **SEE APPENDIX A**
@@ -4657,7 +4422,6 @@ As the Trust is providing disclosure on 10 or more interests in real property, i
 #### **No transfers were made between related parties.**
 
 1. **Schedule 1 - Item 8 (Approvals):** Certain information must be disclosed in respect of real property being developed. **N/A**
-
 1. **Schedule 1 - Item 9 (Costs and Objectives):** Certain information must be disclosed in respect of real property being developed. **N/A**
 
 <!-- page 160 -->
@@ -4689,13 +4453,9 @@ To the Unitholders of Centurion Apartment Real Estate Investment Trust
 We have audited the consolidated financial statements of Centurion Apartment Real Estate Investment Trust (the "Entity"), which comprise:
 
 - the consolidated statement of financial position as at December 31, 2024
-
 - the consolidated statement of net income and comprehensive income for the year then ended
-
 - the consolidated statement of changes in net assets attributable to unitholders for the year then ended
-
 - the consolidated statement of cash flows for the year then ended
-
 - and notes to the consolidated financial statements, including a summary of material accounting policy information
 
 (hereinafter referred to as the "financial statements").
@@ -4753,13 +4513,9 @@ We also:
 The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
 
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Entity's internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Entity's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Entity to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure, and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
-
 - Communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
 
 <!-- page 164 -->
@@ -5002,13 +4758,9 @@ The Trust applies a three-stage approach to measure allowance for credit losses.
 Management assesses financial assets for objective evidence of significant changes in credit risk at each reporting period by specifically considering, but not limited to, the following:
 
 - Payment default by a borrower is not cured within a reasonable period (30 days);
-
 - Whether the security of the mortgage is significantly negatively impacted by recent events;
-
 - Financial difficulty experienced by a borrower;
-
 - Changes in assumptions about local economic and other real estate market conditions in the geographic area in which a borrower's project is located;
-
 - Management's judgment as to whether current economic and credit conditions are such that potential losses at the reporting date are likely to be higher or lower than the amounts suggested by historic experience.
 
 The calculation of expected credit losses requires judgment to determine whether there has been significant credit risk deterioration since origination, and the variables that are relevant for each mortgage investment and the probability weights that should be applied. Management exercises expert credit judgment in determining the amount of ECLs at each reporting date, starting with reviewing all related receivables outstanding greater than 90 days. To do so, Management considers reasonable and supportable information that is relevant and available without undue cost or effort. Management considers historical events, current market conditions and reasonable forward-looking supportable information about future economic conditions. Changes in these inputs, assumptions, models, and judgments directly impact the measurement of ECLs.
@@ -5211,7 +4963,6 @@ The Trust's investment properties consist of the following:
 The following valuation techniques were considered in determining the fair value which are all considered a level 3 valuation technique in the fair value hierarchy:
 
 1. The direct capitalization method is the Trust's primary valuation methodology and is based on the conversion of estimated future normalized earnings potential directly into an expression of market value. The Normalized Net Operating Income ("NNOI") for the period is divided by an overall capitalization rate (inverse of an earnings multiplier) to arrive at the estimate of fair value;
-
 2. The comparable sales approach which is based on recent prices of similar properties within similar market areas, if any
 
 At each reporting date, the Trust assembles the property specific data used in the valuation model based on the process outlined in the valuation framework, reviews the valuation framework to determine whether any changes or updates are required, inputs the capitalization rates, set-offs and normalization assumptions provided by the valuators, and delivers the completed valuation framework to the external appraiser for review.
@@ -5618,7 +5369,6 @@ As at December 31, 2024, the Trust holds mortgage investments that contain parti
 The Trust estimates the fair value of the participating loan interests based on a discounted cash flow model. The primary input in the discounted cash flow model is the fair value of the real estate securing the participating loan. The fair value of the underlying real estate assets was determined using a detailed valuation framework, and the techniques considered in this framework are as follows:
 
 1. Consideration of recent prices of similar properties within similar market areas;
-
 2. The direct capitalization method for the underlying real estate security is based on an "as if" completed basis, which is based on the conversion of future normalized earnings directly into an expression of market value less cost to complete.
 
 CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST - Consolidated Financial Statements
@@ -5750,11 +5500,8 @@ In accordance with the Declaration of Trust ("DOT"), the Trust may issue an unli
 ### **Authorized**
 
 - **i. Unlimited number of Class A Trust Units** Class A Trust Units are participating, with one vote per unit, no par value.
-
 - **ii. Unlimited number of Class F Trust Units** Class F Trust Units are participating, with one vote per unit, no par value.
-
 - **iii. Unlimited number of Class I Trust Units** Class I Trust Units are participating, with one vote per unit, no par value.
-
 - **iv. Unlimited number of Class M Trust Units**
 
 Class M Trust Units are participating, reserved for Centurion Asset Management Inc., and represent a beneficial interest set as the ratio of the number of investor units, such that the amount of Class M Units will equal the number of investor units, subject to a high-water mark, divided by 0.95 less the number of Investor Trust Units and the cumulative amount of Class M Trust Units previously redeemed. Investor Trust Units are defined as the Class A Trust Units, the Class F Trust Units, the Class I Units and any new class of Trust Units. Apart from certain voting restrictions, the Class M unitholders are entitled to vote to that percentage of all Unitholder votes equal to the Class M unit percentage interest. The remaining Class M Units have been converted to Class A units as at September 1st, 2023 and no additional Class M units will be issued in the future.
@@ -5932,15 +5679,10 @@ Fair value is the price that market participants would be willing to pay for an 
 The fair values of the Trust's financial assets and liabilities were determined as follows:
 
 - The carrying amounts of cash, restricted cash, acquisition deposits, warehouse receivable, unit subscriptions in trust, rents receivables, accounts payable and other liabilities, and tenant deposits approximate their fair values based on the short-term maturities of these financial instruments.
-
 - Management determines fair value of mortgage investments based on its assessment of the current lending market of the same or similar terms since there are no quoted prices in an active market for these investments. Management has determined that the fair value of mortgage investments approximates their carrying value.
-
 - Fair values of mortgages payable and credit facilities are estimated by discounting the future cash flows associated with the debt at current market interest rates. The fair value at December 31, 2024, is $3,079,538 (December 31, 2023: $2,969,773). Carrying value at December 31, 2024 is $3,269,635 (December 31, 2023: $3,155,355).
-
 - Management determines the fair value of participating loan interests, as detailed in Note 6b, based on the fair value of the underlying asset which uses either the direct capitalization approach or the direct comparison approach.
-
 - The long term incentive plan trust units is valued based on the Trust's Net asset value.
-
 - The fair value of the foreign currency futures and forward contracts was determined using Level 2 inputs which include spot and futures and forward foreign exchange rates.
 
 CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST - Consolidated Financial Statements
@@ -6193,6 +5935,6 @@ CENTURION APARTMENT REAL ESTATE INVESTMENT TRUST - Consolidated Financial Statem
 
 <!-- page 207 -->
 
-ION I Ii I C �P E AR N IY T IE U T\J R I REII
+ION I Ii I C P E AR N IY T IE U T\J R I REII
 
 25 Sheppard Ave W, Suite 1800, Toronto ON M2N6S6 416-733-5600 I www.CENTURION.ca

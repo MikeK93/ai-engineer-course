@@ -7,7 +7,7 @@ as_of: 2025-04
 pages: 1-297
 ocr_pages:
 - 297
-content_hash: 5f8c9198827303d72a47f31a746a653aa1d3c130d0855e9d2d49f1615b9a8fc9
+content_hash: fce2fc3d56339d1629f38237630cb3b8633d45e9888d355e4a85c9824bce49b1
 ---
 
 <!-- page 1 -->
@@ -152,7 +152,6 @@ v
 |**Total:**|**$619,454,000****|||||||||
 
 * Offered Notes.
-
 - ** Including only Offered Notes.
 
 > (1) Each Class of Offered Notes will be sold at a price of par.
@@ -160,13 +159,9 @@ v
 > (2) Weighted average lives and principal payment windows with respect to the Notes assume that no Credit Events or Modification Events occur, prepayments occur at the pricing speed of 10% CPR (calculated from the Closing Date), the Notes pay on the 25th day of each month beginning in April 2025, and the Early Redemption Option is exercised on the Payment Date in March 2030.
 
 - (3) The Class Principal Balance of any outstanding Notes will be paid in full on the earlier to occur of the Early Redemption Date, if any, and the Maturity Date.
-
 - (4) The Class 2A-1 Notes, Class 2M-1 Notes, Class 2M-2A Notes, Class 2M-2B Notes and Class 2M-2C Notes will have corresponding Reference Tranches for the purpose of making calculations of payments required to be made by the Issuer and reductions and increases in the principal amounts of the Notes.
-
 - (5) See " _Summary of Terms — Interest_ " herein.
-
 - (6) The Holders of the Class 2M-2 Notes may exchange all or part of that Class for proportionate interests in the Class 2M-2A, Class 2M-2B, and Class 2M-2C Notes, and vice versa. Additionally, the Holders of Class 2M-2A Notes, Class 2M-2B Notes and/or Class 2M-2C Notes may exchange all or part of those Classes for proportionate interests in the RCR Notes in the applicable combinations set forth on Schedule I hereto, and vice versa. Certain Classes of related RCR Notes may further be exchanged for proportionate interests in other Classes of RCR Notes in the applicable combinations set forth on Schedule I hereto, and vice versa. Of the Exchangeable Notes and the RCR Notes, only the Class 2M-2 Notes are Offered Notes.
-
 - (7) The X-IO Interest will be an uncertificated interest issued by the Issuer and held by Fannie Mae. The X-IO Interest will have no principal balance. So long as the X-IO Interest is outstanding, it will represent the entitlement on any Payment Date to the excess, if any, of (i) the amount payable in respect of the IO Q-REMIC Interest for such Payment Date over (ii) the Transfer Amount for the related Remittance Date. The X-IO Interest is not offered under this Offering Memorandum.
 
 > (8) The Class R and Class RL Certificates, which will be issued by the Issuer and retained by Fannie Mae, will constitute residual interests under U.S. Treasury regulations. The Class R and Class RL Certificate are not offered under this Offering Memorandum.
@@ -321,7 +316,7 @@ After the Closing Date, you can obtain, without charge, final copies of this Off
 |**Washington, DC 20005**|
 |**Telephone: 1-800-232-6643**|
 
-Fannie Mae also makes these documents available on its internet website at this address: **www.fanniemae.com**
+Fannie Mae also makes these documents available on its internet website at this address: **www.fanniemae.com**
 
 In addition, such documents will be made available on the internet website of the Indenture Trustee, located as of the date hereof at **https://www.sf.citidirect.com** .
 
@@ -329,7 +324,7 @@ Prior to the pricing date of this transaction, you can obtain, without charge, i
 
 Fannie Mae also makes available on its internet website certain pool- and loan-level information regarding each of the mortgage loans backing its MBS, and will make available comparable information regarding the mortgage loans included in the Reference Pool, based on information furnished to Fannie Mae by the loan sellers and servicers of the mortgage loans. Certain pool- or loan-level information provided in this Offering Memorandum, similarly, is based upon information reported and furnished to Fannie Mae by loan sellers and servicers of the mortgage loans. Fannie Mae generally does not independently verify information furnished to it by loan sellers and servicers regarding the mortgage loans and make no representations or warranties concerning the accuracy or completeness of
 
->  Fannie Mae provides this and other internet addresses solely for the information of investors. Fannie Mae does not intend these internet addresses to be active links and Fannie Mae is not using references to these addresses to incorporate additional information into this Offering Memorandum, except as specifically stated in this Offering Memorandum.
+> Fannie Mae provides this and other internet addresses solely for the information of investors. Fannie Mae does not intend these internet addresses to be active links and Fannie Mae is not using references to these addresses to incorporate additional information into this Offering Memorandum, except as specifically stated in this Offering Memorandum.
 
 > An investor may access the Selling Guide (as defined in this Offering Memorandum) at https://selling-guide.fanniemae.com/. An investor may access the Servicing Guide (as defined in this Offering Memorandum) at https://servicing-guide.fanniemae.com/.
 
@@ -715,25 +710,19 @@ Fannie Mae Delaware Trustee 1, 2 and 3 1 Indenture Trustee 4 Issuer 6 Initial Pu
 **1. TRUST AGREEMENT**
 
 • Connecticut Avenue Securities Trust 2025-R03 established as a Delaware statutory trust.
-
 - U.S. Bank Trust National Association appointed as Delaware Trustee.
-
 - Fannie Mae appointed as Administrator and agrees to pay expenses of the Issuer.
-
 - • Fannie Mae, as Trustor, contributes Designated Q-REMIC Interests to Issuer.
 
    **4. INDENTURE**
 
    • Citibank, N.A. appointed as Indenture Trustee, Custodian and Exchange Administrator.
-
    • Issuer issues Notes and Certificates and pledges trust assets to Indenture Trustee to secured payment of Return Amounts and payments on the Notes.
-
    • Provides cash flow, payment and allocation priorities. • Provides for exchanges of RCR Notes and Exchangeable Notes.
 
 **2. COLLATERAL ADMINISTRATION AGREEMENT**
 
 • Fannie Mae pays Transfer Amounts and Return Reimbursement Amounts, if any, to Issuer.
-
 • Issuer pays Return Amounts, if any, to Fannie Mae.
 
    **5. INVESTMENT AGENCY AGREEMENT**
@@ -747,7 +736,6 @@ Fannie Mae Delaware Trustee 1, 2 and 3 1 Indenture Trustee 4 Issuer 6 Initial Pu
    **6. NOTE PURCHASE AGREEMENT**
 
 - Issuer sells Notes to the Initial Purchasers.
-
 - • Initial Purchasers purchase Notes and offer Notes to investors.
 
 <!-- page 28 -->
@@ -763,19 +751,12 @@ Fannie Mae Delaware Trustee 1, 2 and 3 1 Indenture Trustee 4 Issuer 6 Initial Pu
 |Class 2B-3H |$116,220,834|0.00%(8)|
 
 - (1) Represents the approximate initial subordination and initial credit enhancement of such Reference Tranches, which is equal to the percentage of the Cut-off Date Balance represented by the aggregate initial Class Notional Amount of the Reference Tranches subordinate to the subject Reference Tranches.
-
 - (2) Pursuant to the hypothetical structure, the Class 2A-1 and Class 2A-1H Reference Tranches are _pari passu_ with each other. The initial Class Notional Amount shown is the aggregate amount for the Class 2A-1 and Class 2A-1H Reference Tranches combined. The initial Class Notional Amount of the Class 2A-1 Reference Tranche is $253,942,000 (which corresponds to the initial Class Principal Balance of the Class 2A-1 Notes) and the initial Class Notional Amount for the Class 2A-1H Reference Tranche is $13,365,917.
-
 - (3) Represents the approximate initial subordination and credit enhancement available to the Class 2A-1 and Class 2A-1H Reference Tranches in the aggregate.
-
 - (4) Pursuant to the hypothetical structure, the Class 2M-1 and Class 2M-1H Reference Tranches are _pari passu_ with each other. The initial Class Notional Amount shown is the aggregate amount for the Class 2M-1 and Class 2M-1H Reference Tranches combined. The initial Class Notional Amount of the Class 2M-1 Reference Tranche is $253,942,000 (which corresponds to the initial Class Principal Balance of the Class 2M-1 Notes) and the initial Class Notional Amount for the Class 2M-1H Reference Tranche is $13,365,917.
-
 - (5) Represents the approximate initial subordination and credit enhancement available to the Class 2M-1 and Class 2M-1H Reference Tranches in the aggregate.
-
 - (6) Shown for illustrative purposes only. The initial Class Notional Amount shown is the aggregate amount for the Class 2M-2 and Class 2M-2H Reference Tranches combined. The initial Class Notional Amount of the Class 2M-2 Reference Tranche is $111,570,000 (which corresponds to the initial Class Principal Balance of the Class 2M-2 Notes and the sum of the initial Class Principal Balances of the Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, which are each $37,190,000) and the initial Class Notional Amount for the Class 2M-2H Reference Tranche is $74,383,335 (which corresponds to the sum of the initial Class Notional Amounts of the Class 2M-AH, Class 2M-BH and Class 2M-CH Reference Tranches, which are each $24,794,445). Pursuant to the hypothetical structure, the Class 2M-2A and Class 2M-AH Reference Tranches are _pari passu_ with each other, the Class 2M-2B and Class 2M-BH Reference Tranches are _pari passu_ with each other and the Class 2M-2C and Class 2M-CH Reference Tranches are _pari passu_ with each other.
-
 - (7) Represents the approximate initial subordination and credit enhancement available to the Class 2M-2 and Class 2M-2H Reference Tranches in the aggregate. The approximate initial subordination and credit enhancement available to the Class 2M-2A and Class 2M-AH Reference Tranches is 2.78%, the approximate initial subordination and credit enhancement available to the Class 2M-2B and Class 2M-BH Reference Tranches is 2.52% and the approximate initial subordination and credit enhancement available to the Class 2M-2C and Class 2M-CH Reference Tranches is 2.25%.
-
 - (8) No subordination or credit enhancement is available to the Class 2B-3H Reference Tranche (other than any Overcollateralization Amount).
 
 The Class 2A-1 Reference Tranche will correspond to the Class 2A-1 Notes, the Class 2M-1 Reference Tranche will correspond to the Class 2M-1 Notes, the Class 2M-2A Reference Tranche will correspond to the Class 2M-2A Notes, the Class 2M-2B Reference Tranche will correspond to the Class 2M-2B Notes and the Class 2M-2C Reference Tranche will correspond to the Class 2M-2C Notes. With respect to any Payment Date, any reductions in the Class Notional Amount of the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Reference Tranche, allocated pursuant to the hypothetical structure as described in this Offering Memorandum as a result of the occurrence of Credit Events or Modification Events on the Reference Obligations, will result in a corresponding reduction in the Class Principal Balance of the Class 2A-1, Class 2M-1 or Class 2M-2 Notes (with allocations among the Class 2M-2A, Class 2M-2B and Class 2M-2C Reference Tranches to be made as described in this Offering Memorandum), as applicable. Similarly, with respect to any Payment Date, the amount of any principal collections on the Reference Obligations that are allocated to reduce the Class Notional Amount of the Class 2A-1, Class 2M-1 or Class 2M-2 Reference Tranche pursuant to the hypothetical structure described in this Offering Memorandum will result in the Issuer being required to pay a corresponding amount of principal on such Payment Date to the Class 2A-1, Class 2M-1 or Class 2M-2 Notes (with allocations among the Class 2M-2A, Class 2M-2B and Class 2M-2C Reference Tranches to be made as described in this Offering Memorandum), as applicable, as a result of the relationship between the Class 2A-1, Class 2M-1 or Class 2M-2 Notes on the one hand and its corresponding Reference Tranche or Tranches on the other hand. Investors in the Notes should review and understand all the information related to the hypothetical structure and the Reference Tranches in this Offering
@@ -827,9 +808,9 @@ Holders of Class 2M-2 Notes may exchange all or part of those Notes for proporti
 ||money market funds, the maturity date will be determined under Rule 2a-7 under the Investment Company Act.|
 |---|---|
 |**Note Accrual Period** | For the Notes and each Payment Date, the period beginning on and including the prior Payment Date (or, in the case of the first Payment Date, the Closing Date) and ending on and including the day preceding such Payment Date. The amount of interest that will accrue on a given Class of Notes (and will be deemed to accrue on each of the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches for purposes of calculating allocations of any Modification Loss Amounts) during each Note Accrual Period is equal to:|
-|| the Class Coupon for such Class of Notes (or Reference Tranche) for such Note Accrual Period (calculated using the Class Coupon formula as described herein), multiplied by|
-|| the Class Principal Balance or Class Notional Amount of such Class of Notes (or Class Notional Amount of such Reference Tranche) immediately prior to such Payment Date, multiplied by|
-|| the actual number of days in the related Note Accrual Period, divided by  360.|
+|| the Class Coupon for such Class of Notes (or Reference Tranche) for such Note Accrual Period (calculated using the Class Coupon formula as described herein), multiplied by|
+|| the Class Principal Balance or Class Notional Amount of such Class of Notes (or Class Notional Amount of such Reference Tranche) immediately prior to such Payment Date, multiplied by|
+|| the actual number of days in the related Note Accrual Period, divided by 360.|
 |**Note Distribution Account** | The "**Note Distribution Account**" will be established on or before the Closing Date in the name of the Issuer, subject to the lien of the Indenture Trustee for the benefit of the Noteholders. The Note Distribution Account will include deposits from time to time of (a) investment income earned on Eligible Investments held in the Cash Collateral Account (up to the amount of the SOFR Interest Component for a Payment Date), (b) proceeds from the liquidation of those Eligible Investments, (c) any Transfer Amounts, Capital Contribution Amounts and Return Reimbursement Amounts and (d) without duplication of the amounts set forth in clauses (a) through (c) above, other amounts payable to the Issuer in respect of the Designated Q-REMIC Interests;_provided that_, so long as the X-IO Interest is outstanding, amounts payable in respect of the X-IO Interest will not be deposited in the Note Distribution Account and instead will be paid to the holder thereof.|
 |**Collateral Administration Agreement** | Simultaneously with the issuance of the Notes, Fannie Mae, the Issuer and the Indenture Trustee will enter into a Collateral Administration Agreement (the "**Collateral** **Administration Agreement**").|
 ||Under the Collateral Administration Agreement, Fannie|
@@ -1051,9 +1032,7 @@ Each Class of Notes bears interest at the applicable per annum interest rate (ea
 (1) RCR Notes for which Exchangeable Notes or other RCR Notes, as applicable, may be exchanged according to the Combinations set forth on Schedule I hereto.
 
 - (2) Exchangeable Notes for which RCR Notes may be exchanged according to the Combinations set forth on Schedule I hereto.
-
 - (3) The interest payment on each Class of Interest Only RCR Notes for a Payment Date will be as set forth on Schedule I hereto.
-
 - (4) The interest payment on each of these Classes of RCR Notes for a Payment Date represents the sum of the interest payments on the Classes of Exchangeable and RCR Notes included in the related Combination for that Payment Date. The Class Coupon for each of these Classes of RCR Notes with respect to any Payment Date will be a fraction, expressed as a per annum rate, equal to (i) the aggregate interest amount payable on such
 
 <!-- page 46 -->
@@ -1061,9 +1040,7 @@ Each Class of Notes bears interest at the applicable per annum interest rate (ea
 Payment Date in respect of the Classes of Notes included in the applicable Combination and exchanged for such Class of RCR Notes, divided by (ii) the Class Principal Balance of such Class of RCR Notes immediately prior to such Payment Date, multiplied by (iii) a fraction, the numerator of which is 360 and the denominator of which is the actual number of days in the related Note Accrual Period; _provided that_ on any Payment Date following the reduction of the Class Principal Balance of such Class of RCR Notes to zero, the interest entitlement of such Class of RCR Notes will be equal to the interest accrued on the remaining Class of Interest Only RCR Notes included in the applicable Combination that was exchanged for such Class of RCR Notes.
 
 - (5) The interest payment on this Class of RCR Notes for a Payment Date represents the portion of such interest that is received in respect of the REMIC regular interest component of the related Class or Classes of Exchangeable Notes or RCR Notes.
-
 - (6) The interest payment on this Class of Interest Only RCR Notes for a Payment Date represents the portion of such interest attributable to a notional principal contract and does not constitute interest in respect of the REMIC regular interest component of the related Class or Classes of Exchangeable Notes or RCR Notes.
-
 - (7) The Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches are deemed to bear interest at the applicable Class Coupon shown solely for purposes of calculating allocations of any Modification Loss Amounts.
 
 The " **Note Accrual Period** " with respect to each Payment Date is the period beginning on and including the prior Payment Date (or, in the case of the first Payment Date, the Closing Date) and ending on and including the day preceding such Payment Date.
@@ -1071,11 +1048,8 @@ The " **Note Accrual Period** " with respect to each Payment Date is the period 
 The amount of interest that will accrue on a given Class of Notes (and will be deemed to accrue on each of the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches for purposes of calculating allocations of any Modification Loss Amounts) during each Note Accrual Period is equal to:
 
 - the Class Coupon for such Class of Notes (or Reference Tranche) for such Note Accrual Period (calculated using the Class Coupon formula as described above), multiplied by
-
 - the Class Principal Balance or Class Notional Amount of such Class of Notes (or Class Notional Amount of such Reference Tranche) immediately prior to such Payment Date, multiplied by
-
 - the actual number of days in the related Note Accrual Period, divided by
-
 - 360.
 
 The interest entitlement of the Notes may be subject to reduction or increase to the extent that the Reference Obligations experience Modification Events, as further described under " _Description of the Notes—Hypothetical Structure and Calculations with Respect to the Reference Tranches—Allocation of Modification Loss Amount_ ."
@@ -1119,19 +1093,12 @@ If any Tranche Write-up Amounts are allocated to a Class or Classes of Reference
 As described previously, solely for purposes of making the calculations for each Payment Date of (i) any principal write-downs (or write-ups) on the Notes as a result of Credit Events (or reversals thereof) or Modification Events on the Reference Obligations, (ii) any reduction or increase in interest amounts on the Notes as a result of Modification Events on the Reference Obligations and (iii) principal payments required to be made on the Notes, a hypothetical structure of Reference Tranches deemed to be backed by the Reference Obligations has been established as indicated in the table set forth under " _Transaction Summary_ " above. Pursuant to the hypothetical structure:
 
 - the Class 2A-H Reference Tranche is senior to all the other Reference Tranches and therefore does not provide any credit enhancement to the other Reference Tranches,
-
 - the Class 2A-1 and Class 2A-1H Reference Tranches are _pari passu_ with each other and, except with respect to specified allocations of Senior Reduction Amounts to the Class 2A-1 and Class 2A-1H Reference Tranches as set forth under " _Allocation of Senior Reduction Amount and Subordinate Reduction Amount_ " below, are subordinate to the Class 2A-H Reference Tranche and are senior to the Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-1 and Class 2M-1H Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1 and Class 2A-1H Reference Tranches and are senior to the Class 2M2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-2A and Class 2M-AH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1 and Class 2M-1H Reference Tranches and are senior to the Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-2B and Class 2M-BH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A and Class 2M-AH Reference Tranches and are senior to the Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-2C and Class 2M-CH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B and Class 2M-BH Reference Tranches and are senior to the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2B-1H Reference Tranche is subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C and Class 2M-CH Reference Tranches and is senior to the Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2B-2H Reference Tranche is subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH and Class 2B-1H Reference Tranches and is senior to the Class 2B-3H Reference Tranche, and
 
 <!-- page 49 -->
@@ -1145,15 +1112,10 @@ _Class Notional Amount of Reference Tranches_
 The " **Class Notional Amount** " of each Reference Tranche as of any Payment Date is a notional amount equal to the initial Class Notional Amount of such Reference Tranche,
 
 - _minus_ the aggregate amount of Senior Reduction Amounts, Subordinate Reduction Amounts and Supplemental Reduction Amounts allocated to such Reference Tranche on such Payment Date and all prior Payment Dates,
-
 - _minus_ the aggregate amount of Tranche Write-down Amounts allocated to reduce the Class Notional Amount of such Reference Tranche on such Payment Date and on all prior Payment Dates,
-
 - _minus_ , in the case of a corresponding Class of Reference Tranche for a Class of Notes, an amount equal to any reduction in the Class Principal Balance of such Class of Notes that arises from a Note cancellation directed by the holder of the Ownership Certificate prior to such Payment Date,
-
 - _plus_ the aggregate amount of Tranche Write-up Amounts allocated to increase the Class Notional Amount of such Reference Tranche on such Payment Date and on all prior Payment Dates,
-
 - _plus_ , in the case of the Class 2A-H Reference Tranche, the aggregate amount of Supplemental Class 2A-H Increase Amounts allocated to increase the Class Notional Amount thereof on such Payment Date and on all prior Payment Dates, and
-
 - _plus_ , in the case of a Reference Tranche with an "H" designation, the aggregate amount by which the Class Principal Balance of the related Class of Notes has been reduced as a result of a Note cancellation directed by the holder of the Ownership Certificate prior to such Payment Date.
 
 For the avoidance of doubt, no Tranche Write-up Amount or Tranche Write-down Amount will be applied twice on the same Payment Date.
@@ -1404,9 +1366,7 @@ If a Reference Obligation meeting the High LTV Refinance Hold Criteria (defined 
 On the Release Date, the following will apply:
 
 - if Fannie Mae confirms that the payment in full was made in connection with the High LTV Refinance Option, the original Reference Obligation will be removed from the Reference Pool and the resulting High LTV Refinance Reference Obligation will be included in the Reference Pool as a replacement of the original Reference Obligation (which removal and replacement will not constitute a Reference Pool Removal);
-
 - if Fannie Mae confirms that the payment in full was not made in connection with the High LTV Refinance Option, the related Reference Obligation will be removed from the Reference Pool (which removal will constitute a Reference Pool Removal); and
-
 - if neither such confirmation can be made, the related Reference Obligation will be removed from the Reference Pool (which removal will constitute a Reference Pool Removal).
 
 A Reference Obligation meets the " **High LTV Refinance Hold Criteria** " if it (i) was originated on or after October 1, 2017, (ii) was originated at least 15 months prior to the date it was paid in full, (iii) had no 30-day delinquency in the six-month period immediately preceding the date it was paid in full, and no more than one 30-day delinquency in the 12-month period immediately preceding the date it was paid in full and (iv) is secured by a mortgaged property with a current estimated property value that is reasonably believed by Fannie Mae to result in eligibility under the High LTV Refinance Option. See " _Loan Acquisition Practices and Servicing Standards — High LTV Refinance Option_ " for a description of program eligibility criteria.
@@ -1426,7 +1386,6 @@ The yield to maturity on each Class of Notes will be sensitive to, among other f
 <!-- page 57 -->
 
 - If investors purchase Notes at a premium and principal payments on the Reference Obligations occur at a rate faster than such investors assumed, such investors' actual yield to maturity will be lower than anticipated and such investors may not recover their entire investment in the Notes.
-
 - Conversely, if investors purchase Notes (other than Interest Only RCR Notes) at a discount, and principal payments on the Reference Obligations occur at a rate slower than such investors assumed, such investors' actual yield to maturity will be lower than anticipated.
 
 The yield to maturity on the floating rate Notes will be sensitive to changes in the rate of 30-day Average SOFR. In addition, the yield to maturity of the Notes will be increasingly sensitive to the level and timing of Credit Events and Modification Events on the Reference Obligations (and the severity of losses realized with respect thereto) because the aggregate amount of all Tranche Write-down Amounts with respect to the Classes are allocated _first_ , to reduce any Overcollateralization Amount for such Payment Date, until the Overcollateralization Amount is reduced to zero and, _second_ , to reduce the Class Notional Amount of each Class of Reference Tranches in the following order of priority, in each case, until the Class Notional Amount is reduced to zero:
@@ -1452,7 +1411,6 @@ _ninth_ , to reduce to zero the Class Notional Amount of the Class 2A-H Referenc
 Any such Tranche Write-down Amounts will be allocated, in the case of each Class, after allocation of the Senior Reduction Amount and Subordinate Reduction Amount. Any such Tranche Write-down Amounts allocated to reduce the Class Notional Amount of a Reference Tranche will result in a corresponding reduction in the Class Principal Balance of the related Class of Notes, in each case, until the aggregate Tranche Write-down Amounts allocated to each such Reference Tranche reduces its Class Notional Amount to zero. As such:
 
 - because the Class 2M-2C Reference Tranche is subordinate to the Class 2A-1, Class 2M-1, Class 2M2A and Class 2M-2B Reference Tranches, the Class 2M-2C Notes will be more sensitive than the Class 2A-1, Class 2M-1, Class 2M-2A and Class 2M-2B Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H, Class 2B-2H and Class 2B-1H Reference Tranches are reduced to zero;
-
 - because the Class 2M-2B Reference Tranche is subordinate to the Class 2A-1, Class 2M-1 and Class 2M-2A Reference Tranches, the Class 2M-2B Notes will be more sensitive than the Class 2A-1, Class 2M-1 and Class 2M-2A Notes to Tranche Write-down Amounts after the Class Notional Amounts of
 
 <!-- page 58 -->
@@ -1460,7 +1418,6 @@ Any such Tranche Write-down Amounts will be allocated, in the case of each Class
 the Class 2B-3H, Class 2B-2H, Class 2B-1H and Class 2M-2C Reference Tranches are reduced to zero;
 
 - because the Class 2M-2A Reference Tranche is subordinate to the Class 2A-1 and Class 2M-1 Reference Tranches, the Class 2M-2A Notes will be more sensitive than the Class 2A-1 and Class 2M-1 Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H, Class 2B-2H, Class 2B-1H, Class 2M-2C and Class 2M-2B Reference Tranches are reduced to zero; and
-
 - because the Class 2M-1 Reference Tranche is subordinate to the Class 2A-1 Reference Tranche, the Class 2M-1 Notes will be more sensitive than the Class 2A-1 Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H, Class 2B-2H, Class 2B-1H, Class 2M-2C, Class 2M-2B and Class 2M-2A Reference Tranches are reduced to zero.
 
 Because the Reference Obligations may be prepaid by the borrowers without penalty at any time, among other factors, it is not possible to predict the exact rate at which investors in the Notes will receive payments of principal.
@@ -1480,7 +1437,6 @@ See " _Certain U.S. Federal Income Tax Consequences_ " in this Offering Memorand
 Investors may be subject to restrictions on investment in the Notes to the extent that their investment activities are subject to investment laws and regulations, regulatory capital requirements or review by regulatory authorities. Prospective investors should consult their legal, tax and accounting advisers for assistance in determining the suitability of and consequences to them of the purchase, ownership and sale of the Notes.
 
 - Prospective investors should be aware that the Notes do not represent an interest in and are not secured by the Reference Pool or any Reference Obligation.
-
 - The Notes will not constitute "mortgage related securities" for purposes of the Secondary Mortgage Market Enhancement Act of 1984, as amended (" **SMMEA** ").
 
 See " _Legal Investment_ " in this Offering Memorandum for additional information.
@@ -1516,15 +1472,10 @@ The ratings address the likelihood of the timely receipt of payments of interest
 In addition, these ratings do not address:
 
 - the likelihood, timing or frequency of prepayments (both voluntary and involuntary) on the Reference Obligations and their impact on interest payments or the degree to which such prepayments might differ from those originally anticipated;
-
 - the possibility that a Noteholder might suffer a lower than anticipated yield;
-
 - the tax treatment of the Rated Notes or the effect of taxes on the payments received;
-
 - the likelihood or willingness of the parties to the respective documents to meet their contractual obligations or the likelihood or willingness of any party or court to enforce, or hold enforceable, the documents in whole or in part;
-
 - an assessment of the yield to maturity that investors may experience; or
-
 - other non-credit risks, including, without limitation, market or liquidity risk.
 
 The ratings take into consideration certain credit risks with respect to the Reference Obligations. However, as noted above, the ratings do not represent an assessment of the likelihood, timing or frequency of principal prepayments (both voluntary and involuntary) on the Reference Obligations, or the degree to which such prepayments might differ from those originally anticipated. In general, the ratings address credit risk and not prepayment risk.
@@ -1550,27 +1501,16 @@ The Issuer will deliver the gross proceeds of the offering of the Notes to the C
 Listed below are some of the principal risk factors associated with an investment in the Notes. The risk factors relating to Fannie Mae include risks that may affect an investment in and the value of the Notes. You should review all of these risk factors before investing in the Notes. Because each investor has different investment needs and a different risk tolerance, each investor should consult its own financial or legal advisor to determine whether the Notes are a suitable investment. In particular, prospective investors in the Notes should be aware that:
 
 - The risks and uncertainties described below are not the only ones relating to the Notes. Additional risks and uncertainties not presently known to Fannie Mae or that Fannie Mae currently deems to be immaterial may also impair an investment in the Notes. If any of the following risks actually occur, an investment in the Notes could be materially and adversely affected.
-
 - The risks and uncertainties of the RCR Notes reflect the risks and uncertainties of the related Exchangeable Notes that may be exchanged for such RCR Notes, and vice versa. Accordingly, investors in the RCR Notes should consider the risks described herein of the related Exchangeable Notes as if they were investing directly in such Exchangeable Notes, and vice versa.
-
 - This Offering Memorandum contains forward-looking statements that involve risks and uncertainties. Actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including the risks described below and elsewhere in this Offering Memorandum.
-
 - Prospective investors should investigate any legal investment restrictions that may apply to them.
-
 - The Notes are not secured by the Reference Obligations, the mortgaged properties or the borrowers' payments under the Reference Obligations, and Noteholders should not look to the Reference Obligations as a source of payment on the Notes.
-
 - The Notes will not constitute "mortgage related securities" for purposes of SMMEA, and the Notes may be regarded as high-risk, derivative, risk-linked or otherwise complex securities. The Notes should not be purchased by prospective investors who are prohibited from acquiring securities having the foregoing characteristics.
-
 - The Notes are not suitable investments for all prospective investors. The Notes are complex financial instruments. Because the Notes are linked to the Reference Obligations and Reference Tranches established pursuant to the hypothetical structure described in this Offering Memorandum, prospective investors should not purchase any Note unless they or their financial advisors possess the necessary expertise, tools and metrics to analyze the potential risks of the Notes being offered and the information contained in this Offering Memorandum and the documents incorporated by reference.
-
 - Prospective investors should not purchase any Notes unless they understand, and are able to bear, the prepayment, credit, liquidity, market and other risks associated with the Notes.
-
 - Prospective investors should not construe the issuance of the Notes as an endorsement by the Issuer, the Indenture Trustee, Fannie Mae or any other person, with respect to the performance of the Reference Obligations or the Eligible Investments.
-
 - The Notes, including any yield on the Notes, will not be insured or guaranteed by Fannie Mae, the United States or any governmental agency or instrumentality of the United States, or of any other person, and are not debts or obligations of any of the foregoing.
-
 - The Notes will be obligations (or interests in obligations) of the Issuer only and will be payable without recourse to the Issuer except to the extent of the assets of the Issuer, which the Issuer will pledge on the Closing Date to the Indenture Trustee for the benefit of the Secured Parties.
-
 - The Issuer's obligations to pay Return Amounts to Fannie Mae under the Collateral Administration Agreement upon the occurrence of certain Credit Events or Modification Events that result in the
 
 <!-- page 62 -->
@@ -1578,7 +1518,6 @@ Listed below are some of the principal risk factors associated with an investmen
 allocation of Tranche Write-down Amounts will reduce amounts available for payment of principal on the Notes.
 
 - Although investment earnings on Eligible Investments in the Cash Collateral Account and distributions on the IO Q-REMIC Interest will be deposited in the Note Distribution Account prior to each Payment Date, such amounts may be less than the amounts needed to pay the full amount of interest payable on the Notes. If Fannie Mae does not make payments required under the Collateral Administration Agreement or the Capital Contribution Agreement, the Issuer may be unable to pay the full amount of interest payable on the Notes.
-
 - If Fannie Mae fails to pay any Return Reimbursement Amount, or any amount required to be paid by it in respect of the Transfer Amount or Capital Contribution Amount due on a Remittance Date, there may be insufficient funds available to pay principal or interest, as applicable, on the Notes for the related Payment Date.
 
 Investors should exercise particular caution if their circumstances do not permit them to hold the Notes until maturity.
@@ -1618,9 +1557,7 @@ The Collateral Administration Agreement and the Capital Contribution Agreement a
 The CAA Early Termination Date will be the Payment Date following the occurrence of any of the following CAA Early Termination Events:
 
 - final SEC determination that the Issuer must register as an investment company under the Investment Company Act;
-
 - acceleration of the maturity of the Notes under the Indenture; or
-
 - failure of Fannie Mae to make a required payment under the Collateral Administration Agreement, which failure continues unremedied for 30 days following receipt of written notice of such failure.
 
 Any termination of the Collateral Administration Agreement and the Capital Contribution Agreement as a result of the occurrence of a CAA Early Termination Event will constitute an Event of Default under the Indenture.
@@ -1628,15 +1565,12 @@ Any termination of the Collateral Administration Agreement and the Capital Contr
 Additionally, Fannie Mae may in its sole discretion designate as the CAA Early Termination Date the Payment Date following the occurrence of any of the following CAA Trigger Events:
 
 - accounting, insurance or regulatory changes after the Closing Date that, in Fannie Mae's reasonable determination, have a material adverse effect on Fannie Mae;
-
 - legal, regulatory or accounting requirements or guidelines that, in Fannie Mae's reasonable determination, materially affect the financial position, accounting treatment or intended benefit with respect to Fannie Mae;
-
 - a requirement, in Fannie Mae's reasonable determination, after consultation with external counsel (which will be a nationally recognized and reputable law firm), that Fannie Mae or any other transaction party must register as a "commodity pool operator" under the Commodity Exchange Act solely because of its participation in the transaction;
 
 <!-- page 64 -->
 
 - material impairment of Fannie Mae's rights under the Collateral Administration Agreement due to the amendment or modification of any Transaction Document; or
-
 - failure of the Issuer to make a required payment under the Collateral Administration Agreement, which failure continues unremedied for 30 days following receipt of written notice of such failure.
 
 Investors should consider that if the Collateral Administration Agreement and the Capital Contribution Agreement are terminated prior to the Maturity Date as a result of the occurrence of a CAA Trigger Event, the Notes will be redeemed under the Indenture. Such early redemption may occur earlier, and may occur significantly earlier, than the Maturity Date and investors will bear the reinvestment risk of any payment received from such early redemption.
@@ -1780,23 +1714,16 @@ With respect to a Credit Event Reference Obligation that becomes a Reversed Cred
 The rate and timing of principal payments (including prepayments) on mortgage loans is influenced by a variety of economic, geographic, social and other factors, but may depend greatly on the level of mortgage rates:
 
 - If prevailing interest rates for similar mortgage loans fall below the interest rates on the Reference Obligations, the rate of principal prepayments may increase due to refinancings.
-
 - Conversely, if prevailing interest rates for similar mortgage loans rise above the interest rates on the Reference Obligations, the rate of principal prepayments may decrease.
 
 The rate and timing of principal payments on the Reference Obligations will also be affected by the following:
 
 - the amortization schedules of the Reference Obligations,
-
 - the rate and timing of partial prepayments and full prepayments by borrowers, due to refinancing, job transfers, changes in property value or other factors,
-
 - liquidations of, or Modification Events resulting in the reduction of the principal balance of, Reference Obligations,
-
 - the time it takes for defaulted Reference Obligations to be modified or liquidated,
-
 - the availability of loan modifications for delinquent or defaulted Reference Obligations,
-
 - the rate and timing of payment in full of Reference Obligations or other removals from the Reference Pool, and
-
 - the rate and timing of removals of Reference Obligations from the related MBS.
 
 In addition, the occurrence of Credit Events and Reference Pool Removals could have the same effect on the Reference Pool as prepayments in full. As such, (i) the rate and timing of Credit Events (and any reversals thereof) and Modification Events, (ii) the severity of any losses with respect thereto and (iii) Reference Pool Removals may also affect the yield on the Notes.
@@ -2078,13 +2005,9 @@ Applicable state and local laws generally regulate interest rates and other char
 The Reference Obligations are also subject to federal laws, including:
 
 - the Federal Truth-in-Lending Act and Regulation Z promulgated thereunder (including the TILARESPA Know Before You Owe Integrated Disclosure Rule (" **TRID** ")), which require specific disclosures to the borrowers regarding the terms of the Reference Obligations;
-
 - the Homeownership and Equity Protection Act (" **HOEPA** "), as amended by the Dodd-Frank Act, and state, county and municipal "high cost" laws and ordinances enacted to combat predatory or abusive lending;
-
 - the Equal Credit Opportunity Act and Regulation B promulgated thereunder, which prohibit discrimination on the basis of age, race, color, sex, religion, marital status, national origin, receipt of public assistance or the exercise of any right under the Consumer Credit Protection Act, in the extension of credit;
-
 - the Fair Credit Reporting Act, which regulates the use and reporting of information related to the borrower's credit experience; and
-
 - the Real Estate Settlement and Procedures Act (" **RESPA** "), as amended, and Regulation X promoted thereunder, which impose requirements pertaining to (a) disclosure of certain terms of mortgage loans prior to origination and during the servicing life of the loan, and (b) mitigation and foreclosure activities, among other requirements, which is implemented through TRID for mortgage loan applications received on or after October 3, 2015.
 
 Depending on the provisions of the applicable law and the specific facts and circumstances involved, violations of these federal or state laws, policies and principles may limit the ability to collect all or part of the principal of or interest on the Reference Obligations, may result in a defense to foreclosure or an "unwinding" or rescission of the Reference Obligations and may entitle the borrower to a refund of amounts previously paid. These effects may in turn reduce the Liquidation Proceeds received with respect to a Reference Obligation and thus increase the Tranche
@@ -2324,11 +2247,8 @@ Among other things, the EU Due Diligence Requirements restrict an EU Institution
 Investors should note that the framework for the regulation of securitization in the United Kingdom (the " **UK** ") is comprised of:
 
 - the Securitisation Regulations 2024 (as amended, the " **SR 2024** ");
-
 - the Securitisation Sourcebook in the UK Financial Conduct Authority's handbook of rules and guidance (the " **FCA Rules** ");
-
 - the Securitisation Part of the UK Prudential Regulation Authority's rulebook of published policy (the " **PRA Rules** "); and
-
 - relevant provisions of the Financial Services and Markets Act 2000 (as amended, the " **FSMA** ") related to the foregoing;
 
 (in each case, as further amended, supplemented or replaced and, collectively, the " **UK Securitization Framework** ").
@@ -2412,7 +2332,6 @@ The ratings on the Rated Notes may not reflect the potential impact of all risks
 An investor must own the specific Classes in the specific proportions to enter into an exchange involving Exchangeable Notes and RCR Notes. If you do not own the specific Classes, you may not be able to obtain them because:
 
 - the owner of a Class that you need for an exchange may refuse or be unable to sell that Class to you at a reasonable price or at any price; and
-
 - principal payments over time will decrease the amounts available for exchange.
 
 #### **_Investors Have No Direct Right to Enforce Remedies_**
@@ -2446,9 +2365,7 @@ The Notes will be issued as book-entry Notes (the " **Book-Entry Notes** ") and 
 <!-- page 105 -->
 
 - under a book-entry format, an investor may experience delays in the receipt of payments, because payments will be distributed by the Indenture Trustee to DTC, Euroclear or Clearstream and not directly to an investor;
-
 - investors' access to information regarding the Notes may be limited because transmittal of notices and other communications by DTC to its participating organizations and directly or indirectly through those participating organizations to investors will be governed by arrangements among them, subject to applicable law; and
-
 - you may experience delays in your receipt of payments on book-entry Notes in the event of misapplication of payments by DTC, DTC participants or indirect DTC participants or bankruptcy or insolvency of those entities, and your recourse will be limited to your remedies against those entities.
 
 For a more detailed discussion of the Book-Entry Notes, see " _Description of The Notes — Form, Registration and Transfer of the Notes_ " in this Offering Memorandum.
@@ -2552,15 +2469,10 @@ The Issuer is a Delaware statutory trust, the beneficial ownership of which will
 The purpose of the Issuer is to engage in the following activities:
 
 - (a) to issue the Notes pursuant to the Indenture and to sell the Notes to the Initial Purchasers;
-
 - (b) to issue the Certificates pursuant to the Trust Agreement and deliver each of them to the Trustor;
-
 - (c) to enter into, execute, deliver and perform the Transaction Documents to which it is a party and the other agreements, instruments, documents, certificates and writings referred to therein or contemplated thereby or delivered in connection therewith to which the Issuer is or is to be a party, and to consummate the transactions contemplated thereby;
-
 - (d) to acquire the assets of the Issuer, to assign, grant, transfer, pledge, mortgage and convey the assets of the Issuer (subject to the exclusions therefrom described in the Indenture) to the Indenture Trustee pursuant to the Indenture and to hold, manage and distribute to the Certificateholders pursuant to the terms of the Trust Agreement any portion of the Collateral released from the lien of, and remitted to the Issuer pursuant to, the Indenture;
-
 - (e) to engage in those activities, including entering into, executing, delivering and performing its obligations under agreements, certificates and other writings that are necessary, suitable or convenient to accomplish the foregoing or are incidental thereto or connected therewith, including entering into agreements with financial advisors and other professionals with respect to matters involving the Issuer; and
-
 - (f) subject to compliance with the Transaction Documents, to engage in such other activities as may be required in connection with conservation of the assets of the Issuer and the making of distributions to the Certificateholders.
 
 The Issuer will not engage in any activity other than in connection with those specified above, other than as required or authorized by the terms of the Trust Agreement or the other Transaction Documents to which it is a party. No person acting on behalf of the Issuer will have the authority to consummate any act that would result in (i) termination of the REMIC status of any REMIC created under the Indenture or (ii) imposition of U.S. federal income tax on any REMIC created under the Indenture (any such event, an " **Adverse REMIC Event** "). The Issuer may not consolidate with, merge into, or transfer or convey all or substantially all of its assets to any other corporation, partnership, trust or other person or entity, except in accordance with the Trust Agreement. The Trust Agreement contains provisions for the indemnification of the Delaware Trustee by Fannie Mae, as Administrator.
@@ -2711,9 +2623,7 @@ A " **Business Day** " means a day other than:
 <!-- page 118 -->
 
 - A Saturday or Sunday.
-
 - A day on which the corporate trust offices of the Indenture Trustee, the Exchange Administrator or the Custodian, the offices of DTC, the Federal Reserve Bank of New York or banking institutions in the City of New York or Boston, MA are authorized or obligated by law or executive order to be closed.
-
 - Other than for purposes of the definitions of "Payment Date" and "Remittance Date," a day on which the corporate trust offices of the Delaware Trustee or banking institutions in the city of Wilmington, DE are authorized or obligated by law or executive order to be closed.
 
 Payments on each Payment Date will be made by wire transfer in immediately available funds to each Noteholder's account at a bank or other depository institution having appropriate wire transfer facilities. Cede & Co. will be the registered holder of the Notes. However, the final payment on any Note will be made in like manner only upon presentation and surrender of such Note at the offices of the Corporate Trust Services division of the Indenture Trustee located at 480 Washington Boulevard, 30th Floor, Jersey City, New Jersey 07310, Attention: Securities Window - CAS 2025-R03, or as otherwise indicated on the relevant notice thereof. Payments will be made to Note Owners through the facilities of DTC, as described above under "— _Form, Registration and Transfer of the Notes_ ."
@@ -2747,9 +2657,7 @@ CAA Early Termination Date (if such date is a result of the occurrence of a CAA 
 The Notes will no longer be entitled to payments of principal or interest after the date (the " **Termination Date** ") which is the earliest of:
 
 - the Maturity Date;
-
 - the Early Redemption Date; and
-
 - the Payment Date on which the aggregate initial Class Principal Balance (without giving effect to any allocations of Tranche Write-down Amounts or Tranche Write-up Amounts related to the Classes on such Payment Date and all prior Payment Dates) and accrued and unpaid interest due on the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes, plus all unpaid fees, expenses and indemnities of the Indenture Trustee, Exchange Administrator, Custodian, Investment Agent and Delaware Trustee, have otherwise been paid in full.
 
 #### **Projected Recovery Amount**
@@ -2821,23 +2729,16 @@ On each Payment Date, including the Maturity Date, the Class Principal Balance o
 Solely for purposes of making the calculations for each Payment Date of (i) principal write-downs (or writeups) on the Notes as a result of Credit Events (or reversals thereof) or Modification Events on the Reference Obligations, (ii) any reduction or increase in interest amounts on the Notes as a result of Modification Events on the Reference Obligations and (iii) principal payments required to be made on the Notes, a hypothetical structure of Reference Tranches deemed to be backed by the Reference Obligations has been established as indicated in the table set forth under " _Transaction Summary_ " above. Pursuant to the hypothetical structure:
 
 - the Class 2A-H Reference Tranche is senior to all the other Reference Tranches and therefore does not provide any credit enhancement to the other Reference Tranches,
-
 - the Class 2A-1 and Class 2A-1H Reference Tranches are _pari passu_ with each other and, except with respect to specified allocations of Senior Reduction Amounts to the Class 2A-1 and Class 2A-1H Reference Tranches as set forth under " _Allocation of Senior Reduction Amount and Subordinate Reduction Amount_ " below, are subordinate to the Class 2A-H Reference Tranche and are senior to the Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-1 and Class 2M-1H Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1 and Class 2A-1H Reference Tranches and are senior to the Class 2M2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B2H and Class 2B-3H Reference Tranches,
 
 <!-- page 123 -->
 
 - the Class 2M-2A and Class 2M-AH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1 and Class 2M-1H Reference Tranches and are senior to the Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-2B and Class 2M-BH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A and Class 2M-AH Reference Tranches and are senior to the Class 2M-2C, Class 2M-CH, Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2M-2C and Class 2M-CH Reference Tranches are _pari passu_ with each other, are subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B and Class 2M-BH Reference Tranches and are senior to the Class 2B-1H, Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2B-1H Reference Tranche is subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C and Class 2M-CH Reference Tranches and is senior to the Class 2B-2H and Class 2B-3H Reference Tranches,
-
 - the Class 2B-2H Reference Tranche is subordinate to the Class 2A-H, Class 2A-1, Class 2A-1H, Class 2M-1, Class 2M-1H, Class 2M-2A, Class 2M-AH, Class 2M-2B, Class 2M-BH, Class 2M-2C, Class 2M-CH and Class 2B-1H Reference Tranches and is senior to the Class 2B-3H Reference Tranche, and
-
 - the Class 2B-3H Reference Tranche is subordinate to all the other Reference Tranches and therefore does not benefit from any credit enhancement (other than any Overcollateralization Amount).
 
 Each Reference Tranche will have the initial Class Notional Amount indicated in the table set forth under " _Transaction Summary_ " and the aggregate of the initial Class Notional Amounts of all the Reference Tranches will equal the Cut-off Date Balance.
@@ -2895,19 +2796,12 @@ Because the Notes correspond to the related Reference Tranches, any portion of t
 The " **Senior Reduction Amount** " with respect to any Payment Date is either:
 
 - (A) if either of the Minimum Credit Enhancement Test or the Delinquency Test is not satisfied, the sum of:
-
    - (i) 100% of the Scheduled Principal for such Payment Date;
-
    - (ii) 100% of the Unscheduled Principal for such Payment Date; and
-
    - (iii) 100% of the Excess Credit Event Amount for such Payment Date; or
-
 - (B) if the Minimum Credit Enhancement Test and the Delinquency Test are satisfied, the sum of:
-
    - (i) the Senior Percentage of the Scheduled Principal for such Payment Date;
-
    - (ii) the Senior Percentage of the Unscheduled Principal for such Payment Date; and
-
    - (iii) 100% of the Excess Credit Event Amount for such Payment Date.
 
 The " **Class 2A-1 Reduction Amount** " with respect to any Payment Date is an amount equal to:
@@ -2929,15 +2823,10 @@ The " **Subordinate Percentage** " with respect to any Payment Date is the perce
 " **Unscheduled Principal** " with respect to any Payment Date is:
 
 - (a) all partial principal prepayments on the Reference Obligations collected during the related Reporting Period, _plus_
-
 - (b) the aggregate unpaid principal balance of all Reference Obligations that became subject to Reference Pool Removals during the related Reporting Period other than (i) Credit Event Reference Obligations and (ii) the portions of any prepayments in full that consist of scheduled principal collections, _plus_
-
 - (c) decreases in the unpaid principal balance of all Reference Obligations as the result of loan modifications or data corrections, _plus_
-
 - (d) all scheduled principal collections, if any, for any Reference Obligations that have been removed from the related MBS, _plus_
-
 - (e) the excess, if any, of the aggregate unpaid principal balance of the Reference Obligations refinanced under the High LTV Refinance Option and removed from the Reference Pool during the related Reporting Period, over the aggregate original unpaid principal balance of the resulting High LTV Refinance Reference Obligations, _minus_
-
 - (f) increases in the unpaid principal balance of all Reference Obligations as the result of loan modifications, payment deferrals, reinstatements due to error, or data corrections.
 
 In the event that (f) above exceeds the sum of (a) through (e), the Unscheduled Principal for such Payment Date will be zero, and the Scheduled Principal for such Payment Date will be reduced by the amount of such excess. In the event that (f) above exceeds the sum of (a) through (e) plus the Scheduled Principal for such Payment Date, then both Scheduled Principal and Unscheduled Principal for such Payment Date will be zero, and the Class 2A-H Notional Amount will be increased by the amount of such excess. In the event that the Class Notional Amount for the Class 2A-H Reference Tranche is so increased as described in the prior sentence, this would have the effect of increasing the Senior Percentage correspondingly reducing the Subordinate Percentage, which would have a negative impact on the Notes in respect of the calculations of the Senior Reduction Amount and the Subordinate Reduction Amount, as described above. In April 2016, at the direction of its regulator and conservator FHFA, Fannie Mae announced a program that permits principal forgiveness as a loss mitigation alternative for a limited number of loans that were 90 days or more delinquent and has an unpaid principal balance in excess of the value of the related mortgaged property as of March 2016. No Reference Obligations are eligible for inclusion in this program. While there is no indication that this program will be extended or replicated, if any similar program of principal reduction were to be employed in the future that affected the Reference Obligations, any principal that was forgiven with respect to a Reference Obligation would decrease the unpaid principal balance of such Reference Obligation pursuant to clause (c) above.
@@ -3013,13 +2902,9 @@ The " **Credit Event Amount** " with respect to any Payment Date is the aggregat
 The " **Credit Event Net Gain** " with respect to any Credit Event Reference Obligation is an amount equal to the _excess_ , if any, of:
 
 - (a) the Net Liquidation Proceeds _over_
-
 - (b) the _sum_ of:
-
    - (i) the Credit Event UPB;
-
    - (ii) the total amount of prior principal forgiveness modifications (excluding any reduction in principal balance that resulted from the origination of a High LTV Refinance Reference Obligation), if any, on the related Credit Event Reference Obligation; and
-
    - (iii) delinquent accrued interest thereon, calculated at the related Current Accrual Rate from the related last paid interest date through the date such Reference Obligation has been reported as a Credit Event Reference Obligation.
 
 <!-- page 128 -->
@@ -3029,11 +2914,8 @@ The " **Credit Event Net Loss** " with respect to any Credit Event Reference Obl
 (a) the sum of:
 
    - (i) the Credit Event UPB;
-
    - (ii) the total amount of prior principal forgiveness modifications (excluding any reduction in principal balance that resulted from the origination of a High LTV Refinance Reference Obligation), if any, on the related Credit Event Reference Obligation; and
-
    - (iii) delinquent accrued interest thereon, calculated at the related Current Accrual Rate from the related last paid interest date through the date such Reference Obligation has been reported as a Credit Event Reference Obligation, over
-
 - (b) the related Net Liquidation Proceeds.
 
 A " **Credit Event Reference Obligation** " with respect to any Payment Date is any Reference Obligation with respect to which a Credit Event has occurred.
@@ -3179,13 +3061,11 @@ plus
 On each Payment Date on or prior to the Termination Date, the following will be computed prior to the allocation of the Modification Loss Amount:
 
 - the " **Preliminary Principal Loss Amount** ," which is equal to the Principal Loss Amount computed without giving effect to clause (d) of the definition of Principal Loss Amount;
-
 - the " **Preliminary Tranche Write-down Amount** ," which is equal to the Tranche Write-down Amount computed using the Preliminary Principal Loss Amount instead of the Principal Loss Amount;
 
 <!-- page 133 -->
 
 - the " **Preliminary Tranche Write-up Amount** ," which is equal to the Tranche Write-up Amount computed using the Preliminary Principal Loss Amount instead of the Principal Loss Amount; and
-
 - the " **Preliminary Class Notional Amount** ," which is equal to the Class Notional Amount of a Reference Tranche immediately prior to such Payment Date after the application of the Preliminary Tranche Write-down Amount in accordance with the priorities set forth in the Allocation of Tranche Write-down Amount and after the application of the Preliminary Tranche Write-up Amount in accordance with the priorities set forth in the Allocation of Tranche Write-up Amount.
 
 On each Payment Date on or prior to the Termination Date, the Modification Loss Amount, if any, for such Payment Date will be allocated in the following order of priority:
@@ -3273,9 +3153,7 @@ Each of the following is a " **CAA Trigger Event** " under the Collateral Admini
 Each of the following is a " **CAA Early Termination Event** " under the Collateral Administration Agreement:
 
 - (a) final SEC determination that the Issuer must register as an investment company under the
-
 - Investment Company Act;
-
    - (b) acceleration of the maturity of the Notes under the Indenture; or
 
 (c) failure of Fannie Mae to make a required payment under the Collateral Administration Agreement, which failure continues unremedied for 30 days following notice of such failure.
@@ -3357,57 +3235,33 @@ Pursuant to the Indenture, the Custodian will make available to the Indenture Tr
 _Payment Date Statement_ . The Indenture Trustee will prepare a report each month (each such report, a " **Payment Date Statement** ") setting forth certain information relating to the Reference Pool, the Notes, the Reference Tranches and the hypothetical structure described in this Offering Memorandum, including:
 
 - (i) the Class Principal Balance of each Class of Notes and the percentage of the initial Class Principal Balance of each Class of Notes on the first (1st ) day of the immediately preceding Note Accrual Period, the amount of principal payments to be made on the Notes of each Class on such Payment Date and the Class Principal Balance of each Class of Notes and the percentage of the initial Class Principal Balance of each Class of Notes after giving effect to any payments of principal to be made on such Payment Date and the allocation of any Tranche Write-down Amounts and Tranche Write-up Amounts to such Class of Notes on such Payment Date;
-
 - (ii) 30-day Average SOFR for the Note Accrual Period preceding the related Payment Date;
-
 - (iii) the Interest Payment Amount for each outstanding Class of Notes for the related Payment Date;
-
 - (iv) the amount of principal required to be paid for each outstanding Class of Notes for the related Payment Date and the Senior Reduction Amount, the Subordinate Reduction Amount, the Supplemental Reduction Amount, the Senior Percentage and the Subordinate Percentage for the related Payment Date;
-
 - (v) the aggregate Tranche Write-down Amounts, Tranche Write-up Amounts and Modification Loss Amounts previously allocated to each Class of Notes and each Reference Tranche pursuant to the hypothetical structure and the Tranche Write-down Amounts, Tranche Write-up Amounts and Modification Loss Amounts to be allocated to each Class of Notes on the related Payment Date;
-
 - (vi) the cumulative number (to date) and unpaid principal balance of the Reference Obligations that have become Credit Event Reference Obligations or with respect to which Modification Events have occurred, the number and unpaid principal balance of the Reference Obligations that have become Credit Event Reference Obligations or with respect to which Modification Events have occurred during the related Reporting Period;
-
 - (vii) the number and aggregate principal amounts of Reference Obligations (A) delinquent (1) 30 to 59 days, (2) 60 to 89 days, (3) 90 to 119 days, (4) 120 to 149 days, (5) 150 to 179 days and (6) 180 or more days, as of the close of business on the last day of the second (2nd ) calendar month preceding such Payment Date, in the aggregate with respect to the Reference Obligations, (B) that became Credit Event Reference Obligations (and identification under which clause of the definition of "Credit Event" it became Credit Event Reference Obligation), (C) that were removed from the Reference Pool as a result of a defect or breach of a representation and warranty, and (D) which have been paid in full;
-
 - (viii) the percentage of the Reference Obligations outstanding (equal to the unpaid principal amount of the Reference Obligations divided by the Cut-off Date Balance) as of the current Reporting Period;
-
 - (ix) the Reversed Credit Event Amount, both cumulative and for the current Reporting Period;
-
 - (x) the amount of Scheduled Principal and Unscheduled Principal, both cumulative and for the current Reporting Period;
 
 <!-- page 141 -->
 
 - (xi) the Excess Credit Event Amount for the current Reporting Period;
-
 - (xii) the Rep and Warranty Settlement Coverage Amount and the related Rep and Warranty Settlement Amount for each Origination Rep and Warranty Settlement for the current Reporting Period;
-
 - (xiii) the amount of the Transfer Amount payable by Fannie Mae for such Payment Date;
-
 - (xiv) the amount of any Return Reimbursement Amount payable by Fannie Mae for such Payment Date;
-
 - (xv) the amount of any Return Amount payable by the Issuer for such Payment Date;
-
 - (xvi) the amount of any Capital Contribution Amounts payable by Fannie Mae for such Payment Date;
-
 - (xvii) the amount of any Return Amount for such Payment Date;
-
 - (xviii) the occurrence of a CAA Early Termination Event;
-
 - (xix) the Offered Reference Tranche Percentage for such Payment Date;
-
 - (xx) the amounts payable on the IO Q-REMIC Interest for such Payment Date;
-
 - (xxi) the amounts for such Payment Date representing the portion of interest that is received in respect of the REMIC regular interest components of the Class 2M-2A, Class 2M-2B and Class 2M-2C Notes;
-
 - (xxii) the market value of any Eligible Investments in the Cash Collateral Account (other than those Eligible Investments that were reinvested) both before and after giving effect to payments of principal to Noteholders on such Payment Date as well as liquidation proceeds of any redemptions of Eligible Investments (other than those Eligible Investments in which investment income was reinvested) in respect of such Payment Date;
-
 - (xxiii) investment income collected during the prior calendar month in the Cash Collateral Account; _provided that_ with respect to the final Payment Date, such earnings will be measured based on the prior calendar month and the then-current calendar month;
-
 - (xxiv) any principal gains or principal losses on Eligible Investments in the Cash Collateral Account realized during the prior calendar month; _provided that_ with respect to the final Payment Date, such earnings will be measured based on the prior calendar month and the then-current calendar month;
-
 - (xxv) notification from Fannie Mae of its ongoing compliance with the terms of the EU/UK Risk Retention Letter; and
-
 - (xxvi) notification from Fannie Mae that it has determined that Fannie Mae or any other transaction party must register as a "commodity pool operator" or that the Issuer is a "commodity pool" under the Commodity Exchange Act, together with Fannie Mae's proposed course of action with respect to such determination.
 
 The Indenture Trustee will make the Payment Date Statement (and, at its option, any additional files containing the same information in an alternative format) available each month to Noteholders and any other party that provides appropriate certification in the form acceptable to the Indenture Trustee (which may be submitted electronically via the Indenture Trustee's Internet site) and to any designee of Fannie Mae's via the Indenture Trustee's Internet site. The Indenture Trustee's Internet site will initially be located at https://www.sf.citidirect.com. Assistance in using the Internet site can be obtained by calling the Indenture Trustee's customer service desk at (888) 855-9695. Parties that are unable to use the above distribution options are entitled to have a paper copy mailed to them via first class mail by calling the customer service desk and indicating such. The Indenture Trustee will have the right to change the way the Indenture Trustee's Payment Date Statement is distributed in order to make such distribution more convenient or more accessible to the above parties. The Indenture Trustee is required to provide timely and
@@ -3435,21 +3289,13 @@ _Exchange Administration_ . Under the Indenture, the Exchange Administrator will
 _Events of Default_ . An " **Event of Default** " under the Indenture means, with respect to the Notes will consist of any one of the following cases:
 
 - (i) any failure by the Issuer to pay to Holders of the Notes any required interest or principal payment that continues unremedied for 30 days;
-
 - (ii) any failure by the Issuer to pay the then-outstanding Class Principal Balance of any Note on its Maturity Date, to the extent payable under the Indenture;
-
 - (iii) any failure by the Issuer to perform in any material respect any other obligation under the Indenture, which failure continues unremedied for 60 days after the receipt of notice of such failure by the Indenture Trustee from the Holders of at least 25% of the aggregate Class Principal Balance of the outstanding Classes of Notes (without giving effect to exchanges of Exchangeable Notes for RCR Notes);
-
 - (iv) a court having jurisdiction in the premises will enter a decree or order for relief in respect of Issuer in an involuntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or appoint a receiver, liquidator, assignee, custodian, or sequestrator (or other similar official) of the Issuer or for all or substantially all of its property, or order the winding up or liquidation of its affairs, and such decree or order will remain unstayed and in effect for a period of 60 consecutive days;
-
 - (v) the Issuer will commence a voluntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or will consent to the entry of an order for relief in an involuntary case under any such law, or will consent to the appointment of or taking possession by a receiver, liquidator, assignee, trustee, custodian, or sequestrator (or other similar official) of the Issuer or any substantial part of its property, or will make any general assignment for the benefit of creditors, or will fail generally to pay its debts as they become due;
-
 - (vi) Indenture Trustee ceases to have a valid and enforceable first-priority security interest in the Collateral, or such security interest proves not to have been valid or enforceable when granted or purported to have been granted;
-
 - (vii) it becomes unlawful for the Issuer to perform or comply with any of its material obligations under the Notes, the Indenture or any related document to which it is a party;
-
 - (viii) the occurrence of the CAA Early Termination Date as a result of the occurrence of a CAA Early Termination Event; or
-
 - (ix) Fannie Mae (or the Capital Contribution Assignee, if any) fails to make payment of the Capital Contribution Amount for a Remittance Date pursuant to the Capital Contribution Agreement, which failure continues unremedied for 30 days following receipt of written notice of such failure.
 
 Holders of RCR Notes will be entitled to exercise all the voting or direction rights that are otherwise allocated to the related Exchangeable Notes, subject to the limitations set forth in the Indenture.
@@ -3461,9 +3307,7 @@ _Rights upon Event of Default._ If an Event of Default set forth in clauses (i) 
 Noteholders) or the Majority Noteholders have declared the Notes due and payable and such declaration and the consequences of such "Event of Default" and acceleration have not been rescinded and annulled, or if an Event of Default set forth in clauses (iv) through (ix) of the definition thereof will have occurred, the Issuer agrees that the Indenture Trustee will, upon receipt of written direction, security and indemnity from the Majority Noteholders, to the extent permitted by applicable law, exercise one or more of the following rights, privileges and remedies:
 
 - (i) institute proceedings for the collection of all amounts then payable on the Notes or otherwise payable under the Indenture, whether by declaration or otherwise, enforce any judgment obtained, and collect from the Collateral any monies adjudged due;
-
 - (ii) exercise any remedies of a secured party under the New York Uniform Commercial Code (as amended, the " **UCC** ") and take any other appropriate action to protect and enforce the rights and remedies of the Noteholders under the Indenture; and
-
 - (iii) exercise any other rights and remedies that may be available at law or in equity.
 
 In addition, if an Event of Default occurs and is occurring under the Indenture, and the Notes have been declared due and payable and such declaration and the consequences of such Event of Default and acceleration have not been rescinded or annulled, the Indenture Trustee will, upon receipt of written direction, security and indemnity from the Majority Noteholders, (i) liquidate all Collateral (other than Collateral which is held in the form of cash) held in the Cash Collateral Account into cash, (ii) if entitled to do so under the Collateral Administration Agreement, give notice of a CAA Early Termination Event under the Collateral Administration Agreement to Fannie Mae (if the Collateral Administration Agreement has not yet terminated), (iii) demand payment from Fannie Mae of any amounts due under the Collateral Administration Agreement, (iv) demand payment from the Capital Contribution Provider (or Capital Contribution Assignee, if any) of any amounts due under the Capital Contribution Agreement and (v) distribute from the Note Distribution Account funds in the amounts and priorities as described in the Indenture.
@@ -3475,15 +3319,12 @@ _No Petition_ . No Noteholder will be permitted to commence any action, suit or 
 _Satisfaction and Discharge_ . The Indenture will cease to be of further effect with respect to the Notes whenever the following conditions will have been satisfied with respect to the Notes:
 
 - (i) delivery of the Notes to the Indenture Trustee (other than (A) Notes that have been destroyed, lost, stolen or mutilated and surrendered to the Indenture Trustee, and that have been replaced or paid as required by the Indenture or in accordance with the Trust Agreement, and (B) Notes for whose payment money has theretofore been deposited in trust and thereafter repaid to the Issuer) for cancellation as provided in the Indenture;
-
 - (ii) all Notes outstanding have become due and payable, and the Issuer has deposited or caused to be deposited with the Indenture Trustee, in trust for such purpose, an amount in immediately available funds sufficient to pay and discharge the entire outstanding Class Principal Balance of such Notes, together with accrued interest to the date on which such amounts are paid;
 
 <!-- page 145 -->
 
 - (iii) the Issuer has paid or caused to be paid all other sums payable under the Indenture by the Issuer with respect to the Notes or otherwise;
-
 - (iv) to the extent of funds on deposit in the Cash Collateral Account, the Issuer has paid or caused to be paid all sums payable under the Indenture by the Issuer to Fannie Mae; and
-
 - (v) the Issuer has delivered to the Indenture Trustee an opinion of counsel stating that all conditions precedent herein provided for the satisfaction and discharge of the Indenture with respect to the Notes have been complied with.
 
 Upon satisfaction of these conditions, the Indenture and the lien, rights and interests created thereby will cease to be of further effect with respect to the Notes, and the Indenture Trustee and each co-indenture trustee and separate indenture trustee, if any, then acting as such under the Indenture will, at the expense of the Issuer, authorize, execute, and deliver all such instruments and documents as may be necessary to acknowledge the satisfaction and discharge of the Indenture and will pay, or will assign or transfer and deliver, to the Issuer, all cash, securities and other property held by it as part of the Collateral remaining after satisfaction of the conditions set forth in clauses (i) or (ii) above, as applicable.
@@ -3553,17 +3394,11 @@ letters and announcements, and other documents posted on https://www.fanniemae.c
 Fannie Mae employs a comprehensive and dynamic risk management approach to manage its single-family business and the credit risk profile of its book of business. The key components of Fannie Mae's risk management processes are:
 
 - **Loan Seller and Servicer Management and Oversight** : standards, reviews, limits, monitoring and training;
-
 - **Credit Standards** : underwriting, eligibility, property and appraisal requirements, guidelines, policies and procedures covering origination through closing;
-
 - **Loan Delivery Controls** : data and document controls and validations;
-
 - **Quality Control** : random and discretionary reviews, loan seller quality control and enforcement;
-
 - **Ongoing Surveillance and Feedback** : in-depth reviews of loan seller and loan quality;
-
 - **Servicing Standards** : collections, delinquencies and modifications; and
-
 - **REO Property Management and Valuation** .
 
 Fannie Mae evaluates the performance of loan sellers and the related loans themselves against Fannie Mae's requirements in a continuous manner and uses detailed information from its evaluations to update its policies, guidelines, procedures, reviews and enforcement actions, including remediation activities if warranted. Fannie Mae evaluates loan seller deliveries and the performance of the loans Fannie Mae acquires on an ongoing basis and uses these evaluations to target Fannie Mae's reviews. Fannie Mae conducts ongoing reviews of its loan sellers to validate that they have the ability to comply with Fannie Mae's standards and requirements. Fannie Mae conducts additional reviews of loan sellers based on business model changes and other factors. Fannie Mae establishes and enforces robust underwriting and eligibility standards to ensure sustainable homeownership. Fannie Mae may from time to time supplement, alter, waive or rescind any of the requirements of the Selling and Servicing Guides or the Lender Contract.
@@ -3575,21 +3410,15 @@ Fannie Mae evaluates the performance of loan sellers and the related loans thems
 Loan sellers and servicers must be approved to do business with Fannie Mae. Fannie Mae determines a loan seller and servicer's qualifications by reviewing the loan seller and servicer's financial condition, organization, staffing, selling and servicing experience, and other relevant factors. In connection with approving a loan seller or servicer, Fannie Mae performs assessments that help Fannie Mae to determine the quality of a loan seller or servicer's processes and effectiveness of controls. Assessments are conducted through a desk review to assess readiness to do business with Fannie Mae. Fannie Mae's review process involves collaboration across all key business areas responsible for managing risk to assure the soundness of the loans Fannie Mae acquires from a loan seller. Approval or rejection of a loan seller's or servicer's application is based on Fannie Mae's business judgment, taking into account the totality of the relevant circumstances. To be considered for approval to sell residential firstlien mortgage loans to Fannie Mae, or to service them, at a minimum a loan seller or servicer generally must:
 
 - have as its principal business purpose the origination, selling and/or servicing of residential mortgage loans for a minimum of 24 months;
-
 - have demonstrated the ability to originate, sell and/or service the types of mortgage loans for which approval is being requested;
-
 - have adequate facilities and staff experienced in originating, selling and/or servicing the types of mortgage loans for which approval is being requested;
 
 <!-- page 149 -->
 
 - be duly organized, validly existing, properly licensed (in good standing), or otherwise authorized to conduct its business in each of the jurisdictions in which it originates, sells and/or services residential mortgage loans;
-
 - have internal audit and management control processes to evaluate and monitor the overall quality of its loan production and/or servicing, as applicable;
-
 - have written procedures for quality control, servicing and the approval and management of vendors and other third-party service providers, as applicable;
-
 - have a fidelity bond and an errors and omissions policy in effect with such coverage amounts as Fannie Mae requires, and agree to modify them as necessary to meet Fannie Mae's requirements; and
-
 - meet Fannie Mae's counterparty requirements, including having a minimum net worth of at least $2.5 million plus 0.25% of the unpaid principal balance of the servicing portfolio and minimum capital and liquidity requirements; and satisfy any additional eligibility criteria Fannie Mae imposes from time to time. Such additional criteria may apply either to individual loan sellers or servicers, all loan sellers, all loan sellers or servicers that are seeking approval to sell and/or service certain types of mortgage loans or all loan sellers or servicers that share certain characteristics.
 
 Fannie Mae approves or disapproves an application to become an approved loan seller or servicer based on Fannie Mae's assessment of its total circumstances, and Fannie Mae may reject or condition the application of a loan seller or servicer that satisfies Fannie Mae's general eligibility criteria. No applicant has an absolute or automatic right to be approved to do business with Fannie Mae.
@@ -3693,7 +3522,6 @@ All borrowers are required to complete and sign IRS Form 4506-T at or before clo
 _DU Appraisal Requirements_ . DU provides the user with a fieldwork requirement in the DU Underwriting Findings report. Appraisals can have a Traditional, Desktop or Hybrid scope of work; all are required to be completed by state certified or licensed appraisers and in compliance with the Uniform Standards of Professional Appraisal Practice (USPAP).
 
 - _Traditional_ . An appraisal assignment for which the appraiser collects the property data and completes the market analysis required for the appraisal.
-
 - _Desktop_ . An appraisal assignment for which the appraiser completes the appraisal without physically inspecting the property, using data from various sources (real estate agents, homeowners, MLS, tax records, etc.).
 
 <!-- page 154 -->
@@ -3703,25 +3531,17 @@ _DU Appraisal Requirements_ . DU provides the user with a fieldwork requirement 
 Based on the specific property type, DU generally will require an appraisal completed on one of the following appraisal report forms:
 
 - Uniform Residential Appraisal Report (Form 1004)
-
 - Uniform Residential Appraisal Report (Desktop) (Form 1004 Desktop)
-
 - Uniform Residential Appraisal Report (Hybrid) (Form 1004 Hybrid)
-
 - Individual Condominium Unit Appraisal Report (Form 1073)
-
 - Individual Condominium Unit Appraisal Report (Hybrid) (Form 1073 Hybrid)
-
 - Individual Co-operative Interest Appraisal Report (Form 2090)
-
 - Manufactured Home Appraisal Report (Form 1004C)
-
 - Small Residential Income Property Appraisal Report (Form 1025)
 
 A value acceptance (appraisal waiver) offer is a property fieldwork waiver in which an appraisal is not required and is available for certain purchase and refinance transactions. A prior appraisal or other careful review of the subject property is used by Fannie Mae's internal models to verify with a high degree of confidence the lender's estimated value is accurately submitted through DU. Available value acceptance (appraisal waiver) methods include:
 
 - _Value acceptance_ . The lender-provided value is accepted and an appraisal is not required.
-
 - _Value acceptance + property data_ . An interior and exterior property data collection by a trained data collector is required to verify property eligibility. An appraisal is not required. The property data may be used to ensure the condition of the property meets Fannie Mae requirements, in a method referred to as "Value Acceptance (Appraisal Waiver) plus Property Data Collection – Condition." Alternatively, the data may be input into a proprietary Fannie Mae automated valuation model to validate the lender-provided value, in a method referred to as "Value Acceptance (Appraisal Waiver) plus Property Data Collection – Value."
 
 The following are not eligible for a value acceptance (appraisal waiver) offer: proposed construction, singleclose or two-close construction-to-permanent loans; two- to four-unit properties; HomeStyle® mortgage products (Renovation and Energy); leasehold properties, community land trust homes, or other properties with resale price restrictions; co-operative units and manufactured homes; transactions using gifts of equity; transactions where either the purchase price or estimated value provided to DU is $1,000,000 or more, Texas Section 50(a)(6) loans; and DU loan casefiles that receive an ineligible recommendation.
@@ -3823,13 +3643,9 @@ Loans originated under the High LTV Refinance Option are eligible for enforcemen
 <!-- page 159 -->
 
 - for the 12-month period following the date of acquisition of the loan by Fannie Mae, the related borrower had no 30-day or greater delinquencies; or
-
 - for the 36-month period following the date of acquisition of the loan by Fannie Mae, the related borrower:
-
    - had no more than two 30-day delinquencies,
-
    - had no 60-day or greater delinquencies, and
-
    - is not 30 or more days delinquent with respect to the 36th monthly payment.
 
 Reference Obligations are potentially eligible for refinancing under the High LTV Refinance Option. As described above in "Summary — The Reference Pool," the resulting High LTV Refinance Reference Obligation will be deemed a Reference Obligation and will be included in the Reference Pool in replacement of the original Reference Obligation.
@@ -3841,11 +3657,8 @@ As of the date hereof, FHFA has directed that the High LTV Refinance Option prog
 At the direction of FHFA and in coordination with Freddie Mac, Fannie Mae on April 28, 2021 introduced a new refinance option, referred to as the RefiNow**TM** program (the " **RefiNow Program** "), to encourage certain borrowers whose loans are acquired by Fannie Mae or by Freddie Mac to take advantage of the low interest rate environment to refinance their mortgage loans and thereby lower their mortgage rates and monthly mortgage payments. To be eligible for the RefiNow Program, borrowers must meet specified criteria, including having:
 
 - a Fannie Mae mortgage loan secured by a single unit principal residence;
-
 - a current income at or below 100% of the area median income;
-
 - not missed a mortgage payment in the past six months, and no more than one missed mortgage payment in the past 12 months (unless the missed payment was associated with a COVID-19 forbearance plan and has been resolved); and
-
 - a mortgage loan with an LTV ratio up to 97% and a DTI ratio of 65% or less.
 
 Prior to April 6, 2022, the RefiNow Program required a minimum credit score of 620; however, there is currently no minimum credit score requirement for RefiNow borrowers. The RefiNow Program is available to eligible borrowers whose mortgage loans are seasoned at least 12 months (measured from the original note date to the date of refinancing). Reference Obligations are potentially eligible for refinancing under the RefiNow Program but any resulting RefiNow Program loan will not be included in the Reference Pool in replacement of the original Reference Obligation. No Reference Obligation was originated under the RefiNow Program.
@@ -3873,9 +3686,7 @@ All loans delivered to Fannie Mae are submitted to an automated validation proce
 Fannie Mae requires loan sellers to maintain copies of certain documents relating to mortgage loans acquired by Fannie Mae, some of which must be held by a Fannie Mae-approved document custodian that meets the following eligibility criteria as set out more fully in the Selling Guide and in Fannie Mae's Requirements for Document Custodians (" **RDC Guide** ") (a "document custodian"):
 
 - must be a federally regulated institution, a subsidiary or parent of a financial institution or holding company that is federally regulated, or a Federal Home Loan Bank;
-
 - must be in good standing with the applicable regulator; and
-
 - must have a financial rating of "125" or better from IDC Financial Publishing or "C" or better from Kroll Bond Rating Agency, LLC.
 
 If a loan seller or servicer (or an affiliate of a loan seller or servicer) satisfies these eligibility criteria, meets any other conditions that Fannie Mae may require and receives approval from Fannie Mae, it may act as document custodian for mortgage loans Fannie Mae acquires.
@@ -3899,17 +3710,11 @@ Fannie Mae has established quality control (" **QC** ") policies and procedures 
 When Fannie Mae acquires a mortgage loan, Fannie Mae relies on representations and warranties of the loan seller with respect to many critical aspects of the loans. These representations and warranties cover such matters as the:
 
 - accuracy of the information provided by the borrower;
-
 - accuracy and completeness of any information provided by a loan seller/servicer to Fannie Mae, including third party reports prepared by qualified professionals, such as property appraisals and credit reports;
-
 - validity of the mortgage loan as a first-lien on the mortgaged property;
-
 - fact that payments on the mortgage loan are current at the time of delivery to Fannie Mae;
-
 - physical condition of the mortgaged property at the time of delivery of the mortgage loan to Fannie Mae;
-
 - compliance with all applicable federal, state and local laws, including state anti-predatory lending statutes; and
-
 - compliance with the Lender Contract, including the Selling Guide and any applicable Permitted Variances.
 
 Fannie Mae's reliance on representations and warranties is a longstanding means for enhancing liquidity in the mortgage origination process while protecting Fannie Mae from acquiring loans that do not meet Fannie Mae's prescribed standards. Representations and warranties are assurance from a loan seller that Fannie Mae can rely on certain facts and circumstances concerning the loan seller itself as well as the mortgage loans being sold. Representations and warranties that Fannie Mae requires are described in the Selling Guide as well as various contracts with Fannie Mae's loan sellers. Violation of any representation and warranty is a breach of the Lender Contract, entitling Fannie Mae to pursue certain remedies, including a loan repurchase request or other alternative remedy.
@@ -3931,21 +3736,15 @@ For conventional loans acquired by Fannie Mae on a flow basis on or after July 1
 There are two alternative paths through which a loan seller may obtain relief:
 
 - If the relief is based on the borrower's acceptable payment history, the relief will occur upon payment by the borrower of the first 36 monthly payments due following the mortgage loan acquisition date; _provided that_ the borrower:
-
    - has no more than two 30-day delinquencies;
-
    - has no 60-day or greater delinquencies; and
-
    - is not 30 or more days delinquent with respect to the 36th monthly payment.
 
 Under the Rep and Warrant Framework, for any loan in forbearance due to natural disaster, the forbearance period will be credited in determining whether a borrower satisfies the acceptable payment history criteria.
 
 - The second path consists of a QC loan review and applies to both performing and non-performing loans. QC loan reviews will be conducted as described below under "The QC Loan Review Process." Relief under the QC loan review path occurs if any of the following conditions is satisfied:
-
    - Fannie Mae determines based on a QC loan review that the mortgage loan is acceptable and therefore is not subject to a repurchase demand;
-
    - Fannie Mae determines based on a QC loan review that the mortgage loan is not acceptable because of a selling deficiency listed in the Selling Guide and the loan seller cures such deficiency to Fannie Mae's satisfaction in the timeframe and manner specified in the Selling Guide; or
-
    - Fannie Mae determines based on a QC loan review that the mortgage loan is not acceptable because of a selling deficiency listed in the Selling Guide and although the loan seller does not cure such deficiency (to Fannie Mae's satisfaction in the timeframe and manner specified in the Selling Guide) the mortgage loan is eligible for a repurchase alternative (such as recourse or a make-whole arrangement or split loss agreement) that expires or terminates by its terms, and such repurchase alternative is effected and does satisfactorily expire or terminate by its terms.
 
 For a discussion of how the Rep and Warrant Framework applies to the High LTV Refinance Option, see "— _High LTV Refinance Option_ " above.
@@ -3959,25 +3758,17 @@ Moreover, in October 2016, Fannie Mae announced additional options providing rel
 <!-- page 163 -->
 
 - _Borrower data_ . Fannie Mae will provide relief from enforcement of certain representations and warranties relating to borrower income, employment, and asset data that has been validated through the DU validation service for loans receiving a DU "Approve/Eligible" recommendation.
-
 - _Appraised property value_ . Fannie Mae will provide relief from enforcement of certain representations and warranties with respect to appraised property values for one-unit single-family mortgage loans that Fannie Mae acquires through DU if the appraisal provided in connection with the loans received qualifying Collateral Underwriter® scores.
-
 - _Value acceptance (appraisal waiver)_ . Fannie Mae will provide relief from repurchase obligations relating to property value, condition and marketability where the loan seller exercised the value acceptance (appraisal waiver) option referred to as "value acceptance."
 
 Under the Rep and Warrant Framework, loan originators/sellers are not relieved from enforcement of certain "life of loan representations and warranties" relating to:
 
 - Fannie Mae Charter matters;
-
 - misstatements, misrepresentations and omissions;
-
 - fraud;
-
 - data inaccuracies;
-
 - clear title/first-lien enforceability;
-
 - compliance with laws and responsible lending practices; and
-
 - unacceptable mortgage products.
 
 #### _Future Revisions to Rep and Warrant Framework_
@@ -4023,11 +3814,8 @@ review of property values in the context of its loan level QC reviews is to conf
 During the course of Fannie Mae's QC loan reviews, Fannie Mae may identify **:**
 
 - Loan File or Underwriting Errors;
-
 - breaches of selling representations or warranties, including instances of fraud or misrepresentation;
-
 - breaches of the terms of applicable contract provisions; or
-
 - in rare circumstances, servicing deficiencies that have had a materially adverse effect on the value of the mortgage loan or the mortgaged property.
 
 If any of the foregoing are identified, Fannie Mae may require the repurchase of the loan(s) or other remedies. Fannie Mae provides loan sellers with an opportunity to re-evaluate loans Fannie Mae has requested them to repurchase and, as appropriate, to send additional information to Fannie Mae regarding the loans. Fannie Mae examines any additional information loan sellers provide within the prescribed time frames prior to making a final decision regarding a loan seller's obligation to repurchase loans.
@@ -4077,17 +3865,11 @@ In certain circumstances, Fannie Mae may provide the responsible party with an a
 <!-- page 167 -->
 
 - (i) Recourse – agreement by the responsible party to provide recourse for life of loan or other specified period. At Fannie Mae's discretion, Fannie Mae may require the responsible party's obligation to be secured by specified collateral.
-
 - (ii) Indemnification – agreement by the responsible party to indemnify Fannie Mae for any losses, costs, etc. on the mortgage loan. At Fannie Mae's discretion, Fannie Mae may require the responsible party's obligation to be secured by specified collateral.
-
 - (iii) Loss share – agreement between Fannie Mae and the responsible party to each pay a specified proportion of any future losses on the mortgage loan.
-
 - (iv) Loss reimbursement – agreement by the responsible party to reimburse Fannie Mae for specified losses on the mortgage loan.
-
 - (v) Fee in lieu of repurchase – payment by the responsible party to compensate Fannie Mae for increased risk of holding the mortgage loan.
-
 - (vi) Conditional recourse/partial indemnification – agreement by the responsible party to provide recourse or indemnification on the mortgage loan subject to one or more specified conditions.
-
 - (vii)A combination of two or more of the above.
 
 Mortgage loans that are subject to a remedy described in clauses (i)-(v) or (vii) above are not eligible for initial inclusion in the Reference Pool. If a remedy described in clauses (i)-(v) or (vii) above is imposed after a loan has been included in the Reference Pool, Fannie Mae will remove such loan from the Reference Pool. A pricing adjustment (described below) or conditional recourse/partial indemnification commitment (described above) from a responsible party will not trigger the removal of a Reference Obligation from the Reference Pool.
@@ -4097,9 +3879,7 @@ Fannie Mae may also identify loans with data errors as part of its QC loan revie
 Certain repurchase alternatives may be available only to a responsible party that is in good standing with Fannie Mae, that is in a strong financial condition acceptable to Fannie Mae, and that otherwise is able and willing to comply with other provisions of the Lender Contract, including Fannie Mae's eligibility criteria. If the servicing of a mortgage has been transferred to a loan servicer other than the loan seller that sold the mortgage loan to Fannie Mae, then, unless the loan servicer has not assumed the loan seller's representations and warranties to become the responsible party for the defect, eligibility for this benefit will be based on an evaluation of the new servicer. In determining a responsible party's eligibility for this repurchase alternative, Fannie Mae will evaluate the following:
 
 - the quality of the mortgage loans for which the responsible party has the selling and/or servicing representations and warranties, as measured by comparing the delinquency rates for comparable portfolios;
-
 - the quality of the servicing performance, as measured by the responsible party's loss mitigation activities; and
-
 - the overall financial strength of the responsible party, as reflected in the responsible party's annual financial statements and any other periodic financial reports the responsible party submits to Fannie Mae.
 
 Fannie Mae also will periodically assess a loan seller's ongoing underwriting performance and contingent repurchase exposure ( _i.e._ , the loan seller's repurchase risk exposure in relation to its financial ability). When appropriate, Fannie Mae may change a responsible party's eligibility status for a repurchase alternative.
@@ -4179,17 +3959,11 @@ Fannie Mae compensates servicers primarily by permitting them to retain a specif
 Fannie Mae-approved servicers must demonstrate the following resources and capabilities:
 
 - **Experience** : escrow management, general servicing, investor reporting, custodial funds, default management and quality control.
-
 - **Written procedures** : fully-documented procedures that address all aspects of performing loan servicing, delinquency prevention, default servicing and foreclosure management.
-
 - **Quality assurance** : quality assurance processes that are designed, documented and implemented to ensure servicing practices comply with Fannie Mae's requirements.
-
 - **Staffing and training** : staffing levels and training to support acceptable performance standards.
-
 - **Procedures for escalated cases** : comprehensive processes and written procedures to promptly respond to escalated cases.
-
 - **Master/subservicer responsibilities** : where applicable, comprehensive processes and written procedures for subservicer selection, oversight, performance assessment and compliance monitoring.
-
 - **Risk Management & Controls** : comprehensive risk identification, mitigation and remediation processes; including appropriate regulatory and legal compliance frameworks.
 
 Fannie Mae communicates standard requirements for all servicers through the Servicing Guide, Announcements, Lender Letters and Servicing Notices.
@@ -4223,13 +3997,9 @@ Loan workout activities are a key component of Fannie Mae's loss mitigation stra
 Fannie Mae's goal is to assist borrowers in maintaining home ownership where possible, or facilitate liquidation solutions when continued homeownership is not an option. Fannie Mae requires its servicers to follow a standardized evaluation hierarchy of workout options with the intention of determining and delivering the right kind of assistance needed to resolve the particular borrower's distress and minimize losses based on the nature of the hardship. Fannie Mae's loan workouts include:
 
 - _Forbearance plans_ , where reduced payments or no payments are required during a defined period. Forbearance plans provide additional time for the borrower to return to compliance with the original terms of the mortgage loan or to implement another loan workout. In the case of material property damage due to earthquake, flood or hurricane or caused by a person or event beyond the borrower's control, it may be appropriate for the loan servicer to offer a forbearance plan after reviewing the borrower's circumstances. Generally, the initial term of forbearance may be granted for three to six months from the date of the first reduced or suspended payment. Fannie Mae's written approval is required for forbearance that extends cumulatively beyond 12 months.
-
 - _Repayment plans_ , which are contractual plans to make up past due amounts for a period generally within six months while continuing to make the current contractual payment. These plans, offered after the hardship is resolved, assist borrowers in returning to compliance with the original terms of their mortgage loan upon completion of the plan.
-
 - _Payment deferral_ , which is a workout option enabling servicers to assist eligible borrowers who have resolved a temporary hardship and resumed monthly contractual payments but cannot afford either a full reinstatement or repayment plan to bring the mortgage loan current. Payment deferral options that may be available based on a borrower's circumstances include payment deferral and disaster payment deferral (discussed below). A borrower may be eligible for a payment deferral if the mortgage loan is equal to or greater than two months delinquent but less than or equal to 6 months delinquent and meets other eligibility criteria. A deferral of delinquent principal and interest creates a forborne balance that will become due at the earliest to occur of the mortgage loan's maturity date, the mortgage loan's payoff date and the transfer or sale of the mortgaged property. The remaining mortgage loan term, interest rate type ( _e.g._ , fixed-rate, adjustable rate mortgage loan or step-rate), payment schedule and maturity date of the mortgage loan remain unchanged.
-
 - _Disaster payment deferral_ , which is a workout option created to assist borrowers with a disasterrelated hardship (and the property has experienced an insured loss or the property or borrower's place of employment is located in a FEMA-declared disaster area eligible for individual assistance) in order to return the mortgage loan to a current status after up to 12 months of missed payments. The disaster payment deferral is created for borrowers who resolved a financial hardship related to a disaster, can resume the full monthly contractual payment, cannot afford a full mortgage loan reinstatement or a repayment plan to bring the mortgage loan current, or have missed up to 12 payments.
-
 - _Loan modifications_ , which involve changing the terms of the mortgage loan by capitalizing outstanding amounts such as delinquent interest to the unpaid principal balance of the mortgage loan,
 
 <!-- page 173 -->
@@ -4237,7 +4007,6 @@ Fannie Mae's goal is to assist borrowers in maintaining home ownership where pos
 and amending terms which may include reducing the interest rate, extending the loan term or maturity date, or forbearing principal. Principal forbearance is a change to a loan's terms to designate a portion of the principal as non-interest-bearing and non-amortizing; the designated portion of principal then becomes payable at the new maturity date, or upon the sale or transfer of the property, refinance, or payment of the interest-bearing principal balance. See "— _Loan Modifications_ " below.
 
 - _Short sales_ , which involve allowing the borrower of a delinquent loan to sell the mortgaged property to an unrelated third party for fair market value in an amount that is insufficient to pay off the mortgage loan in full. Under Fannie Mae's standard short sale program, servicers are able to determine whether a borrower is eligible to complete a short sale. All short sale offers are submitted to Fannie Mae for review and decision. This allows Fannie Mae to expedite timelines, reduce the likelihood of fraud and significantly increase Fannie Mae's recovery compared to traditional short sale methods. Under certain circumstances, the borrower is required to make a cash contribution to reduce the losses on the mortgage loan. When an approved short sale is complete the mortgage note is cancelled, the lien of the mortgage is released and the borrower may be paid an amount to assist with relocation. Short sales may also be approved for a borrower who is current but is determined to be in imminent payment default. See "— _Foreclosure Alternatives_ " below.
-
 - _Mortgage assumptions_ , which involve a new party assuming the obligations of the borrower under the mortgage note and may be performed in connection with a loan modification. If the former borrower requests a release of liability, the servicer evaluates the new party for its ability to pay the mortgage loan (as modified, if applicable) based on Fannie Mae's standard underwriting criteria before allowing the assumption.
 
 If a loan workout has not been reached by the 121st day of delinquency, Fannie Mae generally requires the servicer to accelerate the debt from the borrower and initiate foreclosure proceedings in accordance with the provisions of the Servicing Guide and applicable law. However, Fannie Mae also authorizes the servicer to continue to pursue loss mitigation alternatives to resolve the delinquency before the conclusion of the foreclosure proceedings. If, after demand for acceleration, a borrower pays all delinquent amounts, agrees with Fannie Mae to accept an arrangement for reinstatement of the mortgage (including through loan modification) or arranges for the sale or conveyance of the mortgaged property to a third party or Fannie Mae, the servicer may terminate the foreclosure proceedings. If the borrower again becomes delinquent, Fannie Mae pursues workout options prior to making a new demand for acceleration and the servicer will commence new foreclosure proceedings. See " _Certain Legal Aspects of the Reference Obligations—Foreclosure_ ."
@@ -4343,9 +4112,7 @@ The eligible loans will consist of all loans from the calendar cohort that Fanni
 Fannie Mae determined the composition of the Reference Pool utilizing the multi-step process described below.
 
 - All mortgage loans that Fannie Mae acquired between January 1, 2024 and June 30, 2024 and held in various Fannie Mae MBS trusts established between January 1, 2024 and December 31, 2024 (other than mortgage loans that were, or are anticipated to be, included as reference obligations in an alternative Fannie Mae risk sharing transaction) were divided into two segments on a random basis.
-
 - Loans included in the first segment were made available for potential selection for the Reference Pool. From the first segment, Fannie Mae identified those loans that met the Eligibility Criteria (such loans, the " **Available Loans** ").
-
 - The loans included in the second segment were made available for potential selection for one or more unrelated Fannie Mae credit risk transactions and were not included in the Reference Pool.
 
 The following table illustrates certain characteristics of the mortgage loans in the Reference Pool (weighted by original unpaid principal balance) and of all mortgage loans acquired by Fannie Mae from the calendar cohort that would have met the Eligibility Criteria had they not been subject to other risk sharing transactions. The weighted average characteristics shown below do not take into account any mortgage loan for which such data was unavailable.
@@ -4843,9 +4610,7 @@ _ninth_ , to the Class 2A-H Reference Tranche (up to the amount of any remaining
 in each case until the Class Notional Amount of each such Class is reduced to zero. Any Tranche Write-down Amounts allocated to the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Reference Tranche will result in a corresponding decrease in the Class Principal Balance of the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Notes, as applicable (without regard to any exchanges of Exchangeable Notes for RCR Notes for such Payment Date). If any RCR Notes are held by Holders, any Tranche Write-down Amount that is allocable to the related Exchangeable Notes will be allocated to decrease the Class Principal Balance or Class Notional Amount, as applicable, of the RCR Notes (to the extent such RCR Notes have a Class Principal Balance or Class Notional Amount, as applicable, greater than zero). Any such allocations will result, in turn, in investment losses to the Noteholders. Similarly, Modification Loss Amounts may be allocated to the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Reference Tranche as described under " _Description of the Notes— Hypothetical Structure and Calculations with Respect to the Reference Tranches—Allocation of Modification Loss Amount_ " and will result in a corresponding reduction of the Interest Payment Amount of the Class 2A-1, Class 2M1, Class 2M-2A, Class 2M-2B or Class 2M-2C Notes, as applicable. If any RCR Notes are held by Holders, any Modification Loss Amount that is allocable to the related Exchangeable Notes will be allocated to decrease the Class Principal Balance or Class Notional Amount, as applicable, of the RCR Notes. As such:
 
 - because the Class 2M-2C Reference Tranche is subordinate to the Class 2A-1, Class 2M-1, Class 2M2A and Class 2M-2B Reference Tranches, the Class 2M-2C Notes will be more sensitive than the Class 2A-1, Class 2M-1, Class 2M-2A and Class 2M-2B Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H, Class 2B-2H and Class 2B-1H Reference Tranches are reduced to zero;
-
 - because the Class 2M-2B Reference Tranche is subordinate to the Class 2A-1, Class 2M-1 and Class 2M-2A Reference Tranches, the Class 2M-2B Notes will be more sensitive than the Class 2A-1, Class 2M-1 and Class 2M-2A Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H, Class 2B-2H, Class 2B-1H and Class 2M-2C Reference Tranches are reduced to zero;
-
 - because the Class 2M-2A Reference Tranche is subordinate to the Class 2A-1 and Class 2M-1 Reference Tranches, the Class 2M-2A Notes will be more sensitive than the Class 2A-1 and Class 2M-1 Notes to Tranche Write-down Amounts after the Class Notional Amounts of the Class 2B-3H,
 
 <!-- page 194 -->
@@ -4865,7 +4630,6 @@ The rate of principal payments on the Notes and the yield to maturity (or to ear
 The rate at which mortgage loans in general prepay may be influenced by a number of factors, including general economic conditions, mortgage market interest rates, availability of mortgage funds, the value of the mortgaged property and the borrower's net equity therein, solicitations, servicer decisions and homeowner mobility.
 
 - In general, if prevailing mortgage rates fall significantly below the mortgage rates on the Reference Obligations, the Reference Obligations are likely to prepay at higher rates than if prevailing mortgage rates remain at or above the mortgage rates on the Reference Obligations.
-
 - Conversely, if prevailing mortgage rates rise above the mortgage rates on the Reference Obligations, the rate of prepayment would be expected to decrease.
 
 The timing of changes in the rate of prepayments may significantly affect an investor's actual yield to maturity, even if the average rate of principal prepayments is consistent with an investor's expectations. In general, the earlier the payment of principal of the Reference Obligations the greater the effect on an investor's yield to maturity. As a result, the effect on investors' yield due to principal prepayments occurring at a rate higher (or lower) than the rate investors anticipate during the period immediately following the issuance of the Notes may not be offset by a subsequent like reduction (or increase) in the rate of principal prepayments. Prospective investors should also consider the risk, in the case of a Note purchased at a discount that a slower than anticipated rate of payments in respect of principal (including prepayments) on the Reference Obligations will have a negative effect on the yield to maturity of such Note. Prospective investors should also consider the risk, in the case of a Note purchased at a premium, that a faster than anticipated rate of payments in respect of principal (including prepayments) on the Reference Obligations will have a negative effect on the yield to maturity of such Note. Prospective investors must make decisions as to the appropriate prepayment assumptions to be used in deciding whether to purchase Notes.
@@ -4983,17 +4747,11 @@ Notes included in such Combination, calculated in the manner described in footno
 (g) principal prepayments in full on the Reference Obligations are received on the last day of each month beginning in the second calendar month prior to the month in which the first Payment Date occurs;
 
    - (h) there are no partial principal prepayments on the Reference Obligations;
-
    - (i) the Reference Obligations prepay at the indicated CPR percentages;
-
 - (j) no Reference Obligations are purchased or removed from the Reference Pool and no mortgage loans
-
 - are substituted for the Reference Obligations included in the Reference Pool on the Closing Date;
-
    - (k) there are no Modification Events or data corrections in connection with the Reference Obligations;
-
 - (l) there is no exercise of the Early Redemption Option (except in the case of WAL (years) to Early
-
 - Redemption Date);
 
 (m) there are no Reversed Credit Event Reference Obligations or Originator Rep and Warranty Settlements and Mortgage Insurance Credit Amounts are zero;
@@ -5001,15 +4759,12 @@ Notes included in such Combination, calculated in the manner described in footno
 (n) all interest received on the Class 2M-2A, Class 2M-2B and Class 2M-2C Notes is received in respect of the REMIC regular interest component of such Classes of Notes;
 
 - (o) the Projected Recovery Amount is zero;
-
 - (p) the Notes are issued on April 22, 2025;
-
 - (q) the Maturity Date is the Payment Date in March 2045;
 
 (r) cash payments on the Notes are received on the twenty-fifth (25th) day of each month beginning in April 2025 as described under " _Description of The Notes_ " in this Offering Memorandum;
 
 - (s) each Remittance Date occurs on the twenty-fourth (24th) day of each month beginning in April 2025;
-
 - (t) the value of 30-day Average SOFR is assumed to remain constant at 4.33969% per annum;
 
 (u) the Collateral Administration Agreement does not terminate prior to the Payment Date in March 2045 (except in the case of WAL (years) to Early Redemption Date);
@@ -6518,9 +6273,7 @@ The following discussion is general and may not apply to your particular circums
 <!-- page 236 -->
 
 - This summary is based on federal tax laws in effect as of the date of this Offering Memorandum. Changes to any of these laws after this date may affect the tax consequences described below and may apply, retroactively, as of a date preceding the date of this Offering Memorandum.
-
 - This summary discusses only Notes acquired by beneficial owners and held as capital assets (within the meaning of federal tax law). It does not discuss all of the tax consequences that may be relevant to beneficial owners subject to special rules, such as banks, thrift institutions, partnerships, insurance companies, real estate investment trusts, regulated investment companies, tax-exempt organizations, brokers and dealers in securities or currencies, certain securities traders, certain other financial institutions and taxpayers subject to the alternative minimum tax. This discussion also does not discuss tax consequences that may be relevant to a beneficial owner in light of the beneficial owner's particular circumstances, such as a beneficial owner holding a Note as a position in a straddle, hedging, conversion or other integrated investment, a beneficial owner whose functional currency is not the U.S. dollar, a beneficial owner for whom the income with respect to a Note would constitute "business interest income" or a beneficial owner who is a recalcitrant account holder (within the meaning of Section 1471 of the Internal Revenue Code of 1986, as amended (the " **Code** ")).
-
 - The Notes also are subject to income and other taxes imposed by states and possessions of the United States and by local taxing authorities. You should consult your own tax advisors as to the consequences of such laws.
 
 **For these reasons, you are advised to consult your own tax advisors regarding the tax consequences of purchasing, owning and disposing of Notes, including the advisability of making any of the elections described below.**
@@ -6532,13 +6285,9 @@ If you are a U.S. Person and own a Note, income from the Note is subject to U.S.
 For purposes of the foregoing and the discussion that follows, a " **U.S. Person** " means:
 
 - a citizen or individual resident of the United States;
-
 - a corporation (or other entity treated as a corporation for U.S. federal income tax purposes) created or organized in or under the laws of the United States or any state thereof or the District of Columbia;
-
 - an estate the income of which is includible in its gross income for U.S. federal income tax purposes without regard to its source;
-
 - a trust if a court within the United States is able to exercise primary supervision over its administration and at least one U.S. Person has the authority to control all substantial decisions of the trust; or
-
 - certain trusts in existence on August 20, 1996, and treated as United States persons (within the meaning of Section 7701(a)(30) of the Code) prior to such date, that elect to continue to be treated as United States persons, as provided in Treasury regulations.
 
 If a partnership holds Notes, the U.S. federal income tax treatment of a partner will generally depend on the status of the partner and the tax treatment of the partnership. A partner in a partnership holding Notes should consult its tax advisor regarding the U.S. federal income tax treatment of the partnership's investment in the Notes.
@@ -6560,9 +6309,7 @@ The REMIC regular interests corresponding to the Class 2A-1, Class 2M-1, Class 2
 Although a Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Note will represent beneficial ownership of a REMIC regular interest, which is afforded certain tax attributes as described above, the interest in the notional principal contract will not constitute:
 
 - a "real estate asset" within the meaning of section 856(c)(5)(B) of the Code,
-
 - a "qualified mortgage" within the meaning of section 860G(a)(3) of the Code or a "permitted investment" within the meaning of section 860G(a)(5) of the Code, or
-
 - an asset described in section 7701(a)(19)(C)(xi) of the Code.
 
 Income received with respect to the notional principal contract component will not constitute income described in Section 856(c)(3)(B) with respect to a real estate investment trust. As a result, the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Notes may not be an appropriate investment for a REMIC, and investors that are real estate investment trusts should consider the treatment of the notional principal contract component in evaluating an investment in the Notes.
@@ -6594,11 +6341,8 @@ Note during the accrual period of amounts included in the stated redemption pric
 The present value of the remaining payments will be calculated based on the following:
 
 - the yield to maturity of the Regular Note, calculated as of the Closing Date, giving effect to the Prepayment Assumption;
-
 - events (including actual prepayments) that have occurred prior to the end of the accrual period;
-
 - the Prepayment Assumption; and
-
 - an assumption that the value of the index upon which the variable rate is based remains the same as its value on the Closing Date over the entire life of the Regular Note.
 
 The adjusted issue price of a Regular Note at any time will equal the issue price of the Regular Note, increased by the aggregate amount of previously accrued OID with respect to the Regular Note, and reduced by the amount of any payments made on the Regular Note as of that time of amounts included in the stated redemption price at maturity. The Code requires that the prepayment assumption used in these calculations be determined in the manner prescribed in Treasury regulations. To date, no such regulations have been promulgated. The legislative history of this Code provision indicates that the regulations will provide that the assumed prepayment rate must be the rate used by the parties in pricing the particular transaction. The Prepayment Assumption will be used for purposes of computing OID, market discount or premium, if any, for U.S. federal income tax information reporting purposes. The Issuer makes no representation, however, that Notes or Reference Obligations will prepay at the rate reflected in the Prepayment Assumption or at any other rate. You must make your own decision as to the appropriate prepayment assumption to be used in deciding whether or not to purchase any of the Notes.
@@ -6658,7 +6402,6 @@ Certain U.S. non-corporate beneficial owners are subject to an increased rate of
 Beneficial owners of the Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Notes will be treated:
 
 - as holding an undivided interest in a REMIC regular interest as described above, and
-
 - as having entered into the notional principal contract as described below.
 
 Consequently, each beneficial owner of a Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B and Class 2M-2C Note will be required to report its _pro rata_ share of income accruing with respect to the corresponding REMIC regular interest as discussed under "— _REMIC Elections and Special Tax Attributes_ " above. In addition, each beneficial owner of a Class 2A-1, Class 2M-1, Class 2M-2A, Class 2M-2B or Class 2M-2C Note will be required to report its _pro rata_ share of net income with respect to the notional principal contract.
@@ -6718,7 +6461,6 @@ If you own a Note and are a non-U.S. Person, each payment of interest (and any p
 <!-- page 245 -->
 
 - you meet the requirements for a reduced rate of withholding under a treaty; or
-
 - the interest is "effectively connected" to a business you conduct in the United States (or, if an income tax treaty applies, the interest is attributable to a permanent establishment that you maintain in the United States), in each case as further described below.
 
 In certain circumstances, you may be able to claim amounts that are withheld as a refund or as a credit against your U.S. federal income tax. If the 30% U.S. withholding tax on payments of interest (including OID, if any) does not apply, as described herein, such payments may nevertheless be subject to FATCA withholding tax, as defined below in " _—U.S. FATCA Withholding Tax_ ."
@@ -6794,9 +6536,7 @@ In addition to the U.S. federal tax consequences described above, prospective in
 If prospective investors' investment activities are subject to investment laws and regulations, regulatory capital requirements or review by regulatory authorities, prospective investors may be subject to restrictions on investment in the Notes. Prospective investors should consult legal, tax and accounting advisers for assistance in determining the suitability of and consequences of the purchase, ownership and sale of the Notes.
 
 - The Notes do not represent an interest in and will not be secured by the Reference Pool or any Reference Obligation.
-
 - The Notes will not constitute "mortgage related securities" for purposes of the Secondary Mortgage Market Enhancement Act of 1984, as amended (" **SMMEA** ").
-
 - The Notes may be regarded by governmental authorities or others, or under applicable law, as highrisk, risk-linked or otherwise complex securities.
 
 The Notes should not be purchased by prospective investors who are prohibited from acquiring securities having the foregoing characteristics. In addition, the Notes should not be purchased by prospective investors located in jurisdictions where their purchase of Notes could subject them to the risk of regulation as an insurance or reinsurance company or as otherwise being engaged in an insurance business.
@@ -6820,11 +6560,8 @@ Among other things, the EU Due Diligence Requirements restrict an EU Institution
 The application of:
 
 - the Securitisation Regulations 2024 (as amended, the " **SR 2024"** );
-
 - the Securitisation Sourcebook in the UK Financial Conduct Authority's handbook of rules and guidance (the " **FCA Rules** ");
-
 - the Securitisation Part of the UK Prudential Regulation Authority's rulebook of published policy (the " **PRA Rules** "); and
-
 - relevant provisions of the Financial Services and Markets Act 2000 (as amended, the " **FSMA** ") related to the foregoing;
 
 (in each case, as further amended, supplemented or replaced and, collectively, the " **UK Securitization Framework** "),
@@ -6854,7 +6591,6 @@ Fannie Mae does not intend to collateralize any of its credit exposure under the
 In order to assist EU Institutional Investors and UK Institutional Investors in evaluating a potential investment in the Notes, on the Closing Date, Fannie Mae will enter into a letter agreement (the " **EU/UK Risk Retention Letter** ") pursuant to which Fannie Mae will irrevocably undertake to the Indenture Trustee, for the benefit of each holder or prospective holder of a beneficial interest in any Notes that is an EU Institutional Investor or a UK Institutional Investor (an " **Affected Investor** ") that, with reference to the EU Securitization Rules and the UK Securitization Rules as in effect on the Closing Date, as at the origination, continually and on an ongoing basis, so long as any Notes remain outstanding:
 
 - it will, as originator (for purposes of the EU Securitization Rules and the UK Securitization Rules as in effect on the Closing Date), retain a material net economic interest (the " **Retained Interest** ") in the exposure related to the Transaction of not less than5% in the form specified in Article 6(3)(a) of the EU Securitization Regulation, Article 6(3)(a) of Chapter 2 of the PRA Rules, and SECN 5.2.8R(1)(a) of the FCA Rules (in each case as in effect on the Closing Date) (i.e., the retention of not less than 5% of the nominal value of each of the tranches sold or transferred to investors) by (pursuant to its Guaranty Obligations) holding not less than a 5% _pro rata_ share of the credit risk corresponding to each of (i) the Class 2A-H Reference Tranche, (ii) the Class 2A-1 and Class 2A-1H Reference Tranches (in the aggregate), (iii) the Class 2M-1 and Class 2M-1H Reference Tranches (in the aggregate), (iv) the Class 2M-2A and Class 2M-AH Reference Tranches (in the aggregate), (v) the Class 2M-2B and Class 2M-BH Reference Tranches (in the aggregate) and (vi) the Class 2M-2C and Class 2M-CH Reference Tranches (in the aggregate);
-
 - neither it nor its affiliates will hedge or otherwise mitigate its credit risk under or associated with the Retained Interest or the Reference Obligations or sell, transfer or otherwise surrender all or part of the rights, benefits or obligations arising from the Retained Interest, except to the extent permitted in accordance with both the EU Securitization Rules and the UK Securitization Rules; accordingly, and without prejudice to the generality of the foregoing, neither it nor its affiliates will, through the transaction described in this Offering Memorandum or any subsequent transactions, enter into agreements that transfer or hedge more than a 95% _pro rata_ share of the credit risk corresponding to any of (i) the Class 2A-H Reference Tranche, (ii) the Class 2A-1 and Class 2A-1H Reference Tranches (in the aggregate), (iii) the Class 2M-1 and Class 2M-1H Reference Tranches (in the aggregate), (iv) the Class 2M-2A and Class 2M-AH Reference
 
 <!-- page 252 -->
@@ -6862,11 +6598,8 @@ In order to assist EU Institutional Investors and UK Institutional Investors in 
 Tranches (in the aggregate), (v) the Class 2M-2B and Class 2M-BH Reference Tranches (in the aggregate) or (vi) the Class 2M-2C and Class 2M-CH Reference Tranches (in the aggregate) and will not enter into any such agreements with respect to any of the credit risk corresponding to the Class 2B-1H, Class 2B-2H or Class 2B-3H Reference Tranche;
 
 - it will, upon written request and further subject to any applicable duty of confidentiality or data protection restrictions, provide such information in its possession as may reasonably be required by the Indenture Trustee, for the benefit of each Affected Investor, for the purposes of the EU Due Diligence Requirements or UK Due Diligence Requirements applicable to such investor as of the Closing Date and at any time prior to maturity of the Notes (but none of Fannie Mae, the Issuer, the other transaction parties, nor any of their respective affiliates, will undertake or otherwise be required to take any action to make available any document or information prescribed by, or in the form specified in, Article 7 of the EU Securitization Regulation, Article 7 of Chapter 2, Chapter 5 or Chapter 6 of the PRA Rules or SECN 6, SECN 11 and SECN 12 of the FCA Rules);
-
 - it will not change the retention option or method of calculation of its net economic interest in the securitization constituted by the issuance of the Notes, except to the extent permitted under both the EU Securitization Rules and the UK Securitization Rules;
-
 - it will confirm to the Indenture Trustee for reporting to Holders of the Notes its continued compliance with the undertakings set out at the first, second and fourth bullet points above (which confirmation may be by email): (i) on a monthly basis; (ii) following its determination that there has been a material change in either (1) the structural features that can materially impact the performance of the Notes or (2) the risk characteristics of the Notes or of the Reference Obligations; and (iii) following knowledge of a breach of the obligations included in the Transaction Documents; and
-
 - it will promptly notify the Indenture Trustee in writing if for any reason: (i) it ceases to hold the Retained Interest in accordance with the first bullet point above; or (ii) it or any of its affiliates fails to comply with the covenants set out in the second and fourth bullet points above in anyway.
 
 The definition of an "originator" for the purposes of both the EU Securitization Rules and the UK Securitization Rules includes "an entity which: ... purchases a third party's exposures on its own account and then securitises them." In connection therewith, EU Institutional Investors and UK Institutional Investors may wish to review the information set forth above under " _Loan Acquisition Practices and Servicing Standards"_ in this Offering Memorandum.
@@ -7506,9 +7239,7 @@ S-2
 |||||||2M-2X|$111,570,000(2)|100.0000000000%|(9)|Baa1(sf) /BBB-(sf)|
 
 - (1) Exchange proportions are constant proportions of the original Class Principal Balances or Class Notional Amounts, as applicable, of the Class or Classes of Exchangeable or RCR Notes being exchanged. For any combinations that include both a Class of Notes with a Class Notional Amount and a Class of Notes with a Class Principal Balance, the exchange proportion shown relates to the aggregate original Class Principal Balance of the Class or Classes of Exchangeable or RCR Notes being received in such exchange. In accordance with the exchange proportions, Holders of Exchangeable Notes may exchange those Notes for RCR Notes, and vice versa. In addition, Holders of certain Classes of RCR Notes may exchange those Notes for other Classes of RCR Notes, and vice versa.
-
 - (2) This Class is an interest only class with a Class Notional Amount as of any Payment Date equal to a specified percentage of the outstanding Class Principal Balance of the related Class of Exchangeable or RCR Note or Notes.
-
 - (3) The interest payment on each of these Classes of Interest Only RCR Notes for a Payment Date represents a portion of the interest payment on the Class of Exchangeable Notes included in the related Combination for that Payment Date. For any Payment Date for which 30-day Average SOFR is determined to be less than the applicable value set forth below (the "Negative SOFR Trigger"), the interest payment on the specified Class of Interest Only RCR Notes will be calculated as the lesser of (x) the amount calculated based on the Class Coupon set forth above for that Class and (y) the _excess of_ (i) the interest amount payable on the related Class of Exchangeable Notes for that Payment Date over (ii) the interest amount payable on the Class of floating rate RCR Notes included in the same Combination for that Payment Date.
 
 |**Class of** **Interest Only RCR Notes**|**Negative** **SOFR Trigger**|
@@ -7544,13 +7275,9 @@ S-3
 |Class 2-Y4 Notes |-1.90%|
 
 - (5) This Class has a Class Principal Balance as of any Payment Date equal to a specified percentage of the outstanding Class Principal Balance of the related Class of Exchangeable or RCR Notes that has a Class Principal Balance; _provided_ , _however_ , _that_ , if the Class Principal Balance of the related Class of Exchangeable or RCR Notes that has a Class Principal Balance has been reduced to zero and the Class Notional Amount of the related Class of Exchangeable or RCR Notes with a Class Notional Amount is greater than zero, then this Class will no longer have a Class Principal Balance.
-
 - (6) The interest payment on each of these Classes of RCR Notes for a Payment Date represents the sum of the interest payments on the Classes of Exchangeable and RCR Notes included in the related Combination for that Payment Date. The Class Coupon for each of these Classes of RCR Notes with respect to any Payment Date will be a fraction, expressed as a per annum rate, equal to (i) the aggregate interest amount payable on such Payment Date in respect of the Classes of Notes included in the applicable Combination and exchanged for such Class of RCR Notes, divided by (ii) the Class Principal Balance of such Class of RCR Notes immediately prior to such Payment Date, multiplied by (iii) a fraction, the numerator of which is 360 and the denominator of which is the actual number of days in the related Note Accrual Period; _provided that_ on any Payment Date following the reduction of the Class Principal Balance of such Class of RCR Notes to zero, the interest entitlement of such Class of RCR Notes will be equal to the interest accrued on the remaining Class of Interest Only RCR Notes included in the applicable Combination that was exchanged for such Class of RCR Notes.
-
 - (7) This Class has an outstanding Class Principal Balance as of any Payment Date equal to the outstanding Class Principal Balance of the related Class of Exchangeable Notes or RCR Notes.
-
 - (8) The interest payment on this Class of RCR Notes for a Payment Date represents the portion of such interest that is received in respect of the REMIC regular interest component of the related Class of Exchangeable Notes or RCR Notes.
-
 - (9) The interest payment on this Class of Interest Only RCR Notes for a Payment Date represents the portion of such interest attributable to a notional principal contract and does not constitute interest in respect of the REMIC regular interest component of the related Class of Exchangeable Notes or RCR Notes.
 
 #### **Exchanges**
@@ -7558,9 +7285,7 @@ S-3
 Any exchange of Classes within a Combination is permitted, subject to the following constraints:
 
 - The Classes must be exchanged in the applicable "exchange proportions" shown above. As described below, these are based on the original Class Principal Balances (or original Class Notional Amounts, if applicable) of the Exchangeable or RCR Notes, as applicable.
-
 - The aggregate Class Principal Balance (rounded to whole dollars) of the Notes received in the exchange, immediately after the exchange, must equal that of the Notes surrendered for exchange immediately before the exchange (for this purpose, the Class Notional Amount of any Interest Only RCR Note always equals $0).
-
 - The aggregate "Annual Interest Amount" (rounded to whole dollars) of the Notes received in the exchange must equal that of the Notes surrendered for exchange. The " **Annual Interest Amount** " for any Note equals its outstanding Class Principal Balance or Class Notional Amount multiplied by its Class Coupon. The Annual Interest Amount for the Classes received and the Classes surrendered must be equal at all levels of SOFR.
 
 The "exchange proportions" are based on the original, rather than on the outstanding, Class Principal Balance or Class Notional Amount of the Classes.
@@ -8410,7 +8135,6 @@ _(a)_ _Benchmark Replacement_ . If Fannie Mae determines that a Benchmark Transi
 **_"30-day Average SOFR"_** with respect to any U.S. Government Securities Business Day, means:
 
 - (1) the 30-day compounded average of SOFR as published on such U.S. Government Securities Business Day at the Reference Time; or
-
 - (2) if the rate specified in (1) above does not so appear, the applicable compounded average of SOFR as published in respect of the first preceding U.S. Government Securities Business Day for which such rate appeared on the FRBNY's Website.
 
 **_"Benchmark"_** means, initially, 30-day Average SOFR; _provided that_ , if a Benchmark Transition Event and its related Benchmark Replacement Date have occurred with respect to the then-current Benchmark, then "Benchmark" means the applicable Benchmark Replacement selected by Fannie Mae.
@@ -8418,9 +8142,7 @@ _(a)_ _Benchmark Replacement_ . If Fannie Mae determines that a Benchmark Transi
 **_"Benchmark Replacement"_** means the first alternative (other than the current Benchmark) set forth in the order below that can be determined by Fannie Mae as of the Benchmark Replacement Date:
 
 - (1) the sum of: (a) the alternate rate of interest that has been selected or recommended by the Relevant Governmental Body as the replacement for the then-current Benchmark and (b) the Benchmark Replacement Adjustment;
-
 - (2) the sum of: (a) the ISDA Fallback Rate and (b) the Benchmark Replacement Adjustment;
-
 - (3) the sum of: (a) the alternate rate of interest that has been selected by Fannie Mae as the replacement for the then-current Benchmark giving due consideration to any industry-accepted rate of interest as a replacement for the then-current Benchmark for U.S. dollar denominated floating rate securities at such time and (b) the Benchmark Replacement Adjustment.
 
 **_"Benchmark Replacement Adjustment"_** means the first alternative set forth in the order below that can be determined by Fannie Mae as of the Benchmark Replacement Date:
@@ -8430,9 +8152,7 @@ E-1
 <!-- page 294 -->
 
 - (1) the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected, endorsed or recommended by the Relevant Governmental Body for the applicable Unadjusted Benchmark Replacement;
-
 - (2) if the applicable Unadjusted Benchmark Replacement is equivalent to the ISDA Fallback Rate, then the ISDA Fallback Adjustment;
-
 - (3) the spread adjustment (which may be a positive or negative value or zero) that has been selected by Fannie Mae giving due consideration to any industry-accepted spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of the then-current Benchmark with the applicable Unadjusted Benchmark Replacement for the floating rate Notes at such time.
 
 _"_ **_Benchmark Replacement Conforming Changes"_** means, with respect to any Benchmark Replacement, any technical, administrative or operational changes (including changes to the Note Accrual Period, timing and frequency of determining rates and making payments of interest and other administrative matters) that Fannie Mae decides may be appropriate to reflect the adoption of such Benchmark Replacement in a manner substantially consistent with market practice; _provided that_ such changes will be operationally feasible for the Indenture Trustee, and will not affect the rights or obligations of the Indenture Trustee without its consent.
@@ -8440,7 +8160,6 @@ _"_ **_Benchmark Replacement Conforming Changes"_** means, with respect to any B
 **_"Benchmark Replacement Date"_** means the earlier to occur of the following events with respect to the then-current Benchmark:
 
 - (1) in the case of clause (1) or (2) of the definition of "Benchmark Transition Event," the later of (a) the date of the public statement or publication of information referenced therein and (b) the date on which the administrator of the Benchmark permanently or indefinitely ceases to provide the Benchmark; and
-
 - (2) in the case of clause (3) of the definition of "Benchmark Transition Event," the date of the public statement or publication of information referenced therein;
 
 _provided_ , _however_ , _that_ on or after the 60th day preceding the date on which such Benchmark Replacement Date would otherwise occur (if applicable), Fannie Mae may give written notice to the related Noteholders in which Fannie Mae designates an earlier date (but not earlier than the 30th day following such notice) and represents that such earlier date will facilitate an orderly transition to the Benchmark Replacement, in which case such earlier date will be the Benchmark Replacement Date.
@@ -8450,7 +8169,6 @@ For the avoidance of doubt, if the event giving rise to the Benchmark Replacemen
 **_"Benchmark Transition Event"_** means the occurrence of one or more of the following events with respect to the then-current Benchmark:
 
 - (1) a public statement or publication of information by or on behalf of the administrator of the Benchmark announcing that such administrator has ceased or will cease to provide the Benchmark, permanently or indefinitely; _provided that_ , at the time of such statement or publication, there is no successor administrator that will continue to provide the Benchmark;
-
 - (2) a public statement or publication of information by the regulatory supervisor for the administrator of the Benchmark, the central bank for the currency of the Benchmark, an insolvency official with jurisdiction over the administrator for the Benchmark, a resolution authority with jurisdiction over the administrator for the Benchmark or a court or an entity with similar insolvency or resolution authority over the administrator for the Benchmark, which states that the administrator of the Benchmark has ceased or will cease to provide the Benchmark permanently or indefinitely; _provided that_ , at the time of such statement or publication, there is no successor administrator that will continue to provide the Benchmark; or
 
 E-2

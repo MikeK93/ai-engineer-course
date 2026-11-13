@@ -9,7 +9,7 @@ ocr_pages:
 - 4
 - 10
 - 16
-content_hash: c3c84215745bbdd9f994c715ffedbf532f8f86878751520c3eebcbf26cc4be45
+content_hash: 9b207b98d336e37efd213e442a4efd19d30279caac6d9189f3d5c6dca572dc47
 ---
 
 <!-- page 1 -->
@@ -73,7 +73,6 @@ Marketing & Valuation Proposal | 5
 **708-712 New Depot Street, Los Angeles, CA 90012**
 
 - **Price: $6,450,000**
-
 - • Currently Under Construction • Progress: Two Levels of Framing Work • Plans in Place to Build 33 Apartment Units • Unit Mix: (21) 1 bed/1 bath and (12) 2 bed/2 bath • Three Units to be Dedicated to Very Low Income • 6-Story Building • Parking: 36 Spaces, Two Level Type I-A Subterranean • LAR4 Zoning • TOC Tier 3 • Lot: 9,506 Square Feet • Gross Floor Area: 27,757 Square Feet • Net Residential Area: 23,090 Square Feet • APN: 5407-007-047
 
 **Opportunity to purchase the adjacent completed apartment building at 849 North Bunker Hill Avenue, Los Angeles, CA 90012**

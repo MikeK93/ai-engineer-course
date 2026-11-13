@@ -98,18 +98,21 @@ def write_json(path: Path, data: dict) -> None:
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
 
 
-def archive_manifest_if_changed(current: Path, new: dict, archive_dir: Path) -> Path | None:
-    """Move the existing manifest to `archive_dir/manifest-<extract_version>-<hash>.json` if `new` differs.
+def archive_manifest_if_changed(
+    current: Path, new: dict, archive_dir: Path, *, version_key: str = "extract_version", prefix: str = "manifest",
+) -> Path | None:
+    """Move the existing file to `archive_dir/<prefix>-<version>-<hash>.json` if `new` differs.
 
-    The old file is moved, not rewritten. An identical re-run archives nothing.
+    The old file is moved, not rewritten. An identical re-run archives nothing. `version` is read from
+    the old file (`extract_version` for ingest, `pipeline_version` for the chunk manifest).
     """
     if not current.is_file():
         return None
     old_text = current.read_bytes()
     if json.loads(old_text) == json.loads(json.dumps(new)):
         return None
-    version = json.loads(old_text).get("extract_version", "unknown")
-    target = archive_dir / f"manifest-{version}-{hashlib.sha256(old_text).hexdigest()[:8]}.json"
+    version = json.loads(old_text).get(version_key, "unknown")
+    target = archive_dir / f"{prefix}-{version}-{hashlib.sha256(old_text).hexdigest()[:8]}.json"
     archive_dir.mkdir(parents=True, exist_ok=True)
     current.replace(target)
     return target

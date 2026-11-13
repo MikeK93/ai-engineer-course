@@ -9,6 +9,7 @@ import unicodedata
 from collections import Counter
 from dataclasses import replace
 
+from .config import GARBLED_SHARE
 from .models import OK, Page
 
 _COMMENT = re.compile(r"<!--.*?-->", re.S)
@@ -22,6 +23,10 @@ _BARE_NUMBER = re.compile(r"^\|?\s*(?:page\s+)?\d{1,4}\s*\|?$", re.I)
 _HYPHEN_BREAK = re.compile(r"(?<=[a-z])-\n(?=[a-z])")
 _EXTRA_SPACE = re.compile(r"(?<=\S)[ \t]{2,}")
 _DIGITS = re.compile(r"\d+")
+_LIST_ITEM = re.compile(r"^\s*(?:[-*\u2022]|\d+[.)])\s+\S")
+_EMPTY_BULLET = re.compile(r"^\s*[-*\u2022]\s*$")     # a bullet marker with no text after it
+_BAD_CATEGORIES = {"Cf", "Co", "Cs", "Cn"}     # format, private use (symbol fonts), surrogates, unassigned
+_BAD_CHARS = {"\ufffd"}                        # replacement character: the extractor could not decode a byte
 
 REPEAT_SHARE = 0.4        # a line on >= 40% of pages is a running header or footer
 MIN_PAGES_FOR_REPEATS = 5
@@ -43,7 +48,8 @@ def normalize_pages(pages: list[Page]) -> list[Page]:
 
 def _clean_text(text: str) -> str:
     text = unicodedata.normalize("NFKC", text)
-    text = "".join(c for c in text if unicodedata.category(c) != "Cf" and (c in "\n\t" or c >= " "))
+    text = "".join(c for c in text if c not in _BAD_CHARS and unicodedata.category(c) not in _BAD_CATEGORIES
+                   and (c in "\n\t" or c >= " "))
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = _COMMENT.sub("", text)
     text = _BR.sub(" ", text)
@@ -51,9 +57,30 @@ def _clean_text(text: str) -> str:
     text = _LEADERS.sub(" ", text)               # each dot is a token for the embedding model: pure noise
     lines = [_EXTRA_SPACE.sub(" ", line).rstrip() for line in text.split("\n")]
     lines = [_SEPARATOR_DASHES.sub("---", line) if _TABLE_SEPARATOR.match(line) else line for line in lines]
-    text = "\n".join(lines)
+    text = _tighten_lists("\n".join(lines))
     text = _HYPHEN_BREAK.sub("", text)
     return text.strip()
+
+
+def is_garbled(text: str) -> bool:
+    """True when a text layer is mostly private-use glyphs: a symbol font the extractor could not decode.
+    Such a page has no readable text and must be OCR'd; its glyphs are removed by normalization."""
+    chars = [c for c in text if not c.isspace()]
+    bad = sum(unicodedata.category(c) == "Co" or c == "\ufffd" for c in chars)
+    return len(chars) >= 20 and bad / len(chars) >= GARBLED_SHARE
+
+
+def _tighten_lists(text: str) -> str:
+    """No blank lines between the points of a bullet or numbered list."""
+    lines = [line for line in text.split("\n") if not _EMPTY_BULLET.match(line)]
+    out: list[str] = []
+    for i, line in enumerate(lines):
+        if not line.strip() and out and _LIST_ITEM.match(out[-1]):
+            following = next((x for x in lines[i + 1:] if x.strip()), "")
+            if _LIST_ITEM.match(following):
+                continue
+        out.append(line)
+    return "\n".join(out)
 
 
 def _edge_lines(lines: list[str]) -> list[int]:

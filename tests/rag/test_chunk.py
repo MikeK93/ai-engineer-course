@@ -1,9 +1,9 @@
-"""Chunking tests. A word counter stands in for the embedding tokenizer, so nothing is downloaded."""
+﻿"""Chunking tests. A word counter stands in for the embedding tokenizer, so nothing is downloaded."""
 
 import json
 import re
 
-from src.rag.chunk import chunk_corpus, chunk_document
+from src.rag.chunk import chunk_corpus, chunk_document, chunk_document_with_report
 from measurements.chunking.fixed import fixed_chunks
 from src.rag.config import ChunkPaths
 from src.rag.store import write_markdown
@@ -40,7 +40,7 @@ def test_boilerplate_section_does_not_swallow_the_following_section():
 
 def test_title_like_line_stays_with_the_paragraph_after_it():
     body = f"# H\n\n{sentence(30, 'a')}\n\nINVESTMENT OVERVIEW\n\n{sentence(30, 'b')}\n"
-    chunks = chunk_document(front(), body, words, target=40, cap=100, min_tokens=10)
+    chunks = chunk_document(front(), body, words, target=40, cap=100, min_tokens=10, tiny=5)
     assert len(chunks) == 2
     assert chunks[1].text.startswith("INVESTMENT OVERVIEW") and "INVESTMENT" not in chunks[0].text
 
@@ -62,8 +62,8 @@ short note here
 
 {sentence(120, 'l')}
 """
-    chunks = chunk_document(front(), body, words, target=200, cap=300, min_tokens=40)
-    # Sibling sections never merge, even when one is tiny: the label always says where the text came from.
+    chunks = chunk_document(front(), body, words, target=200, cap=300, min_tokens=40, tiny=2)
+    # Sibling sections stay separate unless a chunk is tiny (see the squash tests below).
     assert [c.section for c in chunks] == ["Offering > Pricing", "Offering > Terms", "Offering > Location"]
     assert chunks[1].text == "short note here"
     assert all(c.section_source == "heading" for c in chunks)
@@ -115,7 +115,7 @@ def test_boilerplate_by_heading_and_by_legal_phrase():
     body = (f"# Confidentiality and Disclaimer\n\n{sentence(40, 'x')}\n\n# Details\n\n"
             "This information supplied herein is from sources we deem reliable. It is provided without warranty.\n\n"
             f"# Facts\n\n{sentence(200, 'f')}\n")
-    chunks = chunk_document(front(), body, words, target=60, cap=100, min_tokens=10)
+    chunks = chunk_document(front(), body, words, target=60, cap=100, min_tokens=10, tiny=5)
     kinds = {c.section: c.kind for c in chunks}
     assert kinds["Confidentiality and Disclaimer"] == "boilerplate"
     assert kinds["Details"] == "boilerplate"
@@ -148,6 +148,23 @@ def test_chunk_corpus_writes_jsonl_and_summary(tmp_path):
     assert json.loads(paths.summary.read_text())["docs"]["pdfs__x"]["chunks"] == 1
 
 
+def test_previous_chunks_manifest_is_moved_with_a_version_suffix(tmp_path):
+    md = tmp_path / "md"
+    write_markdown(md / "pdfs__x.md", front(), [Page(number=1, text=f"# Heading\n\n{sentence(60, 'w')}")])
+    summary = tmp_path / "chunks_manifest.json"
+    summary.write_text('{"n_chunks": 0, "pipeline_version": "rag-v1"}\n', encoding="utf-8")
+    previous = summary.read_text()
+    archive = tmp_path / "manifests"
+    paths = ChunkPaths(md=md, manifest=tmp_path / "none.json", chunks=tmp_path / "chunks.jsonl",
+                       summary=summary, summary_dir=archive)
+    chunk_corpus(paths=paths, count=words, log=lambda _: None)
+    [archived] = archive.glob("chunks-manifest-*.json")
+    assert archived.read_text() == previous and archived.name.startswith("chunks-manifest-rag-v1-")
+    assert json.loads(summary.read_text())["n_chunks"] == 1
+    chunk_corpus(paths=paths, count=words, log=lambda _: None)          # identical run archives nothing more
+    assert len(list(archive.glob("chunks-manifest-*.json"))) == 1
+
+
 def test_compare_targets_come_from_config(tmp_path):
     from measurements.chunking.compare import load_targets
 
@@ -164,3 +181,92 @@ def test_fixed_windows_cut_through_table_rows_and_overlap():
     cut = sum(1 for c in chunks for line in c.text.split("\n") if line.startswith("|") != line.endswith("|"))
     assert cut > 0                                                        # the baseline's weakness
     assert chunks[1].text.split()[0] in chunks[0].text.split()           # windows overlap
+
+
+# --- cleanup rules ---------------------------------------------------------------
+
+def test_numeric_headings_stay_in_the_text():
+    body = ("<!-- page 1 -->\n\n## ASKING PRICE: $1,189,900\n\n## PROPERTY HIGHLIGHTS:\n\n"
+            f"- {sentence(20, 'a')}\n- {sentence(20, 'b')}\n\n### $10,000,000\n\n### DE\n\nASKING PRICE\n")
+    chunks = chunk_document(front(), body, words, tiny=5)
+    text = "\n".join(c.text for c in chunks)
+    assert "ASKING PRICE: $1,189,900" in text and "$10,000,000" in text
+
+
+def test_label_headings_with_numbers_stay_labels():
+    body = f"# ITEM 2 BUSINESS\n\n## 2.1 Structure\n\n{sentence(40, 'a')}\n"
+    [chunk] = chunk_document(front(), body, words, tiny=5)
+    assert chunk.section == "ITEM 2 BUSINESS > 2.1 Structure" and "ITEM 2" not in chunk.text
+
+
+def test_table_stub_with_only_separators_counts_as_tiny_and_is_squashed():
+    stub = "|**2020**|**2021**|\n|---|---|---|---|---|---|---|---|---|---|---|---|"
+    body = f"# Fees\n\n{sentence(60, 'a')}\n\n# Years\n\n{stub}\n\n# Next\n\n{sentence(60, 'b')}\n"
+    chunks = chunk_document(front(), body, words, min_tokens=5, tiny=10)
+    assert [c.section for c in chunks] == ["Fees", "Next"] and "2020" in chunks[0].text
+
+
+def test_dollar_heading_with_text_is_repeated_in_the_text():
+    body = f"## Asking price $2,500,000\n\nA {sentence(30, 'a')}\n"
+    [chunk] = chunk_document(front(), body, words, tiny=5)
+    assert chunk.section == "Asking price $2,500,000" and chunk.text.startswith("Asking price $2,500,000\n")
+
+
+def test_sentence_cut_by_a_page_break_is_rejoined():
+    body = (f"<!-- page 1 -->\n\n# Terms\n\nThe fund will pay a fee equal to\n\n<!-- page 2 -->\n\n"
+            f"two percent of net assets. {sentence(20, 'z')}\n")
+    [chunk] = chunk_document(front(pages="1-2"), body, words, tiny=5)
+    assert "equal to two percent of net assets." in chunk.text
+
+
+def test_pagination_only_chunks_are_dropped():
+    body = (f"# Overview\n\n{sentence(60, 'a')}\n\n# Rent roll\n\nOffering Memorandum | **22**\n\n"
+            f"# Terms\n\n{sentence(60, 'b')}\n\n# Next\n\nPage 7 of 15\n")
+    chunks, report = chunk_document_with_report(front(), body, words, min_tokens=5, tiny=5)
+    assert [c.section for c in chunks] == ["Overview", "Terms"]
+    assert report["dropped_pagination"] == 2
+
+
+def test_two_word_chunks_are_dropped_unless_they_hold_a_number():
+    body = f"# A\n\n{sentence(60, 'a')}\n\n# Notes\n\nNot applicable.\n\n# B\n\n{sentence(60, 'b')}\n\n# Unit\n\nSuite 400\n"
+    chunks, report = chunk_document_with_report(front(), body, words, min_tokens=5, tiny=1)
+    assert [c.section for c in chunks] == ["A", "B", "Unit"]
+    assert report["dropped_short"] == 1
+
+
+def test_tiny_chunk_is_squashed_into_the_previous_one_and_keeps_its_heading():
+    body = f"# Pricing\n\n{sentence(80, 'p')}\n\n# Terms\n\nclosing in thirty days subject to terms\n\n# Location\n\n{sentence(80, 'l')}\n"
+    chunks, report = chunk_document_with_report(front(), body, words, target=200, cap=300, min_tokens=5, tiny=10)
+    assert [c.section for c in chunks] == ["Pricing", "Location"]
+    assert chunks[0].text.endswith("Terms\nclosing in thirty days subject to terms")
+    assert report["squashed"] == 1 and [c.chunk_id for c in chunks] == ["pdfs__x#0", "pdfs__x#1"]
+
+
+def test_tiny_chunk_goes_to_the_next_one_when_the_previous_is_full():
+    body = f"# Full\n\n{sentence(90, 'f')}\n\n# Small\n\nonly a few words in here ok\n\n# Next\n\n{sentence(40, 'n')}\n"
+    chunks = chunk_document(front(), body, words, target=100, cap=100, min_tokens=5, tiny=10)
+    assert [c.section for c in chunks] == ["Full", "Next"]
+    assert chunks[1].text.startswith("Small\nonly a few words")
+
+
+def test_exact_duplicates_inside_a_document_are_dropped():
+    note = sentence(60, "n")
+    body = f"# A\n\n{note}\n\n# B\n\n{sentence(60, 'b')}\n\n# C\n\n{note}\n"
+    chunks, report = chunk_document_with_report(front(), body, words, min_tokens=5, tiny=5)
+    assert [c.section for c in chunks] == ["A", "B"] and report["dropped_duplicate"] == 1
+
+
+def test_comparables_are_marked_skip_candidates():
+    body = (f"# Sale Comparables\n\n{sentence(60, 'a')}\n\n# Rent Comparables\n\n{sentence(60, 'b')}\n\n"
+            f"# Comparative figures\n\n{sentence(60, 'c')}\n\n# Property Overview\n\n{sentence(60, 'd')}\n")
+    chunks = chunk_document(front(), body, words, min_tokens=5, tiny=5)
+    assert [(c.skip_candidate, c.skip_reason) for c in chunks] == [
+        (True, "sale comparables"), (True, "rent comparables"), (False, None), (False, None)]
+
+
+def test_a_sentence_that_fits_the_model_is_not_cut_and_quotes_end_sentences():
+    long_sentence = "Long " + " ".join(f"w{i}" for i in range(110)) + "."
+    paragraph = f'He said \u201cstop.\u201d {long_sentence} Then {sentence(30, "z")}'
+    chunks = chunk_document(front(), f"# Big\n\n{paragraph}\n", words, target=60, cap=100, min_tokens=5, tiny=5)
+    assert any(c.text.startswith(long_sentence) or long_sentence in c.text for c in chunks)
+    assert all(c.text.rstrip().endswith((".", "\u201d")) for c in chunks)

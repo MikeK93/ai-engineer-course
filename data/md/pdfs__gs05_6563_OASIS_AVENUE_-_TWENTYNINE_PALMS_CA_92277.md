@@ -15,7 +15,7 @@ ocr_pages:
 - 17
 - 18
 - 22
-content_hash: 9aed0ff0ec908aed31b639e17133f112e58d2590180ad25d237fd72525b9b047
+content_hash: 6b7d35f4f1e5f6ec31e9a19ee02c6efd5447db506e292b0df7b9fe170ab68c03
 ---
 
 <!-- page 1 -->
@@ -286,11 +286,8 @@ SKY’S THE LIMIT OBSERVATORY
 **− Musuem & Information Center in Freedom Plaza − Community & Cultural Events**
 
 - Taqueria 29
-
 - Cactus Trail Cafe
-
 - Campbell Hill Bakery
-
 - MARA
 
 ###### **Nightlife**
@@ -298,7 +295,6 @@ SKY’S THE LIMIT OBSERVATORY
 Kitchen in the Desert
 
 - The Virginian
-
 - Out There Bar
 
 BOWLADIUM BOWLING ALLEY
@@ -306,7 +302,6 @@ BOWLADIUM BOWLING ALLEY
 20
 
 - **In-House Taqueria**
-
 - **Lively Bar, the Back Alley − Sports Viewing**
 
 ###### **Boutique Retail Shops**
@@ -314,9 +309,7 @@ BOWLADIUM BOWLING ALLEY
 − Mojave Moon Apothecary
 
 - Hi-Desert Daydream
-
 - White Label Vinyl
-
 - Corner 62 Plaza
 
 <!-- page 21 -->

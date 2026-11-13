@@ -37,7 +37,7 @@ RAG_PROMPTS = PROMPTS / "rag"         # prompts/rag/v1/system.txt, judge-v1/...
 EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
 
 # --- pipeline constants -----------------------------------------------------
-PIPELINE_VERSION = "rag-v1"           # bump when ingest or chunk behavior changes
+PIPELINE_VERSION = "rag-v2"           # bump when ingest or chunk behavior changes
 EXTRACT_VERSION = "extract-v2"        # bump when an extractor changes: invalidates the extraction cache
 EXTRACT_CACHE = CACHE_DIR / "ingest"  # extracted pages, keyed by file hash + EXTRACT_VERSION
 
@@ -49,6 +49,13 @@ SHINGLE_WORDS = 5
 CHUNK_TOKENS = 400                    # target size, counted with the embedding model's tokenizer
 CHUNK_MAX_TOKENS = 480                # hard cap including the section path (embedding model reads 512)
 CHUNK_MIN_TOKENS = 80                 # a new heading only starts a new chunk once the current one has this many
+CHUNK_TINY_TOKENS = 50                # a chunk with fewer text tokens is squashed into a neighbour
+CHUNK_MODEL_MAX_TOKENS = 512          # what the embedding model can read: a single sentence may use the room above the cap
+MIN_WORDS_PER_CHUNK = 3               # a chunk of one or two words (and no digit) looks like a title and is dropped
+# Chunks whose own heading (or first line) matches this are tagged `skip_candidate`: sale / rent comparables
+# describe other properties and would answer questions about the wrong one.
+COMPARABLES_PATTERN = r"\bcomparables?\b|\bcomps\b"
+GARBLED_SHARE = 0.3                   # a page where this share of characters is private-use glyphs is unreadable (symbol font)
 # A chunk is tagged `boilerplate` (kept, but excluded from search) when its section path contains one of
 # these words, or its text starts with one of these legal phrases.
 BOILERPLATE_HEADINGS = ("disclaimer", "confidentiality", "table of contents", "non-endorsement")
@@ -84,7 +91,8 @@ class ChunkPaths:
     md: Path = MD_DIR
     manifest: Path = MANIFEST            # read for dataset_version
     chunks: Path = CHUNKS
-    summary: Path = DATA / "chunks_manifest.json"
+    summary: Path = DATA / "chunks_manifest.json"   # always the latest run
+    summary_dir: Path = MANIFEST_DIR                # previous run, moved: chunks-manifest-<pipeline_version>-<hash>.json
 
 
 # --- models (override in .env) ----------------------------------------------

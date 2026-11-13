@@ -5,7 +5,7 @@ source: pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf
 doc_type: fund_om
 as_of: '2024-04-25'
 pages: 1-163
-content_hash: 9dc7c80b769a3def8dcea5421d2953dfaab3dcae0492a86afe5ae9bc41c83f06
+content_hash: 5eb3b1471825f9812e5f96fd7d30394cde70aff4d471a2f002697401f28e856f
 ---
 
 <!-- page 1 -->
@@ -294,9 +294,7 @@ This Offering Memorandum includes market and industry data that were obtained fr
 “ **Accretion Distribution** ” has the meaning set out in _“Material Contracts – The Commercial LP Agreement, Financial LP Agreement and Development LP Agreement – The Development LP Agreement”_ .
 
 - “ **Additional Committee** ” means any additional committee of the Trustees, other than the Finance Committee, which may be established pursuant to the Declaration of Trust.
-
 - “ **Affiliate** ” means a Person considered to be an affiliated entity of another Person within the meaning of NI 45-106.
-
 - “ **Applicable Laws** ” means in respect of any Person, property, transaction or event, all present and future laws, statutes, regulations, treaties, judgments and decrees applicable to that Person, property, transaction or event and, whether or not having the force of law, all applicable requirements, requests, official directives, rules, consents, approvals, authorizations, guidelines, orders and policies of any Governmental Authority having or purporting to have authority over that Person, property, transaction or event.
 
 “ **Asset Management Agreement** ” means an agreement between the Trust, the Partnership and Equiton Partners pursuant to which Equiton Partners provides certain asset management services to the Trust and the Partnership.
@@ -350,9 +348,7 @@ This Offering Memorandum includes market and industry data that were obtained fr
 “ **Development General Partner** ” means Equiton Real Estate Development Fund GP Inc., a corporation incorporated under the laws of the Province of Ontario to be the general partner of the Development Partnership or any successor general partner of the Development Partnership.
 
 - “ **Development LP Agreement** ” means the limited partnership agreement entered into between the Development General Partner and any Person who is from time to time admitted to the Development Partnership as a limited partner of the Development Partnership in accordance with the provisions of the Development LP Agreement, as it may be amended, supplemented or restated from time to time.
-
 - “ **Development Partnership** ” means Equiton Real Estate Development Fund LP, a limited partnership governed by the laws of the Province of Ontario.
-
 - “ **Distribution Date** ” means, in respect of each Distribution Period, a Business Day on or about the 15th day following such Distribution Period.
 
 <!-- page 14 -->
@@ -390,11 +386,8 @@ This Offering Memorandum includes market and industry data that were obtained fr
 “ **Governmental Authority** ” means any:
 
 - (a) multinational, federal, provincial, state, regional, municipal, local, or foreign government, governmental or public department, central bank, court, tribunal, arbitral body, arbitrator, commission, board, bureau, agency or instrumentality, domestic or foreign;
-
 - (b) subdivision, agent, commission, board or authority of any of the foregoing;
-
 - (c) quasi-governmental or private body exercising any regulatory, expropriation or taxing authority under or for the account of its members or any of the above; or
-
 - (d) arbitrator exercising jurisdiction over the affairs of the applicable Person, asset, obligation or other matter.
 
 “ **Gross Book Value** ” means, at any time, the fair value of the Trust Property, as shown on its most recent balance sheet which is in accordance with IFRS.
@@ -468,7 +461,6 @@ This Offering Memorandum includes market and industry data that were obtained fr
 “ **Redemption Notes** ” means Notes issued by the Trust to redeeming Trust Unitholders in principal amounts equal to all or a portion of the Market Value of the Trust Units to be redeemed, and having the following terms and conditions;
 
 - (a) unsecured and shall bear annual interest at a market rate of interest as determined by the Trustees at the time of issuance, having regard for debt obligations of a comparable term issued by comparable issuers; and
-
 - (b) a term to maturity of five (5) years, provided that the Trustees shall have the discretion to issue Redemption Notes having a term to maturity other than five (5) years;
 
 all as more particularly described in _“Declaration of Trust – Redemption of Trust Units”_ .
@@ -683,13 +675,9 @@ The following table discloses the net proceeds of the Offering:
 Notes:
 
 - (1) There is no minimum or maximum offering. The Trust will offer an unlimited number of Trust Units on a continuous basis. The minimum subscription amount per subscription is $10,000 or such lower amount as the Trust may determine from time to time and set forth in the subscription agreement entered into between the Subscriber and the Trust.
-
 - (2) Trust Units are sold through the Equiton Agent and sub-agents or other Selling Agents (the “ **securities dealers** ”). It is expected that the Trust will pay compensation to the Equiton Agents and/or other securities dealers, up to a maximum of 8% of the subscription proceeds. The Trust may also pay trailing commissions to the Equiton Agent and/or other securities dealers in respect of Trust Units sold by them or held in the client accounts of such securities dealers. The trailing commission varies based on the Class A Purchase Option through which the Trust Units are purchased. In addition, the Trust will pay: wholesale costs to the Equiton Agent of 1.25% of the gross proceeds of the Offering; a dealer fee of 1.5% of the gross proceeds of the Offering to the selling agent dealer based on sales made by that dealer, and a lead agent fee up to 1.0% of the gross proceeds of the Offering to the Equiton Agent and any lead agent appointed by the Equiton Agent. To the extent that the Trust is responsible for the payment of compensation to the Equiton Agent and/or other securities dealers, the funds available to the Trust will be reduced. See “ _Compensation Paid to Sellers and Finders”_ and “ _Purchase Option_ ” _._ The Trust is considered a “connected” or “related” issuer to the Equiton Agent. See “ _Relationship between the Trust and the Equiton Agent_ ”.
-
 - (3) The estimated costs include legal, consulting, accounting and printing costs associated with this Offering and are estimated at approximately $150,000.
-
 - (4) If additional funding is required by the Partnership, the Partnership may arrange for access to the Equiton Loans and issuance of Redeemable LP Units. See “ _Additional Financing_ ”. Equiton Partners is a Related Party of the Trust. See “ _Relationship between the Trust, the Equiton Agent and other Related Parties_ ”.
-
 - (5) The Partnership will have a working capital deficiency relating to start-up expenses which will be expensed over future financings or funds from operations.
 
 <!-- page 28 -->
@@ -707,7 +695,6 @@ The following table provides a breakdown of how the Trust will use the available
 Notes:
 
 - (1) There is no minimum or maximum offering. The Trust is offering an unlimited number of Trust Units on a continuous basis.
-
 - (2) The Partnership proposes to use the net proceeds of the sale of Class A LP Units, Class B LP Units, Class C LP Units, Class F LP Units and Class I LP Units it receives from the investment by the Trust to invest in (i) existing residential, commercial, industrial, mixed-use, hybrid and other income-producing properties; (ii) real estate development and construction; and (iii) real estate financing and lending. The Trust’s initial focus is on Canada and will eventually be augmented with U.S. based real estate assets. The General Partner, Commercial General Partner, Financial General Partner and Equiton Partners are considered Related Parties to the Trust as a result of Jason Roque and Helen Hurlbut, being two of the Trustees of the Trust, acting as director and President and Chief Financial Officer, respectively, of each of the General Partner, Commercial General Partner, Financial General Partner, Development General Partner and Equiton Partners. Additionally, the General Partner, Commercial General Partner, Financial General Partner, Development General Partner and Equiton Partners are controlled by Jason Roque. See “ _Relationship between the Trust, the Equiton Agent and Other Related Parties_ ”.
 
 All of the net proceeds raised by the Trust from the sale of Trust Units pursuant to this Offering will be invested in the Partnership through the purchase of Class A LP Units, Class B LP Units, Class C LP Units, Class F LP Units and Class I LP Units in equal proportion to the number of Class A Trust Units, Class B Trust Units, Class C Trust Units, Class F Trust Units and Class I Trust Units sold pursuant to the Offering. The proceeds of such sale of Class A Trust Units, Class B Trust Units, Class C Trust Units, Class F Trust Units and Class I Trust Units will be utilized by the Partnership to carry out its investment objectives and strategy. See “ _The Partnership_ ’s _Business_ ”.
@@ -797,7 +784,6 @@ The Trust believes that both Canada and the U.S. real estate markets are support
 The Trust believes that favourable long-term trends should continue to contribute to the attractiveness and performance of well-managed multi-residential and commercial income producing and development properties in both Canada and the U.S.:
 
 - Population growth, through natural means and immigration, will continue to increase demand for new places to live, shop and work, both in Canada and the U.S.
-
 - Canada has the fastest growth rates of any G7 nation2 and is growing faster than many other industrialized countries including Germany, the United States and the United Kingdom. Canada’s population has surpassed 38 million. Its average growth rate has
 
 > 1 MSCI Inc. _Real Estate Market Size 2021/22._
@@ -809,9 +795,7 @@ The Trust believes that favourable long-term trends should continue to contribut
 remained relatively stable over the last 30 years at just over 1.0% per year before coming to a virtual halt in 2020 mainly due to global border and travel restrictions implemented to slow the spread of COVID-19 which drastically reduced the number of permanent and temporary immigrant arriving in Canada.3 Immigration has accounted for most of Canada’s population growth since the early 2000’s, including almost all of the 2.7% increase in 2022 and the federal government has set higher targets for immigration over the next few years to address labour shortages in key sectors of the economy.
 
 - The population of the U.S. has continued to grow, and similar to Canada, is driven by a high level of immigration. The latest data from the U.S. Census Bureau indicates that population growth has seen an average increase of 0.66% per year in the U.S. since 2010.4 The population growth rate fell to a historical low in 2021 with decreased net international migration, decreased fertility and increased mortality due in part to the COVID-19 pandemic but an uptick was seen in 2022 due to a rise in immigration.
-
 - As Millennials, who account for 20%5 and 22%6 of the Canadian and U.S. populations, respectively, come of age and “leave the nest”, their preference to live in urban centres combined with high single-family home prices has contributed to an increase in demand for rental apartments. This trend which has driven Canadian vacancy rates down to 3.1%7 while simultaneously increases average rents by 3.5% in Ontario as of October 2021. In the U.S., the national apartment vacancy rate was 4.7% as at the end of 2021.8
-
 - The rapid growth of e-commerce in Canada and the U.S. has sparked tremendous expansion in both countries’ logistic and distribution sectors which Equiton Partners expects will significantly increase demand for industrial space.
 
 #### **_Income-Producing Properties_**
@@ -941,7 +925,6 @@ The following is a summary of the material attributes and characteristics of the
 The Trust is a limited purpose unincorporated, open-ended investment trust. The Trust is governed by the general law of trusts, except as such general law of trusts has been or is from time to time modified, altered or abridged for the Trust by:
 
 - (a) Applicable Laws; and
-
 - (b) the terms and conditions set forth in the Declaration of Trust.
 
 The Trust is intended to qualify as a “mutual fund trust” for purposes of the Tax Act and has been established to carry on activities in order to produce income for the exclusive benefit of the Trust Unitholders and upon termination of the Trust, the net assets of the Trust shall be liquidated and the proceeds distributed to the Trust Unitholders in accordance with their entitlements as provided in the Declaration of Trust.
@@ -959,33 +942,21 @@ The Declaration of Trust contains “ **conflict of interest** ” provisions. G
 A “ **Conflict of Interest Matter** ” shall mean a situation where a reasonable person would consider a Trustee or an officer of the Trust, or an entity related to a Trustee or an officer of the Trust, to have an interest that may conflict with such Trustee’s or officer’s ability to act in good faith and in the best interest of the Trust (or as the term “Conflict of Interest Matter” may be amended in Section 1.2(a) of NI 81-107 from time to time) and shall include, but not be limited to, situations where such Trustee or officer: (i) is a party to a material contract or transaction (as determined by the Trustees acting reasonably), whether made or proposed, with the Trust or any of its Subsidiaries or Affiliates (a “ **Material Transaction** ”); or (ii) is a director, trustee or officer of, or otherwise has a material interest in, any Person or in any Affiliate, Related Party or Subsidiary of any Person who is a party to a Material Transaction. In connection with any Conflict of Interest Matter, the conflicted officer or Trustee shall disclose in writing to the Trustees or request to have entered into the minutes of meetings of the Trustees, the nature and extent of the conflict as follows:
 
 - (a) the disclosure required in the case of a Trustee shall be made:
-
    - (i) at the meeting of Trustees or the applicable committee thereof, as the case may be, at which a Conflict of Interest Matter is first considered;
-
    - (ii) if such Trustee was not then interested in a Conflict of Interest Matter, at the first such meeting after he or she becomes so interested;
-
    - (iii) if such Trustee becomes interested after an agreement pertaining to the Conflict of Interest Matter is entered into, at the first such meeting after he or she becomes so interested; or
-
    - (iv) if an individual who is interested in a Material Transaction later becomes a Trustee, at the first such meeting after he or she becomes a Trustee;
 
 <!-- page 40 -->
 
 - (b) the disclosure required in the case of an officer of the Trust, who is not a Trustee, shall be made:
-
    - (i) forthwith after such officer becomes aware that the Conflict of Interest Matter is to be considered or has been considered at a meeting of the Trustees, or the applicable committee thereof, as the case may be;
-
    - (ii) if such officer becomes interested after an agreement pertaining to the Conflict of Interest Matter is entered into, forthwith after such officer becomes aware that he has become so interested; or
-
    - (iii) if an individual who is interested in a Conflict of Interest Matter later becomes an officer of the Trust, forthwith after such individual becomes an officer of the Trust;
-
 - (c) notwithstanding Sections 4.7(a) and 4.7(b) of the Declaration of Trust, (i) the holding of Trust Units or LP Units by Equiton Partners or any of its Affiliates shall not be deemed to be a Conflict of Interest Matter, and (ii) if a matter is one that, in the ordinary course of the affairs of the Trust, would not require approval by the Trustees or the Unitholders, if such matter is a “Conflict of Interest Matter”, the conflicted Trustee or officer of the Trust shall disclose, in writing to the Trustees or applicable committee thereof, as the case may be, the nature and extent of his interest immediately after he becomes aware of the Conflict of Interest Matter and such matter shall be put before the Independent Trustees for approval in accordance with unanimous approval requirements, as described in “ _– Independent Trustee Matters_ ” below.
-
 - (d) a Trustee referred to in Section 4.7 of the Declaration of Trust shall not vote on any resolution to approve the Conflict of Interest Matter unless the Conflict of Interest Matter is:
-
    - (i) one relating primarily to his remuneration as a Trustee, officer, employee or agent of the Trust; or
-
    - (ii) one for indemnity under Section 14.1 of the Declaration of Trust or the purchase of liability insurance;
-
 - (e) for the purposes hereof, a general notice to the Trustees by a Trustee or an officer of the Trust disclosing the basis of a conflict, such as that he is a director, trustee or officer of or has a material interest in a Person or in any Affiliate, Related Party or Subsidiary of any Person and is to be regarded as interested in any Conflict of Interest Matter entered into or which may be entered into, is a sufficient disclosure of interest in relation to any Conflict of Interest Matter so made or entered into or which may be made or entered into, provided that such general notice is delivered to the principal office and centre of administration of the Trust and to each Trustee personally. In the event that a meeting of the Unitholders is called to confirm or approve a Conflict of Interest Matter which is the subject of a general notice to the Trustees, the nature and extent of the interest in the Conflict of Interest Matter of such Trustee or officer giving such general notice shall be disclosed in reasonable
 
 <!-- page 41 -->
@@ -993,19 +964,14 @@ A “ **Conflict of Interest Matter** ” shall mean a situation where a reasona
 detail in the notice calling the said meeting of the Unitholders or in any information circular to be provided by this Declaration of Trust or by Applicable Law;
 
 - (f) where a Conflict of Interest Matter is entered into between the Trust and a Trustee or an officer of the Trust, or between the Trust and another Person or any Affiliate, Related Party or Subsidiary of such other Person in which a Trustee or an officer of the Trust has a material interest:
-
    - (i) such Trustee or officer of the Trust is not accountable to the Trust or to the Unitholders for any profit or gain realized from the Conflict of Interest Matter; and
-
    - (ii) the Conflict of Interest Matter is neither void nor voidable,
 
 by reason only of that relationship or by reason only that such Trustee or officer is present at or is counted to determine the presence of a quorum at the meeting of the Trustees or a committee that authorized the Conflict of Interest Matter, if such Trustee or officer of the Trust disclosed his interest in accordance with Section 4.7 of the Declaration of Trust, and the Conflict of Interest Matter was reasonable and fair to the Trust at the time it was approved;
 
 - (g) notwithstanding anything in this Section, but without limiting the effect of Section 4.7(f) of the Declaration of Trust, a Trustee or an officer of the Trust, acting honestly and in good faith, is not accountable to the Trust or to the Unitholders for any profit or gain realized from any such Conflict of Interest Matter by reason only of the disclosed relationship, and the Conflict of Interest Matter, if it was reasonable and fair to the Trust at the time it was approved, is not by reason only of such Trustee’s or officer’s interest therein void or voidable, where:
-
    - (i) the Conflict of Interest Matter is confirmed or approved at a meeting of the Unitholders duly called for that purpose; and
-
    - (ii) the nature and extent of such Trustee’s or officer’s interest in the Conflict of Interest Matter are disclosed in reasonable detail in the notice calling the meeting or in any information circular to be provided by this Declaration of Trust or by Applicable Law; and
-
 - (h) subject to Sections 4.7(f) and 4.7(g) of the Declaration of Trust, where a Trustee or an officer of the Trust fails to disclose his interest in a Conflict of Interest Matter in accordance with this Declaration of Trust or otherwise fails to comply with Section 4.7 of the Declaration of Trust, the Trustees or any Unitholder, in addition to exercising any other rights or remedies in connection with such failure exercisable at law or in equity, may apply to a court for an order setting aside the Conflict of Interest Matter and directing that such Trustee or officer account to the Trust for any profit or gain realized.
 
 <!-- page 42 -->
@@ -1017,17 +983,11 @@ The Partnership has similar conflict of interest provisions to those described a
 Notwithstanding anything herein to the contrary, in addition to requiring the approval of a majority of the Trustees, the unanimous approval of the Independent Trustees holding office at such time who have no interest in the matter (given by vote at a meeting of Trustees or by written consent) shall be required with respect to any decision to approve a Conflict of Interest Matter, including, but not limited to:
 
 - (a) entering into any agreement or transaction in which any Related Party has a material interest or making a material change to any such agreement or transaction;
-
 - (b) relating to a claim by or against any Related Party;
-
 - (c) relating to a claim in which the interests of a Related Party differ from the interests of the Trust;
-
 - (d) to permit the Partnership to invest in any real or other property in which a Related Party has an interest or to sell any interest in any real or other property to a Related Party;
-
 - (e) to approve or enforce any agreement entered into by the Trust or its Subsidiaries or Related Parties with a Trustee who is not an Independent Trustee or an Associate thereof, with another Subsidiary or Related Party;
-
 - (f) recommending to the Voting Unitholders to increase the number of Trustees serving on the board of Trustees or authorizing the Trustees to change the number of Trustees from time to time; and
-
 - (g) determining the compensation of any officer or employee of the Trust.
 
 Notwithstanding the foregoing, no Conflict of Interest Matter may be approved unless there are at least two Independent Trustees permitted to vote on such matter, and no Conflict of Interest Matter may be approved without unanimous consent of all Independent Trustees permitted to vote on such matter.
@@ -1039,13 +999,11 @@ The Declaration of Trust provides that the Trustees may appoint a Finance Commit
 The Finance Committee shall:
 
 - (i) review the Trust’s procedures for internal control with the Auditors and Chief Financial Officer of the Trust;
-
 - (ii) review the engagement of the Auditors;
 
 <!-- page 43 -->
 
 - (iii) review and recommend to the Trustees for their approval annual and quarterly financial statements and management’s discussion and analysis of financial condition and results of operation;
-
 - (iv) assess the Trust’s financial and accounting personnel; and (v) review any significant transactions outside the Trust’s ordinary activities and all pending litigation involving the Trust.
 
 The Auditors are entitled to receive notice of every meeting of the Finance Committee and to attend and be heard thereat and, if so requested by a member of the Finance Committee, shall attend any meeting of the Finance Committee held during the term of office of the Auditors. Questions arising at any meeting of the Finance Committee shall be decided by a majority of the votes cast. Decisions may be taken by written consent signed by all of the members of the Finance Committee. The Auditors or a member of the Finance Committee may call a meeting of the Finance Committee on not less than 48 hours’ notice.
@@ -1085,27 +1043,20 @@ Pursuant to the Declaration of Trust, each Trust Unitholder is entitled to requi
 <!-- page 45 -->
 
 - (b) As of the Redemption Date, upon the payment of the Redemption Amount (defined below), plus the pro rata share of any unpaid distributions declared on the Trust Units to be redeemed and payable prior to the Redemption Date, the Trust Unitholder shall thereafter cease to have any rights with respect to the Trust Units tendered for redemption (other than to receive the Redemption Amount therefor) including ceasing to have the right to receive any distributions thereon which are payable to the Trust Unitholders of record on a date which is subsequent to the Redemption Date. Trust Units shall be considered to be tendered for redemption on the Redemption Date, provided that the Trust has, to the satisfaction of the Trustees, received the Redemption Notice and other required documents or evidence as aforesaid.
-
 - (c) Upon receipt by the Trust of the Redemption Notice in accordance with this Section, the holder of the Trust Units tendered for redemption shall be entitled to receive a redemption amount (the “ **Redemption Amount** ”) equal to the Market Value on the day of the Redemption Notice times the number of Trust Units that a Trust Unitholder tenders for redemption, less the costs of implementing the redemption (the “ **Redemption Cost** ”), provided that the Trust shall be entitled to set-off the Redemption Amount otherwise payable against any applicable Deferred Sales Charge or Early Redemption Fee. The Board of Trustees has adopted a policy determining that the Redemption Cost shall be the lesser of (i) 2% of the Market Value of the Trust Units being redeemed and (ii) $150. For example, a redemption of Trust Units with a Market Value of $5,000 shall have a Redemption Cost of $100.
-
 - (d) Subject to Paragraph (e) below, the Redemption Amount payable in respect of the Trust Units tendered for redemption during any month shall be paid on the Redemption Date by wire or cheque, drawn on a Canadian chartered bank or a trust company in lawful money of Canada, payable at par to or to the order of the Trust Unitholder who exercised the right of redemption. Payment of the Redemption Amount is conclusively deemed to have been made upon the mailing of a cheque in a postage prepaid envelope addressed to the Person who redeemed the Trust Units, unless such cheque is dishonoured upon presentment. Upon such payment, the Trust shall be discharged from all liability to the Person who redeemed the Trust Units in respect of the Trust Units so redeemed.
-
 - (e) Paragraph (d) above shall not be applicable to Trust Units tendered for redemption by a Trust Unitholder, if the total amount payable by the Trust pursuant to Paragraph (c) above in respect of such Trust Units and all other Trust Units tendered for redemption in the same calendar month exceeds $50,000 (the “ **Monthly Limit** ”); provided that the Trustees may, in their sole discretion, increase such Monthly Limit in respect of all Trust Units tendered for redemption in any calendar month.
-
 - (f) If, pursuant to Paragraph (e) above, Paragraph (d) is not applicable to the Trust Units tendered for redemption by a Trust Unitholder, the Redemption Amount to which the Trust Unitholder would otherwise be entitled shall be paid and satisfied as follows:
 
 <!-- page 46 -->
 
 - (i) a portion of the Redemption Amount equal to the Monthly Limit divided by the total number of Trust Units tendered by all Trust Unitholders for redemption in the month times the number of Trust Units tendered for redemption by a Trust Unitholder shall be paid and satisfied in cash, in accordance with Paragraph (d) applied _mutatis mutandis_ ; and
-
 - (ii) the remainder of the Redemption Amount shall be paid and satisfied by way of the issuance to the Trust Unitholder of one or more Redemption Notes, in accordance with Paragraph (g).
 
 Upon such payment or satisfaction of the Redemption Amount in accordance with Paragraph (f)(i) and (f)(ii) above, the Trust shall be discharged from all liability to the Trust Unitholder or former Trust Unitholder in respect of the Trust Units so redeemed.
 
 - (g) If Paragraph (f) above is applicable to some or all of the Trust Units tendered for redemption by a Trust Unitholder, the Trust shall, subject to receipt of all necessary regulatory approvals, issue to the Trust Unitholder one or more Redemption Notes having an aggregate principal amount equal to the Redemption Amount minus the cash paid or payable to the Trust Unitholder pursuant to Paragraph (f)(i) above. Subject to Applicable Laws, the Redemption Notes shall be issued to or to the order of the Trust Unitholder on the Redemption Date. A Redemption Note may be tendered for payment in accordance with its terms.
-
 - (h) All Trust Units which are redeemed in accordance with the foregoing paragraphs shall be cancelled and such Trust Units shall no longer be outstanding and shall not be reissued.
-
 - (i) For the purposes hereof, “ **Market Value** ” means the market value of the Trust Units at the time the applicable redemption request is received by the Trust, as determined by the Trustees in their sole discretion, divided by the number of Trust Units outstanding at such time.
 
 #### **_Meetings of Voting Unitholders_**
@@ -1123,17 +1074,13 @@ Each Voting Unitholder is entitled to one vote per Voting Unit held and votes of
 The following matters require approval by Ordinary Resolution and shall be deemed approved, consented to or confirmed, as the case may be, upon the adoption of such Ordinary Resolution:
 
 - (a) subject to the requirements for a Special Resolution, any matter or thing stated in the Declaration of Trust to be required to be consented to or approved by the Voting Unitholders; and
-
 - (b) any matter which the board of Trustees considers appropriate to present to the Voting Unitholders for their confirmation or approval.
 
 The following matters require approval by Special Resolution and shall be deemed approved, consented to or confirmed, as the case may be, upon the adoption of such Special Resolution:
 
 - (a) any change in the basis of calculating fees or other expenses that are charged to the Trust which could result in an increase in charges to the Trust, other than a fee charged by a person or company that is arm’s length to the Trust;
-
 - (b) a reduction in the amount payable on any outstanding Trust Units upon liquidation of the Trust;
-
 - (c) an amendment, modification or variation in the provisions or rights attaching to the Voting Units; or
-
 - (d) the alteration or elimination of any voting rights pertaining to any outstanding Voting Units.
 
 Notwithstanding the above or any other provision herein, no confirmation, consent or approval shall be sought or have any effect and no Voting Unitholders shall be permitted to effect, confirm, consent to or approve, in any manner whatsoever, where the same increases the obligations of or reduces the compensation payable to or protection provided to the Trustees, except with the prior written consent of the Trustees. No meeting of Voting Unitholders has been convened by the Trust.
@@ -1159,17 +1106,11 @@ The Trustees shall provide the Voting Unitholders with annual audited financial 
 A majority of all Trustees including a majority of the Independent Trustees may, without the approval of the Voting Unitholders, make certain amendments to the Declaration of Trust, including amendments:
 
 - (a) for the purpose of ensuring continuing compliance with Applicable Laws (including the Tax Act), regulations, requirements or policies of any Governmental Authority having jurisdiction over: (1) the Trustees or over the Trust; (2) the status of the Trust as a “unit trust” and “mutual fund trust” under the Tax Act; or (3) the distribution of Trust Units;
-
 - (b) which, in the opinion of the Trustees, acting reasonably, are necessary to maintain the rights of the Trust Unitholders set out in the Declaration of Trust;
-
 - (c) to remove any conflicts or inconsistencies in the Declaration of Trust or to make minor corrections which are, in the opinion of the Trustees, necessary or desirable and not prejudicial to the Trust Unitholders;
-
 - (d) which, in the opinion of the Trustees, are necessary or desirable as a result of changes in taxation or other laws or the administration or enforcement thereof;
-
 - (e) for any purpose (except one in respect of which a Trust Unitholder vote is specifically otherwise required) which, in the opinion of the Trustees, are not prejudicial to the Trust Unitholders and are necessary or desirable;
-
 - (f) deemed necessary or advisable to ensure that the Trust has not been established nor maintained primarily for the benefit of persons who are not resident Canadians; and
-
 - (g) to implement any distribution reinvestment plan or any amendments thereto.
 
 In no event may the Trustees amend the Declaration of Trust without Voting Unitholders consent if such amendment would (i) amend the Trust Unitholders’ voting rights; or (ii) cause the Trust to fail or cease to qualify as a “unit trust” and “mutual fund trust” under the Tax Act.
@@ -1219,11 +1160,8 @@ The Declaration of Trust provides for certain guidelines on investments which ma
 <!-- page 52 -->
 
 - (a) the Trust shall focus its investment activities primarily on the following:
-
    - (i) the acquisition, holding, maintaining, improving, leasing or managing of income producing properties, including multi-residential apartments, student housing, retirement residences, commercial, retail, office and industrial space, mixed-use properties, hybrid properties and specialty properties (in each case, as determined by the Trustees) (collectively, “ **Income Producing Properties** ”);
-
    - (ii) residential, commercial, industrial or other real estate development projects or re-development and value-add projects (collectively, “ **Construction and Development or Re-Development and Value-Add Activities** ”); and
-
    - (iii) general real estate financing and lending (“ **Financing and Lending Activities** ”);
 
 (collectively, the “ **Trust Investment Activities** ” and each a “ **Trust Investment**
@@ -1231,47 +1169,28 @@ The Declaration of Trust provides for certain guidelines on investments which ma
 **Activity** ”);
 
 - (b) notwithstanding anything contained in the Declaration of Trust to the contrary, the Trust shall not, or permit a Subsidiary to, make or hold any investment, take any action or omit to take any action which would, at any time, result in:
-
    - (i) the Trust failing or ceasing to qualify as a “unit trust” and “mutual fund trust” for purposes of the Tax Act; or
-
    - (ii) the Trust or any Subsidiary being liable to the tax payable by a SIFT Trust pursuant to section 122 of the Tax Act or by a SIFT partnership pursuant to section 197 of the Tax Act;
-
 - (c) from and after the date on which the Trust has a Gross Book Value of at least one hundred and fifty million dollars ($150,000,000), the Trust shall seek to target the following portfolio allocations:
-
    - (i) Income Producing Properties – 25% to 80% of the Trust’s portfolio;
-
    - (ii) Construction and Development or Re-Development and Value-Add Activities – up to 50% of the Trust’s portfolio;
-
    - (iii) Financing and Lending Activities – up to 50% of the Trust’s portfolio; and
-
    - (iv) Cash and cash equivalents – up to 100%;
-
 - (d) the Trust may make its investments and conduct its activities, directly or indirectly, through an investment in one or more Persons on such terms as the Trustees may from time to time determine, including by way of joint ventures, partnerships (general or limited), unlimited liability companies and limited liability companies, or through any other means the Trust deems appropriate;
 
 <!-- page 53 -->
 
 - (e) except for temporary investments held in cash, deposits with a Canadian or U.S. chartered bank or Trust company registered under the laws of a province of Canada, short-term government debt securities or money market instruments of, or guaranteed by, a Schedule I Canadian chartered bank maturing prior to one year from the date of issue and except as permitted pursuant to the investment guidelines and operating policies of the Trust, the Trust directly or indirectly, may not hold securities of a Person other than to the extent such securities would constitute a Trust Investment Activity (as determined by the Trustees) and provided further that, notwithstanding anything contained in the Declaration of Trust to the contrary, but in all events subject to (a) and (b) above, the Trust may hold securities of a Person acquired in connection with the carrying on, directly or indirectly, of the Trust Investment Activities;
-
 - (f) no investment will be made, directly or indirectly, in operating businesses unless such investment is incidental to a transaction:
-
    - (i) where revenue will be derived, directly or indirectly, principally from a Trust Investment Activity;
-
    - (ii) which principally involves the ownership, maintenance, improvement, leasing or management, directly or indirectly, of real property held for investment purposes;
-
    - (iii) which may invest in real estate lending, such as first and second mortgages, mezzanine financing, land loans and construction financing; or
-
    - (iv) which may invest in construction and development relating to residential, commercial, industrial or other real estate development projects;
-
 - (g) notwithstanding any other provisions of this section, the securities of a reporting issuer in Canada may be acquired provided that:
-
    - (i) the activities of the issuer are focused on a Trust Investment Activity; and
-
    - (ii) in the case of any proposed investment or acquisition which would result in the beneficial ownership of more than 10% of the outstanding equity securities of the securities issuer, the investment or acquisition is of strategic interest to the Trust as determined by the Trustees in their discretion;
-
 - (h) no investments will be made in rights to or interests in mineral or other natural resources, including oil or gas, except as incidental to an investment in real property;
-
 - (i) notwithstanding any other provisions hereof, investments may be made which do not comply with the provisions of this section (other than paragraph (b)) provided:
-
    - (i) the aggregate cost thereof (which, in the case of an amount invested to acquire real property, is the purchase price less the amount of any indebtedness assumed or incurred in connection with the acquisition and
 
 <!-- page 54 -->
@@ -1287,29 +1206,19 @@ The Trust has complied with the guidelines set out above since its formation.
 The operations and affairs of the Trust shall be conducted in accordance with the following operating policies:
 
 - (a) title to each real property shall be held by and registered in the name of (i) a corporation or other entity wholly-owned or jointly-owned, directly or indirectly, by the Partnership or on its behalf, (ii) the General Partner, or (iii) a corporation or other entity wholly-owned indirectly by the Trust or jointly owned indirectly by the Trust with joint venturers or partners or on its behalf;
-
 - (b) no indebtedness shall be incurred or assumed if,
-
    - (i) for real property income, after giving effect to the incurring or assumption thereof of the indebtedness, the total indebtedness including amounts drawn under an acquisition and operating facility but not including Mortgage Insurance Fees incurred in connection with the incurrence or assumption of such indebtedness as a percentage of Gross Book Value, would be more than 75%; or
-
    - (ii) for Construction and Development or Re-Development and Value-Add Activities, the total indebtedness incurred in connection with the incurrence or assumption of such indebtedness shall not exceed typical industry standards relating to loans for similar business purposes;
-
 - (c) the Trust will not directly or indirectly guarantee any indebtedness or liabilities of any Person unless (i) such guarantee is given in connection with or incidental to an investment that is otherwise permitted under the Declaration of Trust, and (ii) the guarantee would not result in the Trust ceasing to qualify as a mutual fund trust for purposes of the Tax Act;
-
 - (d) the Trust will not engage in any Financing and Lending Activities unless,
-
    - (i) acceptable security for the loan (as determined by the Trustees) is provided; and
-
    - (ii) the total indebtedness incurred in connection with the incurrence or assumption of such indebtedness is within typical industry standards relating to loans for similar business purposes;
-
 - (e) the Trust will not engage in any Construction and Development or ReDevelopment and Value-Add Activities unless it is an acceptable project (as determined by the Trustees);
 
 <!-- page 55 -->
 
 - (f) at all times insurance coverage will be obtained and maintained in respect of potential liabilities of the Trust and the accidental loss of value of any of the Trust Property from risks, in amounts and with such insurers, in each case as the Trustees consider appropriate, taking into account all relevant factors including the practices of holders of comparable assets and, for clarity, the Trust is not required to title insure;
-
 - (g) a Phase I environmental audit shall be conducted or obtained in circumstances in which the Trustees deem it appropriate or necessary; and
-
 - (h) the Trust will not invest in any Trust Investment Activity until and unless it has conducted the appropriate due diligence (as determined by the Trustees) for such Trust Investment Activity.
 
 For the purpose of the foregoing operating policies, the assets, indebtedness, liabilities and transactions of a corporation, trust, partnership or other entity in which the Trust has an interest, directly or indirectly, will be deemed to be those of the Trust on a proportionate consolidated basis, except to the extent that such treatment would be inconsistent with the applicable requirements under the Tax Act or the Trustees consider such treatment to be inappropriate under the circumstances. In addition, any references in the foregoing to investment in real property will be deemed to include an investment in a joint venture arrangement.
@@ -1317,15 +1226,10 @@ For the purpose of the foregoing operating policies, the assets, indebtedness, l
 The term “ **indebtedness** ” means (without duplication):
 
 - (a) any obligation, directly or indirectly, of the Trust for borrowed money;
-
 - (b) any obligation, directly or indirectly, of the Trust incurred in connection with the acquisition of property, assets or business other than the amount of future income tax liability arising out of indirect acquisitions;
-
 - (c) any obligation, directly or indirectly, of the Trust issued or assumed as the deferred purchase price of property;
-
 - (d) any capital lease obligation, directly or indirectly, of the Trust;
-
 - (e) any obligation, directly or indirectly, of the type referred to in clauses (a) through (d) of another Person, the payment of which the Trust has, directly or indirectly, guaranteed or for which the Trust is responsible for or liable; and
-
 - (f) any amounts secured by any of the assets of the Trust;
 
 provided that (i) for the purposes of (a) through (d), an obligation (other than convertible debentures) will constitute indebtedness only to the extent that it would appear as a liability on the consolidated balance sheet of the Trust in accordance with IFRS in Canada, (ii) obligations referred to in clauses (a) through (d) exclude trade accounts payable, distributions payable and accrued liabilities arising in the ordinary course of business; (iii) convertible debentures will constitute indebtedness to the extent of the principal amount outstanding; and (iv) the issuance of redeemable units will not constitute indebtedness; and (v) obligations referenced in clauses (a) through (d) may be excluded by the Trustees if the Trustees consider such treatment to be inappropriate under the circumstances.
@@ -1377,7 +1281,6 @@ The LP Agreement provides that a permitted transferee of an LP Unit shall, upon 
 The income for tax purposes or loss for tax purposes for a given taxation year is allocated among the General Partner and the Limited Partners as follows:
 
 - (a) 0.001% of the income for tax purposes or loss for tax purposes from each source for that taxation year is allocated to the General Partner; and
-
 - (b) the income for tax purposes or loss for tax purposes for that taxation year that is not allocated to the General Partner is allocated to the Limited Partners who hold LP Units at the end of the fiscal year.
 
 The income or loss of the Partnership for accounting purposes for a given fiscal year is allocated among the Partners in the same proportion as income for tax purposes or loss for tax purposes is allocated for such taxation year, in accordance with the terms of the LP Agreement.
@@ -1399,21 +1302,15 @@ The General Partner may at any time and shall, upon receipt of a written request
 Pursuant to the LP Agreement, the following matters require the approval of Limited Partners by special resolution, which means a resolution approved by a vote cast in person or by proxy, by holders of more than 75% of the aggregate number of issued and outstanding LP Units at a duly constituted meeting of Limited Partners, or a written resolution signed by Limited Partners holding in the aggregate more than 75% of the aggregate number of issued and outstanding LP Units:
 
 - (a) removing the General Partner where the General Partner has committed a material breach of the LP Agreement, which breach has continued for 30 days after notice and, if such removal would result in the Partnership having no general partner, electing a new general partner as provided in the LP Agreement;
-
 - (b) waiving any default, other than in respect of any insolvency, receivership or bankruptcy of the Partnership, on the part of the General Partner on those terms as the Limited Partners may determine and releasing the General Partner from any claims in respect thereof;
 
 <!-- page 59 -->
 
 - (c) amending, modifying, altering or repealing any Special Resolution previously passed by holders of LP Units;
-
 - (d) amending the LP Agreement in accordance with the provisions of the LP Agreement;
-
 - (e) a merger or consolidation involving the Partnership, except for a merger or consolidation involving only the Partnership and one or more of its affiliates;
-
 - (f) a consolidation, subdivision or reclassification of the LP Units or of any class of LP Units;
-
 - (g) continuing the Partnership if the Partnership is terminated by operation of law; and
-
 - (h) adding to, changing or removing any right, privilege, restriction or condition attaching to the LP Units which may reasonably be considered materially adverse to the holders of the LP Units.
 
 #### **_Indemnification of General Partner_**
@@ -1505,7 +1402,6 @@ _Allocation of Net Income or Loss_
 The income for tax purposes or loss for tax purposes for a given taxation year is allocated among the Development General Partner and the limited partners of the Development Partnership as follows:
 
 - 1) To the Development General Partner, 20% of the “adjusted income for tax purposes” or “adjusted loss for tax purposes” (each as defined in the Development LP Agreement) from each source for that taxation year; provided that the Development Partnership’s loss for tax purposes allocated to the Development General Partner shall not exceed an amount equal to the amount of the Development Partnership’s income for tax purposes allocated to the Development General Partner in all prior taxation years less the amount of any Development Partnership loss for tax purposes allocated to the Development General Partner in all prior taxation years; and
-
 - 2) To the limited partners of the Development Partnership, the balance of all the Development Partnership’s income for tax purposes or loss for tax purposes for that taxation year that is not allocated to the Development General Partner, and all other items of income, gain, loss, deduction, recapture and credit of the Development Partnership that are allocable for purposes of the Tax Act and other relevant taxing statutes.
 
 <!-- page 64 -->
@@ -1517,9 +1413,7 @@ Notwithstanding the foregoing, the Development General Partner may adjust the al
 For each distribution period for the Development Partnership, the Development Partnership will distribute:
 
 - (i) to the Development General Partner an amount equal to 20% of Development Partnership’s distributable income less any portion of such amount that was distributed to the Development General Partner in a prior period or distributable to the Development General Partner in the current period pursuant to (ii) below;
-
 - (ii) to the Development General Partner an amount equal to 20% of any increase in the value of the Development Partnership’s properties recognized in connection with a Realization Event from the value of such properties on the date of the LP Agreement or the time of acquisition, whichever is later (an “ **Accretion Distribution** ”), provided that the Development General Partner shall only be entitled to an Accretion Distribution to the extent that the Realization Value in respect of a particular Realization Event was not taken into account in the calculation of a prior Accretion Distribution; and
-
 - (iii) to the limited partners of the Development Partnership, any distributable income of the Development Partnership not distributed to the Development General Partner.
 
 The Development General Partner may, in its discretion, elect to defer payment of any distribution to which it is entitled pursuant to (i) or (ii) above, provided that the amount distributed to the Development General Partner for any distribution period of the Development Partnership shall not be less than 0.001% of Development Partnership’s distributable income for such period. Any distribution so deferred shall be added to the distributions payable to the Development General Partner in subsequent distribution periods until such deferred distributions have been paid in full.
@@ -1553,9 +1447,7 @@ Equiton Partners will perform the services set out in the Commercial Asset Manag
 During the term of the Commercial Asset Management Agreement, the Commercial Partnership will pay Equiton Partners the following:
 
 - (a) a transaction fee equal to 1.0% of the purchase price of each of the Commercial Partnership ’ s properties acquired or sold by the Commercial Partnership (calculated without duplication), plus any applicable taxes;
-
 - (b) a management fee equal to 1.0% of the Gross Asset Value (as defined in the Commercial Asset Management Agreement) of the Commercial Partnership; and
-
 - (c) a financing fee in respect of any financing transaction involving any of the Commercial Partnership ’ s properties, equal to: (a) 1% of the loan amount for each senior or first ranking financing transaction (ii) 0.5% of the loan amount for each refinancing transaction with an existing lender, and (iii) up to 1.5% of the loan amount for each mezzanine or non-first ranking financing transaction.
 
 In addition, the Commercial Partnership will pay directly, or reimburse Equiton Partners for all outof-pocket expenses incurred by it in respect of the management services rendered by Equiton Partners pursuant to the Commercial Asset Management Agreement. For greater clarity, the Commercial Partnership shall reimburse Equiton Partners for costs and expenses incurred by Equiton Partners in respect of software, payroll, human resources, training and development and other similar operational costs and expenses.
@@ -1615,7 +1507,6 @@ Equiton Partners will perform the services set out in the Development Asset Mana
 During the term of the Development Asset Management Agreement, the Development Partnership will pay Equiton Partners the following:
 
 - (a) a structuring fee equal to 3.0% of capital contributions by limited partners to the Development Partnership, calculated and payable on the last day of each month in respect of capital contributions received by the Development Partnership each month; and
-
 - (b) a management fee equal to 3.0% of the Development Partnership ’ s equity in respect of each development project being developed by the Development Partnership (each, a “ **Project** ” ), calculated and payable on the last day of each month in equal amounts pro-rated over the planned duration of each Project commencing on the date of the initial expenditure by the Development Manager in respect of a Project and ending on the completion date of the Project, as set out in the budget for each Project approved by the Development Partnership, as may be adjusted from time to time. In the event that the Development Partnership sells a Project or a Project property without completing the Project, any part of such management fee that was not due and payable prior to the time of sale will become due and payable on closing of the sale.
 
 The foregoing fees are payable in cash or limited partnership units of the Development Partnership, at the sole discretion of Equiton Partners. Equiton Partners will waive the fees payable under the Development Asset Management Agreement with respect to transactions with entities managed by Equiton Partners in order to avoid duplicating fees.
@@ -1646,9 +1537,7 @@ Notes:
 <!-- page 71 -->
 
 - (3) Each Independent Trustee is paid $3,500 plus applicable taxes per quarter.
-
 - (4) Equiton Partners will not receive any compensation from the Trust. Equiton Partners will receive fees from the Partnership as manager of the Trust and the Partnership. See _“The Asset Management Agreement_ ” and “ _Relationship between the Trust, the Equiton Agent, and Other Related Parties_ ”.
-
 - (5) There is no maximum or minimum offering. The Trust will offer an unlimited number of Trust Units on a continuous basis. The class of Trust Units outstanding will depend on which Trust Units are subscribed for.
 
 #### **Management Experience**
@@ -1681,9 +1570,7 @@ The following table discloses the principal occupations of each trustee, officer
 To the Trust’s knowledge, no trustee, officer, or control person of the Trust (an “ **Insider** ”) has, or any issuer of which an Insider was a trustee, director, officer or control person, has:
 
 - (a) during the last 10 years, been subject to any penalty or sanction, or any cease trade order that has been in effect for a period of more than 30 consecutive days;
-
 - (b) during the last 10 years, made a declaration of bankruptcy, voluntary assignment in bankruptcy, proposal under any bankruptcy or insolvency legislation, proceedings, arrangement or compromise with creditors, or appointed a receiver, receiver-manager or trustee to hold assets;
-
 - (c) ever pled guilty to, or been found guilty of (i) a summary conviction or indictable offence under the Criminal Code (Canada); (ii) a quasi-criminal offence in any jurisdiction of Canada or a foreign jurisdiction; (iii) a misdemeanour or felony under the criminal legislation of the United States of America, or any state or territory of the United States of America; or (iv) an offence under the criminal legislation of any other foreign jurisdiction.
 
 #### **Certain Loans**
@@ -1819,9 +1706,7 @@ The minimum subscription amount is $10,000 per Subscriber, provided that the Tru
 In order to subscribe for Trust Units, a purchaser must complete, execute and deliver the following documentation to the Equiton Agent, at Equiton Capital Inc., 1111 International Boulevard, Suite 600, Burlington, Ontario L7L 6W1:
 
 - (a) one (1) signed copy of the Subscription Agreement (including all applicable schedules thereto) accompanying this Offering Memorandum;
-
 - (b) a certified cheque, bank draft or direct deposit in an amount equal to the aggregate subscription price, payable to: “ **Equiton Real Estate Income and Development Fund Trust** ” or as otherwise directed by the Trust; and
-
 - (c) any other documents deemed necessary by the Trust or the Equiton Agent to comply with applicable Canadian securities laws.
 
 Subject to applicable securities laws and the Subscriber’s two-day cancellation right, a subscription for Trust Units, evidenced by a duly completed Subscription Agreement delivered to the Trust shall be irrevocable by the Subscriber. See “ _Subscriber’s Rights of Action_ ”.
@@ -2055,11 +1940,8 @@ reportable accounts under the IGA. Tax Proposals released on November 28, 2023 w
 Pursuant to the Agency Agreement, to assist with effecting sales of Trust Units, the Trust has retained the Equiton Agent to act as selling agent of the Trust Units and the Equiton Agent may retain sub-agents and the Trust may, from time to time, retain other Selling Agents in addition to the Equiton Agent. For details of the compensation paid to sellers and finders, including to the Equiton Agent, see “ _Purchase Options_ ”. In addition to the sales commissions described in “ _Purchase Options_ ”, the Trust shall:
 
 - (a) pay to the Equiton Agent and the other Selling Agents wholesale costs of 1.25% of the gross proceeds of the Offering;
-
 - (b) pay to the Equiton Agent and the other Selling Agents a dealer fee of 1.5% of the gross proceeds of the Offering;
-
 - (c) pay to the Equiton Agent or any lead agent appointed by the Equiton Agent a lead agent fee up to 1.0% of the gross proceeds of the Offering; and
-
 - (d) pay to the Equiton Agent and the other Selling Agents the costs and expenses incurred by the Equiton Agent and the selling agents in connection with the Offering.
 
 The Trust has agreed, subject to certain exceptions, to indemnify the Equiton Agent and any other lead agent and may indemnify the other Selling Agents and their directors, officers, employees and agents against certain liabilities, including, without restriction, civil liabilities under Canadian securities legislation, and to contribute to any payments the lead agents may be required to make in respect thereof.
@@ -2391,9 +2273,7 @@ The Trust is not a reporting issuer in any jurisdiction. In Ontario, Québec, Sa
 In New Brunswick, Nova Scotia and Ontario, the Trust must make reasonably available to each Subscriber who has acquired Trust Units under this Offering Memorandum, a notice of each of the following events within 10 days of the occurrence of the event:
 
 - (a) a discontinuance of the Trust’s business;
-
 - (b) a change in the Trust’s industry; or
-
 - (c) a change of control of the Trust.
 
 <!-- page 108 -->
@@ -2439,37 +2319,23 @@ The following summaries are subject to the express provisions of the securities 
 Section 204(1) of the _Securities Act_ (Alberta) provides that if a person or company purchases securities offered by an offering memorandum that contains a Misrepresentation, the purchaser has, without regard to whether the purchaser relied on the Misrepresentation, a right of action (a) for damages against (i) the Trust, (ii) every director of the Trust at the date of the offering memorandum, and (iii) every person or company who signed the offering memorandum, and (b) for rescission against the Trust, provided that:
 
 - (a) if the purchaser elects to exercise its right of rescission, it shall cease to have a right of action for damages against the person or company referred to above;
-
 - (b) no person or company referred to above will be liable if it proves that the purchaser had knowledge of the Misrepresentation;
 
 <!-- page 110 -->
 
 - (c) no person or company (other than the Trust) referred to above will be liable if it proves that the offering memorandum was sent to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its being sent, the person or company promptly gave reasonable notice to the Executive Director and the issuer that it was sent without the knowledge and consent of the person or company;
-
 - (d) no person or company (other than the Trust) referred to above will be liable if it proves that the person or company, on becoming aware of the Misrepresentation in the offering memorandum, withdrew the person’s or company’s consent to the offering memorandum and gave reasonable notice to the Executive Director and the issuer of the withdrawal and the reason for it;
-
 - (e) no person or company (other than the Trust) referred to above will be liable if, with respect to any part of the offering memorandum purporting to be made on the authority of an expert or purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, the person or company proves that the person or company did not have any reasonable grounds to believe and did not believe that:
-
    - (i)
-
    - there had been a Misrepresentation; or
-
 - (ii)
-
       - the relevant part of the offering memorandum;
-
       - (A) did not fairly represent the report, opinion or statement of the expert, or
-
       - (B) was not a fair copy of, or an extract from, the report, opinion or statement of the expert;
-
 - (f) the person or company (other than the issuer) will not be liable if with respect to any part of the offering memorandum not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company
-
    - (i) did not conduct a reasonable investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation, and
-
    - (ii) believed there had been a Misrepresentation;
-
 - (g) in no case shall the amount recoverable exceed the price at which the securities were offered under the offering memorandum;
-
 - (h) the defendant will not be liable for all or any part of the damages that the defendant proves do not represent the depreciation in value of the security as a result of the Misrepresentation;
 
 Section 211 of the _Securities Act_ (Alberta) provides that no action may be commenced to enforce these rights more than:
@@ -2477,11 +2343,8 @@ Section 211 of the _Securities Act_ (Alberta) provides that no action may be com
 <!-- page 111 -->
 
 - (a) in the case of an action for rescission, 180 days from the day of the transaction that gave rise to the cause of action, or
-
 - (b) in the case of any action, other than an action for rescission, the earlier of
-
    - (i) 180 days from the day that the plaintiff first had knowledge of the facts giving rise to the cause of action, or
-
    - (ii) 3 years from the day of the transaction that gave rise to the cause of action.
 
 #### **_Rights of Subscribers in British Columbia_**
@@ -2489,17 +2352,13 @@ Section 211 of the _Securities Act_ (Alberta) provides that no action may be com
 The right of action for damages or rescission described herein is conferred by Section 132.1 of the _Securities Act_ (British Columbia). Section 132.1 of the _Securities Act_ (British Columbia) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum), contains a Misrepresentation, the purchaser will be deemed to have relied on the Misrepresentation if it was a Misrepresentation at the time of purchase, and the purchaser has, subject to certain limitations and defences, a statutory right of action for damages against the Trust and, subject to certain additional defences, every director of the Trust at the date of the offering memorandum and every person who signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the Trust, in which case the purchaser shall have no right of action for damages against the Trust, provided that, among other limitations:
 
 - (a) no person will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, no person will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the Trust, will not be liable if that person or company proves that:
 
 - (a) the offering memorandum was sent or delivered to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its delivery, the person or company gave written notice to the Trust that it was delivered without the person’s or company’s knowledge or consent;
-
 - (b) after delivery of the offering memorandum and after becoming aware of the Misrepresentation, the person or company withdrew the person’s or company’s consent to the offering memorandum and gave written notice to the Trust of the withdrawal and the reason for it; or
-
 - (c) with respect to any part of the offering memorandum purporting to be made on the authority of an expert, or (ii) to be a copy of, or an extract from, an expert’s report, opinion or statement, the person or company proves that the person or company
 
 <!-- page 112 -->
@@ -2513,11 +2372,8 @@ A person is not liable for Misrepresentation in forward-looking information if t
 If a Misrepresentation is contained in a record incorporated by reference into, or deemed incorporated by reference into, the offering memorandum, the Misrepresentation is deemed to be contained in the offering memorandum. Section 140 of the _Securities Act_ (British Columbia) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 #### **_Rights of Subscribers in Saskatchewan_**
@@ -2529,29 +2385,21 @@ Section 138(1) of the _Securities Act_ , 1988 (Saskatchewan), as amended (the �
 <!-- page 113 -->
 
 - (b) every promoter and director of the Trust or the selling security holder, as the case may be, at the time the offering memorandum or any amendment to it was sent or delivered;
-
 - (c) every person or company whose consent has been filed respecting the offering, but only with respect to reports, opinions or statements that have been made by them;
-
 - (d) every person who or company that, in addition to the persons or companies mentioned in (a) to (c) above, signed the offering memorandum or the amendment to the offering memorandum; and
-
 - (e) every person who or company that sells securities on behalf of the Trust or selling security holder under the offering memorandum or amendment to the offering memorandum.
 
 Such rights of rescission and damages are subject to certain limitations including the following:
 
 - (a) if the purchaser elects to exercise its right of rescission against the Trust or selling security holder, it shall have no right of action for damages against that party;
-
 - (b) in an action for damages, a defendant will not be liable for all or any portion of the damages that he, she or it proves do not represent the depreciation in value of the securities resulting from the Misrepresentation relied on;
-
 - (c) no person or company, other than the Trust or a selling security holder, will be liable for any part of the offering memorandum or any amendment to it not purporting to be made on the authority of an expert and not purporting to be a copy of, or an extract from, a report, opinion or statement of an expert, unless the person or company failed to conduct a reasonable investigation sufficient to provide reasonable grounds for a belief that there had been no Misrepresentation or believed that there had been a Misrepresentation;
-
 - (d) in no case shall the amount recoverable exceed the price at which the securities were offered; and
-
 - (e) no person or company is liable in an action for rescission or damages if that person or company proves that the purchaser purchased the securities with knowledge of the Misrepresentation.
 
 In addition, no person or company, other than the Trust or selling security holder, will be liable if the person or company proves that:
 
 - (a) the offering memorandum or any amendment to it was sent or delivered without the person’s or company’s knowledge or consent and that, on becoming aware of it being sent or delivered, that person or company gave reasonable general notice that it was so sent or delivered;
-
 - (b) after the filing of the offering memorandum or the amendment to the offering memorandum and before the purchase of the securities by the purchaser, on
 
 <!-- page 114 -->
@@ -2575,7 +2423,6 @@ The rights of action for damages or rescission under the Saskatchewan Act are in
 Section 147 of the Saskatchewan Act provides that no action shall be commenced to enforce any of the foregoing rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of any other action, other than an action for rescission, the earlier of:
 
 <!-- page 115 -->
@@ -2591,15 +2438,12 @@ The Saskatchewan Act also provides a purchaser who has received an amended offer
 The right of action for damages or rescission described herein is conferred by section 141.1 of _The Securities Act_ (Manitoba). Section 141.1 of _The Securities Act_ (Manitoba) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum), contains a Misrepresentation, the purchaser will be deemed to have relied upon such Misrepresentation if it was a Misrepresentation at the time of purchase and has, subject to certain limitations and defences, a statutory right of action for damages against the Trust and, subject to certain additional defences, every director of the Trust at the date of the offering memorandum and every person who signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the Trust, in which case the purchaser shall have no right of action for damages against the Trust, directors of the Trust or persons who have signed the offering memorandum, provided that, among other limitations:
 
 - (a) no person will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, no person will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the Trust, will not be liable if that person or company proves that:
 
 - (a) the offering memorandum was sent or delivered to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its delivery, the person or company promptly gave reasonable notice to the Trust that it was delivered without the person’s or company’s knowledge or consent;
-
 - (b) after delivery of the offering memorandum and after becoming aware of the Misrepresentation, the person or company withdrew the person’s or company’s consent to the offering memorandum and gave reasonable notice to the issuer of the withdrawal and the reason for it; or
 
 <!-- page 116 -->
@@ -2613,11 +2457,8 @@ If a Misrepresentation is contained in a record incorporated by reference into, 
 Section 141.4(2) of _The Securities Act_ (Manitoba) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) two years after the date of the transaction that gave rise to the cause of action.
 
 #### **_Rights of Subscribers in Ontario_**
@@ -2625,29 +2466,21 @@ Section 141.4(2) of _The Securities Act_ (Manitoba) provides that no action shal
 Section 130.1 of the _Securities Act_ (Ontario) provides that every purchaser of securities pursuant to an offering memorandum (such as this Offering Memorandum) shall have a statutory right of action for damages or rescission against the Trust and any selling security holder in the event that the offering memorandum contains a Misrepresentation. A purchaser who purchases securities offered by the offering memorandum during the period of distribution has, without regard to whether the purchaser relied upon the Misrepresentation, a right of action for damages or, alternatively, while still the owner of the securities, for rescission against the Trust and any selling security holder provided that:
 
 - (a) if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the Trust and the selling security holders, if any;
-
 - (b) the Trust and the selling security holders, if any, will not be liable if they prove that the purchaser purchased the securities with knowledge of the Misrepresentation;
 
 <!-- page 117 -->
 
 - (c) the Trust and the selling security holders, if any, will not be liable for all or any portion of damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon;
-
 - (d) in no case shall the amount recoverable exceed the price at which the securities were offered; and
-
 - (e) the Trust will not be liable for a Misrepresentation in forward-looking information if the Trust proves:
-
    - (i) that the offering memorandum contains reasonable cautionary language identifying the forward-looking information as such, and identifying material factors that could cause actual results to differ materially from a conclusion, forecast or projection in the forward-looking information, and a statement of material factors or assumptions that were applied in drawing a conclusion or making a forecast or projection set out in the forward-looking information; and
-
    - (ii) the Trust has a reasonable basis for drawing the conclusion or making the forecasts and projections set out in the forward-looking information.
 
 Section 138 of the _Securities Act_ (Ontario) provides that no action shall be commenced to enforce these rights more than:
 
 - (a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of an action for damages, the earlier of:
-
    - (i) 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 #### **_Rights of Subscribers in Québec_**
@@ -2665,17 +2498,13 @@ The purchaser may claim damages from the Trust, the Trust’s directors or offic
 The right of action for damages or rescission described herein is conferred by section 138 of the _Securities Act_ (Nova Scotia). Section 138 of the _Securities Act_ (Nova Scotia) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum), together with any amendment thereto, or any advertising or sales literature (as defined in the _Securities Act_ (Nova Scotia)) contains a Misrepresentation, the purchaser will be deemed to have relied upon such Misrepresentation if it was a Misrepresentation at the time of purchase and has, subject to certain limitations and defences, a statutory right of action for damages against the Trust and, subject to certain additional defences, every director of the Trust at the date of the offering memorandum and every person who signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the Trust, in which case the purchaser shall have no right of action for damages against the Trust, directors of the Trust or persons who have signed the offering memorandum, provided that, among other limitations:
 
 - (a) no action shall be commenced to enforce the right of action for rescission or damages by a purchaser resident in Nova Scotia later than 120 days after the date on which the initial payment was made for the securities;
-
 - (b) no person will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (c) in the case of an action for damages, no person will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (d) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 In addition, a person or company, other than the Trust, will not be liable if that person or company proves that:
 
 - (a) the offering memorandum or amendment to the offering memorandum was sent or delivered to the purchaser without the person’s or company’s knowledge or consent and that, on becoming aware of its delivery, the person or company gave reasonable general notice that it was delivered without the person’s or company’s knowledge or consent;
-
 - (b) after delivery of the offering memorandum or amendment to the offering memorandum and before the purchase of the securities by the purchaser, on becoming aware of any Misrepresentation in the offering memorandum or amendment to the offering memorandum the person or company withdrew the person’s or company’s consent to the offering memorandum or amendment to the offering memorandum, and gave reasonable general notice of the withdrawal and the reason for it; or
 
 <!-- page 119 -->
@@ -2691,7 +2520,6 @@ If a Misrepresentation is contained in a record incorporated by reference into, 
 Section 150 of the _Securities Act_ (New Brunswick) provides that where an offering memorandum (such as this Offering Memorandum) contains a Misrepresentation, a purchaser who purchases securities shall be deemed to have relied on the Misrepresentation if it was a Misrepresentation at the time of purchase and:
 
 - (a) the purchaser has a right of action for damages against the Trust, directors of the Trust, every person who signed the offering memorandum and any selling security holder(s) on whose behalf the distribution is made, or
-
 - (b) where the purchaser purchased the securities from a person referred to in paragraph (a), the purchaser may elect to exercise a right of rescission against the person, in which case the purchaser shall have no right of action for damages against the person.
 
 There are various defences available to the Trust and the selling security holder(s). In particular, no person will be liable for a Misrepresentation if such person proves that the purchaser purchased the securities with knowledge of the Misrepresentation when the purchaser purchased the securities. Moreover, in an action for damages, the amount recoverable will not exceed the price at which the securities were offered under the offering memorandum and any defendant will not be liable for all or any part of the damages that the defendant proves do not represent the depreciation in value of the security as a result of the Misrepresentation.
@@ -2705,9 +2533,7 @@ The right of action for damages or rescission described herein is conferred by s
 (Newfoundland and Labrador) provides, in relevant part, that in the event that an offering memorandum (such as this Offering Memorandum), contains a Misrepresentation, without regard to whether the purchaser relied upon the Misrepresentation, the purchaser has, subject to certain limitations and defences, a statutory right of action for damages against the Trust and, subject to certain additional defences, every director of the Trust at the date of the offering memorandum and every person who signed the offering memorandum or, alternatively, may elect instead to exercise a statutory right of rescission against the Trust, in which case the purchaser shall have no right of action for damages against the Trust, directors of the Trust or persons who have signed the offering memorandum, provided that, among other limitations:
 
 - (a) no person will be liable if it proves that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - (b) in the case of an action for damages, no person will be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - (c) in no case will the amount recoverable in any action exceed the price at which the securities were offered to the purchaser.
 
 #### **_Rights of Subscribers in Prince Edward Island, Northwest Territories, Yukon and Nunavut_**
@@ -2930,9 +2756,7 @@ RHH, an experienced real estate developer incorporated in Ontario on October 10,
 To the Trust’s knowledge, no director, executive officer or control person of RHH, or any issuer of which any of those persons was a director, executive officer or control person has:
 
 - (a) during the last 10 years, been subject to any penalty or sanction, or any cease trade order that has been in effect for a period of more than 30 consecutive days;
-
 - (b) during the last 10 years, made a declaration of bankruptcy, voluntary assignment in bankruptcy, proposal under any bankruptcy or insolvency legislation, proceedings, arrangement or compromise with creditors, or appointed a receiver, receiver-manager or trustee to hold assets; or
-
 - (c) ever pled guilty to, or been found guilty of (i) a summary conviction or indictable offence under the Criminal Code (Canada); (ii) a quasi-criminal offence in any jurisdiction of Canada or a foreign jurisdiction; (iii) a misdemeanour or felony under the criminal legislation of the United States of America, or any state or territory of the United States of America; or (iv) an offence under the criminal legislation of any other foreign jurisdiction.
 
 #### Sandstones Condo Trust (2257 Kingston Road, Toronto, Ontario)
@@ -2981,9 +2805,7 @@ Equiton Development Inc., incorporated under the laws of Ontario on March 31, 20
 To the Trust’s knowledge, no director, executive officer or control person of Equiton Development Inc., or any issuer of which any of those persons was a director, executive officer or control person has:
 
 - (a) during the last 10 years, been subject to any penalty or sanction, or any cease trade order that has been in effect for a period of more than 30 consecutive days;
-
 - (b) during the last 10 years, made a declaration of bankruptcy, voluntary assignment in bankruptcy, proposal under any bankruptcy or insolvency legislation, proceedings, arrangement or compromise with creditors, or appointed a receiver, receiver-manager or trustee to hold assets; or
-
 - (c) ever pled guilty to, or been found guilty of (i) a summary conviction or indictable offence under the Criminal Code (Canada); (ii) a quasi-criminal offence in any jurisdiction of Canada or a foreign jurisdiction; (iii) a misdemeanour or felony under the criminal legislation of the United States of America, or any state or territory of the United States of America; or (iv) an offence under the criminal legislation of any other foreign jurisdiction.
 
 <!-- page 134 -->
@@ -3062,15 +2884,10 @@ Those charged with governance are responsible for overseeing the Trust’s finan
 As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
 
 - Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
-
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Trust’s internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Trust’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Trust to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
-
 - Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the Trust to express an opinion on the consolidated financial statements. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinion.
 
 We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
@@ -3333,7 +3150,6 @@ Tenant improvements are costs incurred to make leasehold improvements to the ten
 Tenant incentives include cash payments, the buy-out of previous lease obligations, and payment of moving expenses. Tenant incentives are recognized as a receivable and amortized as a reduction of rental revenue over the initial term of the related leases. These receivables are included in investment properties and are considered in the determination of the fair value of the investment properties.
 
 - _iv)_ _Rent free or lower than market rate rents_ Incentives in the form of free rent or lower than market rate rent form part of the straightline rent adjustments. The accounting of straight-line rents is described in the revenue recognition note.
-
 - _v)_ _Marketing costs_ Marketing costs include advertising, space plans, credit checks and promotion costs. These costs are expensed as incurred.
 
 The Trust may incur certain significant costs for repair or replacement items that are recoverable from tenants. If such costs incurred meet the criteria for betterment, they are capitalized to investment properties in the period incurred. Otherwise, they are recognized as an operating expense in the statement of loss and comprehensive loss in the period incurred.
@@ -3391,7 +3207,6 @@ In accordance with IFRS 9, ‘Financial Instruments’, financial assets are req
 A financial asset is measured at amortized cost if it meets both of the following conditions
 
 - i) It is held within a business model whose objective is to hold assets to collect contractual cash flows; and
-
 - ii) The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
 
 The Trust’s financial assets are recognized initially at fair value and subsequently at amortized cost using the effective interest method. Financial assets subsequently measured at amortized cost consist of cash, restricted cash, accounts receivable, due from related parties and mortgage receivable. The investment in Sandstones Condo Trust does not meet the criteria for amortized cost measurement and is subsequently measured at fair value through profit and loss.
@@ -3427,9 +3242,7 @@ Fair value measurements recognized in the statement of financial position are ca
 The fair value hierarchy for measurement of assets and liabilities is as follows:
 
 - Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
-
 - Level 2 - Inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly or indirectly.
-
 - Level 3 - Inputs for the asset or liability that are not based on observable market data.
 
 The fair value of cash, restricted cash, accounts receivable, mortgages receivable, due from/to related parties, payables, customer deposits, due to RHH Rental Properties Ltd., unit subscriptions held in trust, security deposit and mortgages payable approximate their fair values due to the short-term to maturity of the financial instruments.
@@ -3476,9 +3289,7 @@ In addition, the computation of cost reimbursements from tenants for realty taxe
 In determining estimates of fair values for its investment properties, the assumptions underlying estimated values are limited by the availability of comparable data and the uncertainty of predictions concerning future events. Should the underlying assumptions change, actual results could differ from the estimated amounts.
 
 - i. Property tenancies ii. Market rents iii. Market terminal capitalization rates iv. Discount rates
-
 - v. Direct capitalization rates vi. Economic environment and market conditions
-
 - vii. Market activity
 
 In determining the net recoverable estimate for the purpose of impairment testing, the assumptions of underlying estimated values are limited by the availability of comparable data and the uncertainty of prediction concerning future events. Should the underlying assumptions change, actual results could differ from the estimated amounts.
@@ -3520,11 +3331,8 @@ Estimates and judgments are continually evaluated and are based on historical ex
 The following accounting pronouncements, which have become effective and were adopted January 1, 2023, do not have a significant impact on the Trust’s financial results or financial position:
 
 - IFRS 17, ‘Insurance Contracts’
-
 - Disclosure of Accounting Policies (Amendments to IAS 1)
-
 - Definition of Accounting Estimates (Amendments to IAS 8)
-
 - Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Amendments to IAS 12)
 
 <!-- page 152 -->
@@ -3646,7 +3454,6 @@ The Trust’s indirect interests in the real estate inventory under development 
 Total deferred financing charges received in 2023 amounted to $51,553 (2022 - $37,600).
 
 - a) The mortgage receivable was formerly a second mortgage on real estate inventory under development in Guelph, Ontario and the property to which this mortgage receivable relates is 15% owned by the other co-owner (Note 8) in a joint arrangement by the same limited partnership as this Partnership. The mortgage receivable was extended and repaid in December 2023.
-
 - b) The mortgage receivable was issued during 2022 is the first mortgage issued to Sandstones Condo LP for the development of a multi-residential property in Toronto, Ontario. The interest rate is prime+280 basis points and the rate of interest must not fall below floor rate of 750 basis. The mortgage was extended and repaid in September 2023.
 
 In addition to the above, a $3,000,000 mortgage receivable was issued during the year to Vicinity Condos LP for the development of a multi-residential property in Toronto, Ontario. The interest rate is 9%, the mortgage was repaid early in September 2023.
@@ -3686,11 +3493,8 @@ The second mortgage payable is repayable as follows:
 ||$|8,744,450|
 
 - a) The first mortgage payable is an 85% share of the co-ownership’s interest payment only formerly held with First National Financial LP. The mortgage payable had a monthly interest payment only debt that bore interest at 6.0% until December 31, 2022 and 10% thereafter. The mortgage payable was collateralized by a first collateral mortgage over the property, registered general security agreement and general assignment of rents and leases for the property. The mortgage was repaid during the year.
-
 - b) The second mortgage payable is also with First National Financial LP. The loan bears interest at 4.43% and matures on April 1, 2027. The Trust must comply with its mortgage agreement. The Trust met the requirements of the mortgagor as at December 31, 2023 and 2022.
-
 - c) The third mortgage payable is with also with First National Financial LP. The loan bears interest at 6.61% and matures on October 1, 2028. The Trust must comply with its mortgage agreement. The Trust met the requirements of the mortgagor as at December 31, 2023 and 2022.
-
 - d) The fourth mortgage is an 85% share of the co-ownership’s construction loan with VersaBank that bears interest a prime plus 1.50% (8.70% as at December 31, 2023). The mortgage provides for advances of up to $35,250,000 to be advanced in three separate tranches.
 
 The Trust must comply with its mortgage agreement. The Partnership met the requirements of the mortgagor as at December 31, 2023 and 2022.

@@ -116,7 +116,8 @@ def cmd_chunk(args):
     paths = ChunkPaths()
     if args.out:
         out = Path(args.out)
-        paths = replace(paths, chunks=out / "chunks.jsonl", summary=out / "chunks_manifest.json")
+        paths = replace(paths, chunks=out / "chunks.jsonl", summary=out / "chunks_manifest.json",
+                        summary_dir=out / "manifests")
     summary = chunk_corpus(paths=paths, only=args.only)
     print(f"{summary['n_chunks']} chunks ({summary['n_boilerplate']} boilerplate, {summary['n_ocr']} from OCR pages, "
           f"{summary['n_page_sections']} with a page section), max {summary['max_tokens']} tokens")

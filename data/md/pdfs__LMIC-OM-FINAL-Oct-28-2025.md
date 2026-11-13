@@ -26,7 +26,7 @@ ocr_pages:
 - 93
 - 94
 - 95
-content_hash: 7e537f3ccd5dc7ae045151c571b1684787fdfe02088b8a2d79f495dd7967dc06
+content_hash: 3173daec237586935d30cce4411e536c33ec9a6d32017123f041421bfe54156c
 ---
 
 <!-- page 1 -->
@@ -119,29 +119,19 @@ Words importing the singular number only, include the plural and vice versa, and
 The following are definitions of certain terms used in this Offering Memorandum:
 
 - “ **Board of Directors** ” means the board of directors of the Corporation.
-
 - “ **Corporation** ” means Liahona Mortgage Investment Corp.
-
 - “ **DPSP** ” means a “deferred profit sharing” plan as defined under the Tax Act.
-
 - “ **DRIP** ” means the dividend reinvestment plan of the Corporation.
-
 - “ **FHSA** ” means a “first home savings account” as defined under the Tax Act.
-
 - “ **Investor** ” **or** “ **Subscriber** ” means a purchaser of Preference Shares pursuant to this Offering.
-
 - “ **LIF** ” means a “life income fund” as defined under the Tax Act.
-
 - “ **LIRA** ” means a “locked-in retirement account” as defined under the Tax Act.
-
 - “ **LRIF** ” means a “locked-in retirement income fund" as defined under the Tax Act.
 
 <!-- page 6 -->
 
 - “ **Manager** ” means Liahona Capital Inc.
-
 - “ **Manager Fee** ” has the meaning set forth in Section 2.7, “Material Contracts - Management Fees and Expenses”.
-
 - “ **MIC** ” means a “mortgage investment corporation” as defined under the Tax Act.
 
 “ **Offering** ” means the offering of Preference Shares in the capital of the Corporation pursuant to this Offering Memorandum.
@@ -151,19 +141,12 @@ The following are definitions of certain terms used in this Offering Memorandum:
 “ **Principal Holder** ” means a person who, directly or indirectly, beneficially owns or controls 10% or more of any class of voting securities of the Corporation.
 
 - “ **Registered Plans** ” means any one of FHSA, LIRA, LRIF, LIF, RDSP, RESP, RRIF, TFSA, DPSP and RRSP.
-
 - “ **RDSP** ” means a “registered disability savings plan” as defined under the Tax Act.
-
 - “ **RESP** ” means a “registered education savings plan” as defined under the Tax Act.
-
 - “ **RRIF** ” means a “registered retirement income fund” as defined under the Tax Act.
-
 - “ **RRSP** ” means a “registered retirement savings plan” as defined under the Tax Act.
-
 - “ **Shareholders** ” means holders of Preference Shares subscribed for pursuant to this Offering Memorandum.
-
 - “ **Tax Act** ” means the _Income Tax Act_ (Canada), R.S.C. 1985, c.1 (5th Supp.), as amended.
-
 - “ **TFSA** ” means a “tax free savings account” as defined under the Tax Act.
 
 <!-- page 7 -->
@@ -242,13 +225,9 @@ The funds that will be available to the Corporation from this Offering in accord
 ### **Notes:**
 
 1. The maximum offering size is $250,000,000 (250,000,000 Preference Shares.)
-
 2. After the first Closing under this Offering Memorandum, the Corporation will generally complete Closings within the first ten (10) calendar days of each month.
-
 3. This amount excludes the Manager Fee and assumes that no agents, securities dealers, brokers or other eligible persons, other than the Manager, will be retained and engaged by the Corporation to act as placement agent or otherwise receive any sales commission, a trailing commission or other compensation with respect to the distribution and sale of Preference Shares in connection with the Offering. See Section 2.7, “Material Contracts - Management Fees and Expenses” and Item 8, “Compensation Paid to Sellers and Finders”.
-
 4. Offering costs as shown are estimated expenses (currently estimated to be $120,000 for the current year of operations) relating to or incidental to the issue, sale and delivery of the Preference Shares pursuant to this Offering, including fees and disbursements of legal counsel and accountants, printing and other administrative costs associated with marketing the Preference Shares pursuant to this Offering Memorandum and the reasonable out of pocket expenses (including applicable taxes) of the Corporation in connection with such issue, sale and delivery.
-
 5. On March 8, 2024, the Corporation entered into an amended and restated loan agreement with a Canadian chartered bank, as amended by a first amending agreement dated August 9, 2024 and as further amended by a second amending agreement entered into on March 25, 2025, for a $6,000,000 revolving line of credit. See Section 4.3, “Long-Term Debt”. Further, on January 10, 2025, the Corporation commenced a continuous offering of unsecured subordinated promissory notes for up to a maximum aggregate $50,000,000 principal amount of Notes. See Section 4.2, “Debt Securities”.
 
 <!-- page 9 -->
@@ -318,19 +297,12 @@ The Manager is responsible for directing the affairs and managing the business o
 The Manager is responsible for the day-to-day mortgage investment and administrative services for the business of the Corporation, including the following:
 
 - a. to enter into agreements for the underwriting, pricing, negotiation, acquisition, administration, enforcement, collection, financial reporting and general administration relating to the mortgages and/or interests in mortgages and related rights and all ancillary agreements in connection therewith, and to sell, transfer, exchange, convey, or otherwise deal with or dispose of all or any part of the Corporation’s mortgages and/or interests in mortgages and related rights at such times, in such manner and on such terms as the Manager deems appropriate subject to adhering to the Corporation’s strategies, restrictions and policies as set forth in this Offering Memorandum. Specifically, the Manager will be required, among other things, to:
-
    1. use its reasonable commercial efforts to acquire investment opportunities consistent with the Corporation’s investment guidelines and objectives;
-
    2. underwrite mortgage applications and retain relevant information, including the terms and conditions of the acquired mortgage investments;
-
    3. service and administer those investments acquired by the Corporation, including monitoring the status and progress of such investments, maintaining records and accounts in respect of each investment, accounting for all amounts received on account of the Corporation’s interest in an investment, and on a monthly basis preparing a monthly statement of account in respect of all investments in which the Corporation has an interest;
-
    4. investigate, select and conduct relations with consultants, borrowers, lenders, mortgagors and other mortgage and investment participants, accountants, originators or brokers, correspondents and mortgage managers, technical advisers, lawyers, underwriters, brokers and dealers, corporate fiduciaries, escrow agents, depositories, custodians, agents for collection, insurers, insurance agents, banks, investors, builders and developers;
-
    5. employ, retain and supervise such persons and the services performed or to be performed by such persons in connection with the Corporation’s investments and to substitute any such party or itself for any other such party or for itself;
-
    6. manage the collection, handling, prosecuting and settling of any claims the Corporation may have with respect to its investments, including foreclosing and otherwise enforcing mortgages and other liens and security interests securing the Corporation’s investments;
-
    7. act on the Corporation’s behalf in connection with acquisitions or dispositions of investments, the execution of deeds, mortgages or other instruments in writing for or on the Corporation’s behalf
 
 <!-- page 12 -->
@@ -338,23 +310,16 @@ The Manager is responsible for the day-to-day mortgage investment and administra
 and the handling, prosecuting and settling of any claims relating to the Corporation’s investments including the foreclosure or other enforcement of any mortgage, lien or other security interest securing the Corporation’s investments;
 
    8. deliver portfolio reports with respect to the Corporation’s investments and provide any other information or documentation relating to such investments as may be reasonably requested or as may be required in accordance with the Offering Memorandum or the Management Agreement; and
-
    9. generally perform such other acts as are required for purposes of the administration of the Corporation’s investments;
-
 - b. to enter into agreements for the management and administration of the Corporation’s mortgages and/or interests in mortgages and related rights and to otherwise oversee the day-to-day mortgage investment and the mortgage administrative activities of the business of the Corporation;
-
 - c. to incur all reasonable expenditures; d. to employ and dismiss from employment any and all agents, independent contractors, managers, brokers, solicitors and accountants;
-
 - e. to open bank accounts for the Corporation, to designate and from time to time change the signatories to such accounts;
 
 f. to attend to all matters relating to the sale of Preference Shares or any other equity or debt securities of the Corporation including promissory notes of the Corporation in accordance with the _Securities Act_ (Ontario) and any other applicable securities legislation, law or policy including without limitation: (A) arranging, and facilitating the completion of, the sale of Preference Shares or any other equity or debt securities of the Corporation including promissory notes of the Corporation through exempt market dealers or other registrants; (B) overseeing investor relations and liaising with and instructing exempt market dealers or other registrants engaged to sell Preference Shares or any other equity or debt securities of the Corporation including promissory notes of the Corporation; (C) acting as transfer agent and registrar for the Preference Shares or any other equity or debt securities of the Corporation including promissory notes of the Corporation; and (D) reviewing and reporting to the holders of Preference Shares or any other equity or debt securities of the Corporation including promissory notes of the Corporation with respect to the financial statements and other information of the Corporation in accordance with the reporting obligations imposed upon the Corporation pursuant to this Offering Memorandum or otherwise under applicable legislation, law or policy;
 
 - g. subject to adhering to the Corporation’s investment strategies, operating restrictions and investment policies as set forth in this Offering Memorandum, to invest funds not immediately required for the operations of the Corporation in cash deposited with a Canadian chartered bank or in short term deposits, savings accounts or government guaranteed income certificates or treasury bills and to make recommendations to the Corporation to consider distributions of excess cash to holders of Preference Shares to the extent the Corporation is retaining too much cash on hand;
-
 - h. to submit the Corporation to binding arbitration with respect to any matters pertaining to the assets and undertakings of the Corporation;
-
 - i. to defend on behalf of the Corporation any and all actions and other proceedings brought against the Corporation or its assets and undertakings and to, in its sole discretion, settle on such terms as it deems advisable all such actions, and to consent to a judgment against the Corporation, provided that the effect of the consent would not be to materially or financially affect the business, assets or operations of the Corporation; and
-
 - j. to execute, acknowledge and deliver any and all instruments to effectuate any and all of the foregoing.
 
 <!-- page 13 -->
@@ -386,21 +351,15 @@ The Corporation, through the Manager, invests primarily in first and second mort
 assist with the purchase or refinancing of a property. It is expected that the majority of the Corporation’s investments will be in first and second mortgage loans.
 
 - (b) _Equity Loans_ – These loans are advanced to bridge the gap between the equity which is provided by a developer or purchaser and the amount available through conventional financing in the development or purchase of residential, commercial or industrial properties. These can also be “equity take-out” mortgages where an existing owner has built up equity in a property and wishes to extract cash funds by way of mortgaging that equity. Because of the typically higher risk, potential returns are significantly higher than conventional mortgage returns. Additional revenue is often realized through bonus payments, set up fees, etc. By their very nature, these are generally second or third position mortgage loans (i.e., loans secured by mortgages against title to land that rank second or third in priority behind other, usually conventional, loan facilities).
-
 - (c) _Construction Loans_ – These loans are advanced to finance the construction and development of residential and/or commercial properties. The loans are higher risk than loans on completed buildings. The loan to value of these types of loans will not exceed 75%.
-
 - (d) _Improvement Loans_ – These loans are advanced to finance completed or substantially completed buildings that will benefit by the property’s redevelopment, renovation, additions, etc. Typically, the funds are used to improve a property so that the overall value is substantively increased, its usability is enhanced, and/or its potential for increased revenue can be realized. While construction risk is substantially eliminated, the success of these projects is subject to market conditions.
-
 - (e) _Land Servicing Loans_ – These loans are advanced to finance the development of land zoned or approved for development. The development process often includes road construction, installation of services, utilities and other improvements required by the governing municipality. The funding of progress advances is usually carried out on a cost-to-complete basis. The initial advance under a land servicing loan may be made before development commences, but not before the property is zoned, approved or designated within a community plan by the municipality for the intended use. Because such loans are made at an early stage of the development, they tend to be higher risk and offer a higher return.
 
 The Corporation’s mortgage portfolio composition will vary over time depending on the Manager’s assessment of the appropriate strategy given overall market conditions and outlook. The Corporation will endeavor to build a mortgage portfolio that encompasses the following general characteristics:
 
 - a. property type and geographical diversification;
-
 - b. short-term loans and intermediate term loans;
-
 - c. amortized products with principal and interest generally repaid over a 10- to 35-year amortization period; and
-
 - d. loans in Canadian dollars on Canadian based real estate.
 
 Loans generally may not exceed twelve months. Interest is often set at a fixed rate or at a floating rate based on a margin over the prime lending rate of the Corporation’s bank, sometimes with a minimum specified rate. Loan to value, borrower credit history, borrower assets and liabilities, repayment ability of the borrowers (including confirmation of sufficient income and/or cash flow), job stability and marketability of the property and other factors are also part of the underwriting guidelines in setting the appropriate interest rate. Further, mortgage loans will not be advanced unless the underlying real estate securing the mortgage loan is sufficient to effect full repayment of principal in the event of default. The Corporation may share part of a mortgage investment with other lenders acceptable to the Corporation. By limiting its participation in large individual investments, the Corporation will have the benefits of increased portfolio diversification. It will also enable the Corporation to participate in the financing of larger real estate projects than would otherwise be possible.
@@ -418,23 +377,14 @@ The Corporation pursues a leveraged investment strategy by issuing debt obligati
 Subject to the right of the Corporation, in consultation and upon notice to the Manager, to revise the following restrictions from time to time, the Corporation has established certain restrictions on investments as follows:
 
 - (a) subject to clause (n) of “Investment Policies” below, the Corporation will not invest in securities, guaranteed investment certificates or treasury bills unless such securities, guaranteed investment certificates or treasury bills are issued by an arm’s-length party and are pledged as collateral in connection with mortgage investments or obtained by realizing on such collateral;
-
 - (b) the Corporation will not invest for the purposes of exercising control over management of any company or other entity;
-
 - (c) the Corporation will not guarantee the securities or obligations of any person;
-
 - (d) except for any obligations owing under the Management Agreement, the Corporation will not enter into any transaction (i) between the Corporation and any person not dealing at arm’s length with the Corporation or the Manager or their respective directors, officers, employees or shareholders or (ii) for the benefit of any person not dealing at arm’s length with the Corporation or the Manager or any of their respective directors, officers, employees or shareholders;
-
 - (e) the Corporation will not make any loan or investment which does not meet the “Canadian content” requirements of paragraph 130.1(6)(c) of the Tax Act;
-
 - (f) the Corporation will not engage in derivative transactions for any purpose;
-
 - (g) the Corporation will not lend money on the security of a mortgage unless an independent appraisal by a qualified appraiser of the real estate which is the primary collateral for the loan has been obtained;
-
 - (h) the Corporation will not develop or manage any real property;
-
 - (i) the cost amount to the Corporation of any real property of the Corporation, including any leasehold interests in such property (except real property acquired by foreclosure or other enforcement of its rights as mortgagee) shall not exceed 25% of the cost amount to it of all of its property; and
-
 - (j) the Corporation will not otherwise conduct its business in a manner that would cause the Corporation to fail to qualify as a MIC under the Tax Act or that would result in the Preference Shares not being a “qualified investment” for RRSPs, RRIFs RESPs, TFSAs, DPSPs, FHSAs, LIRAs, LRIF, LIFs or RDSPs under the Tax Act (see Item 7, “Income Tax Consequences and Registered Plan Eligibility”).
 
 ## **_Investment Policies_**
@@ -444,31 +394,18 @@ The Corporation has adopted certain policies which establish the investment crit
 <!-- page 16 -->
 
 - (a) the Corporation’s only undertaking will be to invest the Corporation’s funds in accordance with its investment strategies and policies and operating restrictions contained in this Offering Memorandum, as may be amended from time to time as set forth below under “Changes to Investment Strategies, Operating Restrictions and Investment Policies”;
-
 - (b) the Corporation will make loans in amounts up to 85% of the fair market value of the mortgaged property, unless special circumstances warrant exceeding that threshold; fair market value will be primarily based on the most recent sales comparison as determined by an independent professional appraiser who possesses either a Canadian Residential Appraiser (CRA) or Accredited Appraiser Canadian Institute (AACI) designation);
-
 - (c) the Corporation may from time to time engage in bridge financing activities including the financing of new home construction;
-
 - (d) up to 30% of the Corporation’s mortgage investments may be held in commercial mortgages (i.e., means mortgages that are principally secured by multi-family housing projects, residential land developments, mixed-use properties and income-producing properties that have retail, commercial, service, office and/or industrial uses);
-
 - (e) the Corporation may buy or sell mortgages in the secondary market, or hold a fractional interest in a mortgage, or participate in mortgage syndications but only in limited circumstances and subject to approval by the Board of Directors;
-
 - (f) the Corporation will obtain a Phase I environmental audit where there is a reasonable possibility of environmental contamination that might impact the value and marketability of the property;
-
 - (g) the Corporation will obtain title insurance in respect of real property provided as security for a mortgage loan in such amounts and on such terms as the Manager considers appropriate or, in the alternative, will obtain a favourable title opinion from a solicitor;
-
 - (h) the Corporation shall at all times have policies and procedures in place to verify the identity of prospective borrowers in order to reduce the Corporation’s exposure to the risks of mortgage fraud and money laundering activities;
-
 - (i) the Manager enacts measures to pursue any defaults by borrowers in a fashion and manner deemed appropriate by the Manager based on the circumstances of such loans;
-
 - (j) mortgages in which the Corporation invests may contain clauses permitting the mortgagor, when not in default, to renew the mortgage for additional terms at the sole discretion of the Manager and not the borrower;
-
 - (k) all mortgages will, following funding, be registered, subject to regulatory compliance, on title to the subject property in the name of any of the Corporation, the Manager, their respective affiliates or a nominee for the Corporation or the Manager;
-
 - (l) the Manager shall apply known and established procedures in the evaluation of mortgage opportunities being made available to the Corporation;
-
 - (m) the Corporation targets holding a cash or near cash position no greater than the lesser of: (i) approximately 10% of its total assets or (ii) $3 million; and
-
 - (n) to the extent that the Corporation’s funds are not invested in mortgages from time to time, they will be held in cash deposited with a Canadian chartered bank or will be invested by the Manager on the Corporation’s behalf in short term deposits, savings accounts or government guaranteed income certificates or treasury bills so as to maintain a level of working capital for the Corporation’s ongoing operations considered acceptable by the Board of Directors.
 
 <!-- page 17 -->
@@ -540,11 +477,8 @@ On June 27, 2025, the articles of the Corporation was amended to remove the rest
 As at June 30, 2025, 66 individual mortgages are held by the Corporation and the total assets under administration is $64,379,357.71. Further, as at June 30, 2025, and the Corporation’s portfolio of mortgages has an average loan size of $975,444.81. Further, as at June 30, 2025 with respect to the mortgages in the Corporation’s mortgage portfolio:
 
 - (a) the average of the interest rates payable under the mortgages, weighted by the principal amount of the mortgages, is 9.80%;
-
 - (b) the average of the terms to maturity of the mortgages, weighted by the principal amount of the mortgages, is 7.19 months;
-
 - (c) the average loan-to-value of the mortgages (calculated for each mortgage by dividing the total principal amount of the Corporation’s mortgage and all other loans ranking in equal or greater priority to the Corporation’s mortgage by the fair market value of the property), weighted by the principal amount of each mortgage, is 62.67%;
-
 - (d) a total principal amount of $57,205,339.21 (representing 88.86% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) rank in first priority and a total principal amount of $7,174,018.50
 
 <!-- page 20 -->
@@ -552,13 +486,9 @@ As at June 30, 2025, 66 individual mortgages are held by the Corporation and the
 (representing 11.14% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) rank in second priority;
 
 - (e)
-
    - all mortgages in the Corporation’s mortgage portfolio are attributable to properties located in Ontario;
-
 - (f) 55 mortgages with a total principal amount of $48,946,986.44 (representing 76.03% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) are attributable to residential mortgages1 , three (3) mortgages with a total principal amount of $3,328,000.00 (representing 5.17% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) are attributable to commercial mortgages, six (6) mortgages with a total principal amount of $9,514,371.27 (representing 14.78% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) are attributable to construction loans and two (2) mortgages with a total principal amount of $2,590,000.00 (representing 4.02% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) are attributable to land servicing loans;
-
 - (g) 62 mortgages with a total principal amount of $61,232,200.31 (representing 95.11% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) will mature in less than one (1) year;
-
 - (h) six (6) mortgages with a total principal amount of $3,165,657.40 (representing 4.92% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) have payments more than 90 days overdue:
 
 |**Property Type**|**Province**|**Principal** **Amount**|**Interest** **Rate**|**Maturity Date**|**LTV**|**% of** **Portfolio**|**Priority**|
@@ -573,11 +503,8 @@ As at June 30, 2025, 66 individual mortgages are held by the Corporation and the
 ### **Notes:**
 
    1. Borrower defaulted on its mortgage loans on October 1, 2024. The Manager is currently working with the borrower to secure alternate financing or sell the underlying properties. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loans (including accrued interest and fees) is $1,987,446.59.
-
    2. Borrower has sold the underlying property and closing of the sale will take place on the date hereof. Management reasonably expects to recover all of the principal and interest owing under the mortgage loan.
-
    3. Borrower defaulted on its mortgage loan on October 15, 2024. The Manager is currently working with the borrower to secure alternate financing or sell the underlying property. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $1,165,734.25.
-
 - (i) eight (8) mortgages with a total principal amount of $8,482,017.17 (representing 13.18% of the total principal amount of all mortgages in the Corporation’s mortgage portfolio) have impaired value; and
 
 |**Property Type**|**Province**|**Principal** **Amount**|**Interest** **Rate**|**Maturity Date**|**LTV**|**% of** **Portfolio**|**Priority**|
@@ -601,21 +528,13 @@ As at June 30, 2025, 66 individual mortgages are held by the Corporation and the
 ### **Notes:**
 
    1. Borrower defaulted on its mortgage loan on June 15, 2024. The Corporation is currently preparing for the sale of the underlying property. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $1,272,239.99, which management reasonably expects to recover in full.
-
    2. Borrower defaulted on its mortgage loan on September 15, 2024. The Corporation initiated power of sale proceedings on May 1, 2025. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $1,110,556.22, which management reasonably expects to recover in full.
-
    3. Borrower defaulted on its mortgage loan on July 15, 2024. The Corporation is currently preparing for the sale of the underlying property. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $989,446.77, which management reasonably expects to recover in full.
-
    4. Borrower defaulted on its mortgage loan on July 15, 2024. The Corporation is currently preparing for the sale of the underlying property. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $861,166.08, which management reasonably expects to recover in full.
-
    5. Borrower defaulted on its mortgage loan on August 15, 2024. The Corporation is currently preparing for the sale of the underlying property. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $1,216,383.86, which management reasonably expects to recover in full.
-
    6. Borrower defaulted on its mortgage loan on November 25, 2024. The Corporation initiated power of sale proceedings on December 9, 2024. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $294,934.13, which management reasonably expects to recover in full.
-
    7. Borrower defaulted on its mortgage loan on May 1, 2025. The Corporation initiated power of sale proceedings on April 8, 2025. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $3,029,688.00, which management reasonably expects to recover in full.
-
    8. Borrower defaulted on its mortgage loan on November 25, 2024. The Corporation initiated power of sale proceedings on December 9, 2024. As at the date of this Offering Memorandum, the total amount outstanding under the mortgage loan (including accrued interest and fees) is $385,244.83, which management reasonably expects to recover in full.
-
 - (j) the average credit score of borrowers, weighted by the principal amount of the mortgages, is 702.
 
 ## **_Portfolio Performance_**
@@ -694,11 +613,8 @@ For the fiscal years ended December 31, 2023 and December 31, 2024, the Manager 
 The Management Agreement is for an indefinite term. It may be terminated by the Corporation in the event of:
 
 - (a) the bankruptcy or insolvency of the Manager, or if the Manager either voluntarily or under an order of a court of competent jurisdiction makes a general assignment for the benefit of its creditors or otherwise acknowledges its insolvency;
-
 - (b) the Manager does not have any required registrations or licenses to carry out its obligations as set out in the Management Agreement and is unable to make any other satisfactory arrangements on behalf of the Corporation;
-
 - (c) the Manager’s negligence, wilful misconduct or bad faith which results in a material adverse impact on the Corporation; or
-
 - (d) as otherwise required at law.
 
 The Manager may terminate the Management Agreement by giving the Corporation no less than 90 days’ prior written notice of its intention to resign and to terminate the Management Agreement.
@@ -732,9 +648,7 @@ The following table sets out information as at the date of this Offering Memoran
 ### **Notes:**
 
 1. The information as to securities beneficially owned as at the date of this Offering Memorandum has been furnished by the respective directors and officers.
-
 2. Directors and/or officers of the Corporation may acquire Preference Shares pursuant to the Offering. In this connection, as at the date of this Offering Memorandum, Robert Chaggares personally holds 123,867 Preference Shares and beneficially holds 1,252,000 Preference Shares through his professional corporation. Additionally, Aaron Rumley beneficially holds all of his Preference Shares through his professional corporation but does not hold any Preference Shares personally.
-
 3. The directors and officers of the Corporation do not receive compensation in their capacity as directors or officers.
 
 ## **3.2 Management Experience**
@@ -794,9 +708,7 @@ The following table sets out information about the Corporation’s outstanding s
 ### **Notes:**
 
 1. The holders of the common shares are entitled to one vote for each common share held at all meetings of shareholders of the Corporation, other than meetings at which only the holders of another class or series of shares are entitled to vote separately as a class or series. The holders of common shares shall not be entitled to any dividends. The holders of the common shares shall be entitled, subject to the prior rights of the holders of the Preference Shares, to receive the remaining property of the Corporation in the event of any distribution of assets of the Corporation among its shareholders arising on the voluntary or involuntary liquidation, dissolution or winding-up of the Corporation, or any other distribution of its assets among its shareholders for the purpose of winding-up its affairs.
-
 2. As of the date of this Offering Memorandum, the Corporation has an aggregate of 1,000,000 fully paid common shares issued and outstanding. The Principal Holders of the Corporation are Robert Chaggares and Aaron Rumley, each of whom hold 250,000 common shares. The Corporation and each holder of common shares (including the Principal Holders) are party to a shareholders’ agreement effective as of March 31, 2022 setting forth the manner in which certain affairs of the Corporation shall be conducted and governing certain matters related to the common shareholdings.
-
 3. See Section 5.1, “Terms of Securities - Rights Attaching to the Preference Shares” for description of the rights attaching to the Preference Shares.
 
 ## **4.2 Debt Securities**
@@ -889,7 +801,6 @@ Notwithstanding the articles of the Corporation, the Corporation has adopted a r
 Further, under this policy, the Redemption Price for Preference Shares tendered for redemption pursuant to a Redemption Notice will be reduced:
 
 - (i) by 3.00% of the original purchase price of such Preference Shares held for less than six (6) months at the Redemption Date; and
-
 - (ii) by 1.50% of the original purchase price of such Preference Shares held for less than twelve (12) months but greater than six (6) months at the Redemption Date.
 
 <!-- page 32 -->
@@ -1003,19 +914,12 @@ Subscribers who wish to purchase Preference Shares will be required to enter int
 You may subscribe for Preference Shares by delivering the following documents to us at the address shown in the Subscription Agreement:
 
 - (a) completed and executed Subscription Agreement in the form provided with this Offering Memorandum;
-
 - (b) wire transfer payable to the Corporation in the amount of the subscription price for the Preference Shares; and
-
 - (c) in the case of an investor that is relying on the offering memorandum exemption to purchase Preference Shares:
-
    - a. a completed and executed Form 45-106F4 – Risk Acknowledgement;
-
    - b. if required, a completed and executed Schedule 1 to Form 45-106F4;
-
    - c. if required, a completed and executed Schedule 2 to Form 45-106F4; and
-
    - d. if required, a completed and executed Certificate of Eligible Investor; or
-
 - (d) in the case of an investor that is relying on the accredited investor exemption to purchase Preference Shares, a completed and executed Certificate of Accredited Investor and, if required, a completed and executed Form 45-106F9 – Risk Acknowledgement for Individual Accredited Investors appended to the Certificate of Accredited Investor; or
 
 <!-- page 37 -->
@@ -1078,27 +982,18 @@ This summary is based upon the facts set out in this Offering Memorandum, the cu
 This summary is based on the assumption that the Corporation meets certain conditions which are imposed by the Tax Act to qualify as a “mortgage investment corporation” (“ **MIC** ”). These conditions will generally be satisfied if, throughout a taxation year of the Corporation; or, in the Corporation’s first taxation year, at the end of such first taxation year:
 
 - (a) the Corporation is a Canadian corporation as defined in the Tax Act;
-
 - (b) the Corporation’s only undertaking was the investing of funds, and it did not manage or develop any real property;
-
 - (c) no debts were owing to the Corporation by non-residents of Canada, except any such debts that were secured on real property situated in Canada;
-
 - (d) the Corporation did not own shares of corporations not resident in Canada;
-
 - (e) the Corporation did not hold real property situated outside of Canada;
-
 - (f) no debts were owing to the Corporation that were secured on real property situated outside of Canada;
-
 - (g) the cost amount of the Corporation’s property consisting of mortgages on “houses” or on property included within a “housing project” (as those terms are defined in section 2 of the _National Housing Act_ (Canada)), deposits with a bank or other corporations whose deposits are insured by the Canada Deposit Insurance Corporation or a credit union, together with cash on hand (collectively, the “ **Qualifying Property** ”), was at least 50% of the cost amount to it of all of its property;
-
 - (h) the cost amount of real property (including leasehold interests therein but excluding real property acquired as a consequence of foreclosure or defaults on a mortgage held by the Corporation) owned by the Corporation did not exceed 25% of the cost amount to it of all of its property;
-
 - (i) the Corporation had 20 or more shareholders and no person would have held more than 25% of the issued shares of the capital stock of the Corporation or been a specified shareholder (as such term is defined in subsection 130.1(6) of the Tax Act) of the Corporation;
 
 <!-- page 40 -->
 
 - (j) holders of any Preference shares had a right, after payment of their dividends, and payment of dividends in a like amount per share to the holders of common shares, to participate _pari passu_ with the holders of common shares in any further payment of dividends; and
-
 - (k) where at any time in the year (or at the end of the year, as the case may be) the cost amount to it of its Qualifying Property was less than 2/3 of the cost amount to it of all of its property, the Corporation’s liabilities did not exceed three times the amount by which the cost amount to it of all of its property exceeded its liabilities, or, where throughout the taxation year (or at the end of the year, as the case may be) the cost amount to it of its Qualifying Property equaled or exceeded 2/3 of the cost amount of all of its property, the Corporation’s liabilities did not exceed five times the amount by which the cost amount to it of all of its property exceeded its liabilities.
 
 It has been assumed for the purpose of this summary that the Corporation will qualify as a MIC in accordance with conditions prescribed in the Tax Act at all times that are relevant to the opinions expressed herein. Based upon certain representations by the Corporation as to the nature, location and cost amounts of the Corporation’s assets and liabilities, as to the shareholders of the Corporation and as to the range of activities which the Corporation will undertake in the course of carrying on its activities (the “ **Representations** ”), it is anticipated that the Corporation will meet the requirements for qualification as a MIC under the Tax Act at the closing of this Offering and will continue to so qualify thereafter provided the Representations continue to be true throughout each of the Corporation’s subsequent taxation years. Purchasers are cautioned that the Corporation must meet the requirements under the Tax Act to be a MIC on a continuous basis throughout each taxation year in order to avail itself of the provisions of the Tax Act as to the taxation of dividends outlined herein. The Corporation expects that the Representations will continue to be true throughout each of the Corporation’s subsequent taxation years such that the Corporation will continue to so qualify.
@@ -1180,9 +1075,7 @@ In addition to the factors set forth elsewhere in this Offering Memorandum, pros
 Risks that are specific to the Preference Shares being offered under this Offering include:
 
 - (a) **_Absence of Market for Preference Shares_** – There is no public market for the Preference Shares. The Preference Shares are not listed on a stock market or quoted on any public market in Canada or elsewhere.
-
 - (b) **_Redemption Liquidity_** – Shareholders have the right to require the Corporation to redeem the Preference Shares upon appropriate notice from the Shareholder to the Corporation with the guidelines set forth in Section 5.1, “Terms of Securities - Rights Attaching to the Preference Shares - Redemption at the Option of the Holder”. The Corporation provides no assurance that any Shareholder will be able to affect the redemption of any or all of their Preference Shares at any time. Redemption of the Preference Shares is subject to the Corporation having access to sufficient excess cash, or other liquid assets, and being in compliance with the applicable corporate, tax and securities legislation.
-
 - (c) **_No Guarantees_ –** There is no assurance that the Corporation will be able to pay dividends at levels targeted by the Corporation or at all. The funds available for distribution to the Shareholders will vary according to many factors, notably the interest and principal payments received in respect of mortgage
 
 <!-- page 44 -->
@@ -1190,7 +1083,6 @@ Risks that are specific to the Preference Shares being offered under this Offeri
 loans held by the Corporation and the rate of return on the Corporation’s cash balances. Although mortgage loans made by the Corporation are carefully selected by the Manager, there can be no assurance that such loans will have a guaranteed rate of return to investors or that losses will not be suffered on one or more loans. Moreover, at any point in time, the interest rates being charged for mortgages are reflective of the general level of interest rates and, as interest rates fluctuate, it is expected that the aggregate yield on mortgage investments will also change. In the event that additional security is given by the borrower or that a third party guarantees the mortgagor’s obligations, there is no assurance that such additional security or guarantee will be sufficient to make the Corporation whole if and when resort is to be had thereto.
 
 - (d) **_Lack of Separate Legal Counsel_** – The Investors, as a group, have not been represented by separate counsel. Neither counsel for the Corporation nor counsel for the Manager purports to have acted for the Investors or to have conducted any investigation or review on their behalf.
-
 - (e) **_Leverage by the Corporation_** –The Corporation may from time to time borrow under loans with Canadian chartered banks and others. See Section 2.2, “The Business - Investment Strategies”. As at the date of this Offering Memorandum, the Corporation maintains a line of credit with a certain Canadian chartered bank. See Section 4.3, “Long-Term Debt”. The Corporation has also issued unsecured subordinated promissory notes pursuant to a promissory note offering commenced on January 10, 2025. See Section 4.2, “Debt Securities”. The obligations under such loans may be secured, and while the addition of leverage has the potential to enhance returns, it also involves additional risks. For example, due to the varying loan maturities and constant fluctuations in interest rates, there is no assurance that the interest received by the Corporation on its mortgage investments will always exceed the interest the Corporation pays on loans that it may have previously taken out to finance mortgage investments. Therefore, there can be no assurance that the leveraging employed by the Corporation will enhance returns, and to the extent that secured lenders realize on their respective collateral, they will have right to receive distributions in priority to the Shareholders in addition to the right to seize mortgage assets pursuant to security agreements with the Corporation.
 
 ## **9.2 Corporation Risk**
@@ -1198,7 +1090,6 @@ loans held by the Corporation and the rate of return on the Corporation’s cash
 Risks that are specific to the Corporation include the following:
 
 - (a) **_MIC Tax Designation_ -** The Corporation intends to use reasonable commercial efforts to ensure that the Corporation qualifies as a MIC pursuant to the Tax Act. As well, the Board of Directors has the discretion to reject any applications for stock dividends or share subscriptions, transfers or redemptions. **There can be no assurance, however, that the Corporation will be able to meet the Tax Act’s MIC qualifications at all material times.** As an entity qualified as a MIC, the Corporation may deduct taxable dividends it pays from its income, and the normal gross-up and dividend tax credit rules will not apply to dividends paid by the Corporation on the Preference Shares. Rather, the dividends will be taxable in the hands of the Shareholders as if they had received an interest payment. If for any reason the Corporation fails to maintain its MIC qualification in a particular year, the dividends paid by the Corporation on the Preference Shares would cease to be deductible from the income of the Corporation for that year and the dividends it pays on the Preference Shares would be subject to the normal gross-up and dividend tax credit rules. In addition, the Preference Shares might cease to be qualified investments for trusts governed by Registered Plans with the effect that a penalty tax would be payable by the Subscriber.
-
 - (b) **_Reliance on Third Parties_ -** In assessing the risk of an investment in the Corporation, potential investors should be aware that they will be relying on the good faith, experience and judgment of certain staff of the Manager. Should these staff be unable or unwilling to continue their employment with the Manager, this could have an adverse effect on the Corporation’s business, financial condition and results of its operations, which in turn may adversely affect the Corporation’s ability to perform its obligations and its ability to maintain dividends on the Preference Shares at a consistent and desirable level. The
 
 <!-- page 45 -->
@@ -1230,7 +1121,6 @@ There are also risks faced by the Corporation related to the industry in which i
 Such third parties may have greater name recognition and greater financial, managerial and technical resources than the Corporation. Competitors may reduce the interest rates that they charge, resulting in a reduction in the Corporation’s share of the market, reduced interest rates on loans and reduced profit margins.
 
 - (b) **_Sensitivity to Interest Rates_** _–_ It is anticipated that the value of the Corporation’s investment portfolio at any given time may be affected by the level of interest rates prevailing at such time. The Corporation’s income will consist primarily of interest payments on the mortgages comprising the Corporation’s investment portfolio. If there is a decline in interest rates (as measured by the indices upon which the interest rates of the Corporation’s mortgage assets are based), the Corporation may find it difficult to make a mortgage loan bearing acceptable rates. There can be no assurance that an interest rate environment in which there is a significant decline in interest rates would not adversely affect the Corporation’s business, financial condition and results of operations which in turn may adversely affect the Corporation’s ability to perform its obligations and its ability to maintain dividends on the Preference Shares at a consistent and desirable level. Due to the term of the mortgages made by the Corporation and the inability to accurately predict the extent to which the Corporation’s mortgages may be prepaid, it is possible that the Corporation may not be able to sufficiently reduce interest rate risk associated with the replacement of such mortgages through new investments in mortgages.
-
 - (c) **_Changes in Property Values_** _–_ The Corporation’s mortgage loans will be secured by real estate, the value of which can fluctuate. The value of real estate is affected by general economic conditions, including inflation and interest rates, geopolitical conflicts, terrorism, trade disputes including tariffs, local real estate markets, the attractiveness of the property to tenants where applicable, competition from other available properties, fluctuations in occupancy rates, operating expenses and other factors. The value of income-producing real property may also depend on the credit worthiness and financial stability of the borrowers and/or the tenants. While independent appraisals will be required before the Corporation makes
 
 <!-- page 47 -->
@@ -1288,7 +1178,6 @@ The Corporation will not become a reporting issuer upon completion of this Offer
 Furthermore, unless permitted under securities legislation, in Manitoba, you must not trade the Preference Shares without the prior written consent of the regulator in Manitoba unless:
 
 - (a) the Corporation has filed a prospectus with the regulator in Manitoba with respect to the Preference Shares you have purchased and the regulator in Manitoba has issued a receipt for that prospectus, or
-
 - (b) you have held the Preference Shares for at least 12 months.
 
 The regulator in Manitoba will consent to your trade if the regulator is of the opinion that to do so is not prejudicial to the public interest.
@@ -1322,7 +1211,6 @@ You can cancel your agreement to purchase Preference Shares. To do so, you must 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation, every director of the Corporation at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1334,7 +1222,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation, every director of the Corporation at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1346,7 +1233,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation and a selling securityholder on whose behalf the distribution was made.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1360,7 +1246,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation and selling securityholder on whose behalf the distribution was made, every director of the Corporation at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1372,7 +1257,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation and selling securityholder on whose behalf the distribution was made.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1384,7 +1268,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares or have the purchase price for the Preference Shares revised; or
-
 - (b) for damages against the Corporation and selling securityholder on whose behalf the distribution was made, every officer and director of the Corporation, every person or company who signed this Offering Memorandum, every expert whose opinion containing a misrepresentation was filed respecting this Offering Memorandum, and every person or company that sold securities on behalf of the Corporation or selling securityholder under this Offering Memorandum.
 
 <!-- page 53 -->
@@ -1398,7 +1281,6 @@ If you intend to rely on the rights described in (a) and (b) above, you must do 
 If there is a misrepresentation in this Offering Memorandum, you have a statutory right to sue:
 
 - (a) the Corporation to cancel your agreement to buy the Preference Shares; or
-
 - (b) for damages against the Corporation and selling securityholder on whose behalf the distribution was made, every promoter and director of the Corporation or the selling securityholder at the time this Offering Memorandum was sent or delivered, every person or company whose consent was filed respecting this Offering Memorandum (but only with respect to reports, opinions or statements that have been made by them), every person or company who signed this Offering Memorandum, and every person or company that sold securities on behalf of the Corporation or selling securityholder under this Offering Memorandum.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Preference Shares.
@@ -1469,13 +1351,9 @@ Auditor's Responsibilities for the Audit of the Financial Statements
 Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with Canadian generally accepted auditing standards will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements. As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
 
 - Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
-
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
 
 We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
@@ -1632,9 +1510,7 @@ The financial statements were approved by the Board of Directors on behalf of th
 These financial statements are prepared in accordance with IFRS accounting standards as issued by the International Accounting Standards Board (IFRS accounting standards) which require management to make estimates and assumptions. These estimates and assumptions affect:
 
 - 1) the reported amounts of assets and liabilities at the date of the financial statement and;
-
 - 2) the disclosure of contingent assets and liabilities at the date of the financial statements and;
-
 - 3) the reported amounts of revenue and expenses for the period.
 
 These financial statements are based on the following material policies:
@@ -1825,7 +1701,6 @@ Deferred interest revenue represents interest paid in advance on mortgages. Thes
 Authorized:
 
 - Unlimited number of Class A non-voting shares, purchasable for cancellation, retractable and
-
 - redeemable
 
 The following table details the transactions that occured during the year and total shares issued as at December 31, 2024.
@@ -1897,7 +1772,6 @@ At year end, 19.93% (2023 - 19.53%) of total mortgages were receivable from thre
 The Company classifies its financial assets in the following measurement categories:
 
 - those to be measured subsequently at fair value (either through other comprehensive income or through profit or loss), and
-
 - those to be measured at amortized cost.
 
 The classification depends on the entity’s business model for managing the financial assets and the contractual terms of the cash flows in accordance with IFRS 9.
@@ -1931,7 +1805,6 @@ Subsequent measurement of debt instruments depends on the Company’s business m
 Interest income from these financial assets is included in finance income using the effective interest rate method. Any gain or loss arising on derecognition is recognized directly in profit or loss and presented in other gains/(losses). Impairment losses are presented as separate line item in the statement of profit or loss.
 
 - FVOCI: Assets that are held for collection of contractual cash flows and for selling the financial assets, where the assets’ cash flows represent solely payments of principal and interest, are measured at FVOCI. Movements in the carrying amount are taken through OCI, except for the recognition of impairment gains or losses, interest income and foreign exchange gains and losses which are recognised in profit or loss. When the financial asset is derecognized, the cumulative gain or loss previously recognized in OCI is reclassified from equity to profit or loss and recognized in other gains/(losses). Interest income from these financial assets is included in finance income using the effective interest rate method. Impairment expenses are presented as separate line item in the statement of profit or loss.
-
 - FVTPL: Assets that do not meet the criteria for amortized cost or FVOCI are measured at FVTPL. A gain or loss on a debt investment that is subsequently measured at FVTPL is recognized in profit or loss and presented net within other gains/(losses) in the period in which it arises.
 
 **15**
@@ -2009,11 +1882,8 @@ IFRS S1 - General requirements for disclosure of sustainability-related financia
 In June 2023 the ISSB issued a new section requiring an entity to disclose information about its sustainability-related risks and opportunities. The section prescribes how an entity prepares and reports its sustainability-related financial disclosures with respect to the above and its impact on the entity's cash flows, access to finance or cost of capital over the short, medium or long term. These requirements include the disclosure of the following:
 
 - the governance processes, controls and procedures used to monitor, manage and oversee sustainability-related risks and opportunities;
-
 - the entity's strategy for managing these risks and opportunities;
-
 - the processes in place which enables the entity to identify, assess, prioritize and monitor these risks; and
-
 - the entity's performance in relation to these risks including any progress towards any targets the entity has set or is required to meet by law or regulation.
 
 **18**
@@ -2037,11 +1907,8 @@ b) climate-related opportunities available to the entity
 In addition the following disclosure is required:
 
 - the governance processes, controls and procedures used to monitor, manage and oversee climate-related risks and opportunities;
-
 - the entity's strategy for managing these risks and opportunities;
-
 - the processes in place which enables the entity to identify, assess, prioritize and monitor these risks, including whether and how these processes are integrated into and inform the entity's overall risk management process; and
-
 - the entity's performance in relation to these risks including any progress towards any targets the entity has set or is required to meet by law or regulation.
 
 The above new standards are effective for reporting periods beginning on or after January 1, 2024. Management is currently assessing the impact, if any, of the application of the above standards and the required disclosure for its December 31, 2024 reporting period.
@@ -2509,7 +2376,6 @@ Subs es mn ns t ds s s os us or managing the asset and the cash flow characteris
 Interest income from these financial assets is included in finance income using the effective interest rate method. Any gain or loss arising on derecognition is recognized directly in profit or os l s e d le e (e ed em in the statement of profit or loss.
 
 - FVOCI: Assets that are held for collection of contractual cash flows and for selling the financial assets, where the assets' cash flows represent solely payments of principal and interest, are measured at FVOCI. Movements in the carrying amount are taken through OCl, except for the recognition of impairment gains or losses, interest income and foreign exchange gains and losses which are recognised in profit or loss. When the financial asset is derecognized, the cumulative gain or loss previously recognized in OCl is reclassified from equity to profit or loss and recognized in other gains/(losses). Interest income from these financial assets is included in finance income using the effective interest rate method. Impairment expenses are presented as separate line item in the statement of profit or loss.
-
 - FVTPL: Assets that do not meet the criteria for amortized cost or FVOCI are measured at FVTPL. A gain or loss on a debt investment that is subsequently measured at FVTPL is recognized in profit or loss and presented net within other gains/(losses) in the period in which it arises.
 
 <!-- page 91 -->

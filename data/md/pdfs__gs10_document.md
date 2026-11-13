@@ -5,7 +5,7 @@ source: pdfs/gs10_document.pdf
 doc_type: listing
 as_of: '2026-08-24'
 pages: 1-7
-content_hash: 042b9f8161cb2117a8eb62f6575056d35bf5ba68e0fc822046f2ed0c21d7edfe
+content_hash: 0eb7e3b754ab92b1979955c1a4c0baa6564d013a5570907bfe997df4fb43823f
 ---
 
 <!-- page 1 -->
@@ -95,11 +95,8 @@ Owner-provided facts; buyer to verify with structural and building consultants.
 ## El Paseo-adjacent Downtown Edge flexibility
 
 - Architectural Landmark: A distinctive staple on the CA-74 / El Paseo corridor since December 1999.
-
 - Unmatched Location: Just two blocks from El Paseo, Mastro’s, and Porta Via.
-
 - Prestigious Recognition: Highly regarded across Palm Desert’s luxury enclave, including Bighorn and Stone Eagle.
-
 - Event & Lifestyle Exposure: Prime proximity to the Indian Wells Tennis Garden, polo fields, private aviation, and major Coachella Valley events.
 
 #### 3 STORIES

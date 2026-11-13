@@ -10,7 +10,7 @@ ocr_pages:
 - 7
 - 8
 - 13
-content_hash: 6ab21ef44fd4f0d72ed04436db3a8b3070e40c20cc61e2860179042ac285ae78
+content_hash: 9c74dcedabf11f9021f3f6b7fe1a4c3018c78eb47828a025aac65c30c30dd6ce
 ---
 
 <!-- page 1 -->
@@ -107,41 +107,23 @@ During the next five-year period, all but one of the major employment sectors wi
 ##### Denver County Major Employers
 
 - U.S. Government • Kaiser Permanente
-
 - State of Colorado
-
 - University of Colorado Systems
-
 - Denver Public Schools
-
 - City & County of Denver
-
 - HealthONE Corporation
-
 - SCL Health System
-
 - Lockheed Martin Corporation
-
 - CenturyLink
-
 - Centura Health
-
 - Denver Health
-
 - Comcast Corporation
-
 - Frontier Airlines
-
 - Children’s Hospital Colorado
-
 - United Airlines
-
 - Wells Fargo Bank
-
 - DISH Network
-
 - IBM Corporation
-
 - • Ball Corporation
 
 “Denver is the number one place for business & careers.”
@@ -183,49 +165,35 @@ Denver sees 300 days of sunshine per year. -Denver.org
 ###### Age
 
 - 47.63% of the population is under 34
-
 - 14.23% of the population is 65 or older
-
 - Median age is 36.61 years old
 
 ###### Gender
 
 - Females make up 51.66% of the population
-
 - Males make up 48.34% of the population
 
 ###### Race
 
 - White, 68.49% of the population
-
 - Hispanic, 22.46% of the population
-
 - African American, 11.36% of the population
-
 - American Indian, 0.13% of the population
-
 - Asian/Pacific Islander/Hawaiian, 5.56%
 
 ###### Housing
 
 - Total Households, 169,191
-
 - $300,273 median home sale price
-
 - $691 median gross rent
-
 - 2.22 persons per household
 
 ###### Population
 
 - $83,540 average household income
-
 - • 380,457 total population
-
 - 2.11% Unemployment rate
-
 - 72.86% White Collar Jobs
-
 - 26.59% Blue Collar Jobs
 
 <!-- page 13 -->

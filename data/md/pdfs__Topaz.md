@@ -14,7 +14,7 @@ ocr_pages:
 - 28
 - 34
 - 37
-content_hash: 5f1f69aa775e98bcb38b8facc2c1ef248450cbf134dcb04d7b5ea4605238fe1c
+content_hash: 0f7c3bf0b221c1dcfddae6a44ad11d20bf2895a4a9d3e0f158e6a5d2c44e1c2e
 ---
 
 <!-- page 1 -->
@@ -294,17 +294,11 @@ UCLA recently announced that 31 programs are slated to move into the 334,000-squ
 Seven of the 31 selected programs are scheduled to begin operating on the Downtown campus by June 2024:
 
 - UCLA Extension and Division of Continuing Education
-
 - UCLA Law Centers and Institutes Downtown Engagement Space
-
 - UCLA Pritzker Center DTLA Community Catalyst
-
 - UCLA Government and Community Relations satellite office
-
 - UCLA Voting Rights Project
-
 - Center for Justice and UCLA Prison Education Program
-
 - Advancing Worker Justice in Los Angeles
 
 <!-- page 20 -->
@@ -314,27 +308,16 @@ Seven of the 31 selected programs are scheduled to begin operating on the Downto
 In addition to UCLA’s new Downtown campus, Topaz is in proximity to campuses for Arizona State University, USC, FIDM, and Cal State Los Angeles. Including USC’s main campus, there is a combined enrollment of over 51,000 students and over 22,000 faculty and staff within three miles of the Property.
 
 - Branch campus for Marshall School of Business & Suzanne Dworak-Peck School of Social Work
-
 - Administrative offices and 500-space auditorium
-
 - Regional campus opened Fall 2021
-
 - 200 students and 50 faculty & staff
-
 - • Programs include Sidney Poitier New American Film School, Walter Cronkite School of Journalism & Mass Communication, and Sandra Day O’Connor College of Law
-
 - Branch campus with 500 students and 20 faculty & staff
-
 - Offers over 15 bachelor’s and master’s degree, certificates, and professional training programs
-
 - Recently became part of Arizona State University (ASU)
-
 - 10-acre main campus
-
 - 2,000 students and 170 faculty & staff
-
 - Recently acquired 334,000 SF Trust Building for its Downtown campus
-
 - First programs (7 of 31 identified to date) will commence operations in June 2024
 
 <!-- page 21 -->
@@ -374,49 +357,37 @@ No location in the country is better positioned to benefit from the global deman
 ##### **Ace Mission Studios**
 
 - Existing 18-acre campus that has filmed productions by Netflix, AppleTV, Disney, and Sony
-
 - 8 sound stages and 3 mill/flex spaces
-
 - 400,000 SF of sound stage, production, and support space
 
 ##### **7th & Mission Studios**
 
 - 95,000 SF studio building leased by AppleTV
-
 - Acquired by Nuveen in March 2023 for $85,000,000
 
 ##### **8th & Alameda Studios (Atlas Capital)**
 
 - 26-acre campus
-
 - 17 sound stages totaling 330,000 SF
-
 - 200,000 SF office space
-
 - 300,000 SF stage support space
 
 ##### **ADLA Campus (East End Capital)**
 
 - 15-acre campus
-
 - 16 sound stages containing over 309,000 SF
-
 - 292,000 SF office space
-
 - 106,000 SF production support space
 
 ##### **Alameda Crossing Studios (Prologis)**
 
 - 8.2-acre campus
-
 - 10 sound stages totaling 178,500 SF
-
 - 291,000 SF office & support space
 
 ##### **Mission LA Campus Studios (East End Capital)**
 
 - 5 sound stages totaling 108,000 SF
-
 - 105,000 SF office space
 
 <!-- page 23 -->

@@ -6,7 +6,7 @@ doc_type: fund_om
 as_of: '2020-12-31'
 version_of: pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23
 pages: 1-65
-content_hash: 0a5a28d9f5844b7bf6b963b8cbfdc8d93d4e5ebc9b4acb838b7be35bee3c1117
+content_hash: b6676fe725c93a17ea498ef7774f5ad2390bf3e3451a393f92477d6a4a4cb8f3
 ---
 
 <!-- page 1 -->
@@ -92,11 +92,8 @@ All Cayman Islands "Financial Institutions" are required to comply with the regi
 The AEOI Regulations require the Fund to, amongst other things (i) register with the United States Internal Revenue Service (" **IRS** ") to obtain a Global Intermediary Identification Number (GIIN) (in the context of the US IGA only), (ii) register with the TIA, and thereby notify the TIA of its status as a "Reporting Financial Institution"; (iii) adopt and implement written policies and procedures setting out how it will address its obligations under CRS; (iv) conduct due diligence on its accounts to identify whether any such accounts are considered "Reportable Accounts", and (v) report information on such Reportable Accounts to the TIA. The TIA will transmit the information reported to it to the overseas fiscal authority relevant to a reportable account (e.g. the IRS in the case of a US Reportable Account) annually on an automatic basis. By investing (or continuing to invest) in the Fund, investors shall be deemed to acknowledge that:By investing (or continuing to invest) in the Fund, investors shall be deemed to acknowledge that:
 
 - (i) the Fund may require the investor to provide additional information and/or documentation to the Fund. The Fund’s compliance with the AEOI Regulations may result in the disclosure of investor information, and investor information may be exchanged with overseas fiscal authorities;
-
 - (ii) in the event an investor does not provide the requested information and/or documentation, whether or not that actually leads to compliance failures by the Fund, or a risk of the Fund or its investors being subject to tax or penalties under the relevant legislative or inter-governmental regime, the Fund reserves the right to take any action and/or pursue all remedies at its disposal including, without limitation, compulsory redemption of the investor concerned;
-
 - (iii) no investor affected by any such action or remedy shall have any claim against the Fund (or its agent) for any form of damages or liability as a result of actions taken or remedies pursued by or on behalf of the Company in order to comply with the US IGA, CRS or any agreements, laws or regulations entered into or implemented by the Cayman Islands for the purpose of ensuring and/or enhancing international tax transparency; and
-
 - (iv) the Fund will endeavour to satisfy the requirements imposed under FATCA, the US IGA, CRS and the AEOI Regulations to avoid any withholding tax. In the event that the Fund (or its agent) is not able to comply with the requirements imposed under FATCA, the US IGA, CRS and AEOI Regulations and the Fund does suffer
 
 <!-- page 6 -->
@@ -306,9 +303,7 @@ The Investment Advisor's objective is to provide shareholders of the Fund with r
 The Fund will focus principally on companies which the Investment Advisor believes have strong interest coverage ratios that:-
 
 - Sell at large discounts to net asset value, or
-
 - Sell at significant discounts to the Investment Advisor’s estimate of intrinsic value, or
-
 - Conform to the objective of having a portfolio of investments with higher quality and/ or predictability than the overall European equity market, but that have a valuation that is lower on average than the European equity market.
 
 <!-- page 16 -->
@@ -326,9 +321,7 @@ With effect from 24th January, 2014, the shareholders of the Fund have, by resol
 The Fund will not:-
 
 - (i) sell short securities not owned by the Fund;
-
 - (ii) purchase or sell derivatives except for hedging purposes; or
-
 - (iii) (iii) take management control of, or invest more than 10% of the Fund’s net assets in any one company unless, in the latter case only, that company is a fund which holds a diversified portfolio of securities.
 
 However, some of the companies in which the Fund invests may from time to time engage in one or more of the above activities.
@@ -556,9 +549,7 @@ The Fund does not intend to apply for any of its securities to be listed, dealt 
 Further information is contained in the following Appendices:
 
 - A. Share Capital and Rights B. I. Determination of Net Asset Value II. Conflicts of Interest III. Risk Factors IV. Suspension of Determination of the Net Asset Value of the Fund
-
 - C. Articles of Association - Directors D. Indemnities E. Amendments F. General Information
-
 - G. Data Protection Notice H. Documents Available for inspection
 
 An application form is enclosed with this Offering Memorandum.
@@ -604,43 +595,26 @@ The NAV Calculation Policy set out herein and outlines the pricing and valuation
 The following extract from the Articles of Association of the Fund sets out the provisions dealing with the method by which the Net Asset Value of the Fund is to be determined (in dollars):
 
 - “26. (a) The Net Asset Value of the Company shall be determined by the Directors as at each Valuation Day and on such other occasions as the Directors may direct and shall be the value as at such date of all the assets of the Company less all the liabilities of the Company calculated on the basis of this Article 26.
-
    - (b) The assets of the Company shall be deemed to include:-
-
       - (i) all stocks, shares, debentures, securities and financial instruments;
-
       - (ii) all securities owned or contracted for by the Company;
-
       - (iii) all cash on hand, on deposit, or on call including any interest accrued thereon;
-
       - (iv) all bills, demand notes, promissory notes and accounts receivable;
-
       - (v) all stock and cash dividends and cash distributions to be received by the Company and not yet received by it but declared payable to shareholders of record on a date on or before the days as of which the Net Asset Value is being determined;
-
       - (vi) all interest accrued on any interest-bearing securities owned by the Company up to the normal settlement date for such securities except to the extent that the same is included or reflected in, the principal value of such security;
-
       - (vii) all other investments of the Company;
-
       - (viii) the preliminary expenses of the Company, insofar as the same have not been written off; and
-
       - (ix) all other assets of the Company of every kind and nature, including prepaid expenses as valued and defined from time to time by the Directors.
 
 <!-- page 32 -->
 
 - (c) Without prejudice to paragraphs (d) and (g) below, the value of any units in any investment fund (whether in non-corporate or corporate form) shall be the latest mid-market price published by or on behalf of such fund thereof prior to, or coinciding with the date of, the relevant calculation of the Net Asset Value of the Company. The Directors of the Company shall have discretion to use the bid or offer price of any investment fund in calculating the Net Asset Value of the Company.
-
 - (d) Without prejudice to paragraph (g) below, the value of any securities listed on an exchange or traded through market makers may be their last reported mid-market, closing or bid prices as determined from time to time by the Directors using such reporting services as they may deem fit.
-
 - (e) The value of any cash on hand, on deposit, pre-paid expenses, cash dividends and interest declared or accrued and not yet received shall be deemed to be the full amount thereof unless in any case the Directors are of the opinion that the same is unlikely to be paid or received in full in which case the value thereof shall be subject to such adjustment as the Directors may consider appropriate in such circumstances to reflect the true value thereof.
-
 - (f) (i) The value of any demand notes, promissory notes and accounts receivable shall be deemed to be the face value or full amount thereof after making such adjustment as the Directors may consider appropriate to reflect the true current value thereof.
-
    - (ii) Certificates of Deposit, Treasury Bills, Bank Acceptances and Trade Bills shall be valued (on the basis of a notification to the Directors by a person approved by the Directors for the purposes of this paragraph whose business includes dealing in or effecting transactions in the relevant investment) according to the normal dealing practice therein and at the price of the relevant investment at the close of business on the Valuation Day.
-
 - (g) Notwithstanding paragraphs (c) and (d) above, the Directors may make separate calculations of Net Asset Value for subscription and redemption purposes and base the calculation for subscription purposes on offer prices and, for redemption purposes, on bid prices (adjusted for deemed disposal costs as the directors deem fair and equitable).
-
 - (h) Any investment or asset held by the Company for which no particular method of valuation is provided in this Article, or if in any case under this Article a particular investment or asset is not or cannot be valued as above provided, the method of valuation of the relevant investment or asset shall be determined by the Directors in consultation with the Auditors.
-
 - (i) Notwithstanding the foregoing provisions of this Article, where at the time of any valuation, any asset of the Company has been realised or contracted to be realised,
 
 <!-- page 33 -->
@@ -648,31 +622,20 @@ The following extract from the Articles of Association of the Fund sets out the 
 there shall be included in the calculation of the Net Asset Value in place of such assets the net amount received or receivable by the Company in respect thereof PROVIDED THAT if the net amount receivable is not payable until some future date the Directors shall make such adjustment as they consider appropriate to reflect the true current value thereof.
 
 - (j)
-
    - Any valuation made pursuant to these Articles shall be binding on all persons.
-
 - (k) The liabilities of the Company shall be deemed to include:-
-
    - (i) all bills, notes and accounts payable;
-
    - (ii) all administrative expenses payable and/or accrued including (but not limited to):-
-
       - expenses of drafting and publishing reports and accounts;
-
       - expenses of publishing quotations for the Participating Shares;
-
       - accrued fees of the Investment Adviser; and
-
       - auditor's fees and expenses.
-
    - (iii) all known liabilities present and future for which provisions would be required to be made in the Company’s accounts in accordance with International Accounting Standards, including: the amount of any unpaid dividends declared upon the shares in the Company; contractual obligations for the acquisition of investments or other property; or any outstanding payments due on any Participating Shares previously redeemed;
-
    - (iv) the paid up capital on the Management Shares in issue; (v) all other liabilities of the Company of whatsoever kind and nature for which provision would be required to be made in the Company’s accounts in accordance with International Accounting Standards.
 
 In determining the amount of such liabilities the Directors may calculate administrative and other expenses of a regular or recurring nature on an estimated figure for yearly or other periods in advance, and accrue the same in equal proportions over any such period.
 
 - (l) For the purposes of this Article:-
-
    - (i) the proceeds of issue of Participating Shares in the Company for which applications have been made shall be deemed to be an asset of the Company as of the time at which such Participating Shares are first deemed to be in
 
 <!-- page 34 -->
@@ -680,7 +643,6 @@ In determining the amount of such liabilities the Directors may calculate admini
 issue;
 
 - (ii) the amount due to Shareholders in respect of Participating Shares to be redeemed shall, from the close of business on the day on which they are actually redeemed until such price is paid, be deemed to be a liability of the Company;
-
 - (iii) investments, cash balances and other assets of the Company be valued and liabilities of the Fund shall be calculated in dollars."
 
 The Fund will value the securities within its portfolio(s) by giving priority to unadjusted market prices, and for Hard-to-Value Securities (as defined in the NAV Rule), priority be given to valuation inputs that are directly observable (i.e. those derived from market data, including publicly available information about events and transactions or reflective of assumptions that market participants would use) with the lowest priority being given to inputs that are unobservable (i.e. where market data is not available regarding the assumptions that market participants would use).
@@ -706,7 +668,6 @@ There are inherent limitations of the NAV Calculation Policy caused by system er
 The Investment Advisor devotes a substantial amount of its time to other business activities, including portfolio management of other individual and institutional accounts. See "Investment Advisor". These other advisory activities create conflicts of interest with the Fund over the time devoted to managing the Fund and the allocation of securities selected for purchase among the Investment Advisor’s various portfolios. Further, the Investment Advisor’s judgement may be affected by additional conflicts of interest such as, for example, the following:
 
 - (i) Because the Investment Advisor has and will have duties to the Fund and its other portfolios, the interests of the Fund and these other portfolios in the selection, negotiation and administration of investments may conflict. The Investment Advisor will attempt to resolve all such conflicts in a manner that is fair to all such interests.
-
 - (ii) The Investment Advisor, on behalf of the Fund and in other capacities with other entities, has discretion in determining which investments will be made by the Fund, sold to others, or made by the Investment Advisor or by its affiliates, with or without the participation of such other entities. In that the Investment Advisor or its affiliates may be able to obtain more favorable compensation, cost reimbursement or risk sharing arrangements in connection with some investments if the Fund does not participate, the Investment Advisor may be influenced to refrain from causing the Fund to make such investments even though participation might benefit the Fund. The Investment Advisory Agreement also permits the Investment Advisor or its affiliates to make any investment, whether or not in competition with the Fund or in a manner that would limit or eliminate the Fund’s opportunity to make the investment, without any accountability to the Fund.
 
 To mitigate potential conflicts, the Investment Advisor will take appropriate measures to ensure that neither it nor any of its affiliates unfairly profits from any transaction between any of them and the Fund. The Investment Advisor will use its best efforts to apportion or allocate business opportunities among persons or entities with which it and its affiliates have fiduciary duties and other relationships on a basis that is fair and equitable to the maximum possible extent to each of such persons or entities, including the Fund.
@@ -860,13 +821,9 @@ Butterfield is a full-service bank and wealth manager headquartered in Hamilton,
 The Directors may suspend the determination of Net Asset Value. The following extract from the Articles of Association of the Fund sets out the provisions relating to the circumstances in which the Directors may temporarily suspend the determination of Net Asset Value:
 
 24. The Directors may declare a suspension of the determination of the Net Asset Value for the whole or any part of a period during which:
-
    - (1) by reason of the closure of, the suspension of trading on, or the restriction of dealings on, any Exchange or any other market or if for any other reason circumstances exist as a result of which, in the sole opinion of the Directors, it is not reasonably practicable for the Company to dispose of investments or fairly to determine the Net Asset Value; or
-
    - (2) a breakdown occurs in any of the means normally employed by the Directors in ascertaining the value of the investments or when for any other reason in the Directors' sole opinion the value of the investments or other assets of the Company cannot reasonably be ascertained; or
-
    - (3) in the Directors' sole opinion the disposal or realisation of investments cannot be effected for any reason in the usual or normal manner or without prejudicing the Shareholders of the Company or the realisation of the assets or the transfer of funds cannot be effected at normal prices or rates of exchange respectively.
-
 25. The Company may withhold payment to any person whose Participating Shares have been tendered for redemption until after any suspension has been lifted. Notice of any suspension will be given to any Shareholder who has tendered Participating Shares for redemption and to whom full payment of the Redemption Price has not yet been remitted. If a Redemption Request is not withdrawn by a Shareholder following notification of a suspension, the redemption will be completed as of the Redemption Date next following the lifting of such suspension on the basis of the Net Asset Value per Participating Share at that time.
 
 Notice of any suspension of the determination of Net Asset Value will be notified to the CSX and to the Shareholders.
@@ -880,29 +837,19 @@ Notice of any suspension of the determination of Net Asset Value will be notifie
 The Articles of Association of the Fund provide that:-:
 
 107. A Director may hold any office or place of profit under the Company (other than the office of Auditor) in conjunction with his office of Director on such terms as to tenure of office, and otherwise as the Directors may determine.
-
 108. No Director or intending Director shall be disqualified by his office from contracting with the Company either as vendor, purchaser or otherwise, nor shall any such contract or any contract or arrangement entered into by or on behalf of the Company in which any Director is in any way interested be liable to be avoided, nor shall any Director so contracting or being so interested be liable to account to the Company for any profit realised by any such contract or arrangement by reason of such Director holding that office or of the fiduciary relationship thereby established, but the nature of his interest must be declared by him at the meeting of the Directors at which the question of entering into contract or arrangement is first taken into consideration, or if the Director was not at the date of that meeting interested in the proposed contract or arrangement, then at the next meeting of the Directors held after he becomes so interested, and in a case where the Director becomes interested in a contract or arrangement after it is made then at the first meeting of the Directors held after he becomes so interested.
-
 109. A general notice in writing given to the Directors by any Director to the effect that he is a member of any specified company or firm and is to be regarded as interested in any contract which may thereafter be made with that company or firm, shall (if such Director shall give the same at a meeting of the Directors or shall take reasonable steps to secure that the same is brought up and read at the next meeting of the Directors after it is given) be deemed a sufficient declaration of interest in relation to any contract so made.
-
 110. Save as otherwise provided, a Director shall not vote or count in the quorum in respect of any contract arrangement or any other proposal whatsoever in which he has any material interest otherwise than by virtue of his interests in shares or debentures or other securities of or otherwise in or through the Company or any of its associates or by virtue of his employment by, or of his holding of any office of, the Company or any of its associates.
-
 111. A Director shall (in the absence of some other material interest than is indicated below) be entitled to vote (and be counted in the quorum) in respect of any resolution concerning any of the following matters, namely:-
-
    - (a) the giving of any security or indemnity to him in respect of money lent or obligations incurred by him at the request of or for the benefit of the Company or any of its subsidiaries;
 
 <!-- page 46 -->
 
 - (b) the giving of any security or indemnity to a third party in respect of a debt or obligation of the Company or any of its subsidiaries for which he himself has assumed responsibility in whole or in part under a guarantee or indemnity or by the giving of security;
-
    - (c) any proposal concerning an offer of shares or debentures or other securities of or by the Company or any of its subsidiaries for subscription or purchase in which offer he is or is to be interested as a participant in the underwriting or sub-underwriting thereof; and
-
    - (d) any proposal concerning any other company in which he is interested, directly or indirectly and whether as an officer, employee or shareholder or otherwise howsoever PROVIDED THAT he is not the holder of or beneficially interested in two (2) per cent or more of the issued shares of any class of such company (or of any third company through which his interest is derived) or of any of the voting rights available to members of the relevant company (any such interest being deemed for the purposes of this Article to be a material interest in all circumstances).
-
 112. Where proposals are under consideration concerning the appointment (including fixing or varying the terms of appointment) of two or more Directors to offices or employment with the Company or any company in which the Company is interested, such proposals may be divided and considered in relation to each Director separately and in such cases each of the Directors concerned (if not otherwise debarred from voting under the Articles) shall be entitled to vote (and be counted in the quorum) in respect of each resolution except that concerning his own appointment.
-
 113. If any question shall arise at any meeting as to the materiality of a Director's interest or as to the entitlement of any Director to vote and such question is not resolved by his voluntarily agreeing to abstain from voting, such question shall be referred to the Chairman of the meeting and his ruling in relation to any other Director shall be final and conclusive except in a case where the nature or extent of the interests of the Director concerned has not been fairly disclosed.
-
 114. The Company may by ordinary resolution passed at a class meeting of the holders of the Participating Shares suspend or relax these provisions or ratify any transaction not duly authorised by reason of a contravention of Articles 107 to 113 inclusive.
 
 <!-- page 47 -->
@@ -928,7 +875,6 @@ The Custodian is entitled to certain indemnities under its agreement as describe
 The Directors reserve the right, from time to time, if they deem it appropriate, to amend established arrangements, subject to applicable contractual provisions, from time to time as they deem fit with regard to management and administration of the Fund's affairs, the taking of investment and other advice and the custodianship of its assets PROVIDED THAT in the event that the terms of engagement of the Investment Advisor are to be amended, at least ninety (90) days prior notice shall be given to the holders of affected Participating Shares of such amendment provided that no such notice shall be required should:-
 
 - (a) the terms of any variation or any new agreement entered into on the appointment of a new Investment Advisor not, in the opinion of the Directors, materially differ from the agreement of contract then effective; or
-
 - (b) the Directors and the Investment Advisor, certify that such variation is required only to enable the affairs of the Fund to be more conveniently or economically managed or otherwise to the benefit of the shareholders as such and that it does not prejudice the interest of such holders or any of them and does not alter the fundamental provisions or objects of the Investment Advisory Agreement, or release the Investment Advisor from any responsibility of the Fund.
 
 It is not the intention of the Directors that the Investment Restrictions set forth above will be amended in respect of the Fund except with the consent by ordinary resolution of the holders of the Participating Shares.
@@ -1002,19 +948,14 @@ Neither the Fund nor the Investment Advisor are engaged in any litigation nor do
 Save as disclosed herein:-
 
 - (a) save insofar as they are shareholders of the Investment Advisor, no amount or benefit has been paid or given to any promoters by the Fund since its incorporation and none is intended to be paid or given;
-
 - (b) no commissions, discounts, brokerages or other special terms have been granted in relation to shares, debentures or other capital issued or to be issued by the Fund;
 
 <!-- page 51 -->
 
 - (c) save as herein mentioned, no shares, debentures or other capital of the Fund have been issued or agreed to be issued, fully or partly paid up, in cash or otherwise than in cash, nor is any such capital under option, or agreed conditionally or unconditionally to be put under option;
-
 - (d) no Director has had any interest, direct or indirect, in any property or assets acquired or disposed of by or leased to the Fund or proposed to be acquired, disposed of by or leased to the Fund;
-
 - (e) save as herein mentioned no Director has had a material interest in any contract or arrangement entered into by the Fund which is significant in relation to the business of the Fund;
-
 - (f) save as herein mentioned no Director has had any interest in any share capital of the Fund;
-
 - (g) no shares, debentures or other capital of the Fund are proposed to be issued partly paid or otherwise than fully paid in cash.
 
 No side letters or other special arrangements have been made between the Fund and any holder of Participating Shares. The Directors do not propose to engage in any such arrangements save that, to the extent reasonably practicable, the Directors may assist shareholders with administrative matters arising in respect of their investments in the Fund.
@@ -1040,23 +981,16 @@ Please ensure that you provide a copy of this Data Protection Notice to any thir
 Your personal data may be processed by the Fund (or any of its affiliates, agents, employees, delegates or sub-contractors) for the following purposes:
 
 - ➢ Managing and administering your holdings in the Fund, including assessing and processing subscription applications, communicating with you about your holdings and account related activities on an on-going basis;
-
 - ➢ To update and maintain records and provide net asset value and other calculations;
-
 - ➢ To manage and maintain our relationships with you and for ongoing customer service;
-
 - ➢ To enforce or defend the Fund's rights, itself or through third parties to whom it delegates such responsibilities;
-
 - ➢ To comply with any applicable legal, tax or regulatory obligations on the Fund, including those which derive from anti-money laundering and counter-terrorism legislation (" **AML** ");
 
 **_This use of your data is necessary for performance of your contract with us_** _._
 
 - ➢ In order to carry out anti-money laundering checks and related actions including sharing data with police, law enforcement, tax authorities or other government and fraud prevention agencies where we have a legal obligation, including screening transactions, reporting suspicious activity and complying with production and court orders;
-
 - ➢ To report tax related information to tax authorities;
-
 - ➢ To investigate and resolve complaints and manage contentious regulatory matters, investigations and litigation;
-
 - ➢ To monitor electronic communications for investigation and fraud prevention purposes, crime detection, prevention and investigation.
 
 **_This use of your data is necessary in order for us to comply with any legal or regulatory obligations._**
@@ -1066,11 +1000,8 @@ Your personal data may be processed by the Fund (or any of its affiliates, agent
 The day to day running and management of the Fund including to:
 
 - ➢ monitor, maintain and improve the processes, information and data, technology and communications solutions and services used by the Fund;
-
 - ➢ perform general, financial and regulatory accounting and reporting;
-
 - ➢ monitor and record calls for quality, business analysis, training and related purposes in order to pursue the legitimate interests of the Fund to improve its service delivery;
-
 - ➢ protect our legal rights and interests including screening transactions for fraud prevention and anti-money laundering purposes
 
 **_This use of your data is necessary for our legitimate business interest in managing our business including legal, personnel, administrative and management purposes and for the prevention and detection of crime provided our interests are not overridden by your interests_** _._
@@ -1080,7 +1011,6 @@ The day to day running and management of the Fund including to:
 The Fund may disclose your personal information as follows:
 
 - to their affiliates and third party service providers engaged in connection with the oversight, safekeeping, administration, distribution or operation of the Fund, in order to process the data for the above mentioned purposes; or
-
 - to competent authorities (including tax authorities), courts and bodies as required by applicable law or requested by such entities or to affiliates for internal investigations and reporting.
 
 The disclosure of personal information to the third parties set out above may involve the transfer of data to jurisdictions outside the European Economic Area (" **EEA"** ). Such countries may not have the same data protection laws as the EEA. For example, the Fund holds the personal data of investors primarily in the Cayman Islands, where the EU Data Protection Directive 95/46/EC and the EU Privacy & Electonic Communications Directive 2002/58/EC, any amendments and replacement legislation including the EU General Data Protection Regulation (EU) 2016/679 (“GDPR”), European Commisson decisions, binding EU and national guidance and all national implementing legislation is not directly applicable. However, Cayman Islands data protection laws will be applicable.
@@ -1114,17 +1044,11 @@ If you have any questions about the use of your personal data, please contact th
 Copies of the following documents are available for inspection during normal business hours on any business day (public holidays excepted) at the registered office of the Fund without charge:-
 
 - (a) the Memorandum and Articles of Association of the Fund;
-
 - (b) the Investment Advisory Agreement;
-
 - (c) the Custodian Agreement;
-
 - (d) the Engagement Agreement in respect of each Director;
-
 - (e) the most recent audited financial statements of the Fund;
-
 - (f) this Offering Memorandum any updates thereof; and
-
 - (g) circulars to holders of the Participating Shares issued by the Fund.
 
 <!-- page 56 -->
@@ -1142,11 +1066,8 @@ I/We hereby subscribe for the allotment of such number of Non-Voting Participati
 By execution and delivery of this Subscription Agreement I/we hereby represent and undertake as follows:-
 
 1. If this application for the purchase of Participating Shares is accepted, by copy of this Application Form to Overseas Asset Management (Cayman) Ltd., I/we hereby authorize Overseas Asset Management (Cayman) Ltd. to transfer an amount equal to the subscription price of the Participating Shares subscribed for hereunder from my/our investment management account with Overseas Asset Management (Cayman) Ltd. to the Fund’s bank or custody accounts.
-
 2. I/We have received, read and understood the Offering Memorandum and have been given the opportunity to receive and review the documents expressed to be available for inspection in the Offering Memorandum including the Memorandum and Articles of Association of the Fund.
-
 3. I am/We are not U.S. Person(s), as that term is defined below, nor person(s) of any other jurisdiction to whom the offering of the Participating Shares is prohibited ("ineligible investor") and I am/We are not applying for Participating Shares of the Fund as nominee(s) of or on behalf of such person(s).
-
 4. I/We shall notify the Investment Advisor immediately in the event that I/we become aware that I/we or the person(s) for whom I/we hold the Participating Shares has/have become U.S. Person(s) or an ineligible investor.
 
 i
@@ -1154,7 +1075,6 @@ i
 <!-- page 57 -->
 
 5. The Participating Shares are being acquired for investment purposes and neither the Participating Shares nor any interest therein will be transferred to a U.S. Person or be transferred within the United States or its territories, possessions or areas subject to its jurisdiction or to any ineligible investor;
-
 6. For the purposes of the following provisions, "AEOI" means:
 
 (i) the intergovernmental agreement, between the government of the Cayman Islands and the government of the United States of America to improve international international tax compliance and to
@@ -1162,7 +1082,6 @@ i
 implement the US Foreign Account Tax Compliance Act, including the Tax Information Authority (International Tax Compliance) (United States of America) Regulations, 2014 and all other regulations and guidance notes adopted thereunder, or pursuant thereto, or for the purposes of implementing the same;
 
 - (ii) () the Common Reporting Standard developed for the automatic exchange of financial account information by the Organisation for Economic Co-Operation and Development, including all commentary and guidance notes relating or pursuant thereto, or for the purposes of implementing the same, and the Tax Information Authority (International Tax Compliance) (Common Reporting Standard) Regulations, 2015 to implement the Common Reporting Standard developed for the automatic exchange of financial account information by the OECD; and
-
 - (iii) other similar arrangements;
 
 “ **AML** ” means the provisions of relevant money laundering legislation and regulations which in the Cayman Islands including the Misuse of Drugs Act, the Proceeds of Crime Act, the Proliferation Financing (Prohibition) Act, the Terrorism Act, the Anti-Money Laundering Regulations, the Guidance Notes on the Prevention and Detection of Money Laundering, Terrorist Financing and Proliferation Financing and the Guidance on Targeted Financial Sanctions and such directives and guidance issued, each as amended from time to time; and
@@ -1172,7 +1091,6 @@ implement the US Foreign Account Tax Compliance Act, including the Tax Informati
 I/We acknowledge and agree that:-
 
 - (a) I/We have read and understand the requirements of the section of the Offering Memorandum dealing with AML, AEOI, UBO and other requirements;
-
 - (b) The Fund is required to comply with the provisions of AEOI, AML and UBO;
 
 ii
@@ -1186,15 +1104,10 @@ comply with the requirements and obligations imposed on it pursuant to AEOI, AML
 Fund may require to determine whether or not the relevant investment is a "Reportable Account" and to comply with the relevant due diligence procedures in making such determination;
 
 - (d) any such forms or documentation requested by the Fund or its agents, pursuant to paragraph (b), or any financial or account information with respect to our investment in the Fund, may be disclosed to the Cayman Islands Tax Information Authority (or any other Cayman Islands governmental body which collects information in accordance with AEOI) (" **Cayman TIA** "), to the Internal Revenue Service (" **IRS** ") or any tax authority in any other jurisdiction with which the Cayman Islands has entered into any intergovernmental agreement, treaty, regulation, guidance or other agreement in order to comply with, facilitate, supplement, implement or give effect to: (a) sections 1471 to 1474 of the US Internal Revenue Code of 1986 and any associated legislation, regulations or guidance; or (b) any similar regime, including any automatic exchange of information regime arising from or in connection with to the OECD Common Reporting Standard (" **Foreign Fiscal Authority** "), and to any withholding agent where the provision of that information is required by such agent to avoid the application of any withholding tax on any payments to the Fund;
-
 - (e) I/We waive, and/or shall cooperate with the Fund or its agents to obtain a waiver of, the provisions of any law which:
-
    - (i) prohibit the disclosure by the Fund, or by any of its agents, of the information or documentation requested from us pursuant to paragraph (b); or
-
    - (ii) prohibit the reporting of financial or account information by the Fund or its agents required pursuant to AEOI; or
-
    - (iii) otherwise prevent compliance by the Fund with its obligations under AEOI;
-
 - (f) if I/We provide information and documentation that is in any way misleading, or it fails to provide the Fund or its agents with the requested information and documentation necessary in either case to satisfy the Fund's obligations under AEOI in a timely manner, the Fund reserves the right (whether or not such action or inaction leads to compliance failures by the Fund, or a risk of the Fund or its investors being subject to withholding tax or other penalties under AEOI):
 
 iii
@@ -1202,19 +1115,14 @@ iii
 <!-- page 59 -->
 
 - (i) to take any action and/or pursue all remedies at my/our disposal including, without limitation, compulsory redemption or withdrawal; and
-
       - (ii) to hold back from any redemption proceeds, or to deduct from our applicable NAV, any liabilities, costs, expenses or taxes caused (directly or indirectly) by our action or inaction;
-
    - (g if I/We have not provided the Fund or its agents with sufficient or accurate information to enable the Fund to comply with its AEOI obligations, the Fund and/or its agents may be required to redeem our Participating Shares and/or to withhold an amount from dividends, payments or redemption proceeds otherwise due to us; and
-
    - (h) I/We shall have no claim against the Fund, or its agents, for any form of damages or liability as a result of actions taken or remedies pursued by or on behalf of the Fund in order to comply with AEOI and we hereby agree to indemnify the Fund, the Directors and the Investment Advisor, and each of their respective principals, members, managers, officers, directors, stockholders, employees and agents and hold them harmless from and against any AEOI related liability, action, proceeding, claim, demand, costs, damages, expenses (including legal expenses) penalties or taxes whatsoever which the Fund and/or Investment Advisor may incur as a result of any action or inaction (directly or indirectly) of us (or any related person) described in paragraphs (a) to (f) above. This indemnification shall survive our death or disposition of our Participating Shares in the Fund.
-
 7. I/We hereby agree that the Fund or any other delegate on behalf of the Fund, shall be entitled to, and shall, supply all and any information regarding the Fund and our investment
 
 in the Fund to each other, their delegates and affiliates, the Investment Advisor, other service providers appointed by the Fund or any underlying fund into which the Fund may invest or such fund’s agents. Further, we acknowledge and accept that the Fund (and its delegates) and the Investment Advisor may be required to and shall be entitled to reveal any information regarding the Fund and our investment in the Fund, including details of the our identity, to their regulators and/or any other governmental agency within their jurisdiction, which the Fund (and its delegates) or the Investment Advisor shall, in their sole discretion, consider appropriate. Such disclosure may include, to the extent required by applicable laws or regulations, making information available to the Cayman TIA, the IRS or any Foreign Fiscal Authority or any other governmental agency in relation to AEOI.
 
 8. In order for the Fund and/or its delegates to be compliant with their obligations under applicable law relating to AEOI, or any similar arrangements adopted by other jurisdictions, we agree to provide evidence self-certifying our tax status. Such self-certification shall be on such forms as the Fund or its delegates may specify in accordance with applicable AEOI Regulations.
-
 9. I/We hereby declare, represent and warrant in the terms set out below and confirm that such declarations, representations and warranties shall be deemed to be made on a continuing
 
 iv
@@ -1224,19 +1132,12 @@ iv
 basis. If any of such declarations, representations and warranties cease to be true, then I/We shall immediately notify the Fund and I/We may, in the sole discretion of the Fund be subject to having all of its Participating Shares redeemed in accordance with the Offering Memorandum:
 
 - (a) the Participating Shares are to be purchased with funds that are from legitimate sources and which do not constitute the proceeds of criminal conduct, suspected proceeds of criminal conduct, money laundering, suspected money laundering, terrorism or the financing of terrorism, or the financing of proliferation within the meanings given in the Proceeds of Crime Act (as revised), the Terrorism Act (as revised), the Proliferation Financing (Prohibition) Act (as revised) of the Cayman Islands and the Regulations or Guidance Notes issued pursuant thereto;
-
 - (b) the amounts being or to be contributed by me/us to the Fund were not and are not directly or indirectly derived from activities that may contravene federal, state or international laws and regulations, including AML, AEOI, UBO and other regulations;
-
 - (c) I/We understand and agree that the Fund is subject to laws that restrict it from dealing with entities, individuals, organisations and/or investments which are subject to applicable sanctions regimes;
-
 - (d) I/We understand and agree that:
-
    - a. the Fund prohibits the investment of funds by any persons, entities, nominees or beneficiaries being:
-
       - i. a “terrorist” or “terrorist organisation” as each of those terms are defined in the Terrorism Act (as revised); or
-
       - ii. an institution that accepts currency for deposit and that (i) has no physical presence in the jurisdiction in which it is incorporated or in which it is operating, as the case may be; and (ii) is unaffiliated with a regulated financial group that is subject to consolidated supervision (known as a “shell bank”); or
-
       - iii. (i) named on any list of sanctioned entities or individuals maintained by the US Department of the Treasury’s Office of Foreign Assets Control (" **OFAC** "), the US Department of the Treasury’s Financial Crimes Enforcement Network (“ **FinCEN** ”), the United Nations (“ **UN** ”) Security Council, or pursuant to European Union (" **EU** ") and/or United Kingdom (" **UK** ") Regulations (as the latter are extended to the Cayman Islands by Her Majesty’s Government of the United Kingdom by Orders in Council), (ii) operationally based or domiciled in a country or territory in relation to which sanctions imposed by the UN, OFAC, FinCEN, the EU and/or the UK apply, or (iii) otherwise subject to sanctions imposed by the UN, OFAC, FinCEN, the EU or the UK (including as the latter
 
 v
@@ -1248,13 +1149,9 @@ are extended to the Cayman Islands by Her Majesty’s Government of the United K
 such persons or entities in (i) through (iii) are collectively referred to as “ **Prohibited Persons** ”;
 
 - (e) I/we are not, nor is any person or entity controlling, controlled by or under common control with me/us, a Prohibited Person; and
-
 - (f) to the extent the I/we are acting as agent or nominee in connection with this investment, or otherwise has any beneficial owners that are not disclosed to the Fund:
-
 - i. I/we have carried out due diligence to establish the identities of such beneficial owners;
-
 - ii. based on such due diligence, I/we reasonably believe that no such beneficial owners are Prohibited Persons; and
-
 - iii. I/we will make available such information and any additional information that the Fund may reasonably request such as an Eligible Introducer/Financial Intermediary Form, if signing on behalf of an undisclosed principal.
 
 Beneficial owners will include, but not be limited to: (i) shareholders of a corporation; (ii) partners of a partnership; (iii) members of a limited liability company; (iv) investors in a fund-of-funds and (v) any person being represented by me/us in an agent, representative, intermediary, nominee or similar capacity. If the beneficial owner is itself an entity, the information and representations set forth herein must also be given with respect to its beneficial owners. If the applicant is a publicly-traded company on a recognised stock exchange, the applicant need not conduct due diligence as to its beneficial owners.
@@ -1268,19 +1165,12 @@ vi
 Protection Notice and (b) have all necessary authority to provide the personal data on behalf of each relevant individual (c) shall promptly provide the Data Protection Notice to (i) each individual whose Personal Data the I/we have provided or will provide to the Fund or any of its delegates in connection with the my/our investment in the Fund (such as a directors, trustees, employees, representatives, shareholders, investors, clients, beneficial owners or agents) and (ii) any other individual connected to me/us as may be requested by the Fund or any of its delegates. I/We shall also promptly provide to any such individual, on request by the Fund or any of its delegates, any updated versions of the Data Protection Notice and the privacy notice (or other data protection disclosures) of any third party to which the Fund or any of its delegates has directly or indirectly provided that individual’s personal data.
 
 11. I/We acknowledge that the Participating Shares are a speculative investment which might involve a significant degree of risk of loss, that I am/we are not dependent upon current cash return with respect to any investment in the Participating Shares, that dividends or distributions are not expected to be made, and that redemption, which is likely to be the only means by which I/we can withdraw from the Fund, is subject to limitations and restrictions described in the Offering Memorandum.
-
 12. I/We acknowledge that payments in respect of subscription and redemption will be made in United States dollars.
-
 13. I/We acknowledge that the directors of the Fund have reserved the right to reject this application, in whole or in part, and need not give a reason for such rejection.
-
 14. I/We represent that I/we have such knowledge and experience in financial, investment and business matters that I/we are capable of evaluating the merits and risks associated with an investment in Participating Shares of the Fund.
-
 15. I/We acknowledge and confirm that no representations, warranties or covenants have been made to me/us by the Fund or any representative or agent of the Fund other than those contained in the Offering Memorandum.
-
 16. I/We acknowledge that certificates representing my/our Participating Shares in the Fund shall not be issued but shall be represented only by an entry in the Register of Members maintained by the Fund.
-
 17. I/We agree to accept the number of Participating Shares (including fractional Participating Shares) which shall be allotted by the directors of the Fund for the subscription amount which I/we have tendered, in accordance with the terms of the Offering Memorandum and subject to the Memorandum and Articles of Association of the Fund and to have such Participating Shares registered exactly as provided below.
-
 18. I/We agree to assume responsibility for any subscription wrongly made due to inappropriate fulfillment of this form or to fax transmission errors.
 
 vii
@@ -1288,13 +1178,9 @@ vii
 <!-- page 63 -->
 
 19. I/We agree that the redemption proceeds in respect of any Participating Shares shall be forwarded to the account detailed below and I/we agree to promptly notify you and provide full details of any change thereto.
-
 20. Any assets I/we may transfer either now or in the future to the Fund do not and will not represent the proceeds of or derive from any criminal or illegal activities or result from or involve a breach of law including tax fraud or evasion and are not intended for purposes of assisting, directly or indirectly, the financing of terrorism.
-
 21. I/we hereby agree that OAM may supply to the Fund on demand all information held on file in respect of me/us which may be necessary for the Fund to comply with the Cayman Islands Anti-Money Laundering Regulations, as amended from time to time.
-
 22. I/we have, wherever necessary, taken or obtained advice as to all relevant tax matters and confirm that I/we are complying with and are not in breach of all relevant tax laws applicable to me/us.
-
 23. I/we will notify the Fund forthwith if any of the above statements becomes or is likely to become false or inaccurate in any way.
 
 This Subscription Agreement is governed and construed in accordance with the laws of the Cayman Islands and the parties hereto agree to submit to the exclusive jurisdiction of the Courts of the Cayman Islands on all matters relating to the Subscription Agreement, the Fund and its Participating Shares.
@@ -1320,7 +1206,6 @@ You may mail this form, when completed, to Overseas Asset Management (Cayman) Lt
 # PLEASE NOTE:
 
 - U.S. Person as defined in the Fund's Articles means: (a) a natural person who is a citizen or resident of the United States; (b) a partnership, limited liability company or corporation organized or incorporated under the laws of the United States, its territories or possessions, any U.S. state, or the District of Columbia; (c) a trust of which any trustee is a U.S. Person, unless no beneficiary of the trust (and no settlor if the trust is revocable) is a U.S. Person, the trustee who is a U.S. Person is a professional fiduciary and a trustee who is not a U.S. Person has sole or shared investment discretion with respect to the trust assets; (d) an estate of which any executor or administrator is a U.S. Person, unless such estate is governed by non-U.S. law, the U.S. Person who serves as an executor or administrator of such estate is a professional fiduciary and an executor or administrator of the estate who is not a U.S. Person has sole or shared investment discretion with respect to the estate's assets; (e) a non discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a U.S. Person; (f) a discretionary or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; (g) an agency or branch of a foreign entity located in the United States; or (h) a partnership, limited liability company or corporation that is (i) organized or incorporated under the laws of a jurisdiction other than the United States and (ii) formed by a U.S. Person principally for the purpose of investing in securities not registered under the U.S. Securities Act of 1933 as amended, unless it is organized or incorporated and owned by accredited investors (as defined in Rule 501(a) under the U.S. Securities Act of 1933 as amended) who are not natural persons, estates or trusts. Notwithstanding the foregoing, an employee benefit plan established and administered in accordance with the law of a country other than the United States and with customary practices and documentation of such country does not constitute a U.S. Person.
-
 - For all new investors who are not already clients of Overseas Asset Management (Cayman) Ltd., a signed Investment Management Agreement between the subscriber and Overseas Asset Management (Cayman) Ltd. must accompany this application.
 
 ix
@@ -1328,13 +1213,9 @@ ix
 <!-- page 65 -->
 
 - All corporate subscriptions must be accompanied by a certified copy of a corporate resolution authorising the investment and providing names, titles and specimen signatures of all those authorised to transact on this account, all in accordance with the application procedures of Overseas Asset Management (Cayman) Ltd. The Fund must be notified immediately of any changes to the authority of the persons entitled to sign on behalf of any corporate shareholder in the Fund and shall not be responsible for relying on the instructions of any authorised signatory until advised in writing of any changes thereof.
-
 - In order to comply with regulations aimed at the prevention of money laundering, the Fund will require verification of identity from all prospective investors (unless, in exceptional circumstances, the Fund is satisfied that an exemption under the Anti-Money Laundering Regulations (as Revised) of the Cayman Islands (the “Regulations”) applies).
-
 - The Fund reserves the right to request such information as is necessary to verify the identity of a prospective investor. In the event of delay or failure by the prospective investor to produce any information required for verification purposes, the Fund may refuse to accept the application and, if so, any funds received will be returned without interest to the account from which the monies were originally debited.
-
 - The Fund also reserves the right to refuse to make any redemption payment to a shareholder if the Directors suspect or are advised that the payment of redemption proceeds to such shareholder might result in a breach of applicable anti-money laundering or other laws or regulations by any person in any relevant jurisdiction, or if such refusal is considered necessary or appropriate to ensure the compliance by the Fund with any such laws or regulations in any applicable jurisdiction.
-
 - If any person who is resident in the Cayman Islands has a suspicion obtained in the course of business that any other person is engaged in money laundering that person is required to report such suspicion pursuant to the Proceeds of Crime Act (as revised) and the Regulations made thereunder of the Cayman Islands and such report shall not be treated as a breach of any restriction upon the disclosure of information imposed by any enactment or otherwise.
 
 x

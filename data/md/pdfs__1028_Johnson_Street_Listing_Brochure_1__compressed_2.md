@@ -5,7 +5,7 @@ source: pdfs/1028+Johnson+Street+Listing+Brochure+(1)_compressed+(2).pdf
 doc_type: listing
 as_of: '2026-08-10'
 pages: 1-5
-content_hash: b4db2d56a22a30a9a8c1d25ff05435bcdecac42144a1d9e74629c1f350644f15
+content_hash: dc34894c87526cb7d874b54d6469a8a91abb5dc00c78a92249765fae5e1acb88
 ---
 
 <!-- page 1 -->
@@ -17,13 +17,9 @@ content_hash: b4db2d56a22a30a9a8c1d25ff05435bcdecac42144a1d9e74629c1f350644f15
 ## **PROPERTY HIGHLIGHTS:**
 
 - Excellent central Kingston location just minutes from Queen's University, Kingston General Hospital, downtown, and major shopping and amenities.
-
 - High-demand rental area with convenient access to public transit, parks, schools, and Kingston's largest employment and education hubs.
-
 - Current estimated annual NOI of $52,090.73 with ~33% upside
-
 - Potential for additional unit build-out in current storage room. Estimated $18,000 increase to gross income.
-
 - Units separately metered for electricity
 
 <!-- page 2 -->

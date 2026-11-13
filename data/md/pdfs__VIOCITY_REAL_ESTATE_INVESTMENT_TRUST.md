@@ -5,7 +5,7 @@ source: pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf
 doc_type: fund_om
 as_of: '2017-12-08'
 pages: 1-89
-content_hash: d918f3296a0efc1c662834db2a48516c19231c1f393f329caf65525147fb5e07
+content_hash: 06e4154746aea456f8363fb2277881455b7ebdfe97bf7d97529523ca5361836c
 ---
 
 <!-- page 1 -->
@@ -209,11 +209,8 @@ The table below sets forth the estimated total available funds to Viocity REIT a
 **Notes:**
 
 1. There is no minimum or maximum Offering. Viocity REIT will offer an unlimited number of Units on a continuous basis. There is no assurance that the Maximum Offering will be completed. See Item 2.6 – Insufficient Funds.
-
 2. Viocity REIT sells Units directly through its affiliated Exempt Market Dealer, Viocity Management Inc. It is expected that Viocity REIT will pay compensation to Viocity Management Inc. up to a maximum of 2% of the subscription proceeds. Occasionally Viocity REIT may also engage other non-affiliated securities dealers, it is expected that Viocity REIT will pay compensation to such other securities dealers, up to a maximum of approximately 5% of the subscription proceeds. To the extent that Viocity REIT is responsible for the payment of compensation to securities dealers, the funds available to Viocity REIT will be reduced. As at the date of this Offering Memorandum, Viocity REIT does not anticipate selling Units through other securities dealers. See Item 7 - Compensation Paid to Sellers and Finders.
-
 3. Viocity REIT does not expect to require additional funds from other sources to advance its business objectives.
-
 4. Viocity REIT has a working capital deficiency of $98,929. See **Item 1.4 – Working Capital Deficiency** .
 
 <!-- page 8 -->
@@ -231,9 +228,7 @@ The following table provides a detailed breakdown of how Viocity REIT will use t
 #### **Notes:**
 
 1. There is no minimum or maximum Offering. Viocity REIT will offer an unlimited number of Units on a continuous basis. There is no assurance that the Maximum Offering will be completed.
-
 2. Viocity REIT will be acquiring additional Rental Properties throughout Canada based on our investment guidelines. See **Item 2.1.4 - Investment Guidelines of Viocity REIT** and **Item 2.2.1 – Markets in which Viocity REIT Invests** .
-
 3. Vioctiy REIT will be issuing additional mortgages to qualified lenders to grow our assets in this category. See **Item 2.1.4 – Investment Guidelines of Viocity REIT** and **Item 2.2.1 – Markets in which Viocity REIT Invests.**
 
 ## **1.3 Reallocation**
@@ -257,35 +252,20 @@ Viocity Real Estate Investment Trust (“Viocity REIT”) is an unincorporated o
 Viocity REIT is responsible for all of its expenses, including, but not limited to the following:
 
 - Salaries of employees of the REIT;
-
 - Expenses related to operating the Head Office of the REIT;
-
 - interest and other costs of borrowed money;
-
 - fees and expenses of lawyers, accountants, auditors, appraisers and other agents or consultants employed by or on behalf of the Trust or the Trustees;
-
 - fees and expenses of the Trustees;
-
 - any fees and expenses payable internally by the Trust to the Asset Manager;
-
 - fees and expenses connected with the acquisition, disposition and ownership of real property interests or mortgage loans or other property;
-
 - insurance as considered necessary by the Trustees;
-
 - expenses in connection with payments of distributions of Units of the Trust;
-
 - expenses in connection with communications to Unitholders and the other bookkeeping and clerical work necessary in maintaining relations with Unitholders;
-
 - expenses of changing or terminating the Trust;
-
 - fees and charges of stock exchanges, transfer agents, registrars, indenture trustees and other trustees and custodians;
-
 - all fees, expenses, taxes and other costs incurred in connection with the issuance, distribution, transfer and qualification for distribution to public or private investors as the case may be, of Units and other required governmental filings;
-
 - all costs and expenses in connection with the incorporation or establishment, organization and maintenance of corporations and other entities formed to hold real property or other property of the Trust;
-
 - all reasonable costs and expenses in connection with marketing and building the brand of the Trust; and
-
 - all other costs and expenses that the Trustees, acting reasonably, determine to be the costs and expenses of the Trust.
 
 <!-- page 10 -->
@@ -299,25 +279,17 @@ The following diagram sets out the organizational structure of Viocity REIT foll
 The operations and affairs of Viocity REIT shall be conducted in accordance with the following operating policies:
 
 - a) the Trust may engage in construction or development of real property in order to maintain its real properties in good repair or to enhance the income-producing potential of properties that are capital property of Viocity REIT;
-
 - b) title to each real property shall be held by and registered in the name of a corporation or other entity wholly-owned directly or indirectly by the Trust or jointly owned directly or indirectly by the Trust with joint arrangement partners; provided, that where land tenure will not provide fee simple title, a corporation or other entity wholly-owned, directly or indirectly by the Trust or jointly owned, directly or indirectly, by the Trust with joint arrangement partners shall hold a land lease as appropriate under the land tenure system in the relevant jurisdiction;
-
 - c) no indebtedness shall be incurred or assumed if, after giving effect to the incurring or assumption thereof of the indebtedness, the total indebtedness as a percentage of Gross Book Value would be more than 75% for indebtedness, including amounts drawn under an acquisition facility;
 
 <!-- page 11 -->
 
 - d) except for any indebtedness existing at Closing, no new indebtedness (otherwise than by the assumption of existing indebtedness) will be incurred or renewed or refinanced or secured by a mortgage on any of the real property of the Trust unless, at the date of the proposed incurring of the indebtedness, the aggregate of: (i) the amount of all indebtedness secured by such real property, and (ii) the amount of additional indebtedness proposed to be incurred, does not exceed 75% of the market value of such real property, on or after that date which is 12 months from the acquisition date thereof, in either case not including mortgage insurance fees incurred in connection with the incurrence or assumption of such indebtedness, which amount shall be added to the amount of the permitted indebtedness;
-
 - e) subject to the approval of the Trustees, the Trust may not, directly or indirectly, guarantee any indebtedness, liabilities or other obligations of any kind of a third party, where such indebtedness, liabilities or other obligation, if granted, incurred or assumed by the Trust directly, would not cause the Trust to otherwise contravene the restrictions set out in Section 4.1 of the Declaration of Trust (Investment Guidelines). For greater certainty, the Trust will not directly or indirectly guarantee any indebtedness, liabilities or other obligations of any Person if doing so would contravene restriction (b) of the Investment Guidelines;
-
 - f) an engineering survey or physical review by an experienced third party consultant will be obtained for each real property intended to be acquired with respect to the physical condition thereof;
-
 - g) at all times insurance coverage will be obtained and maintained in respect of potential liabilities of the Trust and the accidental loss of value of the assets of the Trust from risks, in amounts and with such insurers, in each case as the Trustees consider appropriate, taking into account all relevant factors including the practices of owners of comparable properties;
-
 - h) a Phase I environmental audit shall be conducted for each real property to be acquired and, if the Phase I environmental audit report recommends that further environmental audits be conducted, such further environmental audits shall be conducted, in each case by an independent and experienced environmental consultant;
-
 - i) at least 8.5% of gross consolidated annual rental revenues generated from properties where the associated mortgage financing is insured by the Canadian Mortgage and Housing Corporation (“insured properties”) as determined pursuant to IFRS shall be expended annually on sustaining capital expenditures, repairs and maintenance, all determined on a portfolio basis for all insured properties. For this purpose, capital expenditures and repairs and maintenance include all onsite labour costs and other expenses and items associated with such capital expenditures, repairs and maintenance; and
-
 - j) the Trust may engage service providers, including asset managers and mortgage managers under terms and conditions acceptable to the Trustees.
 
 For greater certainty the operating policies set out in (a) through (j) are intended to set out generally the parameters under which the Trust (and subsidiaries in which the Trust is permitted to invest) will operate. References to the Trust in those paragraphs shall be read as applying to such subsidiary where the actual activity that is the subject of the policy is carried on by such subsidiary (with the exception of policy (c) above which is only intended to apply to the Trust). Further, any determinations in respect of the operating policies that are determinations reserved to the Trustees, where the actual activity is carried on by a subsidiary, will be made by the trustees or directors of the relevant subsidiary. Nothing in (a) through (j) empowers or entitles the Trust or the Trustees to carry on business or otherwise undertake any activity that would violate the Trust’s requirement to maintain its status as a “mutual fund trust”.
@@ -329,13 +301,9 @@ For the purposes of the foregoing investment guidelines and operating policies, 
 In addition, the term “indebtedness” means (without duplication):
 
 - i. any obligation of the Trust for borrowed money;
-
 - ii. any obligation of the Trust incurred in connection with the acquisition of property, assets or business other than the amount of future income tax liability arising out of indirect acquisitions;
-
 - iii. any obligation of the Trust issued or assumed as the deferred purchase price of property;
-
 - iv. any capital lease obligation of the Trust; and
-
 - v. any obligation of the type referred to in clauses i. through iv. of another person, the payment of which the Trust has guaranteed or for which the Trust is responsible for or liable;
 
 provided that (A) for the purposes of i through iv, an obligation will constitute indebtedness only to the extent that it would appear as a liability on the consolidated balance sheet of the Trust in accordance with generally accepted accounting principles and (B) obligations referred to in clauses i through iii exclude trade accounts payable, distributions payable to Unitholders and accrued liabilities arising in the ordinary course of business.
@@ -345,63 +313,38 @@ provided that (A) for the purposes of i through iv, an obligation will constitut
 The Declaration of Trust provides for certain guidelines on investments which may be made by Viocity REIT. Notwithstanding anything contained herein to the contrary, the assets of Viocity REIT may be invested only in accordance with the following investment guidelines:
 
 - (a) the Trust may invest in interests (including fee ownership and leasehold interests) in income producing Real Estate properties and mortgages in Canada;
-
 - (b) the Trust may invest in mortgages if the Trust intends to use the acquisition of the mortgages as a method of acquiring control of an income-producing real property which would otherwise comply with the investment restrictions, investment guidelines and operating policies established in accordance with the Declaration of Trust;
-
 - (c) the Trust may invest in interests (including fee ownership and leasehold interests) in income producing office, retail or residential properties and Properties Under Development in the United States;
-
 - (d) the Trust shall not make any investment, take any action or omit to take any action that would result in Units not being units of a ‘‘mutual fund trust’’ within the meaning of the Tax Act, that would result in Units being disqualified for investment by registered retirement savings plans, registered retirement income funds, deferred profit sharing plans or registered education savings plans, that would result in the Trust being liable under the Tax Act to pay a tax as a result of holdings by the Trust of foreign property as defined in the Tax Act or that would result in Units being foreign property for the purpose of the Tax Act;
 
 <!-- page 13 -->
 
 - (e) the Trust may invest in a joint venture or co-ownership arrangement (a “joint venture arrangement”) only if:
-
    - i. the joint venture arrangement is one pursuant to which the Trust holds an interest in real property jointly or in common with others (“joint venturers”) either directly or through the ownership of securities of a corporation (a “joint venture entity”);
-
    - ii. the Trust’s interest in the joint venture arrangement and the joint venture arrangement’s interest in the particular real property or properties, is not subject to any restriction on transfer other than a right of first refusal, if any, in favour of the joint venturers and the requirement that the transferee enter into an assumption agreement;
-
    - iii. the Trust has a right of first refusal to buy the interests of the other joint venturers;
-
    - iv. the joint venture arrangement provides an appropriate buy-sell mechanism to enable a joint venturer to purchase the other joint venturers’ interests or to sell its interest;
-
    - v. the joint venture arrangement provides that the liability of the Trust to third parties is several and not joint and several (and contains an express disavowal of Trustee and Unitholder liability); provided, however, that subject to any remedies that each joint venturer may have against the other joint venturers, a joint venturer may be required to give up its interest in any particular property owned by the joint venture entity as a result of another joint venturer’s failure to honour its proportionate share of the obligations relating to such property;
-
    - vi. the joint venture arrangement permits, but does not require, the Trust or its designee to participate fully in the management thereof;
-
    - vii. the joint venture arrangement is approved by a majority of the Independent Trustees or, if the number of Independent Trustees is less than three, by all the Independent Trustees; and
-
    - viii. the Trust receives and opinion from counsel to the effect that the Trust is not exposed to any additional or unusual liabilities as a result of the joint venture arrangement;
-
 - (f) the Trust shall not purchase, sell, market or trade in currency or interest rate futures contracts otherwise than for hedging purposes where, for the purposes hereof, the term ‘‘hedging’’ shall have the meaning ascribed thereto by National Instrument 81-102 adopted by the Canadian Securities Administrators, as amended from time to time;
-
 - (g) except for temporary investments held in cash, deposits with a Canadian chartered bank or trust company registered under the laws of a province or of Canada, short-term government debt securities, or money market instruments of, or guaranteed by, a Schedule 1 Canadian bank maturing within one year of date of issue or except as permitted pursuant to paragraphs (c), (d), (g), (i), (j) and (k), under the heading “Investment Guidelines and Operating Policies - Investment Guidelines”, the Trust shall not hold securities of another issuer unless either (i) such securities derive their value, directly or indirectly, principally from real property, or (ii) the principal business of the issuer of the securities is the ownership or operation, directly or indirectly, of real property; or (iii) shares of a corporation which carries on a business which is ancillary or incidental to an income producing Investment Property in Canada in which the Trust holds an interest (in each case as determined by the Trustees);
 
 <!-- page 14 -->
 
 - (h) the Trust shall not invest in rights to or interests in mineral or other natural resources, including oil or gas, except as incidental to an investment in real property;
-
 - (i) the Trust shall not acquire interests in general partnerships or limited partnerships provided that the Trust may invest in a limited partnership if:
-
 - i. the limited partnership is formed and operated solely for the purpose of acquiring, owning, maintaining, improving, leasing or managing a particular real property or properties or interests therein;
-
 - ii. the Trust’s interest in the limited partnership is not subject to any restriction on transfer other than a right of first offer or right of first refusal, if any, in favour of any other partner or any affiliate thereof and a requirement that the transferee enter into an assumption agreement;
-
 - iii. the Trust has a right of first offer or right of first refusal to buy the interests of the other partners;
-
 - iv. the limited partnership arrangement provides an appropriate buy-sell mechanism to enable a limited partner to purchase the other limited partners’ interests or to sell its interests; and
-
 - v. the limited partnership arrangement is approved by a majority of the Independent Trustees or, if the number of Independent Trustees is less than three, by all the Independent Trustees; provided that, notwithstanding the foregoing, the Trust may from time to time enter into any limited partnership arrangement which does not comply with any of subparagraphs (ii), (iii) or (iv) above if the Trustees determine that the investment is desirable for the Trust and otherwise complies with the investment restrictions, investment guidelines and operating policies established in accordance with the Declaration of Trust and in effect at such time;
-
 - (j) the Trust shall not invest in raw land, except raw land:
-
 - i. which is ancillary to property which the Trust is otherwise permitted to purchase or already owns; or
-
 - ii. for the purpose of developing new properties which will be or are expected to be upon completion income producing;
-
 - (k) the Trust shall not invest in or acquire securities of a Canadian real estate investment trust unless:
-
 - i. the activities of the real estate investment trust are focused on acquiring, holding, maintaining, improving, leasing or managing primarily income-producing real properties; and
-
 - ii. in the case of any proposed investment or acquisition which would result in the Trust owning beneficially more than 10% of the outstanding units of such real estate investment trust (the ‘‘acquired trust’’), the investment is made for the purpose of subsequently effecting the merger or combination of the operations and assets of the Trust and the acquired trust or for otherwise ensuring that the Trust will control the undertaking and operations of the acquired trust;
 
 For the purpose of the foregoing guidelines, the assets, liabilities and transactions of a corporation or other entity wholly or partially owned by the Trust will be deemed to be those of the Trust on a proportionate consolidated basis. In addition, any references in the foregoing to investment in real property will be deemed to include an investment in a joint venture arrangement. Nothing in the guidelines prohibits the Trust from holding some or all of the receivables due pursuant to the instalment receipt agreements.
@@ -427,7 +370,6 @@ The Declaration of Trust provides that the assets and operations of Viocity REIT
 The Declaration of Trust provides for the appointment by the Trustees of an audit committee (the Audit Committee). The Declaration of Trust contains additional provisions for the following with respect to Trustees:
 
 - § a majority of the Trustees must be Independent Trustees; and
-
 - § a Trustee, other than a Viocity Appointee, may be removed at any time with or without cause by a majority of the votes cast at a meeting of Unitholders or by written consent of Unitholders holding not less than a majority of the outstanding Units entitled to vote or with cause by a resolution passed by an affirmative vote of not less than two-thirds of the other Trustees.
 
 Pursuant to the Declaration of Trust, each Trustee is required to exercise the powers and duties of his or her office honestly, in good faith with a view to the best interests of Viocity REIT and the Unitholders and, in connection therewith, to exercise that degree of care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
@@ -597,19 +539,12 @@ The personnel of the REIT and the Asset Manager have significant experience in a
 construction and renovation, and marketing and sales) and the mortgage business (including origination, underwriting, administration, collection, syndication and default management). These skills should permit Viocity REIT to capitalize upon many real estate opportunities which may be unavailable to other real estate investors who lack the requisite diversity of real estate experience. The Asset Manager will enhance the value of Viocity REIT’s properties through a number of distinct and well executed strategies, including:
 
 - **Customer Satisfaction.** The REIT Management strives to keep all customers satisfied and as longterm tenants by creating an environment that is clean and comfortable. By developing a sense of community within the properties through various programs, it will reduce turnover and vacancy which will create demand for people wanting to live in Viocity REIT’s buildings. Through the reduction in costs associated with turnover and through higher demand allowing increasing rents, net income will grow accordingly.
-
 - **Maintenance and Repair Programs.** The REIT Management is fundamentally driven by efficiencies and cost effective programs that are accretive to Viocity REIT’s short- term and long-term value. Through the portfolio’s conversion to a real estate investment trust, the Asset Manager has positioned Viocity REIT to take full advantage of efficiency programs and capital investments that will attract tenants and enhance the value of the portfolio.
-
 - **Quality On-Site Building Staff.** The REIT Management believes that success of a property from both financial and customer satisfaction standpoints starts with the attitudes and work ethic from the on-site building staff. From being the first point of contact, to the ongoing attention to the customer’s needs, the building staff represents Viocity REIT. As well as being attentive and dedicated, the Property Manager will seek on-site staff that is skilled in many areas in order to reduce the requirement for outside trades to be required for ordinary day-to-day repairs and maintenance.
-
 - **Detailed Financial Reporting.** The REIT Management utilizes sophisticated financial tools to maximize Viocity REIT’s income and measure the effectiveness of cost control and efficiency programs. The Property Manager and the Asset Manager disclose financial reporting to those involved who have a direct impact on the financial success and control of those particular incomes and expenses.
-
 - **Strategic Mortgage Liability Management.** The REIT Management will work diligently to seek out financing opportunities to optimize Viocity REIT’s leveraged returns. The REIT Management believes that staggered maturities and terms, at leverage amounts set out by the Declaration of Trust, will ensure Viocity REIT’s exposure to fluctuating interest rates over the short and long term are both minimized and utilized to benefit Viocity REIT. The REIT Manager will make use of operating lines for capital expenditures and acquisitions to improve the returns of Viocity REIT.
-
 - **Strategic Mortgage Investments.** The REIT Management, in conjunction with the Asset Manager will evaluate mortgage investment opportunities which provide the potential for a combination of yield, capital growth, a potential acquisition pipeline or be of strategic value to Viocity REIT.
-
 - **Strategic Partnerships, Joint Ventures, Divestitures and Relationships.** The REIT Management will explore strategic partnerships, joint ventures, divestitures and relationships that meet Viocity REIT’s investment objectives.
-
 - **Enhancement of Viocity REIT’s Portfolio.** The REIT Management is always evaluating opportunities to maximize Viocity REIT’s portfolio. The REIT Management may evaluate/assess whether using its call centre, condominium conversion, utility retrofits, sub metering and strategic upgrades, among other things as part of this strategy. Properties that are “mature” and are no longer adding value to Viocity REIT may be sold or repositioned if there is a market for an enhanced property. The REIT Management will continue to diversify the portfolio by purchasing properties in
 
 <!-- page 23 -->
@@ -643,9 +578,7 @@ The funds raised by Viocity REIT pursuant to the Offering may not be sufficient 
 The only material agreements entered into by Viocity REIT and which can reasonably be regarded as presently being material to Viocity REIT or a prospective purchaser of Units in Viocity REIT are as summarized below: (a) Declaration of Trust - The Declaration of Trust dated January 3, 2017, and as amended on January 24, 2017, between the Trustees and the settlor creating the Trust under the laws of the Province of Alberta. The Declaration of Trust is described below in **Item 5.1 – Terms of Securities** .
 
 - (b) Subscription Agreement - The Agreement by which investors will subscribe for and acquire REIT Units on the terms and conditions described in this Offering Memorandum. The Subscription Agreement is described at **Subscription Agreement and Checklist** and **Item 5.2** of this Offering Memorandum.
-
 - (c) Risk Acknowledgment Form - In reliance on the Offering Memorandum exemption under applicable securities laws, investors will be asked to complete a Risk Acknowledgement Form. The risks associated with purchasing REIT Units is described at **Item 8 – Risk Factors** .
-
 - (d) Asset & Mortgage Manager Agreement
 
 In consideration for the provision of certain services relating to the properties and mortgages of Viocity REIT, Derek Fairbrother, the Asset Manager, has entered into an employment agreement with Viocity REIT. The Asset Manager is entitled to compensation from Viocity REIT in accordance with the Asset & Mortgage Manager Agreement, which will include: (i) an acquisition fee of 1.0% of the purchase price of real estate assets acquired, (ii) an acquisition fee of 1.0% of the placement of mortgages held by Viocity REIT, (iii) a 3.0% equity interest in the Net Asset Value of the Units of Viocity REIT (a further discussion of this incentive is described at **Item 3.1 – Asset Manager Fees** ), and (iv) reimbursement of expenses and costs incurred in connection with the management and operation of Viocity REIT. The Asset Manager has waived all compensation owed to it for the period of January 3, 2017 to December 31, 2017. Mr. Fairbrother is also entitled to Executive Compensation (defined below) in the amount of $50,000 for the period of January 3, 2017 to December 31, 2017. Executive Compensation is calculated monthly and paid in arrears. Executive compensation has been calculated for Mr. Fairbrother using the following formula:
@@ -687,9 +620,7 @@ A person who is employed by and receives salary from Viocity REIT, or an affilia
 **Notes:**
 
 1. There is no minimum or maximum Offering. Viocity REIT will offer an unlimited number of Units on a continuous basis. At present time as a newly established REIT fund both Principals and all Trustees are currently acquiring units on an on-going basis throughout the year. Percentage of ownership of units shown above is based on the current holdings as of December 8, 2017.
-
 2. Current year anticipated Financial Compensation is based on growth projections and the fund successfully growing to a size of approx. $10,000,000. Actual Compensation paid may be higher or lower based on actual performance.
-
 3. For the period of January 3, 2017 – December 31, 2017, Derek Fairbrother and Marc Loustau have agreed to waive all executive compensation owed to them for day-to-day administrative services rendered to Viocity REIT. Further information regarding the waiver of executive compensation is found at **item 2.7 – Material Agreements** .
 
 ## _Asset Manager Fees_
@@ -743,21 +674,15 @@ Viocity REIT has retained the law firm of Knight LLP to act as legal counsel to 
 As at the date hereof, or within the ten years prior to the date of this Offering Memorandum, no Trustee, executive officer or control person has been a director, executive officer or control person of any company (including Viocity REIT) that:
 
 - (a) was subject to:
-
    - i. a cease trade (including any management cease trade order which applied to directors or executive officers of a company, whether or not the person is named in the order);
-
    - ii. an order similar to a cease trade order; or
-
    - iii. an order that denied the relevant company access to any exemption under securities legislation;
-
    - iv. that was in effect for a period of more than 30 consecutive days (an “Order”); or
-
 - (b) was subject to an Order that was issued after the director, executive officer or control person ceased to be a director, executive officer or control person and which resulted from an event that occurred while that person was acting in the capacity as director, chief executive officer or control person.
 
 Other than as disclosed below, as at the date hereof, no director, executive officer or control person is, or within the ten years prior to the date of this prospectus has:
 
 - (a) been a director, executive officer or control person of any entity (including Viocity REIT), that while that person was acting in that capacity or within a year of that person ceasing to act in that capacity, became bankrupt, made a proposal under any legislation relating to bankruptcy or insolvency or was subject to or instituted any proceedings, arrangement or compromise with creditors or had a receiver, receiver manager or trustee appointed to hold its assets; or
-
 - (b) become bankrupt, made a proposal under any legislation relating to bankruptcy or insolvency, or become subject to or instituted any proceedings, arrangement or compromise with creditors, or had a receiver manager or trustee appointed to hold the assets of the director, executive officer or control person.
 
 ## **3.4 Loans**
@@ -799,7 +724,6 @@ The following table sets forth information about the current liabilities of Vioc
 #### **Notes:**
 
 1. Viocity Management Inc. is the related exempt market dealer for Viocity REIT and as such has agreed to flexible repayment terms of initial startup costs. The balances are unsecured, non-interest bearing and have no other fees being charged beyond the actual costs of documents and other related REIT costs incurred prior to the Trust Declaration. The balance is due on demand.
-
 2. Viocity REIT owes $6,824 to a related party, Derek Fairbrother, Trustee of the REIT, for advances made in relation to start-up and establishment of the Trust. The balances owing are non-interest bearing, unsecured and have no set repayment terms. The balance is due on demand.
 
 <!-- page 31 -->
@@ -895,21 +819,13 @@ from or issue or register a transfer of such REIT Units to a Person unless the P
 The Declaration of Trust may only be amended by a vote of a majority of the votes cast at a meeting of Unitholders duly called for that purpose, provided that the provisions of the Declaration of Trust may be amended by the Trustees without the consent, approval or ratification of the Unitholders or any other person for the following purposes:
 
 - to ensure continuing compliance with applicable laws (including the Tax Act and maintaining the Trust’s status as a mutual fund trust under the Tax Act), regulations, requirements or policies of any governmental or other authority, having jurisdiction over the Trustees, the Trust or over the distribution of Trust Units;
-
 - to provide additional protection, in the opinion of the Trustees, for the Unitholders;
-
 - to remove any conflicts or inconsistencies in the Trust Indenture or making minor corrections
-
 - including the rectification of any ambiguities, defective provisions, errors, mistakes or omissions which are, in the opinion of the Trustees, necessary or desirable and not prejudicial to the Unitholders;
-
 - to make amendments which, in the opinion of the Trustees, are necessary or desirable to remove conflicts or inconsistencies between the disclosure in the Circular and the Trust Indenture;
-
 - to make amendments which, in the opinion of the Trustees, are necessary or desirable as a result of changes in generally accepted accounting principles (including accounting guidelines) or taxation or other laws or the administration or enforcement thereof;
-
 - to enable the Trust to issue Units for which the purchase price is payable in installments;
-
 - to create one or more additional classes of units solely to provide voting rights to holders of shares, units or other securities that are exchangeable for Units entitling the holder thereof to a number of votes not exceeding the number of Units into which the exchangeable shares, units or other securities are exchangeable or convertible but that do not otherwise entitle the holder thereof to any rights with respect to the Trust’s property or income other than a return of capital; or
-
 - for any purpose (except one in respect of which a Unitholder vote is specifically otherwise required) if the Trustees are of the opinion that the amendment is not prejudicial to Trust Unitholders and is necessary or desirable;
 
 but notwithstanding the foregoing, no such amendment shall modify the right to vote attached to any Unit or the entitlement to distributions from the Trust provided hereunder represented by any Unit without the consent of the Unitholders, and no such amendment shall reduce the percentage of votes required to be cast at a meeting of the Unitholders without the consent of the holders of all of the Units then outstanding or cause the Trust to fail or cease to qualify as a “mutual fund trust” under the Tax Act.
@@ -919,21 +835,13 @@ but notwithstanding the foregoing, no such amendment shall modify the right to v
 Notwithstanding the above, no action or authorization and no amendment may be made to the Declaration of Trust by the Trustees without a "Special Resolution Vote" with respect to:
 
 - the termination of the Trust;
-
 - these provisions of Declaration of Trust
-
 - an exchange, reclassification or cancellation of all or part of the Trust Units;
-
 - the addition, change or removal of the rights, privileges, restrictions or conditions attached to the Trust Units and, including, without limiting the generality of the foregoing:
-
    - (a) the removal or change of rights to distributions;
-
    - (b) the addition or removal of or change to conversion privileges, options, voting, transfer or preemptive rights; or
-
    - (c) the reduction or removal of a distribution preference or liquidation preference;
-
    - (d) the creation of new rights or privileges attaching to certain of the Trust Units; or
-
    - (e) the constraint on the issue, transfer or ownership of Trust Units or the change or removal of such constraint, except as otherwise provided herein;
 
 except in each case with the approval of Unitholders given by the affirmative vote of at least twothirds of the votes cast at a meeting of Unitholders duly called for that purpose.
@@ -959,7 +867,6 @@ Viocity REIT applies judgment in determining if the acquisition of an individual
 The fair value of investment properties is determined using a detailed valuation framework developed by Viocity REIT’s internal and external valuation teams. Each of these teams includes experts in the industry. The valuation teams considered the following approaches in determining the fair value:
 
 1. Consideration of recent prices of similar properties within similar market areas;
-
 2. The direct capitalization method, which is based on the conversion of current and future normalized earnings potential directly into an expression of market value. The Normalized Net Operating Income (“NNOI”) for the year is divided by an overall capitalization rate (inverse of an earnings multiplier) to arrive at the estimate of fair value.
 
 The External Team, comprised of the auditors and valuators, are responsible for:
@@ -967,33 +874,23 @@ The External Team, comprised of the auditors and valuators, are responsible for:
 Quarterly by the valuators:
 
 - Determining the capitalization rates that would be used in valuing the properties
-
 - Providing charts of comparable sales and supporting relevant market information
 
 Annually by the valuators:
 
 - Determining the capitalization rates that would be used in valuing the properties
-
 - Providing charts of comparable sales and supporting relevant market information
-
 - Determining the appropriate industry standard “set off” and normalization assumptions used in the calculation of NNOI.
-
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Reviewing, for the audited year-end financial statements, the resultant values for reasonableness, compliance with the valuation framework and compliance with IAS 40
-
 - Supplying a “Fair Value” Report for financial statement purposes
 
 ## Annually by the auditors:
 
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Evaluating the work of the valuator including assumptions and comparisons to market
-
 - Reviewing of the controls over the underlying data provided to the valuator from the REIT’s accounting system
-
 - Reviewing the “Fair Value” Report prepared by the valuators
-
 - Reviewing, for the audited year-end financial statements, the resultant values for reasonableness, compliance with the valuation framework and compliance with IAS 40
 
 <!-- page 38 -->
@@ -1001,11 +898,8 @@ Annually by the valuators:
 The Internal Team, comprised of the REIT Management and the Asset Manager, is responsible quarterly and annually for:
 
 - Assembling the property specific data used in the valuation model based on the process set forth in the valuation framework
-
 - Reviewing the valuation framework to determine whether any changes or updates are required
-
 - Inputting the capitalization rates, “set offs” and normalization assumptions provided by the valuators
-
 - Delivering the completed valuation framework to the external team for review at year-end for the audited financial statements
 
 Investment properties are derecognized when either they have been disposed of or when the investment property is permanently withdrawn from use and no future economic benefit is expected from its disposal. Any gains or losses on the retirement or disposal of investment property are recognized in the income statement in the year of retirement or disposal.
@@ -1127,11 +1021,8 @@ FMV = (IFRS Balance Sheet Assets – IFRS Balance Sheet Liabilities (1) + Adjust
 The Adjustment Factors include, but are not limited to:
 
 - a) portfolio premiums (2), if any; plus
-
 - b) capitalization of certain capital expenses, whose benefits accrue over a long period of time and should be allocated between exiting, remaining and incoming Unitholders but may be written off or effectively written off under IFRS, or where the value of such expense isn’t as yet reflected, in whole or in part in the Investment Portfolio valuation due to timing lags, if any; plus
-
 - c) portfolio inter-quarter timing adjustments, if any; less
-
 - d) discretionary adjustments, if any.
 
 (2) portfolio premium means an adjustment to IFRS valuations to account for the difference that buyers may pay for a portfolio of properties over individual component properties considered on their own. The IFRS valuation approach evaluates each property on a standalone basis, without considering the value of economies
@@ -1157,7 +1048,6 @@ Where Units are being issued in reliance on the Offering Memorandum Exemption, t
 The Offering is being made pursuant to the following exemptions from the prospectus requirements contained in the applicable securities laws:
 
 - (i) In Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Prince Edward Island, Quebec, Saskatchewan or Yukon pursuant to the exemptions from the prospectus requirements afforded by Section 2.9 of NI 45106 (the “Offering Memorandum Exception”); and
-
 - (ii) In Ontario pursuant to the exemption from the prospectus requirements afforded by Section 2.3 of NI 45-106 (the “Accredited Investor Exception”)
 
 The Offering Memorandum Exception is available for distributions to Subscribers resident in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Prince Edward Island, Quebec, Saskatchewan or Yukon purchasing as principals, who receive this Offering Memorandum prior to signing the Subscription Agreement and who sign a Risk Acknowledgment Form (provided that, with respect to Quebec, the Offering Memorandum is available in both French and English languages).
@@ -1569,7 +1459,6 @@ If this Offering Memorandum or any amendment hereto contains a Misrepresentation
 No action may be commenced more than:
 
 - (a) in the case of an action for rescission, more than 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of any other action, other than an action for rescission, more than the earlier of (i) 180 days after the subscriber first had knowledge of the facts giving rise to the cause of action; or (ii) three years after the date of the transaction that gave rise to the cause of action.
 
 ## **Rights for Purchasers in Saskatchewan**
@@ -1585,7 +1474,6 @@ In addition, subject to certain limitations, where an individual makes a verbal 
 No action shall be commenced to enforce the foregoing rights:
 
 - (a) in the case of an action for rescission, more than 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - (b) in the case of any action, other than an action for rescission, more than the earlier of (i) one year after the purchaser first had knowledge of the facts giving rise to the cause of action, or (ii) six years after the date of the transaction that gave rise to the cause of action.
 
 ## **Rights for Purchasers in Manitoba**
@@ -1605,15 +1493,10 @@ The statutory right to sue is available to a purchaser whether or not the purcha
 In the event that this Offering Memorandum, together with any amendments hereto used in connection herewith, delivered to a purchaser of Units resident in New Brunswick, or in any other information provided pursuant to the Offering, contains a Misrepresentation and it was a Misrepresentation at the time of purchase of Units by such purchaser, the purchaser will be deemed to have relied upon the Misrepresentation and will, as provided below, have a right of action against Viocity REIT for damages; or, while still the owner of the Units purchased by that purchaser, for rescission against Viocity REIT, in which case, if the purchaser elects to exercise the right of rescission, the purchaser will have no right of action for damages against Viocity REIT, provided that:
 
 - (a) the right of action for rescission or damages must be exercisable by the purchaser not later than,
-
    - i. in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
    - ii. to cancel your agreement to buy these securities, or in the case of any action, other than an action for rescission, the earlier of (A) one year after the plaintiff first had knowledge of the facts giving rise to the cause of action, or (B) six years after the date of the transaction that gave rise to the cause of action;
-
 - (b) the defendant will not be liable if it proves that the purchaser purchased the Units with knowledge of the Misrepresentation;
-
 - (c) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the Units as a result of the Misrepresentation relied upon; and
-
 - (d) in no case will the amount recoverable in any action exceed the price at which the Units were sold to the purchaser.
 
 ## **Rights for Purchasers in Nova Scotia**
@@ -1625,13 +1508,9 @@ In the event that this Offering Memorandum, together with any amendments hereto 
 Misrepresentation and will, as provided below, have a right of action against Viocity REIT, the Trustees and any person executing the certificate to this Offering Memorandum or any amendment hereto for damages; or, while still the owner of the Units purchased by that purchaser, for rescission against Viocity REIT, in which case, if the purchaser elects to exercise the right of rescission, the purchaser will have no right of action for damages against Viocity REIT, the Trustees or any person executing the certificate to this Offering, provided that:
 
 - (a) the right of action for rescission or damages must be exercisable by the purchaser not later than,
-
    - i. in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
    - ii. in the case of any action, other than an action for rescission, the earlier of, (A) 180 days after the plaintiff first had knowledge of the facts giving rise to the cause of action, or (B) three years after the date of the transaction that gave rise to the cause of action;
-
 - (b) the defendant will not be liable if it proves that the purchaser purchased the Units with knowledge of the Misrepresentation;
-
 - (c) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the Units as a result of the Misrepresentation relied upon; and
 
 (d) in no case will the amount recoverable in any action exceed the price at which the Units were sold to the purchaser.
@@ -1641,13 +1520,9 @@ Misrepresentation and will, as provided below, have a right of action against Vi
 In the event that this Offering Memorandum, together with any amendments hereto used in connection herewith, delivered to a purchaser of Units resident in Newfoundland contains a Misrepresentation and it was a Misrepresentation at the time of purchase of Units by such purchaser, the purchaser will be deemed to have relied upon the Misrepresentation and will, as provided below, have a contractual right of action against Viocity REIT, every Trustee at the date of the Offering Memorandum, and every person who signed the Offering Memorandum, for damages; or, while still the owner of the Units purchased by that purchaser, for rescission against Viocity REIT, in which case, if the purchaser elects to exercise the right of rescission, the purchaser will have no right of action for damages against Viocity REIT, provided that:
 
 - (a) the right of action for rescission or damages must be exercisable by the purchaser not later than,
-
    - i. in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
    - ii. in the case of any action, other than an action for rescission, the earlier of, (A) 180 days after the plaintiff first had knowledge of the facts giving rise to the cause of action, or (B) three years after the date of the transaction that gave rise to the cause of action;
-
 - (b) the defendant will not be liable if it proves that the purchaser purchased the Units with knowledge of the Misrepresentation;
-
 - (c) in the case of an action for damages, the defendant will not be liable for all or any portion of the damages that it proves do not represent the depreciation in value of the Units as a result of the Misrepresentation relied upon; and
 
 <!-- page 68 -->
@@ -1675,29 +1550,21 @@ Section 130.1 of the Securities Act (Ontario) provides that every purchaser of s
 <!-- page 69 -->
 
 - a) if the purchaser exercises its right of rescission, it shall cease to have a right of action for damages as against the issuer and the selling security holders, if any;
-
 - b) the issuer and the selling security holders, if any, will not be liable if they prove that the purchaser purchased the securities with knowledge of the Misrepresentation;
-
 - c) the issuer and the selling security holders, if any, will not be liable for all or any portion of damages that it proves do not represent the depreciation in value of the securities as a result of the Misrepresentation relied upon; and
-
 - d) in no case shall the amount recoverable exceed the price at which the securities were offered.
 
 Section 138 of the Securities Act (Ontario) provides that no action shall be commenced to enforce these rights:
 
 - a) in the case of an action for rescission, 180 days after the date of the transaction that gave rise to the cause of action; or
-
 - b) in the case of an action for damages, the earlier of:
-
    - i. 180 days after the date that the purchaser first had knowledge of the facts giving rise to the cause of action; or
-
    - ii. three years after the date of the transaction that gave rise to the cause of action.
 
 This Offering Memorandum is being delivered in reliance on the exemption from the prospectus requirements contained under section 2.3 of NI 45-106 (the “accredited investor exemption”). The rights referred to in section 130.1 of the Securities Act (Ontario) do not apply in respect of an offering memorandum (such as this Offering Memorandum) delivered to a prospective purchaser in connection with a distribution made in reliance on the accredited investor exemption if the prospective purchaser is:
 
 - a) a Canadian financial institution or a Schedule III bank (each as defined in NI 45-106);
-
 - b) the Business Development Bank of Canada incorporated under the Business Development Bank of Canada Act (Canada); or
-
 - c) a subsidiary of any person referred to in paragraphs (a) and (b), if the person owns all of the voting securities of the subsidiary, except the voting securities required by law to be owned by directors of that subsidiary.
 
 ## **11.3 General**

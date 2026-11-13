@@ -7,7 +7,7 @@ as_of: '2021-12-23'
 version_of: pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23
 replaces: investment advisor address; registered and principal office; redemption instructions paragraph; report to shareholders paragraph; documents available for inspection paragraph
 pages: 66-68
-content_hash: 54ea4d3f5a710cc6e72feca4e1e3b8b66b744b26b5e8d44aae85f13d9a62b461
+content_hash: 341379a8517e0568f0f28178694e372ebd0cfc4a255a0b37c5cfdd576a8b44a4
 ---
 
 <!-- page 66 -->
@@ -37,7 +37,6 @@ Unless otherwise defined in this Addendum, capitalised terms shall have the same
 "Overseas Asset Management (Cayman) Ltd. c/o Campbells Corporate Services Limited Floor 4, Willow House, Cricket Square Grand Cayman KY1-9010, Cayman Islands"
 
 2. **Structure and Administration**
-
    - (i) The heading “Registered Office” under the section headed “ **STRUCTURE AND ADMINISTRATION** ” of the Offering Memorandum shall be deleted and replaced with the following:
 
 “ **Registered Office of the Fund:** c/o CO Services Cayman Limited P.O. Box 10008, 1st Floor, Willow House, Cricket Square Grand Cayman KY1-1001, Cayman Islands
@@ -91,9 +90,7 @@ Overseas Asset Management (Cayman) Ltd. c/o Campbells Corporate Services Limited
 “Copies of the following documents are available for inspection during normal business hours on any business day (public holidays excepted) at the principal office of the Fund without charge:-”
 
 7. **General**
-
    - (i) Effective 3 December 2020, the Cayman Islands Citation of Acts of Parliament Act 2020 came into force. This law provides that any enactment that has been a “Law” or which contains a reference to the title of a Law, should be amended by omitting the word “Law” and substituting it with the word “Act”. Accordingly, all references to “Laws” in the Offering Memorandum should be deemed references to “Acts”.
-
    - (ii) All references to the address of the Investment Advisor, Overseas Asset Management (Cayman) Ltd., not already specifically set out herein shall be read as references c/o Campbells Corporate Services Limited, Floor 4, Willow House, Cricket Square, Grand Cayman KY1-9010, Cayman Islands.
 
 Dated: 23 December 2021

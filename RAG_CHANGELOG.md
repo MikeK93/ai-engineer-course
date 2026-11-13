@@ -15,6 +15,39 @@ Rules: one entry per meaningful change (code, data, prompt, config, model). Reco
 
 ---
 
+## 2026-11-13 | Phase 4 | Chunk manifest is archived with a version suffix (commit pending)
+
+What: `python main.py chunk` still writes the latest summary to `data/chunks_manifest.json`. When that summary differs from the file already there, the old file is moved (not rewritten) to `data/manifests/chunks-manifest-<pipeline_version>-<hash>.json`. The version in the name is the `pipeline_version` stored in the old file. An identical re-run archives nothing. `--out DIR` archives into `DIR/manifests/`.
+
+Why: the same rule as the ingest manifest. The working copy was being overwritten on every `chunk` run, so the previous summary was gone. No agent should edit this file by hand; only `chunk` writes it.
+
+Effect: the current `data/chunks_manifest.json` stays the latest. It gets a suffixed copy in `data/manifests/` the next time a `chunk` run actually changes it.
+
+## 2026-11-13 | Phase 2 + 4 | Clean-up rules after reviewing chunks against the Markdown (commit pending)
+
+What (ingest, in `normalize.py` and `ingest.py`; applies to every `data/md/` file):
+- No blank lines between the points of a bullet or numbered list; empty bullet markers (`-` alone) are removed.
+- Private-use glyphs (symbol fonts), `U+FFFD` and other unassigned or control characters are removed, so neither the Markdown nor the chunks contain them.
+- A page whose text layer is mostly private-use glyphs (`GARBLED_SHARE` = 30%) is treated like a scanned page: `ocr_required`, so `python main.py ocr` can redo it.
+
+What (chunk, in `chunk.py` and the new `chunk_clean.py`):
+- A heading that carries a figure (`ASKING PRICE: $1,189,900`, `$10,000,000`, `37,312 SF`) stays in the chunk text; before, a heading with no body only set `section` and the figure was lost. Headings like `ITEM 2` stay plain labels.
+- A sentence cut by a page or column break is rejoined (paragraph that does not end a sentence + paragraph starting in lower case).
+- A sentence is not cut while it fits the embedding model (512 tokens including the prefix); sentence ends now include a closing quote or bracket. Only a longer one is cut, at `;` or `:` first, then between words.
+- After cutting, per document: chunks tagged `skip_candidate` / `skip_reason` when their own heading or first line says comparables (sale, rent); pagination-only chunks (`Offering Memorandum | 5`, `Page 7 of 15`) dropped; chunks of fewer than 3 words and no digit dropped; exact duplicates dropped (first stays); chunks under 50 tokens of words (not counting `|` and `---`) squashed into the previous chunk, else the next, keeping the squashed chunk's heading as a line of text; `chunk_id` renumbered without gaps.
+- `chunks_manifest.json` now has a `cleanup` count per document and in total. `over_cap` is measured against the model limit (512); `kept_whole_sentence_above_cap` lists chunks between 480 and 512 that exist to keep one sentence whole.
+- `PIPELINE_VERSION` is now `rag-v2`.
+
+Why:
+- The review of `chunks.jsonl` against `data/md/` found the two prices missing from `gs10_document` and `1028_Johnson_Street` (headings with no body), page-number footers as chunks, 156 duplicated chunks, 63 chunks starting mid-sentence, tiny title-only chunks, and 36 pages of the RESCO financial statements that were nothing but private-use glyphs (101,345 of them).
+- Dropping garbled pages to nothing would hide a hole in the document; sending them to OCR keeps the content. Docling needs to run for them (36 pages, CPU).
+- Comparables are tagged and kept, not deleted: they describe other properties, so retrieval may exclude them, but the decision is left to Phase 5.
+- Duplicates are removed only inside one document. The 9 chunks identical across different documents were kept, because each document must still be citable.
+- Rejected: counting table separators in chunk size (a table of empty cells looked "big"); keeping every heading that has a digit (it turned `ITEM 2 ...` and `2.1 ...` into body text and broke sections).
+
+Effect: 5,243 chunks became 4,550. Cleanup counts: 11 pagination, 21 too short, 89 duplicates, 582 squashed, 22 skip candidates. Both prices are now in chunk 0 of their documents. Bad characters: 0 in the Markdown and 0 in the chunks. Lowercase starts fell from 63 to 18.
+Open: (1) the 36 RESCO pages (103 to 141) are missing from the Markdown until `python main.py ocr --only RESCO` is run and `ingest` is run again; (2) the 18 remaining mid-sentence cuts are single legal sentences longer than the 512-token window; (3) about 300 chunks are under 30 words, mostly table fragments whose neighbours are full, so they cannot be squashed without passing the cap.
+
 ## 2026-11-12 | Phase 4 | DECISION: production chunking is "by heading"
 
 What: the pipeline's `chunk` command uses the structure-aware "by heading" strategy (`src/rag/chunk.py`). Fixed 400/80 windows are kept only as a measurement baseline, in `measurements/chunking/` (`compare.py`, `fixed.py`, `targets.yaml`), run with `python main.py chunk-compare`. The documents compared are listed in `measurements/chunking/targets.yaml`, and `chunk` does not read that file. Sizes are counted with the embedding model's own tokenizer (bge-small, 512-token limit).

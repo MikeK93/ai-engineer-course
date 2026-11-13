@@ -27,7 +27,7 @@ from .dedup import content_hash, find_duplicates
 from .extract import Extractor, default_extractors
 from .meta import DocEntry, load_catalog
 from .models import BLANK, OCR_REQUIRED, OK, LogicalDoc, Page
-from .normalize import normalize_pages
+from .normalize import is_garbled, normalize_pages
 from .store import (archive_manifest_if_changed, file_sha256, load_cached_pages, load_ocr_pages, remove_stale_markdown,
                     save_cached_pages, write_json, write_jsonl, write_markdown)
 from .versions import find_version_markers, split_versions
@@ -160,9 +160,12 @@ def _prepare(entry: DocEntry, pages: list[Page], paths: IngestPaths, record: dic
 
 
 def _merge_ocr(pages: list[Page], ocr: dict[int, str]) -> list[Page]:
-    """Fill `ocr_required` pages from OCR output. OCR that found nothing makes the page blank."""
+    """Fill `ocr_required` pages from OCR output. OCR that found nothing makes the page blank.
+    A page whose text layer is garbled (symbol font) is treated like a scanned page: its text is unusable."""
     merged = []
     for p in pages:
+        if p.status == OK and p.source != "ocr" and is_garbled(p.text):
+            p = replace(p, text="", status=OCR_REQUIRED)
         if p.status == OCR_REQUIRED and p.number in ocr:
             text = ocr[p.number]
             p = replace(p, text=text, status=OK if text else BLANK, source="ocr")

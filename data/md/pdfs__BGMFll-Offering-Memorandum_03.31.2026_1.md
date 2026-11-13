@@ -27,7 +27,7 @@ ocr_pages:
 - 54
 - 55
 - 56
-content_hash: ad482a5fc0e76d9ec68c9ef9f0720e72b20ebe121add2c5bfc744c2759d2535d
+content_hash: d7d8ede1e93e0aaf277e901ca7f08ab252d21aa8cfd2f01c27a1c6a5fac11d80
 ---
 
 <!-- page 1 -->
@@ -204,11 +204,8 @@ The Company’s mortgage loans will typically fall into the following major mort
 <!-- page 8 -->
 
 - (ii) _Bridge Loans_ - These loans are advanced to finance completed or substantially completed buildings to allow owners to complete their sales or leasing program and may include additional funds for improvements and upgrades.
-
 - (iii) _Land Loans_ - These loans are typically advanced to finance the acquisition and/or the development of land currently zoned or designated by a municipality for a use consistent with the loan application. The development process includes, among other things, land acquisition, zoning and/or development approval, road construction, installation of services and utilities, and other improvements required by the governing municipality and our financing may be for all or any phase of the development process. The funding of progress advances is usually carried out on a work-in-place/cost-tocomplete basis.
-
 - (iv) _Term loans_ – These loans are advanced to finance completed properties not for development. Term loans would typically be commercial, residential, or industrial income properties. Owner occupied apartments, condominiums, townhouses, and single family homes are also classified as term loans.
-
 - (v) _Equity Investments_ – Equity or other interests in real estate projects or entities owning or carrying out same shall not exceed in aggregate, 10% of the assets of the Company.
 
 Loans will generally be for terms of 6 to 30 months and may include the ability to extend the term for further periods subject to the borrower meeting certain criteria. Typically, holdings in the Company range from 35 - 55 mortgages and the loan size is typically in the $500,000 - $5,000,000 range but not greater than 10% of capital of the Company. Interest rates for the Company’s loans generally vary between Prime +4.5% to Prime +9%, although there may be exceptions from time to time. There can be no guarantee or assurance that the Company will not experience loan losses.
@@ -224,7 +221,6 @@ As at December 31, 2025:
 <!-- page 9 -->
 
 - the average of the terms to maturity of the Company’s mortgage investments, weighted
-
 - by the principal amount of such mortgage investments, was 0.81 years (2024: 0.53 years);
 
 ● the average loan-to-value ratio of the Company’s mortgage investments, weighted by the principal amount of each mortgage, was 67.59% (2024: 68.24%);
@@ -236,7 +232,6 @@ As at December 31, 2025:
 ● the principal amount, and percentage of the total principal amount of all of the Company’s mortgage investments, attributable to residential properties is $55.86M (88.3%; 2024: $59.82M, 86.8%), and $7.42M (11.70%; 2024: $9.09M, 13.20%) to commercial properties;
 
 - an aggregate total principal amount of $55.81M is attributable to mortgages that will
-
 - mature prior to December 31, 2026, or 88.2% of the total principal amount of all of the Company’s mortgage investments (2024: $60.43M, 87.7%);
 
 ● an aggregate total principal amount of $25.04M is attributable to 13 mortgages that are more than 90 days in interest arrears as at December 31, 2025, or 39.6% of the total principal amount of all of the Company’s mortgage investments (2024: $15.73M attributable to 8 mortgages, or 18.4%).
@@ -323,9 +318,7 @@ Of the 43 loans described in the table above, 43 are shared with other lenders f
 The Company's Directors have established investment criteria for the Company, which currently are the following:
 
 - (i) The Company will make investments so that it maintains its status as a "mortgage investment corporation" under the Tax Act;
-
 - (ii) Mortgage investments will be secured by mortgages and/or other appropriate security interests in favour of the Company, which will be registered in the appropriate land title or land registry office as a charge against the subject real property. The Company may hold beneficial interests in mortgages registered in the land title office in the name of another person or entity which enters into a written trust or agency agreement in favour of the Company in respect of same;
-
 - (iii) The amount advanced by the Company on any one property will not exceed the greater
 
 14086340.2
@@ -335,23 +328,14 @@ The Company's Directors have established investment criteria for the Company, wh
 of $2,000,000 or 10% of the Company's paid-up capital;
 
 - (iv) The amount advanced by the Company to any one borrower group (including affiliates and related parties) will not exceed the greater of $2,000,000 or 15% of the Company's paid-up capital;
-
 - (v) Loans will be made only to arm’s length borrowers not related to Bancorp Financial Services Inc. (the “Manager”) or its affiliates, and in particular will not be made to any shareholder or officer of the Manager, or to any member of the Manager’s Investment Committee or to any company in which a shareholder of the Manager holds an interest except where a loan is in default and the Manager, or a company related to the Manager, determines to take title to the property over which the loan was made;
-
 - (vi) Loans will not be made to any person (a "Trust Party") who is an annuitant, beneficiary or employee, as the case may be, under a registered retirement savings plan, deferred profit sharing plan or registered retirement income fund as defined under the Tax Act which is a shareholder of the Company, or to any other person who is a relative of or otherwise does not deal at arm's length with the Trust Party, or to anyone else who would cause shares in the Company not to be a qualified investment under Regulation 4900(1)(c) of the Tax Act;
-
 - (vii) The Company may also invest up to 10% of its assets in participating financing, equity or other interests in real estate projects or entities owning or carrying out same, but in so doing, it will not manage or develop such real estate.
-
 - (viii) Mortgage security will include:
-
    - (a) a second financial charge on the mortgaged property in a principal amount which, when added to the principal amount of the first financial charge, will not exceed 85% of its appraised value at the time of loan approval. The manager typically restricts loan exposure to 80% of a property’s appraisal value but does offer loans up to 85% on a very select basis; or
-
    - (b) a first financial charge on the mortgaged property in a principal amount not exceeding 85% of its appraised value at the time of loan approval. The manager typically restricts loan exposure to 80% of a property’s appraisal value but does offer loans up to 85% on a very select basis;
-
 - (ix) The Company’s due diligence for each loan includes a full underwriting of mortgage security, the borrower and the guarantees. Prior to funding, the Company will typically obtain appraisal and environmental reports by reputable independent professionals on mortgaged properties and other security interests together with other consultant reports necessary for the type of property and loan being funded. Appraisals may be based on assumptions including but not limited to construction and completion of development of the property and/or improvements and lease-up of the property, all of which would represent improvements to the property to be made from advances under the mortgage by the Company and may include advances by an unrelated third party 1st mortgage secured in priority to the Company’s 2nd mortgage on the property;
-
 - (x) Mortgages will generally be for an initial term of 6 to 30 months and any renewals or extensions of such term will be approved in accordance with investment criteria guidelines;
-
 - (xi) The Company will only make investments in provinces of Canada in which the Company is lawfully permitted to do business; and
 
 14086340.2
@@ -420,7 +404,6 @@ The rates shown above are historic only. There can be no assurance or guarantee 
 The Company's long-term objectives are to:
 
 - (i) maintain and increase a portfolio of well secured and diversified mortgage loans primarily in British Columbia and Alberta;
-
 - (ii) preserve and protect the Company’s capital;
 
 14086340.2
@@ -428,11 +411,8 @@ The Company's long-term objectives are to:
 <!-- page 15 -->
 
 - (iii) provide shareholders with a return that is superior to term deposits, GICs and money market funds;
-
 - (iv) maintain profitability on a sustainable basis;
-
 - (v) maintain the Company’s status as a "mortgage investment corporation" under the Tax Act; and
-
 - (vi) offer loans to suitable borrowers who seek financing from sources other than institutional lenders.
 
 Since the Company will have an ongoing investment program, there is no target completion date for its business plan. Investments will be made as the Company's available funds permit. The costs to achieve the Company's objectives set out above will vary accordingly.
@@ -474,7 +454,6 @@ The Manager approves investment opportunities to the Company which it considers 
 As compensation for services rendered, the Company will pay to the Manager:
 
 - (i) a management fee equal to 1.75% per annum (1/12 of 1.75% per month) of the outstanding balance of the Class D Shares plus applicable taxes thereon (the "Class D Fee"), a fee of 2.25% per annum (1/12 of 2.25% per month) of the outstanding balance of Class A shares plus applicable taxes thereon (the "Class A Fee"), a fee equal to 2.25% per annum (1/12 of 2.25% per month) of the outstanding balance of the Class E Shares plus applicable taxes thereon (the "Class E Fee") and a management fee equal to 1.25% per annum (1/12 of 1.25% per month) of the outstanding balance of the Class F Shares plus applicable taxes thereon (the "Class F Fee"), each such fee paid in monthly installments on the last day of each month. The Company considers such rate to be consistent with management fee rates generally charged in comparable circumstances; and
-
 - (ii) in the event that the annual yield to the Class D Shareholders is greater than the two year Government of Canada Benchmark bond yield plus 7.00% per annum (as more fully described in 5.1(a) below), an amount greater than the two year Government of Canada Benchmark Bond yield plus 6.50% per annum to Class A Shareholders, an amount greater than the two year Government of Canada Benchmark Bond yield plus 6.50% per annum to Class E Shareholders and an amount greater than the two year Government of Canada Benchmark Bond yield plus 7.50% per annum to Class F Shareholders, a profit participation (the "Profit Participation") equal to 25% of the annual net income of the Company, after provision for all expenses of the Company and including reserves against potential losses and provision for Priority Dividends and/or Priority Capital Allocations (as such terms are defined in subparagraph 5.1(a)) to the holders of the Shares and Common Shares. This amount will be paid annually based on the net income of the Company as reported in its audited annual financial
 
 14086340.2
@@ -571,27 +550,16 @@ As described above, the Manager is a related party of the Company by virtue of h
 |Danny K. Wong|Vice President and Director of the Manager since 2018. He has more than 20 years’ experience in real estate financing and lending and has been with the Manager since 2015. From 2015-2018,he was Manager of Mortgage Underwriting.|
 
 - 3.3 **_Penalties, Sanctions, Bankruptcy, Insolvency and Criminal or Quasi-Criminal Matters_**
-
 - (a) There has been no penalty or other sanction imposed by a court or by a regulatory body, or a cease trade order that has been in effect for a period of more than 30 consecutive days during the last 10 years against:
-
    - (i) a director, executive officer or control person of the Company, or
-
    - (ii) an issuer of which a person referred to in 3.3(a)(i) above was a director, executive officer or control person at the time.
-
 - (b) There has been no declaration of bankruptcy, voluntary assignment in bankruptcy, proposal under any bankruptcy or insolvency legislation, proceedings, arrangement or compromise with creditors or appointment of a receiver, receiver manager or trustee to hold assets that has been in effect during the last 10 years with regard to any:
-
    - (i) director, executive officer or control person of the Company, or
-
    - (ii) issuer of which a person referred to in 3.3(b)(i) was a director, executive officer or control person at that time.
-
 - (c) The Company has not, nor have any of its directors, executive officers or control persons, ever pled guilty to or been found guilt of any:
-
    - (i) summary conviction or indictable offence under the _Criminal Code_ (Canada);
-
    - (ii) a quasi-criminal offence in any jurisdiction of Canada or a foreign jurisdiction;
-
    - (iii) a misdemeanour or felony under the criminal legislation of the United States of America or any state or territory of the United States of America; or
-
    - (iv) an offence under the criminal legislation of any other foreign jurisdiction.
 
 14086340.2
@@ -614,11 +582,8 @@ As described above, the Manager is a related party of the Company by virtue of h
 Notes:
 
 - (1) Assumes the Company issues only Class D Shares and no Class F, Class E or Class A Shares under this Offering.
-
 - (2) Assumes the Company issues only Class A Shares and no Class D, Class E or Class F Shares under this Offering.
-
 - (3) Assumes the Company issues only Class E Shares and no Class A, Class D or Class F Shares under this Offering.
-
 - (4) Assumes the Company issues only Class F Shares and no Class A, Class D or Class E Shares under this Offering.
 
 (5) The Company will issue only up to 25,000,000 Shares under this Offering. The respective number of Class D Shares, Class A Shares, Class E Shares and Class F Shares actually issued under this Offering will be decided by the Company, such that the total number of Class D Shares plus the total number of Class A Shares plus the total number of Class E Shares plus the total number of Class F Shares issued under this Offering will be no greater than 25,000,000.
@@ -665,7 +630,6 @@ Note: Class D Shares are available to investors on a direct purchase basis. Clas
 At the end of each fiscal year and after preparation of the Company's financial statements, it is intended that, subject to the _Business Corporations Act_ , (British Columbia) all of the Company's profits available for dividends will be fully distributed by way of dividends to the holders of the Shares and the Common Shares as described below:
 
 - (i) The holders of Shares and Common Shares will be entitled to non-cumulative dividends ("Priority Dividends") from the Company’s net profits available for dividends. Such dividends will be calculated so as to yield to:
-
    - (A) the Class D and Common Shareholders, a return equal to the two year
 
 14086340.2
@@ -675,9 +639,7 @@ At the end of each fiscal year and after preparation of the Company's financial 
 Government of Canada Bond Yield (described later) plus 7.00% per annum;
 
 - (B) to the Class A Shareholders, a return equal to the two year Government of Canada Bond Yield (described later) plus 6.50% per annum;
-
 - (C) to the Class E Shareholders, a return equal to the two year Government of Canada Bond Yield (described later) plus 6.50% per annum;
-
 - (D) to the Class F Shareholders, a return equal to the two year Government of Canada Bond Yield (described later) plus 7.50% per annum.
 
 before any Profit Participation amount as described below is paid to the Manager.
@@ -711,7 +673,6 @@ In the case of a shareholder holding Shares for less than a full fiscal year, di
 In the event of the liquidation, dissolution or winding up of the Company or other distribution of its assets among shareholders, distribution of the assets of the Company shall be made:
 
 - (i) first, to the holders of the Shares and Common Shares pro rata in accordance with the number of shares held, $1.00 per share plus dividends declared but not yet paid, plus pro rata share of any income earned but not declared as dividends;
-
 - (ii) lastly, the balance to the holders of the Shares and Common Shares pro rata in accordance with the number of shares held.
 
 # (c) Retraction by a Shareholder
@@ -745,9 +706,7 @@ The Shareholder may, in its sole discretion, provide written notice of its elect
 The Company will pay such redemption price of such Shares tendered for redemption, unless:
 
 - i) as a result of such redemption, one holder of the Shares or a related group of holders of any class of the Shares would hold more than 25% of the outstanding Shares of that company;
-
 - ii) as a result of such redemption, the number of Shareholders within any class of shares of the Company would be less than 20 after such redemption; and
-
 - iii) as a result of such redemption, the Company would cease to qualify as a "mortgage investment corporation" as defined in the Tax Act.
 
 In the event of circumstances referred to above, if the Company has elected to make partial redemptions, the Company will make all such partial redemptions on a pro rata basis, and any Shares tendered for redemption but not redeemed shall be returned to the applicable Shareholder and shall not be redeemed until such time as (a) such Shareholder delivers a new Redemption Notice and (b) such above-described conditions no longer exist.
@@ -779,9 +738,7 @@ This offering is available to residents of British Columbia and Ontario only, al
 Residents in Ontario relying on the “Offering Memorandum” prospectus exemption under Canadian Securities Administrators National Instrument 45-106 _Prospectus Exemptions_ (“NI 45-106”) must meet the following criteria:
 
 - in the case of an “eligible” investor (as such term is defined under NI 45-106) that is an individual, the acquisition cost of all securities acquired by the purchaser under the Offering Memorandum exemption in the preceding 12 months cannot exceed $30,000;
-
 - in the case of an “eligible” investor that is an individual and that receives advice from a portfolio manager, investment dealer or exempt market dealer that the investment in Shares is suitable, the acquisition cost of all securities acquired by the purchaser under the Offering Memorandum exemption in the preceding 12 months cannot exceed $100,000 plus (for purchases before October 16, 2026) all realizable proceeds of dispositions of Shares during the preceding 12 months to a maximum of $100,000; and
-
 - in the case of an investor that is an individual but not an “eligible” investor, the acquisition cost of all Shares acquired by the purchaser under the Offering Memorandum exemption in the preceding 12 months cannot exceed $10,000.
 
 Investors wishing to purchase the Shares must complete and sign a subscription agreement and risk acknowledgement forms in the form provided by the Company and submit same to the Company at its Head Office address shown at the beginning of page one together with a cheque or bank draft for the full subscription price, made payable to the Company. The subscription price will be held in trust until midnight on the second business day after the day on which we have received your signed subscription agreement.
@@ -885,11 +842,8 @@ Real estate investment contains elements of risk and is subject to uncertainties
 # (a) Investment Risk
 
 - (i) Credit Risk: As with most mortgage investment corporations, we provide financings to borrowers who may typically not meet financing criteria for conventional mortgages from institutional sources and, as a result, these investments generally have a higher risk and earn a higher rate of return than what institutional lenders may receive. Credit risk is inherent in the industry, however the Company carefully monitors the loan portfolio to ensure credit risk and concentrations of risk are minimized. The risk is managed by the Company’s overall risk management framework, including monitoring credit exposures, obtaining appropriated security, conducting third party appraisals of the security obtained, and assessing the credit worthiness of counterparties, prior to committing to the investment. The Company’s Credit Committee must unanimously approve each loan prior to funding.
-
 - (ii) Market Risk: Investment in mortgages secured on real estate are subject to market valuation risks that may be caused by changing economic conditions and local market conditions. The Company obtains independent appraisals from professional appraisers to substantiate value at the time of funding each loan. While every effort is made by such appraisers to be accurate in their estimates of value, the values may not fully represent current market value. There may also be conditions to the valuation such as completion of development of the property that must still occur. There is also a risk that economic conditions or local market conditions will change and impact the value of mortgage loans held by the Company. The Company tries to partially offset these risks by limiting mortgage loan exposure on funding to 85% of the current or completed value of the mortgaged property depending on the purpose of the mortgage loan.
-
 - (iii) Default: In case of default on a mortgage, it may be necessary for the Company, in order to protect the investment, to engage in foreclosure or sale proceedings and to make further outlays to complete an unfinished project or to maintain prior encumbrances in good standing.
-
 - (iv) Impaired Loans: The Company may from time to time have one or more impaired loans in its portfolio, particulars of which can be obtained by contacting the Company. The Company defines loans as being impaired where full recovery is considered at risk. The Company reviews mortgages for impairment and will maintain an allowance as appropriate to reduce the carrying value of any mortgages identified as impaired to their estimated realizable amounts. The estimated realizable amounts are the principal amount of the mortgages less expected credit losses. The expected credit losses, if any, are determined based on historical loan collection experience, payments history of individual mortgages, mortgages past their maturity dates and the value of the security underlying the mortgages. Specific allowance are established for individual mortgages identified as impaired and elected to measure loss allowances at an amount equal to lifetime expected credit losses.
 
 14086340.2
@@ -897,19 +851,12 @@ Real estate investment contains elements of risk and is subject to uncertainties
 <!-- page 31 -->
 
 - (v) Priority: Financial charges funded by first mortgage lenders will rank in priority to any second mortgages registered in favour of the Company and such first mortgage lenders will receive all proceeds from sale or refinancing in priority to the Company.
-
    - (vi) Development Risk: Mortgage investments by the Company may include financing for construction of new projects and/or improvements to existing properties which include risks related to timely completion or budget. Typically these financings also include risk related to sale and/or lease-up on completion. The Company tries to limit these risks by obtaining third party appraisals for the completed value however these appraisals assume future values which may or may not be accurate when the project is completed. The Company also engages qualified quantity surveyors to review budgets and monitor construction however there are risks of cost overruns and construction delays. While the Company tries to lend to qualified borrowers who have sufficient expertise to manage and complete projects being financed there is no guarantee that they will be able to do so.
-
    - (vii) Portfolio Diversification: The typical mortgage to be held by the Company is short term in nature (6-30 months) and as such the portfolio of mortgages held will continuously change. Also the Company limits its markets to the major centres in B.C. and Alberta. The focus of new mortgage investment is targeted on short term opportunities and as such, the Company’s mortgages may be highly concentrated in limited areas within its target markets depending on economic trends and opportunities presented to the Company.
-
    - (viii) Environmental: The Company obtains independent environmental reports on any property to be financed. While every effort is made to ensure they are accurate, environmental policies are subject to interpretation and change. Also, some properties may require remediation. The Company as a mortgagee may be required to complete this remediation before the property can be sold. The Company’s policy is to not finance any real property that requires significant remediation and where the remediation required is limited in nature, the Company typically requires that a portion of the financing sufficient to effect remediation be set aside to do so.
-
    - (ix) Land Claims Litigation: Recent litigation in the Province of British Columbia has introduced uncertainty regarding the degree to which privately-owned, fee simple lands are subject to claims of Aboriginal title and the status and priority of third-party interests including mortgages over lands that may become subject to Aboriginal title. Such litigation is under appeal, the final outcome is not yet known and the concerns of the parties to that litigation may ultimately be resolved by agreement, settlement, and/or legislative responses. The impacts of such litigation on privately-owned lands may also include increased title insurance requirements or exclusions, longer transaction timelines, higher due-diligence costs and impacts on value. Further declarations of Aboriginal title over privately-owned land could also result in challenges to the enforceability or priority of mortgage security, or losses if land value is impaired. The Company is closely monitoring legal and legislative developments regarding Indigenous land claims.
-
 - (b) Issuer Risk
-
    - (i) Liquidity Risk: All of the Company’s financial liabilities, with the exception of shares which are classified as long-term, are classified as current and are anticipated to mature within the next fiscal period. The Company intends to settle these with funds from its positive working capital position. We have a line of credit to hedge the liquidity risk, as set out in subparagraph 2.6 above.
-
    - (ii) Mortgage Insurance: The Company's mortgage loans will not be insured by CMHC or any
 
 14086340.2
@@ -923,9 +870,7 @@ other mortgage insurer in whole or in part.
 In addition, although Shareholders may tender their Shares for redemption pursuant to the terms and conditions hereto, certain restrictions apply to such redemption. As such, the Company cannot guarantee that redemptions will be made on a timely basis. Further, as the redemption price to be paid in respect of any Shares and Common Shares tendered for redemption will be determined at the Board of Director’s discretion, such redemption price cannot be known with certainty prior to the Board of Directors exercising its discretion.
 
 - (iv) Risks of Leverage: The Company has negotiated a bank line of credit as described in subparagraph 2.6 and it is intended to be used for managing the cash flow of the Company however leverage increases exposure to potential losses.
-
 - (v) Income Tax Designation: Under the Management Agreement, the Manager is responsible for ensuring that the Company's operations are conducted in a manner that will not jeopardize its designation as a mortgage investment corporation under the Tax Act. **As a mortgage investment corporation, the normal gross-up and dividend tax credit rules will not apply to dividends paid on the Shares. Rather, the dividends will be taxable in the hands of shareholders who are subject to tax as if they had received an interest payment.** If for any reason the Company fails to maintain its designation, the dividends paid by the Company on the Shares would cease to be deductible from the income of the Company. In addition, the Shares would cease to be qualified investments for trusts governed by RRSPs, deferred profit-sharing plans and RRIFs with the effect that a penalty tax of 1% per month of the value of the Shares would be payable.
-
 - (vi) Conflict of Interest: The Company and its shareholders are dependent in large part upon the experience and good faith of the Manager. The Company is a connected issuer of the Manager, due to the Manager’s role as manager of the Company and as it shares common directors, officers, and shareholders. The Manager is entitled to act in a similar capacity for other companies with investment criteria similar to those of the Company. As such, there is a risk the Manager will not be able to originate sufficient suitable investment opportunities to keep the Company's funds fully invested. Also, the majority of the directors of the Company and the Manager are employed by or act in other capacities for other companies and investors involved in mortgage and lending activities.
 
 Accordingly, there may be instances in which an investment opportunity may be suitable for the Company as well as other mortgage lenders or investors with whom they have business relations. In such case, the Manager has the right to take such action as it sees fit.
@@ -939,15 +884,10 @@ Except as noted in 2.2(c) above, the Directors of the Company may by unanimous r
 Additionally, the Issuer is a related and connected issuer to Bancorp EMD by virtue of Bancorp EMD’s role as an exempt market dealer engaged to sell securities of the Issuer and by reason that they share common directors, officers and voting shareholders. Additionally, Bancorp EMD is considered a “captive dealer” of the Issuer because it primarily distributes securities of the Issuer. As such, there is an inherent conflict of interest for such individuals. To mitigate against such conflict, Bancorp EMD has implemented certain controls and procedures to address same.
 
    - (vii) Lack of Separate Counsel: Counsel for the Company in connection with this offering is also counsel to the Manager. The Company and the Manager have not been represented by their own legal counsel and have not each had the benefit of independent legal advice.
-
    - (viii) Distributions Are Not Guaranteed: Although the Company anticipates that it will be able to distribute income earned by it on a quarterly basis, the actual frequency and amounts of distributions, if any, paid in respect of the Shares will depend on numerous factors, all of which are susceptible to a number of risks and other factors beyond the control of the Company. Accordingly, there can be no assurance regarding the actual levels or frequency of distributions by the Company.
-
    - (ix) Sale through Registered Dealers: The Company is required to sell the Shares through a registered dealer or adviser, which may charge fees or commissions that the Company cannot anticipate at this time. In such event, the cost of this offering will be higher than anticipated.
-
 - (c) Industry Risk
-
    - (i) Competition: The earnings of the Company depend on the ability of the Manager to recommend suitable opportunities for the investment of the Company's funds and on the yields available from time to time on mortgages as well as the cost of borrowings. A variety of competing lenders and investors are active in the areas of investment in which the Company will operate. The yields on real estate investments, including mortgages, depend on many factors including economic conditions, the level of risk assumed, conditions in the real estate industry, opportunities for other types of investments, and tax laws. The Company cannot predict the effect which such factors will have on its operations.
-
    - (ii) Marketability: There is no market for resale of the Shares and consequently it may be difficult or even impossible for Investors to sell them. In addition, the Shares may not be readily acceptable as collateral for loans.
 
 There are restrictions on resale of the Shares by Investors. Such restrictions on resale may never expire and Investors should consult with their professional advisors in respect of resale of the Shares. See Item 12 in this regard.
@@ -1357,9 +1297,7 @@ The Company manages its capital to ensure that it will be able to continue as a 
 IFRS 18 introduces three sets of new requirements to give investors more transparent and comparable information about companies' financial performance for better investment decisions.
 
 1. Three defined categories for income and expenses (operating, investing and financing) to improve the structure of the income statement, and require all companies to provide new defined subtotals, including operating profit.
-
 2. Requirement for companies to disclose explanations of management-defined performance measures (MPMs) that are related to the income statement.
-
 3. Enhanced guidance on how to organise information and whether to provide it in the primary financial statements or in the notes.
 
 This new standard is effective for reporting periods beginning on or after January 1, 2027 and the Company has not yet assessed its impact.

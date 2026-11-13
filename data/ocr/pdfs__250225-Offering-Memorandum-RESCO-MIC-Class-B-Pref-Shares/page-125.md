@@ -1,0 +1,19 @@
+- (j) "executive officer" means, for an issuer, an individual who is
+- (i) a chair, vice-chair or president,
+- (ii) a vice-president in charge of a principal business unit, division or function including sales, finance or production, or
+- (iii)performing a policy-making function in respect of the issuer;
+- (k) "financial assets"means
+- (i) cash,
+- (ii) securities, or
+- (iii) a contract of insurance, a deposit or an evidence of a deposit that is not a security for the purposes of securities legislation;
+- (l) "foreign jurisdiction" means a country other than Canada or a politician subdivision of a country other than Canada;
+- (m) "founder", means, in respect of an issuer, a person who,
+- (i) acting alone, in conjunction, or in concert with one or more persons, directly or indirectly, takes the initiative in founding, organizing or substantially reorganizing the business of the issuer, and
+- (ii) at the time of the trade is actively involved in the business of the issuer;
+- (n) "fully managed account" means an account of a client for which a person makes the investment decisions if that person has full discretion to trade in securities for the account without requiring the client's express consent to a transaction;
+- (0) "individual"means a natural person, but does not include
+- (i) a partnership, unincorporated association, unincorporated syndicate, unincorporated organization or a trust, or
+- (ii) a natural person in the person's capacity as trustee, executor, administrator or other legal representative;
+- (p) "investment fund"means a mutual fund or non-redeemable investment fund, and, for greater certainty in British Columbia, includes an employee venture capital corporation that does not have a restricted constitution ,and is registered under Part 2 of the Employee Investment Act (British Columbia), R.S.B.C. 1996 c. 112, and whose business objective is making multiple investments and a venture capital corporation registered under Part 1 of the Small Business Venture Capital Act (British Columbia), R.S.B.C. 1996 c.429 whose business objective is making multiple investments and in Québec any reporting issuer referred to in subsection 1.2(4) of Regulation 81-106 respecting investment fund continuous disclosure adopted under the Securities Act (Québec);
+- (q) "jurisdiction" means a province or territory of Canada except when used in the term "foreign jurisdiction";
+- (r) "local jurisdiction" means the jurisdiction in which the applicable securities regulatory authority is situate;

@@ -1,0 +1,1287 @@
+{
+  "dataset_version": "1cb007315831",
+  "docs": [
+    {
+      "as_of": "2026-11-11",
+      "chars": 2258,
+      "content_hash": "346242e9d95c2bb005da3189917285c6e34a97a7b55b1c010d78118ded93067f",
+      "doc_id": "html__20-ohltown-rd-austintown-sale",
+      "doc_type": "listing",
+      "md": "html__20-ohltown-rd-austintown-sale.md",
+      "pages": "1",
+      "source": "html/20-ohltown-rd-austintown-sale.html",
+      "source_url": "https://www.nmrk.com/properties/20-ohltown-rd-austintown-sale",
+      "title": "Austintown Medical Center - Office - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 2232,
+      "content_hash": "b72f6bdea0f3e892f9020f018d0c840463c51bb738e4441ffe59586370ecedd3",
+      "doc_id": "html__2223-barrett-drive-greenfield-sale",
+      "doc_type": "listing",
+      "md": "html__2223-barrett-drive-greenfield-sale.md",
+      "pages": "1",
+      "source": "html/2223-barrett-drive-greenfield-sale.html",
+      "source_url": "https://www.nmrk.com/properties/2223-barrett-drive-greenfield-sale",
+      "title": "Greenfield Crossing - Retail - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 1430,
+      "content_hash": "022be1ddcb04739ee106c5e401e9edcfb6e55caa941f005a6e28d1a83503bfbb",
+      "doc_id": "html__5301-e-39th-ave-denver-sale",
+      "doc_type": "listing",
+      "md": "html__5301-e-39th-ave-denver-sale.md",
+      "pages": "1",
+      "source": "html/5301-e-39th-ave-denver-sale.html",
+      "source_url": "https://www.nmrk.com/properties/5301-e-39th-ave-denver-sale",
+      "title": "5301 E 39th Ave - Industrial - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 2021,
+      "content_hash": "e734480acf82a77f3c5397362ab12651098af81dfbcc21b03caab34f61f42c71",
+      "doc_id": "html__600-coolidge-dr-folsom-lease",
+      "doc_type": "listing",
+      "md": "html__600-coolidge-dr-folsom-lease.md",
+      "pages": "1",
+      "source": "html/600-coolidge-dr-folsom-lease.html",
+      "source_url": "https://www.nmrk.com/properties/600-coolidge-dr-folsom-lease",
+      "title": "Parkshore - 600 Coolidge Drive - Office - for Lease | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 1584,
+      "content_hash": "f9e859203a9fe343a60bd7b6d41daf3d20fd5b74e4d262d3f18770962bbbad5e",
+      "doc_id": "html__6515-carnegie-avenue-cleveland-sale",
+      "doc_type": "listing",
+      "md": "html__6515-carnegie-avenue-cleveland-sale.md",
+      "pages": "1",
+      "source": "html/6515-carnegie-avenue-cleveland-sale.html",
+      "source_url": "https://www.nmrk.com/properties/6515-carnegie-avenue-cleveland-sale",
+      "title": "6515 Carnegie Ave - Allen Sugar Co. - Industrial - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 1819,
+      "content_hash": "91956e0075b6da7e8848ec724af59127353b9c1c88e39e83a880f34856012da1",
+      "doc_id": "html__6855-philips-hwy-jacksonville-sale",
+      "doc_type": "listing",
+      "md": "html__6855-philips-hwy-jacksonville-sale.md",
+      "pages": "1",
+      "source": "html/6855-philips-hwy-jacksonville-sale.html",
+      "source_url": "https://www.nmrk.com/properties/6855-philips-hwy-jacksonville-sale",
+      "title": "6855 Philips Hwy - Industrial - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 2179,
+      "content_hash": "fb9607e297e26c41c82b876de85042e952dc6ff97bf4eb23e23a8f8edc183c40",
+      "doc_id": "html__6900-w-morelos-pl-chandler-sale",
+      "doc_type": "listing",
+      "md": "html__6900-w-morelos-pl-chandler-sale.md",
+      "pages": "1",
+      "source": "html/6900-w-morelos-pl-chandler-sale.html",
+      "source_url": "https://www.nmrk.com/properties/6900-w-morelos-pl-chandler-sale",
+      "title": "6900 W. Morelos Place - Industrial - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 2708,
+      "content_hash": "d0400b867de35cd173c3be462da7c54df97c7761a4227438f4f94a39513e759a",
+      "doc_id": "html__8747-squires-ln-ne-warren-sale",
+      "doc_type": "listing",
+      "md": "html__8747-squires-ln-ne-warren-sale.md",
+      "pages": "1",
+      "source": "html/8747-squires-ln-ne-warren-sale.html",
+      "source_url": "https://www.nmrk.com/properties/8747-squires-ln-ne-warren-sale",
+      "title": "Hillside Rehabilitation Hospital - Office - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 2409,
+      "content_hash": "06c224de38d0867c4237ae13569e27b5bd75486c676d6ffb44d5b01896fc5ddb",
+      "doc_id": "html__km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale",
+      "doc_type": "listing",
+      "md": "html__km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale.md",
+      "pages": "1",
+      "source": "html/km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale.html",
+      "source_url": "https://www.nmrk.com/properties/km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale",
+      "title": "La Encantada - Land - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-11-11",
+      "chars": 1242,
+      "content_hash": "b354cab90917685180d4ae5a7cdc72bd3bbc5bfc5cac825cb288c6b38c08e0d5",
+      "doc_id": "html__terra-cotta-road-lake-elsinore-sale",
+      "doc_type": "listing",
+      "md": "html__terra-cotta-road-lake-elsinore-sale.md",
+      "pages": "1",
+      "source": "html/terra-cotta-road-lake-elsinore-sale.html",
+      "source_url": "https://www.nmrk.com/properties/terra-cotta-road-lake-elsinore-sale",
+      "title": "West Nicholas Logistics Center - Industrial - for Sale | Newmark"
+    },
+    {
+      "as_of": "2026-08-10",
+      "chars": 1491,
+      "content_hash": "dc34894c87526cb7d874b54d6469a8a91abb5dc00c78a92249765fae5e1acb88",
+      "doc_id": "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2",
+      "doc_type": "listing",
+      "md": "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2.md",
+      "pages": "1-5",
+      "source": "pdfs/1028+Johnson+Street+Listing+Brochure+(1)_compressed+(2).pdf",
+      "title": "1028 Johnson Street, Kingston - Listing Brochure"
+    },
+    {
+      "as_of": "2025-02-25",
+      "chars": 330959,
+      "content_hash": "7d50467e933b79a8652197c58b19b1ead6bfe448ff799c635b20ae51b4b97c40",
+      "doc_id": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares",
+      "doc_type": "fund_om",
+      "md": "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.md",
+      "ocr_pages": [
+        1,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "pages": "1-141",
+      "source": "pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf",
+      "title": "RESCO Mortgage Investment Corporation - Class B Preferred Shares Offering Memorandum"
+    },
+    {
+      "as_of": "2020-11-06",
+      "chars": 603129,
+      "content_hash": "7f3383efdbfbe17607c643e46017805d6e5a24a3fc4f10dc390e7fe0848e04a8",
+      "doc_id": "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2",
+      "doc_type": "fund_om",
+      "md": "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.md",
+      "pages": "1-211",
+      "source": "pdfs/4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.pdf",
+      "title": "Timbercreek 4Q Partners LP - Offering Memorandum"
+    },
+    {
+      "as_of": "2025-04-11",
+      "chars": 380200,
+      "content_hash": "b30a9da6ba091a8703224329d2d63989fef7a9e6e03e113c6ff78c0b64f67ae5",
+      "doc_id": "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1",
+      "doc_type": "fund_om",
+      "md": "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.md",
+      "pages": "1-112",
+      "source": "pdfs/AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.pdf",
+      "title": "All Island Equity REIT - Offering Memorandum (Class A and Class F Units)"
+    },
+    {
+      "as_of": "2026-03-31",
+      "chars": 144349,
+      "content_hash": "d7d8ede1e93e0aaf277e901ca7f08ab252d21aa8cfd2f01c27a1c6a5fac11d80",
+      "doc_id": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1",
+      "doc_type": "fund_om",
+      "md": "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1.md",
+      "ocr_pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "pages": "1-57",
+      "source": "pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf",
+      "title": "BGMFll Offering Memorandum"
+    },
+    {
+      "as_of": "2025-05-01",
+      "chars": 558335,
+      "content_hash": "44b0bbb9b84ae12cd3d06cf004f2e2402d41855be4e407f7ff538e3f731da3d2",
+      "doc_id": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final",
+      "doc_type": "fund_om",
+      "md": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final.md",
+      "pages": "1-207",
+      "source": "pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).pdf",
+      "title": "Centurion Apartment Real Estate Investment Trust - Offering Memorandum"
+    },
+    {
+      "as_of": "2024-04-25",
+      "chars": 455965,
+      "content_hash": "5eb3b1471825f9812e5f96fd7d30394cde70aff4d471a2f002697401f28e856f",
+      "doc_id": "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425",
+      "doc_type": "fund_om",
+      "md": "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.md",
+      "pages": "1-163",
+      "source": "pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf",
+      "title": "Equiton Real Estate Income and Development Fund Trust - Offering Memorandum"
+    },
+    {
+      "as_of": "2023-10-26",
+      "chars": 85190,
+      "content_hash": "63fcb6f3534c8a98b2f555237a85a141cd7cdc73924f1c9b562e8ab84e4f47dd",
+      "doc_id": "pdfs__Fort_Myers_2-Pack_Offering_Memorandum",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__Fort_Myers_2-Pack_Offering_Memorandum.md",
+      "pages": "1-28",
+      "source": "pdfs/Fort Myers 2-Pack Offering Memorandum.pdf",
+      "title": "Courtyard Fort Myers and SpringHill Suites Fort Myers Airport - Investment Offering Memorandum"
+    },
+    {
+      "as_of": "2025-08-15",
+      "chars": 290480,
+      "content_hash": "3173daec237586935d30cce4411e536c33ec9a6d32017123f041421bfe54156c",
+      "doc_id": "pdfs__LMIC-OM-FINAL-Oct-28-2025",
+      "doc_type": "fund_om",
+      "md": "pdfs__LMIC-OM-FINAL-Oct-28-2025.md",
+      "ocr_pages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "pages": "1-97",
+      "source": "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf",
+      "title": "LMIC Offering Memorandum"
+    },
+    {
+      "as_of": "2026-10-16",
+      "chars": 2867,
+      "content_hash": "6c7e7c65fe9b0b8b930350b40cde7bebdd361feecae03ec86c8157adcf9d0456",
+      "doc_id": "pdfs__Listing-Brochure-Tesson-Hills-1",
+      "doc_type": "listing",
+      "md": "pdfs__Listing-Brochure-Tesson-Hills-1.md",
+      "pages": "1-10",
+      "source": "pdfs/Listing-Brochure-Tesson-Hills-1.pdf",
+      "title": "Tesson Hills Apartments, 1-20 Tesson Hills Court, Arnold, MO - Listing Brochure"
+    },
+    {
+      "as_of": "2016-02-16",
+      "chars": 7409,
+      "content_hash": "cde828e3e63475e3189c5bb84c35f12d43971ce00a798ad2862f49534ed3ff61",
+      "doc_id": "pdfs__Lund-PointeApts_OfferingMemorandum",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__Lund-PointeApts_OfferingMemorandum.md",
+      "pages": "1-17",
+      "source": "pdfs/Lund-PointeApts_OfferingMemorandum.pdf",
+      "title": "Lund Pointe Apartments, 3300 Valentine Ln SE, Port Orchard, WA - Offering Memorandum"
+    },
+    {
+      "as_of": "2021-12-23",
+      "chars": 5654,
+      "content_hash": "341379a8517e0568f0f28178694e372ebd0cfc4a255a0b37c5cfdd576a8b44a4",
+      "doc_id": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1",
+      "doc_type": "fund_om",
+      "md": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1.md",
+      "pages": "66-68",
+      "replaces": "investment advisor address; registered and principal office; redemption instructions paragraph; report to shareholders paragraph; documents available for inspection paragraph",
+      "source": "pdfs/OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23.pdf",
+      "title": "OAM European Value Fund - Offering Memorandum (addendum-1)",
+      "version_of": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23"
+    },
+    {
+      "as_of": "2020-12-31",
+      "chars": 162548,
+      "content_hash": "b6676fe725c93a17ea498ef7774f5ad2390bf3e3451a393f92477d6a4a4cb8f3",
+      "doc_id": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+      "doc_type": "fund_om",
+      "md": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original.md",
+      "pages": "1-65",
+      "source": "pdfs/OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23.pdf",
+      "title": "OAM European Value Fund - Offering Memorandum (original)",
+      "version_of": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23"
+    },
+    {
+      "as_of": "2017-04-19",
+      "chars": 13056,
+      "content_hash": "4331b0f5545e36c9ab8c59e3143ad780053fd376c9e894940b07fb6dd1bbf6aa",
+      "doc_id": "pdfs__PORTER_SQUARE_SHOPPING_CENTER",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__PORTER_SQUARE_SHOPPING_CENTER.md",
+      "ocr_pages": [
+        6,
+        7
+      ],
+      "pages": "1-15",
+      "source": "pdfs/PORTER SQUARE SHOPPING CENTER.pdf",
+      "title": "Porter Square Shopping Center, Georgia - Offering Memorandum"
+    },
+    {
+      "as_of": "2022-02-08",
+      "chars": 73095,
+      "content_hash": "6bf5ca4d2bcfd2fc115c7f277521b4fd2410dd21aba918a658543173b09207a5",
+      "doc_id": "pdfs__Retreat_at_Arcway_Investor_Memorandum",
+      "doc_type": "other",
+      "md": "pdfs__Retreat_at_Arcway_Investor_Memorandum.md",
+      "ocr_pages": [
+        8,
+        17,
+        18,
+        19,
+        20,
+        30
+      ],
+      "pages": "1-54",
+      "source": "pdfs/Retreat at Arcway Investor Memorandum.pdf",
+      "title": "Retreat at Arcway - Investor Overview Deck (Ashcroft Value-Add Fund II)"
+    },
+    {
+      "as_of": "2024-02-26",
+      "chars": 3729,
+      "content_hash": "d1399373cf90f37f4b5dcb585ae5ef4e8706cab9d45f8d52bee239e47ae76a02",
+      "doc_id": "pdfs__Shannon-Lake-Listing-Brochure-1-1-1",
+      "doc_type": "listing",
+      "md": "pdfs__Shannon-Lake-Listing-Brochure-1-1-1.md",
+      "ocr_pages": [
+        4,
+        5
+      ],
+      "pages": "1-6",
+      "source": "pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf",
+      "title": "Shannon Lake, Shannon View Drive, West Kelowna - Listing Brochure (12.98 acres)"
+    },
+    {
+      "as_of": "2024-06-11",
+      "chars": 27451,
+      "content_hash": "0f7c3bf0b221c1dcfddae6a44ad11d20bf2895a4a9d3e0f158e6a5d2c44e1c2e",
+      "doc_id": "pdfs__Topaz",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__Topaz.md",
+      "ocr_pages": [
+        3,
+        4,
+        6,
+        10,
+        21,
+        28,
+        34,
+        37
+      ],
+      "pages": "1-40",
+      "source": "pdfs/Topaz.pdf",
+      "title": "Topaz - Institutional Multifamily Offering Memorandum (Cushman and Wakefield)"
+    },
+    {
+      "as_of": "2017-12-08",
+      "chars": 262794,
+      "content_hash": "06e4154746aea456f8363fb2277881455b7ebdfe97bf7d97529523ca5361836c",
+      "doc_id": "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST",
+      "doc_type": "fund_om",
+      "md": "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST.md",
+      "pages": "1-89",
+      "source": "pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf",
+      "title": "Viocity Real Estate Investment Trust - Offering Memorandum (V3)"
+    },
+    {
+      "as_of": "2020-05-26",
+      "chars": 13407,
+      "content_hash": "c58618c31829c22b68196ad2408adf2799059a1ed8bf88ea598467c6da841c28",
+      "doc_id": "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb.md",
+      "ocr_pages": [
+        7,
+        10,
+        13,
+        17
+      ],
+      "pages": "1-17",
+      "source": "pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf",
+      "title": "Sunnybrook Business Park Pad Sites, Olathe, KS - Offering Memorandum"
+    },
+    {
+      "as_of": "2025-04",
+      "chars": 1167788,
+      "content_hash": "fce2fc3d56339d1629f38237630cb3b8633d45e9888d355e4a85c9824bce49b1",
+      "doc_id": "pdfs__connave-2025-r03-offering-memorandum",
+      "doc_type": "other",
+      "md": "pdfs__connave-2025-r03-offering-memorandum.md",
+      "ocr_pages": [
+        297
+      ],
+      "pages": "1-297",
+      "source": "pdfs/connave-2025-r03-offering-memorandum.pdf",
+      "title": "Connecticut Avenue Securities Trust 2025-R03 - Offering Memorandum (Fannie Mae)"
+    },
+    {
+      "as_of": "2018-08",
+      "chars": 2381,
+      "content_hash": "f3bf5f72631c021d8a5f2620fb0cb48f4a5f36f07bdedc0fcb9b7fffc17fe566",
+      "doc_id": "pdfs__document",
+      "doc_type": "listing",
+      "md": "pdfs__document.md",
+      "pages": "1-2",
+      "source": "pdfs/document.pdf",
+      "title": "Vernon Business Park, 6099-6131 Malburg Way, Vernon, CA - Listing Brochure"
+    },
+    {
+      "as_of": "2023-09-08",
+      "chars": 152649,
+      "content_hash": "30442e279c00e4052f12ba7f1e31c48708438558d5436815e5c99145ebc5b5f6",
+      "doc_id": "pdfs__formca",
+      "doc_type": "fund_om",
+      "md": "pdfs__formca.md",
+      "pages": "1-45",
+      "source": "pdfs/formca.pdf",
+      "title": "DiversyFund, Inc. - Form C Part II Offering Memorandum"
+    },
+    {
+      "as_of": "2017-10",
+      "chars": 12126,
+      "content_hash": "9c74dcedabf11f9021f3f6b7fe1a4c3018c78eb47828a025aac65c30c30dd6ce",
+      "doc_id": "pdfs__gs01_33_Unit_Multifamily_Development",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs01_33_Unit_Multifamily_Development.md",
+      "ocr_pages": [
+        4,
+        7,
+        8,
+        13
+      ],
+      "pages": "1-15",
+      "source": "pdfs/gs01_33 Unit Multifamily Development.pdf",
+      "title": "33 Unit Multifamily Development, 9850 East Girard Avenue, Denver, CO - Offering Memorandum"
+    },
+    {
+      "as_of": "2023-12-27",
+      "chars": 10513,
+      "content_hash": "9b207b98d336e37efd213e442a4efd19d30279caac6d9189f3d5c6dca572dc47",
+      "doc_id": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM.md",
+      "ocr_pages": [
+        4,
+        10,
+        16
+      ],
+      "pages": "1-19",
+      "source": "pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf",
+      "title": "708-712 New Depot Street, Los Angeles, CA - Offering Memorandum"
+    },
+    {
+      "as_of": "2024-08-06",
+      "chars": 18558,
+      "content_hash": "7f1f5063e60c8bdff3a59041361e056440d5cf3cac55ef79bc3688ee4d15e8ab",
+      "doc_id": "pdfs__gs03_849_N_Bunker_Hill_OM",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs03_849_N_Bunker_Hill_OM.md",
+      "ocr_pages": [
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        25,
+        31
+      ],
+      "pages": "1-34",
+      "source": "pdfs/gs03_849+N+Bunker+Hill+OM.pdf",
+      "title": "849 North Bunker Hill Avenue, Los Angeles, CA - Offering Memorandum"
+    },
+    {
+      "as_of": "2023-05-17",
+      "chars": 9004,
+      "content_hash": "0b55807f9898c20d79e123d82e1b20760e8c2c2b3c7083c74d7698fa21b5e3d2",
+      "doc_id": "pdfs__gs04_5623_Meridian_Los_Angeles",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs04_5623_Meridian_Los_Angeles.md",
+      "ocr_pages": [
+        4,
+        8
+      ],
+      "pages": "1-14",
+      "source": "pdfs/gs04_5623+Meridian+Los+Angeles.pdf",
+      "title": "5623 Meridian Street, Los Angeles, CA - Offering Memorandum"
+    },
+    {
+      "as_of": "2024-05-15",
+      "chars": 14551,
+      "content_hash": "6b7d35f4f1e5f6ec31e9a19ee02c6efd5447db506e292b0df7b9fe170ab68c03",
+      "doc_id": "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277.md",
+      "ocr_pages": [
+        4,
+        7,
+        9,
+        12,
+        13,
+        15,
+        17,
+        18,
+        22
+      ],
+      "pages": "1-25",
+      "source": "pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf",
+      "title": "Oasis Avenue, Twentynine Palms, CA - Multifamily Offering Memorandum"
+    },
+    {
+      "as_of": "2021-06",
+      "chars": 27636,
+      "content_hash": "140bc4c75a9c3e05811b3dbbafb089fa40546ca8a66243b9399c932ce6524fc5",
+      "doc_id": "pdfs__gs06_8000_Wisconsin_Avenue",
+      "doc_type": "single_asset_om",
+      "md": "pdfs__gs06_8000_Wisconsin_Avenue.md",
+      "ocr_pages": [
+        4,
+        5,
+        11,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        28,
+        29
+      ],
+      "pages": "1-40",
+      "source": "pdfs/gs06_8000 Wisconsin Avenue.pdf",
+      "title": "8000 Wisconsin Avenue, Bethesda, MD - Offering Memorandum"
+    },
+    {
+      "as_of": "2026-08-24",
+      "chars": 4358,
+      "content_hash": "0eb7e3b754ab92b1979955c1a4c0baa6564d013a5570907bfe997df4fb43823f",
+      "doc_id": "pdfs__gs10_document",
+      "doc_type": "listing",
+      "md": "pdfs__gs10_document.md",
+      "pages": "1-7",
+      "source": "pdfs/gs10_document.pdf",
+      "title": "IMAGO Galleries, 45-450 CA-74, Palm Desert, CA - Commercial Listing Brochure"
+    },
+    {
+      "as_of": "2025-02-24",
+      "chars": 2613,
+      "content_hash": "4164c4f9229e7d97d82a76a0eb33caef57e6339b3d4c22a922083a558e9310f1",
+      "doc_id": "pdfs__gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08",
+      "doc_type": "listing",
+      "md": "pdfs__gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.md",
+      "pages": "1-2",
+      "source": "pdfs/gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf",
+      "title": "6310 Caballero Blvd, Buena Park, CA - Listing Brochure"
+    },
+    {
+      "as_of": "2021-02-04",
+      "chars": 4389,
+      "content_hash": "9c20986fc196dd8a43f0486d9efa452c2a092f50c385f0f7489344ab40f2c8fc",
+      "doc_id": "pdfs__gs8_COMMGATE_FLYER_67.0_acres_I-45_and_FM_2004",
+      "doc_type": "listing",
+      "md": "pdfs__gs8_COMMGATE_FLYER_67.0_acres_I-45_and_FM_2004.md",
+      "pages": "1-4",
+      "source": "pdfs/gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf",
+      "title": "5766 Gulf Fwy, La Marque, TX - Land For Sale, 67 acres"
+    },
+    {
+      "as_of": "2026-02-20",
+      "chars": 3032,
+      "content_hash": "b9930c23fd7956b1b9bc8e97b4e7ddd7306b9b5bf421bbaa13350f2c3da8ccdb",
+      "doc_id": "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1",
+      "doc_type": "listing",
+      "md": "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.md",
+      "pages": "1-2",
+      "source": "pdfs/gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf",
+      "title": "16213 Illinois Ave, Paramount, CA - Industrial For Lease"
+    }
+  ],
+  "duplicates": {},
+  "extract_version": "extract-v2",
+  "files": {
+    "html/20-ohltown-rd-austintown-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__20-ohltown-rd-austintown-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "b9704fa77791e646f650e4629fb017bf76af56a22b579b7b3b2251f21e8bf84d",
+      "status": "ok"
+    },
+    "html/2223-barrett-drive-greenfield-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__2223-barrett-drive-greenfield-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "2e0bf311d54f3a4a6826696036424d4cde87bc0522339c69e7c6423b622c47cf",
+      "status": "ok"
+    },
+    "html/5301-e-39th-ave-denver-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__5301-e-39th-ave-denver-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "9fe7d5e21bc4a9e3217ad09be370dfe581c2e2daccd6cf3c706a9f259488d15e",
+      "status": "ok"
+    },
+    "html/600-coolidge-dr-folsom-lease.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__600-coolidge-dr-folsom-lease"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "e1dd11e8525b4db4386f6c6031a98ae4d710e828e31944bf9f78a1079943c615",
+      "status": "ok"
+    },
+    "html/6515-carnegie-avenue-cleveland-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__6515-carnegie-avenue-cleveland-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "e015db587a91a4474cd9d571b3cb1ebe32f2b869ad996821333921d312945f69",
+      "status": "ok"
+    },
+    "html/6855-philips-hwy-jacksonville-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__6855-philips-hwy-jacksonville-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "4b5cc913e374624b0aed3592f559d407729a3e582f00042b14637e562b76d98f",
+      "status": "ok"
+    },
+    "html/6900-w-morelos-pl-chandler-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__6900-w-morelos-pl-chandler-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "b5d237c1e8cba7b8f72ea42cb5745935697d458420c3c90de1bb1236cca89062",
+      "status": "ok"
+    },
+    "html/8747-squires-ln-ne-warren-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__8747-squires-ln-ne-warren-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "12b630efd6ae0159ee10ce2cce9e827dc49bf211903beacb7662ee1a93e118b9",
+      "status": "ok"
+    },
+    "html/km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "33c0044da101ffc61c0a8a0630b44e107ee72aed97391f647071c94f1ce6d738",
+      "status": "ok"
+    },
+    "html/terra-cotta-road-lake-elsinore-sale.html": {
+      "blank_pages": [],
+      "docs": [
+        "html__terra-cotta-road-lake-elsinore-sale"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 1,
+      "raw_hash": "b6d83aa377c516f9eb63946ff83c93ab85331ea8776b8bc6d1545aa92f4751cc",
+      "status": "ok"
+    },
+    "pdfs/1028+Johnson+Street+Listing+Brochure+(1)_compressed+(2).pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 5,
+      "raw_hash": "bd95634f41acccf6011037b13af0471d293bcc6b40a8e1d12116e9642250962d",
+      "status": "ok"
+    },
+    "pdfs/250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares"
+      ],
+      "ocr_pages": [
+        1,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "ocr_required_pages": [
+        103,
+        104,
+        105,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        137,
+        138,
+        139,
+        140,
+        141
+      ],
+      "pages": 141,
+      "raw_hash": "d4466c6da4ef798f698bdcefed6c133d8f62b752c8e3fecaee708473fc8ace04",
+      "status": "ocr_required"
+    },
+    "pdfs/4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 211,
+      "raw_hash": "97bae29517b9cead0c41706848d0543fa9fbe2ac9b3741d9025b239e9d3fcefa",
+      "status": "ok"
+    },
+    "pdfs/AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 112,
+      "raw_hash": "55ecf56ed0308a4a12b94a4f8a6a445345351eae54b489b3a0a597609928cf50",
+      "status": "ok"
+    },
+    "pdfs/BGMFll-Offering-Memorandum_03.31.2026 (1).pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1"
+      ],
+      "ocr_pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "ocr_required_pages": [],
+      "pages": 57,
+      "raw_hash": "3aed81b507eaee0ae781f77d7f2ded5418217ec4d240b3522ac36e49842f4bf5",
+      "status": "ok"
+    },
+    "pdfs/Centurion REIT Offering Memorandum April 2025 (August 2025_Final).pdf": {
+      "blank_pages": [
+        159
+      ],
+      "docs": [
+        "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 207,
+      "raw_hash": "56d12271f38e4c6c6277b1fcc976492cfcc9a07a24016b3f919071fd647400ae",
+      "status": "ok"
+    },
+    "pdfs/Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425.pdf": {
+      "blank_pages": [
+        121
+      ],
+      "docs": [
+        "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 163,
+      "raw_hash": "6913b53adc4369eff336b7c103e66d53d56a3ed5865ff4ab50127b8ce8f50973",
+      "status": "ok"
+    },
+    "pdfs/Fort Myers 2-Pack Offering Memorandum.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__Fort_Myers_2-Pack_Offering_Memorandum"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 28,
+      "raw_hash": "f9cbf634cc872be628547a615b73cf4b02674e90b64345f7dbb33188d01aaa2f",
+      "status": "ok"
+    },
+    "pdfs/LMIC-OM-FINAL-Oct-28-2025.pdf": {
+      "blank_pages": [
+        97
+      ],
+      "docs": [
+        "pdfs__LMIC-OM-FINAL-Oct-28-2025"
+      ],
+      "ocr_pages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "ocr_required_pages": [],
+      "pages": 97,
+      "raw_hash": "8d708c3f24ccb9cb5a3dc8ae581ac91a2724a9a5da0a3f32e2c609e0a5ef3922",
+      "status": "ok"
+    },
+    "pdfs/Listing-Brochure-Tesson-Hills-1.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__Listing-Brochure-Tesson-Hills-1"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 10,
+      "raw_hash": "f97e12253f7eff9f97fc984bb086ab0b6c8ef57653dd9e505a57efbcde444131",
+      "status": "ok"
+    },
+    "pdfs/Lund-PointeApts_OfferingMemorandum.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__Lund-PointeApts_OfferingMemorandum"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 17,
+      "raw_hash": "508bdbf995de59e99cf2fcd97651171abeb8aeae6646d65cb5080c2394e51783",
+      "status": "ok"
+    },
+    "pdfs/OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+        "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 68,
+      "raw_hash": "ba7016668c60a1a4b6df8ac06b0f68ca9fd2ffe626d1cf4d9ec437a0375efc9a",
+      "status": "ok"
+    },
+    "pdfs/PORTER SQUARE SHOPPING CENTER.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__PORTER_SQUARE_SHOPPING_CENTER"
+      ],
+      "ocr_pages": [
+        6,
+        7
+      ],
+      "ocr_required_pages": [],
+      "pages": 15,
+      "raw_hash": "5dbfa71f216a5340b12cf642ee5273cf5353d18f63cf18fee85a3d3a06d4ead1",
+      "status": "ok"
+    },
+    "pdfs/Retreat at Arcway Investor Memorandum.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__Retreat_at_Arcway_Investor_Memorandum"
+      ],
+      "ocr_pages": [
+        8,
+        17,
+        18,
+        19,
+        20,
+        30
+      ],
+      "ocr_required_pages": [],
+      "pages": 54,
+      "raw_hash": "fa610465867d2c8f132c0a18a63b4937259f183df5e7ee12de27ab01cda916b3",
+      "status": "ok"
+    },
+    "pdfs/Shannon-Lake-Listing-Brochure-1-1-1.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__Shannon-Lake-Listing-Brochure-1-1-1"
+      ],
+      "ocr_pages": [
+        4,
+        5
+      ],
+      "ocr_required_pages": [],
+      "pages": 6,
+      "raw_hash": "2c5db20c90af9f639ff43db3a1de018b84af71d2bdaca8f2f36246fb906f3a62",
+      "status": "ok"
+    },
+    "pdfs/Topaz.pdf": {
+      "blank_pages": [
+        7,
+        9,
+        38
+      ],
+      "docs": [
+        "pdfs__Topaz"
+      ],
+      "ocr_pages": [
+        3,
+        4,
+        6,
+        10,
+        21,
+        28,
+        34,
+        37
+      ],
+      "ocr_required_pages": [],
+      "pages": 40,
+      "raw_hash": "9dc7357bc36d8650dc231b7f286705ab99e1162d704466af795a3820277d9208",
+      "status": "ok"
+    },
+    "pdfs/VIOCITY REAL ESTATE INVESTMENT TRUST.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 89,
+      "raw_hash": "1ffe5210457066bcc493c779c13f5dbde4817911390316a61358b202d47a5ef3",
+      "status": "ok"
+    },
+    "pdfs/b0d07518-2a0c-4e0b-ad0a-83421417a6eb.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb"
+      ],
+      "ocr_pages": [
+        7,
+        10,
+        13,
+        17
+      ],
+      "ocr_required_pages": [],
+      "pages": 17,
+      "raw_hash": "658db29c374c4078f666d007d6b4db024885a562d8ff4a452c9b43a6e9210189",
+      "status": "ok"
+    },
+    "pdfs/connave-2025-r03-offering-memorandum.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__connave-2025-r03-offering-memorandum"
+      ],
+      "ocr_pages": [
+        297
+      ],
+      "ocr_required_pages": [],
+      "pages": 297,
+      "raw_hash": "34de19fe72bbe4cddc3608db867c02c6e27a6ecc53734c8e882f0e6388e5a643",
+      "status": "ok"
+    },
+    "pdfs/document.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__document"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 2,
+      "raw_hash": "4e334c6a3e4ae5f7a471c9800a8f24439937b478a4c16d02774e3c3216665a98",
+      "status": "ok"
+    },
+    "pdfs/formca.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__formca"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 45,
+      "raw_hash": "2b69b30c855b9b7be1b1e8d43a84ffb21d78fd87780967830eb3cd4630dee40f",
+      "status": "ok"
+    },
+    "pdfs/gs01_33 Unit Multifamily Development.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs01_33_Unit_Multifamily_Development"
+      ],
+      "ocr_pages": [
+        4,
+        7,
+        8,
+        13
+      ],
+      "ocr_required_pages": [],
+      "pages": 15,
+      "raw_hash": "24e01b9ad5d519759867f37ef99a33f34a8265d96165a6635720cf9007af2930",
+      "status": "ok"
+    },
+    "pdfs/gs02_708-712+New+Depot+St+Bunker+Hill+Construction+OM.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM"
+      ],
+      "ocr_pages": [
+        4,
+        10,
+        16
+      ],
+      "ocr_required_pages": [],
+      "pages": 19,
+      "raw_hash": "01ee43e7cc07e2af56119027d31db3d0b79e4de1818e2f49c67962b9ceca9881",
+      "status": "ok"
+    },
+    "pdfs/gs03_849+N+Bunker+Hill+OM.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs03_849_N_Bunker_Hill_OM"
+      ],
+      "ocr_pages": [
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        25,
+        31
+      ],
+      "ocr_required_pages": [],
+      "pages": 34,
+      "raw_hash": "1fe584f82c7e356004a643542b0e5a43c55070a0a2878adafe6573c305ca8173",
+      "status": "ok"
+    },
+    "pdfs/gs04_5623+Meridian+Los+Angeles.pdf": {
+      "blank_pages": [
+        12
+      ],
+      "docs": [
+        "pdfs__gs04_5623_Meridian_Los_Angeles"
+      ],
+      "ocr_pages": [
+        4,
+        8
+      ],
+      "ocr_required_pages": [],
+      "pages": 14,
+      "raw_hash": "381091fe7d231f434a3711db3e77e40bf4658523cccd13b0b7ce637c6274a11f",
+      "status": "ok"
+    },
+    "pdfs/gs05_6563 OASIS AVENUE - TWENTYNINE PALMS, CA 92277.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277"
+      ],
+      "ocr_pages": [
+        4,
+        7,
+        9,
+        12,
+        13,
+        15,
+        17,
+        18,
+        22
+      ],
+      "ocr_required_pages": [],
+      "pages": 25,
+      "raw_hash": "6b8c3e3c5dd722d6e13f1942b2c2c020c8e1badfd266ed9fe41cf56467f7093a",
+      "status": "ok"
+    },
+    "pdfs/gs06_8000 Wisconsin Avenue.pdf": {
+      "blank_pages": [
+        10
+      ],
+      "docs": [
+        "pdfs__gs06_8000_Wisconsin_Avenue"
+      ],
+      "ocr_pages": [
+        4,
+        5,
+        11,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        28,
+        29
+      ],
+      "ocr_required_pages": [],
+      "pages": 40,
+      "raw_hash": "f6de15f138b0fb69712b53fc812d635532cbe6029798adcfd387f6e54e2b778d",
+      "status": "ok"
+    },
+    "pdfs/gs10_document.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs10_document"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 7,
+      "raw_hash": "4dba520508763220730cc7d880edc3d22168abb3bd2a486b211b14d96fc5c8ea",
+      "status": "ok"
+    },
+    "pdfs/gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 2,
+      "raw_hash": "534336f758cf0baa3be39166cdf5bd16446aff246cf22516f2c41108f21adffd",
+      "status": "ok"
+    },
+    "pdfs/gs8_COMMGATE FLYER 67.0 acres I-45 and FM 2004.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs8_COMMGATE_FLYER_67.0_acres_I-45_and_FM_2004"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 4,
+      "raw_hash": "06632dd22c0be296d5f75e879884f4fc6af5743e0dfbf8253d179705c67f35a0",
+      "status": "ok"
+    },
+    "pdfs/gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.pdf": {
+      "blank_pages": [],
+      "docs": [
+        "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1"
+      ],
+      "ocr_pages": [],
+      "ocr_required_pages": [],
+      "pages": 2,
+      "raw_hash": "b0dfaa04cbd9cebaa0736f4d4f4693b4142d55e38028188b317d9fcc0a6feb02",
+      "status": "ok"
+    }
+  },
+  "pipeline_version": "rag-v2"
+}

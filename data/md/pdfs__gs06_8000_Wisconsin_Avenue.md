@@ -17,7 +17,7 @@ ocr_pages:
 - 21
 - 28
 - 29
-content_hash: b71de80856817b128b946b63c32bfd7bf19dcec590fb4da0c9499c7fb961bc3c
+content_hash: 140bc4c75a9c3e05811b3dbbafb089fa40546ca8a66243b9399c932ce6524fc5
 ---
 
 <!-- page 1 -->
@@ -295,9 +295,7 @@ CURRENT OFFICE PROJECTS
 #### MARRIOTT HEADQUARTERS – 7750 WISCONSIN AVENUE
 
 - Developer: The Bernstein Companies/Boston Properties
-
 - Status: Under Construction
-
 - Size: 795,500 SF
 
 The largest and most prominent office project coming to Bethesda will be occupied by a sole tenant — Marriott International. The building has progressed through site prep., demolition, and excavation phase, and is currently undergoing vertical construction. The project is being developed by a joint venture of Bernstein and Boston Properties which will own and lease the 22-story office building to Marriott. A 13-story, 230-room Flagship Marriott hotel is also going up on the site, with a public plaza located between the two buildings. The office building is still on schedule to deliver in Q2 2021, with the hotel opening in Q1 2022.
@@ -305,9 +303,7 @@ The largest and most prominent office project coming to Bethesda will be occupie
 THE WILSON – 7272 WISCONSIN AVENUE
 
 - Developer: Carr Properties
-
 - Status: Under Construction
-
 - Size: 360,800 SF
 
 The Wilson broke ground in late 2017 and recently topped out. The majority of its space has been leased ahead of delivery later this year. The 24-story building shares a parking garage podium with the Elm apartment building and is now the tallest office building in Montgomery County. It also sits directly on top of the future Bethesda Purple Line station, as well as a new southern entrance to the existing Red Line Metro station.
@@ -315,9 +311,7 @@ The Wilson broke ground in late 2017 and recently topped out. The majority of it
 #### 4747 BETHESDA AVENUE
 
 - Developer: JBG Smith
-
 - Status: Delivered
-
 - Size: 280,000 SF
 
 The first in the current generation of trophy office product in Bethesda, 4747 Bethesda delivered late last year, nearly fully leased. The trophy office building is located on the same block as the Wilson and immediately across from the Bethesda Row retail district. The building’s developer, JBG Smith, is also its largest tenant, occupying about 80,000 SF. Host Hotels, Booz Allen Hamilton, Orano USA, and Pebblebrook REIT round out the tenant roster.
@@ -329,9 +323,7 @@ The first in the current generation of trophy office product in Bethesda, 4747 B
 #### AVOCET TOWERS – 7373 WISCONSIN AVENUE
 
 - Developer: Stonebridge Associates
-
 - Status: Under Construction
-
 - Size: 393,700 SF
 
 Like the Marriott headquarters, the 23-story 7373 Wisconsin Ave. development is a mixed-use hotel/office concept. In this case, the 512,000 SF project is being built as a single structure with shared parking and amenity space, although the AC Hotel (the first in Montgomery County) will be separately owned and operated by OTO Development. The office component is now being marketed as “Avocet Tower” and will boast unique features such as a 10,000 SF public landscaped plaza and 7,500 SF rooftop terrace with a 40-foot tall pergola.
@@ -339,9 +331,7 @@ Like the Marriott headquarters, the 23-story 7373 Wisconsin Ave. development is 
 #### BETHESDA BIO – 8280 WISCONSIN AVENUE
 
 - Developer: Donohoe/Stonebridge Associates
-
 - Status: Planned (Groundbreaking possibly by end of 2020)
-
 - Size: 175,000 SF
 
 The Bethesda Bio building is unique among the submarket’s office pipeline as a purpose-built lab/office building targeted at life sciences tenants. The building would be the first of its kind in Bethesda, and the first in an urban location in Montgomery County. While the county is home to one of the largest life sciences clusters in the nation, nearly the entire lab inventory is located along the I-270 Corridor in Rockville, Gaithersburg, and Germantown in suburban-style campuses. The only notable exception is the massive United Therapeutics campus in downtown Silver Spring. Bethesda Bio provides a unique opportunity for biotech, pharmaceutical, and other research firms to locate in an urban, transit-accessible environment, less than a mile from NIH which is the region’s largest single source of funding for research.
@@ -351,9 +341,7 @@ The Bethesda Bio building is unique among the submarket’s office pipeline as a
 #### 8001 WOODMONT AVENUE
 
 - Developer: JBG Smith
-
 - Status: Under Construction
-
 - Size: 322 units
 
 This project was originally intended to be constructed during Bethesda’s last apartment boom but was delayed for several reasons. As a result, the building will instead be the first to deliver in the current mini-cycle. In 2019, the building was rebranded to “8001 Woodmont Avenue” from its original address/name of “7900 Wisconsin Avenue,” perhaps to highlight its location in Woodmont Triangle. Most recently, JBG Smith filed a site plan amendment requesting a reduction in the total number of apartments from 450 to 322, to reflect greater demand for larger units. The building’s ground-floor retail space will be partially occupied by a Trader Joe’s grocery store.
@@ -365,9 +353,7 @@ OFFERING MEMORANDUM | **33**
 THE ELM – 4710 ELM STREET
 
 - Developer: Insight Property Group/Carr Properties
-
 - Status: Under Construction
-
 - Size: 376 units
 
 The Elm is the residential component of the massive Apex Building redevelopment at 7272 Wisconsin Avenue. The twin-towered highrise will sit on top of the Bethesda Purple Line station and a new entrance to the Bethesda Red Line station. Like the 8001 Woodmont Avenue project, the developer of The Elm had requested a reduction in the total unit count in early 2020. In this case, 80 of the originally planned 456 units will be used for short-term “executive housing” rentals, rather than traditional apartments. The 30-story building will be the tallest residential building in Montgomery County (at least for the time being) and feature an amenity “skybridge” connecting the two towers.
@@ -375,9 +361,7 @@ The Elm is the residential component of the massive Apex Building redevelopment 
 MAIZON BETHESDA – 4900 MOORLAND LANE
 
 - Developer: ZOM
-
 - Status: Under Construction
-
 - Size: 229 units
 
 Located at the western edge of Downtown Bethesda, Maizon Bethesda is the only mid-rise building on this list. The project is also the first to be approved under the new Downtown Bethesda sector plan, which set new standards for density, height, architecture, affordable housing, and sustainability. Ground-floor residences at Maizon along Arlington Road will have direct access from the street.
@@ -385,9 +369,7 @@ Located at the western edge of Downtown Bethesda, Maizon Bethesda is the only mi
 EDGEMONT AT BETHESDA METRO II – 4885 EDGEMOOR LANE
 
 - Developer: Equity Residential
-
 - Status: Under Construction
-
 - Size: 154 units
 
 Edgemont II is going up on the western end of the same block as Maizon Bethesda. This project will be a 15-story high-rise and is the second phase of the existing eight-story Edgemont at Bethesda Metro apartments. The new building’s underground parking garage will functionally be an addition to the existing building’s garage, so residents of either building can park on both sides. The construction of Edgemont II and Maizon resulted in the demolition of older singlefamily homes that had been converted to office use and will result in nearly the entire block being used for high-density uses — the sole exception being a relatively new standalone TD Bank.
@@ -399,9 +381,7 @@ Edgemont II is going up on the western end of the same block as Maizon Bethesda.
 #### 4824 EDGEMOOR LANE
 
 - Developer: Acumen Companies
-
 - Status: Approved
-
 - Size: 76 units
 
 4824 is approved for a 12-story, 76-unit boutique condominium. The project will have 88,670 square feet of finished space above grade and feature a state-of-the-art auto park system with 65 underground parking spaces allowing residents to access their vehicles via an automobile elevator system inside the building. The property is also unique as it will feature a spacious green amenity on the penthouse roof deck for all residents to enjoy. The property is a short walk to the Metro Station.
@@ -409,9 +389,7 @@ Edgemont II is going up on the western end of the same block as Maizon Bethesda.
 #### 7607 OLD GEORGETOWN ROAD
 
 - Developer: Washington Property Company
-
 - Status: Planned (Groundbreaking by end of 2020)
-
 - Size: 200 units
 
 7607 Old Georgetown Road is currently occupied by a La Madeleine restaurant and parking lot but will be redeveloped with a 22-story apartment building containing 200 units. The building will be located very close to the center of downtown Bethesda and the existing Red Line station entrance. Most of the building’s amenities will be on the roof, including a terrace, fitness center, game room, lounge, dining room, and bar.
@@ -419,9 +397,7 @@ Edgemont II is going up on the western end of the same block as Maizon Bethesda.
 METRO TOWER – 7316 WISCONSIN AVENUE
 
 - Developer: B.F. Saul
-
 - Status: Planned (Groundbreaking by end of 2020)
-
 - Size: 366 units
 
 Another project on Wisconsin Avenue, Metro Tower will add 366 new units to the submarket in a 25-story, artdeco styled tower. The building is located directly north of the Apex building redevelopment project and will have immediate access to the Red/Purple Line station entrance. The building will feature a rooftop swimming pool and clubroom, as well as a public plaza with a water feature.
@@ -429,9 +405,7 @@ Another project on Wisconsin Avenue, Metro Tower will add 366 new units to the s
 #### THE CLAIBORNE
 
 - Developer: Novo Development
-
 - Status: Planned (Groundbreaking by end of 2020)
-
 - Size: 84 units
 
 The lone condo project expected to break ground this year, the 11-story Claiborne is in the Woodmont Triangle district on Norfolk Avenue. The building will be within walking distance of multiple retail and dinging outlets, as well as the Marriott headquarters.
@@ -495,13 +469,9 @@ The Washington DC Metro region is home to the largest and fastest growing data c
 Companies including Amazon, Google, Facebook, Microsoft, and Apple, among many others, have large presence in the area and continue to attract a highly educated workforce predominantly made up of individuals between the ages of 25 and 34, a prime renter demographic. Amazon, in particular, is now one of the leading drivers of the area economy with its selection of National Landing as its new East Coast Headquarters in Cyrstal City, less than 11 miles from the Bethesda and accessible via Metro.
 
 - 17 COUNTIES AND SIX INDEPENDENT CITIES
-
 - POPULATION OF OVER 6.2 MILLION
-
 - 16 FORTUNE 500 COMPANY HEADQUARTERS
-
 - 6 OF THE TOP 10 WEALTHIEST COUNTIES IN AMERICA ARE CONTAINED IN THE DC MSA
-
 - AVERAGE HOUSEHOLD INCOME OF OVER $141,000
 
 OFFERING MEMORANDUM | **37**
@@ -509,13 +479,9 @@ OFFERING MEMORANDUM | **37**
 <!-- page 38 -->
 
 - **1)** 8000 Wisconsin Avenue provides investors and developers the opportunity to purchase or invest in a premier multifamily mixed use project in the most sought after location in the Washington Metropolitan area.
-
 - **2)** The project’s size, unit mix and first floor retail provide economies of scale and create an excellent investment vehicle
-
 - **3)** Changing work patterns and migration from the dense urban core to accessible suburbs enhances the desirability of 8000 Wisconsin’s location and proximity to amenities.
-
 - **4)** The inclusion of 25% MPDU’s significantly reduces development fees and for immediate lease up of these units.
-
 - **5)** Flexible deal structures include finished building pre-sale, land sale-ground lease, joint venture or direct land sale.
 
 **38** | 8000 WISCONSIN AVENUE
@@ -525,31 +491,20 @@ OFFERING MEMORANDUM | **37**
 THE OWNER WILL CONSIDER THE FOLLOWING SALE OR FINANCING STRUCTURES FOR THE PROPERTY:
 
 - **1) Completed Building Presale.** The Seller will develop the project and sell to a buyer at a pre-negotiated price. Closing will occur at the time of building completion or upon stabilization. The project will be delivered based upon pre-approved design and finish specifications using an agreed upon general contractor.
-
 - **2) Land Sale-Ground Lease.** The Seller will sell the entitled land, develop the project and enter into a longterm ground lease with the new land owner. Under this scenario the land purchaser may provide additional equity as part of the project financing plan.
-
 - **3) Joint Venture.** The Seller will contribute the land into a joint venture with a partner who will contribute additional equity required for project completion.
-
 - **4) Land Sale.** The Seller will sell the land with all entitlements in place, but have no ongoing involvement with construction or lease up post closing.
 
 ### OFFERS SHOULD SPECIFY THE FOLLOWING:
 
 - Full description of the property or rights to be acquired
-
 - Development team and relevant experience including banking relationships
-
 - Purchase Price and any proposed adjustments to price
-
 - Details of the transaction structure
-
 - Timing and amount of deposit(s)
-
 - Details of feasibility period requirements and exact timing
-
 - Closing details
-
 - Description of any contingencies
-
 - Payment of closing costs
 
 ### OFFER DATE

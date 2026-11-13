@@ -5,7 +5,7 @@ source: pdfs/AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1.pdf
 doc_type: fund_om
 as_of: '2025-04-11'
 pages: 1-112
-content_hash: 28972dd1b8bb57c9df2567624738f82fdd46ba9815f00d43193d321b95b51894
+content_hash: b30a9da6ba091a8703224329d2d63989fef7a9e6e03e113c6ff78c0b64f67ae5
 ---
 
 <!-- page 1 -->
@@ -187,7 +187,6 @@ The Trust has been established to issue Units, acquire LP Units, temporarily hol
 **Business of the** The Trust and AIE Management Inc. (the “ **General Partner** ”) established the Limited **Limited Partnership:** Partnership pursuant to the laws of the Province of British Columbia to, among other things:
 
 - (a) directly or indirectly acquire, own, hold, manage, lease, operate, improve and sell commercial and residential real estate properties, including existing revenue-producing properties and properties developed by the Trust to be held as income-producing real estate for long-term investment, in the Trust Region, or any direct or indirect interests therein, which may include a direct or indirect interest in the properties; and
-
 - (b) conduct any other business or activity incidental, ancillary or related thereto.
 
 **Offering:** There is no minimum or maximum to this Offering. You may be the only purchaser. This Offering is being made pursuant to exemptions from the prospectus requirements of applicable securities legislation in Canada. The Trustee may terminate the Offering at any time. See Item 5.2 - “Subscription Procedure”.
@@ -390,9 +389,7 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 “ **Net Realized Capital Gains** ” means, for any taxation year, the amount, if any, by which the aggregate of the capital gains of the Trust realized in such year exceeds the sum of:
 
 - (i) the aggregate of the capital losses of the Trust realized in such year;
-
 - (ii) any capital gains that are realized by the Trust as a result of a redemption of Units pursuant to the Trust Declaration and that are payable to redeeming Unitholders; and
-
 - (iii) each amount determined by the Trustee in respect of any net capital loss for a prior taxation year that the Trust is permitted by the Tax Act to deduct in computing the taxable income of the Trust for such year multiplied by the reciprocal of the fraction applicable in determining the proportion of a capital gain for such prior taxation year that is a taxable capital gain;
 
 <!-- page 14 -->
@@ -414,13 +411,9 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 “ **Permitted Investments** ” means:
 
 - (i) debt obligations of or guaranteed by the Government of Canada or a province of Canada;
-
 - (ii) commercial paper obligations of a corporation or other person whose commercial paper is rated investment grade by Dominion Bond Rating Service Limited or its successors or assigns or by Standard & Poor's Rating Services, a division of The McGraw-Hill Companies, Inc., or its successors or assigns;
-
 - (iii) interest-bearing accounts and short term certificates of deposit issued or guaranteed by a Canadian chartered bank or trust company;
-
 - (iv) money market mutual funds; or
-
 - (v) any combination thereof;
 
 “ **Properties** ” means the various direct, indirect or partial interests in commercial and residential real estate properties, including existing revenue-producing properties and capital properties developed by the Limited Partnership to be held as income-producing real estate for long-term investment, situate in the Trust Region and acquired, owned and operated from time to time by the Limited Partnership, and “ **Property** ” means any one of them;
@@ -430,11 +423,8 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 “ **Proportionate Share** ” means for each LP Unit or Limited Partner, as the case may be, means that fraction which:
 
 - (i) has as its denominator the aggregate of an amount equal to the total subscription proceeds for LP Units received by the Limited Partnership; and
-
 - (ii) has as its numerator:
-
    - (A) in the case of a LP Unit, an amount equal to the subscription price of such Unit; and
-
    - (B) in the case of a Limited Partner, an amount equal to the aggregate of the total subscription price paid by such Limited Partner for all of his, her or its LP Units;
 
 “ **Proposed Amendments** ” has the meaning given to it under Item 8.2 – “Summary of Income Tax Consequences”;
@@ -494,17 +484,11 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 “ **Trust Income** ” means, for any taxation year of the Trust, the income for such year computed in accordance with the provisions of the Tax Act, other than paragraph 82(l)(b) and subsection 104(6) thereof, and taking into account such other amounts and adjustments as are determined in the discretion of the Trustee regarding the calculation of income for the purposes of determining the “taxable income” of the Trust; provided, however, that capital gains and capital losses will be excluded from the computation of Trust Income and, if an amount has been designated by the Trust under subsection 104(19) of the Tax Act, such designation shall be disregarded;
 
 - “ **Trust Liabilities** ” means:
-
    - (i) the Trust Property or the ownership, use, operation, acquisition or disposition thereof or the exercise or enjoyment of the rights, privileges, conditions or benefits attached thereto, associated therewith or derived therefrom;
-
    - (ii) the obligations, liabilities, activities or affairs of the Trust;
-
    - (iii) any actual or alleged act or omission of the Trustee or any other person in respect of the activities or affairs of the Trust (whether or not authorized by or pursuant to the Trust Declaration);
-
    - (iv) any actual or alleged act or omission of the Trustee or any other person in the performance or exercise, or purported or attempted performance or exercise, of any obligation, power, discretion or authority conferred upon the Trustee or such other person in respect of the activities or affairs of the Trust (whether or not authorized by or pursuant to the Trust Declaration);
-
    - (v) any transaction entered into by the Trustee or by any other person in respect of the activities or affairs of the Trust (whether or not authorized by or pursuant to the Trust Declaration); or
-
    - (vi) any taxes, levies, imposts or charges or fines, penalties or interest in respect thereof payable by the Trust or by the Trustee or by any other person (except the Unitholder to the extent required by applicable tax laws) on behalf of or in connection with the activities or affairs of the Trust;
 
 “ **Trust Notes** ” means promissory notes of the Trust that may be created and issued from time to time that are subordinated and unsecured, have a maturity of five years or less, are pre-payable at any time at the Trust’s option prior to maturity, and pay an annual rate of interest equal to the Canada Five-Year Yield, payable monthly in arrears;
@@ -512,15 +496,10 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 “ **Trust Property** ” means the properties and assets held from time to time by the Trust or by the Trustee on behalf of the Trust, including:
 
 - (i) the initial contribution of $10.00 paid by the settlor of the Trust to the Trustee;
-
 - (ii) all funds or property derived from the issuance or sale of Units and Trust Notes or other funds or property received by the Trust;
-
 - (iii) any LP Units or other securities of the Limited Partnership or of any other person held from time to time by or on behalf of the Trust;
-
 - (iv) any Permitted Investments held from time to time by or on behalf of the Trust;
-
 - (v) any proceeds of disposition of any of the foregoing property or in respect of the investment or substitution of the properties and assets of the Trust; and
-
 - (vi) all proceeds, income, dividends, interest, profit, return of capital, gains and accretions and all substituted assets, rights and benefits of any kind or nature whatsoever arising directly or indirectly from or in connection with or accruing to such foregoing property or such proceeds of disposition;
 
 “ **Trust Region** ” means any part of the Province of British Columbia;
@@ -562,15 +541,10 @@ _The following terms appear throughout this Offering Memorandum. Care should be 
 |**Notes**|**:**|||
 
 - (1) There is no minimum or maximum offering.
-
 - (2) The Trust engaged the Agent as a non-exclusive agent in connection with the Offering (other than an exclusive right to act as agent in respect of the Offering to residents of Vancouver Island). Units may also be sold by members of the Selling Group and/or Permitted Firms. See Item 2.8 – “Material Agreements – The Agent Engagement Letter” and Item 9 – “Compensation Paid to Sellers and Finders”. Pursuant to the Cost Sharing and Recovery Agreement, the Limited Partnership will reimburse the Trust for the costs and expenses, including selling commissions and fees and other related costs of the Offering, incurred by the Trust in offering the Units and obtaining subscriptions for Units. See Item 1.2 – “Use of Available Funds” and Item 2.8 – “Material Agreements – Cost Sharing and Recovery Agreement.”
-
 - (3) The estimated costs of the Offering are $100,000 and include expenses of or incidental to the issue, sale and delivery of the Units pursuant to this Offering, including, without limitation, fees and disbursements of legal counsel and accountants, and the reasonable out-of-pocket expenses (including applicable taxes) of the Agent in connection with such issue, sale and delivery.
-
 - (4) The Trust expects the Limited Partnership to finance the acquisition of properties, if any, partially through mortgage funding. There is no guarantee that it will be able to acquire such mortgage funding under reasonable terms. In addition, AIE Residential may draw on the VanCity Line of Credit. See Item 2.2 – “The Business – Credit Facility”.
-
 - (5) Pursuant to the Cost Sharing and Recovery Agreement, the Limited Partnership will reimburse the Trust for the costs and expenses, including selling commissions and fees and other related costs of the Offering, incurred by the Trust in offering the Units and obtaining subscriptions for Units, in consideration of the Trust investing the subscription proceeds in the acquisition of LP Units. See Item 1.2 – “Use of Available Funds”.
-
 - (6) The net proceeds raised by the Trust from the issuance of the Units, together with Reimbursable Costs, will be invested in LP Units.
 
 #### **1.2 Use of Available Funds**
@@ -583,7 +557,6 @@ The Trust intends to use the available funds of the Offering (the “ **Availabl
 |Pending investment in LP Units, the Trust may use funds to invest in Permitted Investments, pay the expenses of the Trust and pay amounts in connection with the redemption of Units. Notes:|||
 
 - (1) There is no minimum or maximum to this Offering.
-
 - (2) The Limited Partnership will use the proceeds from the issuance of LP Units to primarily purchase additional properties. In addition, the Limited Partnership may use a portion of the proceeds received by the Limited Partnership from the issuance of LP Units to the Trust to pay: (i) down mortgage financing on a specific property or properties; (ii) capital expenditure on a specific property or properties; (iii) costs in connection with the re-positioning of properties; (iv) due diligence and documentation costs relating to property acquisitions, sales commissions where applicable, completion costs and other fees and expenses related to such acquisitions or properties; and (v) the expenses of the Limited Partnership, including fees payable to the Manager under the Management Agreement. See Item 2.8 - “Material Agreements – Management Agreement”. The Manager is controlled by Brendan Sutton, a director of the Trustee and the Manager.
 
 <!-- page 19 -->
@@ -625,19 +598,14 @@ The Trustee may also, on behalf of the Trust, temporarily hold cash in interest 
 **Investment Objectives –** The Limited Partnership’s primary investment objectives are as follows:
 
 - (a) to invest in a portfolio of quality residential and commercial revenue-producing, cash-flow positive, properties in the Trust Region;
-
 - (b) to provide quarterly cash flow distributions to the Trust, as the holder of the LP Units, as cash flow permits;
-
 - (c) to enhance the Limited Partnership’s return on capital and the Unitholders’ yield through limited development of capital properties as income-producing real estate for long-term investment; and
-
 - (d) to enhance the potential for long-term growth of capital through value-added enhancements to the properties and organic growth in rental rates.
 
 **Guidelines for Property Acquisitions –** The General Partner, which has the authority to carry on the business of the Limited Partnership with full power and authority to administer, manage, control, and operate the business of the Limited Partnership, intends to comply with the following general guidelines in acquiring properties:
 
 - (a) to seek out quality residential and commercial revenue-producing, cash-flow positive, properties in the Trust Region;
-
 - (b) when appropriate, make value-added enhancements to the properties; and
-
 - (c) when appropriate, to develop capital properties as income-producing real estate for long-term investment. Any such development is expected to be limited to 20% of Gross Asset Value.
 
 **Title to the Properties –** It is intended that title to each of the Properties will be registered in the name of a nominee company, which will own such Property as nominee, bare trustee and agent for the Limited Partnership.
@@ -864,9 +832,7 @@ China has indicated that it would take countermeasures, including challenging th
 The long-term objectives of the Trust are:
 
 - (a) to issue sufficient Units to permit the Trust to in turn acquire sufficient LP Units to allow the Limited Partnership to operate, maintain and finance the Properties, and to acquire additional income producing properties in the Trust Region on a commercially reasonable basis;
-
 - (b) to provide Unitholders with profits derived from the Trust’s investment in LP Units (generated indirectly from the Limited Partnership’s operation of the Properties); and
-
 - (c) to distribute such profits among the Unitholders.
 
 #### **2.5 Short-Term Objectives**
@@ -898,19 +864,12 @@ The following is a list of agreements which are material to this Offering and to
 <!-- page 29 -->
 
 - (b) Limited Partnership Agreement – The Limited Partnership Agreement is described under Item 2.1 - “Structure” and under Item 2.8 – “Material Agreements – Limited Partnership Agreement”.
-
 - (c) Management Agreement – The Management Agreement is described under Item 2.8 – “Material Agreements – Management Agreement”.
-
 - (d) Cost Sharing and Recovery Agreement – The Cost Sharing Agreement is described under Item 2.8 – “Material Agreements – Cost Sharing and Recovery Agreement”.
-
 - (e) Administration Agreement – The Administration Agreement is described under Item 2.8 – “Material Agreements – Administration Agreement”.
-
 - (f) Property Management Agreement – The Property Management Agreement is described under Item 2.8 – “Material Agreements – Property Management Agreement”.
-
 - (g) Subscription Agreements – The Subscription Agreement is described under Item 5.2 – “Subscription Procedure”.
-
 - (h) Agent Engagement Letter – The Agent Engagement Letter is described under Item 2.8 – “Material Agreements – Agent Engagement Letter”.
-
 - (i) VanCity Line of Credit – The VanCity Line of Credit is described under Item 2.2 – “The Business – Credit Facility”.
 
 #### **_A. Trust Declaration_**
@@ -926,53 +885,31 @@ The Trustee is vested with and will have continuing, full, absolute and exclusiv
 Subject only to the express limitations contained in the Trust Declaration, and in addition to any other powers and authorities conferred by the Trust Declaration or which the Trustee may have by virtue of any present or future statute or rule of law, the Trustee, without any action or consent by the Unitholders, will have and may exercise at any time and from time to time the following powers and authorities, which may be exercised by the Trustee in such manner and upon such terms and conditions as they may from time to time determine proper:
 
 - (a) to supervise the activities and manage the investments and affairs of the Trust;
-
 - (b) to hold the Trust Property in safekeeping, retaining moneys, securities, property, assets or investments, and investing moneys from time to time forming part of the Trust Property;
-
 - (c) to ensure that the Subscription Proceeds are invested in LP Units;
-
 - (d) to borrow money as necessary to pay distributions to Unitholders, and encumbering Trust Property in respect thereof;
-
 - (e) to pay properly incurred expenses out of Trust Property;
 
 <!-- page 30 -->
 
 - (f) to open, operate and close bank accounts and other similar credit, deposit and banking arrangements, to negotiate and sign banking and financing contracts and agreements and deposit monies from time to time forming part of the Trust Property in such accounts;
-
 - (g) to possess and exercise rights, powers and privileges appertaining to ownership of or interests in Trust Property;
-
 - (h) to hold legal title to the Trust Property;
-
 - (i) to appoint the accountants of the Trust;
-
 - (j) to ensure compliance with applicable securities legislation;
-
 - (k) to prepare and file or cause to be prepared and filed all requisite returns, reports and filings;
-
 - (l) to provide all requisite office accommodation and associated facilities;
-
 - (m) to provide or cause to be provided to the Trust all other administrative and other services and facilities required by the Trust;
-
 - (n) to maintain or cause to be maintained complete records of all transactions in respect of the investment portfolio of the Trust;
-
 - (o) to prescribe any instrument provided for or contemplated by the Trust Declaration;
-
 - (p) to effect payment of distributions to the Unitholders;
-
 - (q) to collect, sue for and receive all sums of money or other property or items that are believed due to the Trust and obtain security, including encumbrances on assets, to secure the full payment of monies owed to the Trust and the performance of all obligations in favour of the Trust, and to exercise all of the rights of the Trust, and to perform all of the obligations of the Trust, under such security;
-
 - (r) to possess and exercise all the rights, powers and privileges pertaining to the ownership of all or any part of the Trust Property, including the LP Units, to the same extent that any person might, unless as otherwise limited;
-
 - (s) where reasonably required, to engage, employ, contract with or retain on behalf of the Trust any persons as agents, representatives, employees or independent contractors in one or more capacities;
-
 - (t) except as prohibited by law, to delegate from time to time to the Trust's employees, consultants, agents and other persons the doing of such things and the exercise of such powers hereunder as the Trustee may from time to time deem expedient, so long as any such delegation is not inconsistent with any of the provisions of this Declaration and subject at all times to the general control and supervision of the Trustee as provided for in the Trust Declaration;
-
 - (u) to issue and redeem Units pursuant to the terms and conditions of the Trust Declaration;
-
 - (v) where desirable to make or cause to be made application for the listing or quotation on any stock exchange or market of Units, and to do all things which in the opinion of the Trustee may be necessary or desirable to effect or maintain such listing or quotation;
-
 - (w) to use best efforts to do all such acts and things as are necessary to ensure that the Trust qualifies at Closing and at all times thereafter as a “mutual fund trust” pursuant to subsection 132(6) of the Tax Act, including _inter alia_ those things set out in the Trust Declaration;
-
 - (x) to pay all taxes or assessments, of whatever kind or nature, whether within or outside Canada, imposed upon or against the Trustee in connection with the Trust Property, undertaking or income of the Trust, or imposed upon or against the Trust Property in connection with the undertaking or income of the Trust, or any part thereof, and to settle or compromise disputed tax liabilities, and for the foregoing
 
 <!-- page 31 -->
@@ -980,7 +917,6 @@ Subject only to the express limitations contained in the Trust Declaration, and 
 purposes to make such returns, take such deductions, and make such designations, elections, allocations and determinations in respect of Trust Income, Net Realized Capital Gains or any other amounts distributed, allocated and made payable to Unitholders in a year and any other matter as shall be permitted under the Tax Act and analogous provisions of any provincial income tax legislation, and to do all such other acts and things as may be deemed by the Trustee in its sole discretion to be necessary, desirable or convenient;
 
 - (y) to do all such acts and things, and to execute, deliver and perform the obligations of the Trust under all such agreements and instruments as are necessary to complete the Offering or as are contemplated by the offering documents; and
-
 - (z) to do all such other acts and things and execute all such agreements and other instruments as are incidental to the foregoing, and to exercise all powers that are necessary or useful to carry on the purpose and activities of the Trust, to promote or advance any of the purposes or objectives for which the Trust is formed and to carry out the provisions of the Trust Declaration whether or not specifically mentioned in the Trust Declaration.
 
 #### **_Resignation and Removal of Trustee_**
@@ -1022,7 +958,6 @@ Before the issue of a Class of Units, the Trustee will execute a supplemental in
 Any Units in any Class of Units created by supplemental indenture will:
 
 - (a) be designated by a letter by the Trustee; and
-
 - (b) have such rights and restrictions with respect to subscription price and other terms and conditions of their offering and manner of subscription, sharing in the property of the Trust and other matters as the Trustee determines to be appropriate, which rights and restrictions may be different from the rights and restrictions which pertain to the Units of any other Class of Units.
 
 At the option of the Trustee, the maximum number of Units of any Class of Units may be limited, such limitation to be expressed in the supplemental indenture providing for the creation of the Class of Units. As of the date of this Offering Memorandum, the only Classes of Units authorized by the Trust are Class A Units and Class F Units.
@@ -1044,11 +979,8 @@ The Trustee will, in respect of each Distribution Period, on or before each Dist
 The cash flow of the Trust for any Distribution Period (the “ **Cash Flow** ”) will be equal to:
 
 - (a) the sum of all cash amounts received by the Trust for or in respect of such Distribution Period, including the amounts received as a limited partner holding LP Units in the Limited Partnership and all other income, interest, distributions, dividends, proceeds from the disposition (other than by way of security interest) of LP Units, returns of capital and repayments of indebtedness, as well as all amounts received by the Trust in any prior Distribution Period to the extent not previously distributed; less
-
 - (b) all costs and expenses of the Trust that, in the opinion of the Trustee, may reasonably be considered to have accrued and become owing in respect of, or which relate to, such Distribution Period or a prior Distribution Period if not accrued in such prior period; less
-
 - (c) all amounts payable in cash that relate to the redemption or repurchase of Units and that have become payable by the Trust in such Distribution Period or prior Distribution Period; and less
-
 - (d) any interest expense incurred by the Trust between distributions,
 
 provided that any funds borrowed by the Trust or the proceeds of the issuance of Units or other securities of the Trust and related transactions in connection therewith will not be included in the calculations of Cash Flow in respect of any Distribution Period.
@@ -1068,7 +1000,6 @@ In addition to distributions of Distributable Cash Flow, the Trustee may allocat
 The following amounts will be due and payable to Unitholders of record at the close of business on December 31 in each year:
 
 - (a) the amount of Trust Income for such year not previously paid or made payable to Unitholders in such year; and
-
 - (b) the amount of Net Realized Capital Gains for such year not previously paid or made payable to Unitholders in such year.
 
 #### _Allocation_
@@ -1148,11 +1079,8 @@ The payment in cash by the Trust of the redemption price of Units will reduce th
 Unitholders whose Units are redeemed will be entitled to receive a redemption price (the “ **Redemption Price** ”) per Unit equal to either:
 
 - (a) where the Units are listed on a stock exchange or similar market, an amount equal to the lesser of:
-
    - (i) 95% of the market price of the Units during the 10 trading day period after the Redemption Date; and
-
    - (ii) 100% of the closing market price of the Units on the Redemption Date; or
-
 - (b) where the Units are not listed on a stock exchange or similar market, the Net Asset Value Per Unit as determined on the Valuation Date which immediately precedes the Redemption Date, subject to any administration and processing fees that may be determined and applied by the Trustee, in its sole discretion, from time to time.
 
 #### _Payment of Redemption Price in Cash_
@@ -1160,7 +1088,6 @@ Unitholders whose Units are redeemed will be entitled to receive a redemption pr
 The Redemption Price per Unit multiplied by the number of Units tendered for redemption will be paid to a Unitholder by way of a cash payment no later than the last day of the calendar month following the calendar quarter in which the Redemption Date occurs, subject to the following limitations:
 
 - (a) the total amount payable by the Trust by cash payment in respect of the redemption of Units for the calendar quarter in which the Redemption Date occurs will not exceed $50,000; and
-
 - (b) the total amount payable by the Trust by cash payment in respect of the redemption of Units in any twelve month period ending at the end of the calendar quarter in which the Redemption Date occurs
 
 <!-- page 37 -->
@@ -1172,9 +1099,7 @@ will not exceed 1/4 of 1% of the aggregate Subscription Price of all Units that 
 If any of the limits in the Trust Declaration preclude the payment of the Redemption Price in cash, and the Trustee does not, in its sole discretion, waive such limitation in respect of all Units tendered for redemption in any particular calendar quarter, the Redemption Price shall be paid and satisfied by way of any of the following methods to be selected by the Trustee, using its sole discretion:
 
 - (a) the issuance and delivery of a number of Trust Notes, each in the principal amount of $100, having an aggregate principal amount equal to the redemption price per Unit multiplied by the number of Units tendered for redemption;
-
 - (b) a distribution _in specie_ to the Unitholder of a number of LP Units having an aggregate value determined on the redemption date based on the redemption price of the LP Units under the terms and conditions of the Limited Partnership Agreement, equal to the redemption price per Unit multiplied by the number of Units tendered for redemption; or
-
 - (c) a distribution in specie to the Unitholder of a number of Debt Securities (each in the principal amount of $100) having an aggregate principal amount equal to the redemption price per Unit multiplied by the number of Units tendered for redemption.
 
 Notwithstanding the foregoing, the Trustee, in its sole discretion, may but will in no way be obligated to make cash payments on account of the Redemption Price in excess of the limits set out in the Trust Declaration.
@@ -1198,9 +1123,7 @@ The Trust may retract the Units either in whole at any time or in part from time
 If the Trust elects to retract less than all of the outstanding Units, the Units to be retracted shall be retracted either:
 
 - (a) on a _pro rata_ basis;
-
 - (b) be drawn by lot; or
-
 - (c) be selected in such other manner as the Trustee, in its sole discretion, may determine, including the retraction of Units from one or more specified Unitholder.
 
 For this purpose, the Trust may make, and from time to time amend, regulations with regard to the manner in which such Units will be selected for retraction and such regulations shall be binding upon all Unitholders.
@@ -1232,9 +1155,7 @@ Only Unitholders of record will be entitled to vote and each Unit will entitle t
 The following matters require approval by Ordinary Resolution and shall be deemed approved, consented to or confirmed, as the case may be, upon the adoption of such Ordinary Resolution:
 
 - (a) matters relating to the administration of the Trust for which the approval of the Unitholders is required by policies of the securities regulatory authorities or other applicable laws and regulations in effect from time to time, and such policies, laws or regulations do not require approval by Special Resolution;
-
 - (b) subject to the requirements for a Special Resolution, any matter or thing required to be consented to or approved by the Unitholders; and
-
 - (c) any matter which the Trustee considers appropriate to present to the Unitholders for their confirmation or approval.
 
 <!-- page 39 -->
@@ -1244,17 +1165,11 @@ The following matters require approval by Ordinary Resolution and shall be deeme
 The following powers shall only be exercisable by Special Resolution passed by the Unitholders:
 
 - (a) consenting to the amendment of the Trust Declaration except as provided therein;
-
 - (b) changes to the investment objectives of the Trust;
-
 - (c) the removal of the Trustee;
-
 - (d) the appointment of a new trustee;
-
 - (e) the termination of the Trust;
-
 - (f) a reduction in the amount payable on any outstanding Units upon liquidation of the Trust; or
-
 - (g) the alteration or elimination of any voting rights pertaining to any outstanding Units.
 
 Notwithstanding the above or any other provision in the Trust Declaration, no confirmation, consent or approval shall be sought or have any effect and no Unitholders shall be permitted to effect, confirm, consent to or approve, in any manner whatsoever, where the same increases the obligations of or reduces the compensation payable to or protection provided to the Trustee, except with the prior written consent of the Trustee.
@@ -1264,7 +1179,6 @@ Notwithstanding the above or any other provision in the Trust Declaration, no co
 Prior to each meeting of Unitholders, the Trust will provide to each Unitholder, together with the notice of the meeting:
 
 - (a) a form of proxy which can be used by a Unitholder to appoint a proxy, who need not be a Unitholder, to attend and act at the meeting on behalf of the Unitholder, in the manner and to the extent authorized by the proxy; and
-
 - (b) all information and certifications required by applicable law.
 
 #### **_Information and Reports_**
@@ -1272,7 +1186,6 @@ Prior to each meeting of Unitholders, the Trust will provide to each Unitholder,
 After the end of each calendar quarter, the Trustee will distribute or make available in accordance with applicable securities legislation to each Unitholder the Trust’s accountant prepared and reviewed financial statements. On or before March 31 in each year, the Trustee will:
 
 - (a) deliver or make available to each Unitholder the Trust’s audited financial statements for the previous fiscal year and such other reports as are from time to time required by applicable securities or other laws; and
-
 - (b) deliver to each person who received a distribution at any time during the previous calendar year, tax reporting information in such a manner as will enable such person to report the income tax consequences of investment in Units in their annual Canadian income tax return.
 
 Such financial statements will be prepared in accordance with GAAP; provided that such statements and the obligations to deliver such statements may vary from such principles to the extent required to comply with applicable securities laws or securities regulatory requirements or to the extent permitted by applicable securities regulatory authorities.
@@ -1328,9 +1241,7 @@ Subject to the restrictions described in Item 2.8 – “Material Agreements –
 <!-- page 42 -->
 
 - (a) any material change in the position, authority or responsibility of the Trustee;
-
 - (b) any change in the investment policy of the Trust; or
-
 - (c) any change to the Trust Declaration, if such change is material or is otherwise required by the Trust Declaration.
 
 **The foregoing is a summary only of certain of the material provisions of the Trust Declaration. For a complete understanding of all of the provisions of the Trust Declaration, reference should be made to the Trust Declaration itself, a copy of which is available from the Trustee and/or Manager.**
@@ -1354,13 +1265,11 @@ The General Partner has made a capital contribution of $10.00 to the Limited Par
 The Net Income (LP) shall be allocated among the partners on the following basis:
 
 - (a) firstly, the General Partner shall be allocated .01% of the Net Income (LP) to a maximum of $100 per annum;
-
 - (b) secondly, the balance of Net Income (LP) shall be allocated to the Limited Partners.
 
 The Net Loss (LP) shall be allocated among the Partners on the following basis:
 
 - (a) firstly, the General Partner shall be allocated .01% of the Net Loss (LP) to a maximum of $100 per annum; and
-
 - (b) secondly, the balance of Net Loss (LP) shall be allocated to the Limited Partners.
 
 <!-- page 43 -->
@@ -1374,19 +1283,12 @@ The taxable income, taxable loss, capital gain and capital loss of the Limited P
 Subject to distributions on dissolution of the Limited Partnership:
 
 - (a) distributable cash shall be distributed quarterly, as cash flow permits, as follows:
-
    - (i) firstly, to the General Partner 0.01% of the Distributable Cash to a maximum of $100 per annum;
-
    - (ii) secondly, the balance of the Distributable Cash to the Limited Partners; and
-
 - (b) extraordinary net cash receipts, being the net proceeds from a Sale or Refinancing calculated in accordance with the Limited Partnership Agreement, will be distributed as and when funds are received and are available for distribution, as follows:
-
    - (i) firstly, in the event of a Sale of a Property, to pay any costs involved in the Sale, and to pay all amounts required to discharge any mortgages or encumbrances registered against the assets;
-
    - (ii) secondly, to pay to the Limited Partners that amount which is estimated by the General Partner to be required by the Limited Partners to pay any income or other taxes arising as a result of the Sale;
-
    - (iii) thirdly, to pay all current obligations of the Limited Partnership, including without limitation, mortgage loans and any loans advanced by the General Partner or the Limited Partners, plus accrued interest, and any applicable fees payable under the Management Agreement;
-
    - (iv) fourthly, the balance of extraordinary net cash receipts will be distributed to the Limited Partners, _pro rata_ in accordance with their respective Income Shares.
 
 #### **_Voting_**
@@ -1410,17 +1312,11 @@ tax purposes, such non-resident Limited Partner may be required to sell such Lim
 Upon the liquidation, dissolution or wind-up of the Limited Partnership, the assets of the Limited Partnership will be liquidated and the proceeds of dissolution will be distributed in the following order:
 
 - (a) in the event that dissolution occurs upon the sale of the last of the Properties, to pay any costs involved in the sale, and to pay all amounts required to discharge any Mortgage Loans or encumbrances registered against the Properties;
-
 - (b) to pay all expenses incurred in the winding-up of the Limited Partnership;
-
 - (c) to pay all of the liabilities of the Limited Partnership, including any loans or advances made by Limited Partners, any amounts owing to the General Partner in respect of costs and expenses owing to it pursuant to the Limited Partnership Agreement, and any applicable fees payable under the Management Agreement, in the manner required by law;
-
 - (d) to establish such reserves as the General Partner considers necessary;
-
 - (e) to return to each Limited Partner the amount in such Limited Partner’s capital account;
-
 - (f) to return to the General Partner the balance in its capital account; and
-
 - (g) to distribute any balance then remaining to the Limited Partners, _pro rata_ in accordance with their respective Income Shares.
 
 **The foregoing is a summary only of all of the material provisions of the Limited Partnership Agreement. For a complete understanding of all of the provisions of the Limited Partnership Agreement, reference should be made to the Limited Partnership Agreement itself, a copy of which is available from the General Partner.**
@@ -1436,7 +1332,6 @@ Pursuant to the Management Agreement, the Manager has agreed to provide the foll
 The Manager will provide certain acquisition and financing services to the Limited Partnership, including, among others, the following:
 
 - (a) structuring the acquisition and ownership by the Limited Partnership of the Properties or interests in the Properties, including overseeing the preparation, execution and delivery of all agreements, transfers, documents and instruments required for such acquisitions; and
-
 - (b) structuring the sale and disposition by the Limited Partnership of any Properties or interests in the Properties, including overseeing the preparation, execution and delivery of all agreements, transfers, documents and instruments required for such dispositions.
 
 <!-- page 45 -->
@@ -1446,7 +1341,6 @@ The Manager will provide certain acquisition and financing services to the Limit
 The Manager will provide certain asset management services to the Limited Partnership, including, among others, the following:
 
 - (a) providing overall management, financial and business planning for the Limited Partnership, including overseeing the operations of the Properties; and
-
 - (b) advising the Limited Partnership with respect to the disposition of the Properties, and negotiating and carrying out the disposition of the Properties on such terms and conditions and at such times as the Manager may determine.
 
 #### _Re-positioning Services_
@@ -1454,15 +1348,10 @@ The Manager will provide certain asset management services to the Limited Partne
 The Manager will provide certain Re-positioning Services in connection with a Re-Positioning Program relating to a Property, including, among others, the following:
 
 - (a) preparing the budget in respect of a Re-positioning Program approved by the Partnership;
-
 - (b) overseeing and coordinating the design of the Re-positioning Program and engaging the services of and supervising such design, engineering and other consultants as are reasonably required for the Repositioning Program;
-
 - (c) co-ordinating the preparation and negotiation of any construction contract documents;
-
 - (d) supervising and inspecting the progress of the course of construction of the Re-positioning Program so as to accomplish completion of the Re-positioning Program in a timely manner;
-
 - (e) ensuring compliance with general municipal and other governmental requirements relating to the Repositioning Program; and
-
 - (f) performing and administering any and all other services and responsibilities which are required to be performed for the Re-positioning Program.
 
 #### _Supervision of Property Management_
@@ -1470,11 +1359,8 @@ The Manager will provide certain Re-positioning Services in connection with a Re
 The Manager will take all steps necessary to monitor and supervise the management of the Properties by any property manager appointed by the Limited Partnership for that purpose, including, among others, the following:
 
 - (a) retaining and overseeing the services of property managers of the Properties;
-
 - (b) verifying proper maintenance of the Properties through ongoing site inspections and meetings with the property managers;
-
 - (c) reviewing the annual budget and monthly financial performance with respect to that budget; and
-
 - (d) reviewing the need for any capital repairs on an ongoing basis.
 
 #### _Service Requirements_
@@ -1482,11 +1368,8 @@ The Manager will take all steps necessary to monitor and supervise the managemen
 In providing services under the Management Agreement, the Manager shall:
 
 - (b) comply with all instructions and directions given to it by the Limited Partnership;
-
 - (c) devote sufficient time and attention to carry out its duties as required under the Management Agreement;
-
 - (d) well and faithfully serve the Limited Partnership; and
-
 - (e) comply with all applicable rules, laws and regulations of any kind whatsoever.
 
 <!-- page 46 -->
@@ -1555,19 +1438,12 @@ The Limited Partnership acknowledges and agrees that the Trust may pay Reimbursa
 Pursuant to the Administration Agreement, the Administrator has agreed to provide to the Trust certain general administrative services, including, among others, the following:
 
 - (a) overseeing the sale of the Units, preparation of offering documents, and the completion of all matters related to the closing of subscriptions for Units and the investment by the Trust in LP Units;
-
 - (b) preparing and filing all reports required in the jurisdictions in which Units have been sold in order to comply with applicable securities legislation;
-
 - (c) establishing and maintaining bank accounts on behalf of the Trust;
-
 - (d) receiving distributions from the Limited Partnership from the investment in LP Units and processing cash flow distributions to Unitholders;
-
 - (e) responding to inquiries by Unitholders and others;
-
 - (f) providing Unitholders with detailed statements for income tax purposes;
-
 - (g) preparing annual financial reports on the Properties and arranging for an audit of such annual financial reports; and
-
 - (h) performing such other administrative duties as a reasonably prudent administrative manager would provide in the same or comparable circumstances and such other administrative duties as the Trust may reasonably request from time to time.
 
 Pursuant to the Administration Agreement, the Manager will be paid a fee equal to $10 per annum plus out-of-pocket expenses incurred by the Manager in completing any of the above duties.
@@ -1579,25 +1455,17 @@ The Administration Agreement will continue in full force and effect until the ea
 Pursuant to the Property Management Agreement, Devon provides certain financial administration services and limited property management services to the Limited Partnership, including, among other things:
 
 - (a) bookkeeping and related activities;
-
 - (b) maintenance of current rent roll;
-
 - (c) rent collection, with the assistance of the on-site staff;
-
 - (d) monthly cash flow reporting;
 
 <!-- page 49 -->
 
 - (e) developing and tracking of operating and capital budgets;
-
 - (f) management of suppliers and contractors;
-
 - (g) tenancy agreement preparation and execution;
-
 - (h) management of residential rentals, suite turnover capital expenditure, maintenance capital expenditure, property staff HR issues, and realty tax appeals;
-
 - (i) ensuring compliance with the Residential Tenancy Branch of British Columbia; and
-
 - (j) management of commercial leasing;
 
 Pursuant to the Property Management Agreement, Devon will be paid a fee equal to 4% of the gross revenue derived from the residential properties as described in the residential property management agreement and 5% of the gross revenue derived from the commercial properties as described in the commercial property management agreement. The Property Management Agreement can be terminated by either party following sixty (60) days’ written notice to the other party.
@@ -1623,11 +1491,8 @@ Unless terminated earlier in accordance with the provisions of the Agent Engagem
 The Agent is entitled to terminate the engagement by written notice to the Trust in various circumstances, including, among others, the following:
 
 - (a) any order to cease or suspend trading in any securities of the Trust, or prohibiting or restricting the distribution of the securities of the Trust is made, or any proceeding is announced or commenced for the making of any such order, by any securities regulatory authority, any applicable stock exchange or by any other competent authority, and has not been rescinded, revoked or withdrawn;
-
 - (b) there should develop, occur or come into effect or existence, or be announced, any event, action, state, condition or occurrence of national or international consequence (including any natural catastrophe, act of war, terrorism, pandemic, including without limitation matters caused by, related to or resulting from COVID-19, or similar event, except, with respect to COVID-19, to the extent that there are material adverse developments related thereto after the date of the Agent Engagement Letter), or any law, action, regulation or other occurrence of any nature whatsoever, which, in the opinion of the Agent, acting reasonably, seriously adversely affects, or involves, or will seriously adversely affect, or involve, the financial markets generally or the business, operations or affairs of the Trust and its subsidiaries on a consolidated basis;
-
 - (c) there shall occur any event or change (actual, imminent or reasonably expected), or any development including a prospective event or change, financial or otherwise, in the business, financial condition, affairs, operations, assets, liabilities (contingent or otherwise) or capital or ownership of the Trust which, in the Agent's opinion, could reasonably be expected to have a significant adverse effect on the market price or value of the Units; or
-
 - (d) the Trust is in breach of, default under or non-compliance with any material representation, warranty, term, or condition of the Trust, as the case may be, contained in the Agent Engagement Letter.
 
 #### **2.9 Related Party Transactions**
@@ -1719,7 +1584,6 @@ The following table discloses the principal occupations of the directors and sen
 To the Trust’s knowledge, no director, executive officer or control person of the Trustee of the Trust has, or any issuer of which any of those persons was a director, executive officer or control person has:
 
 - (a) during the last 10 years, been subject to: (i) a penalty or other sanction imposed by a court relating to a contravention of securities legislation, (ii) a penalty or other sanction imposed by a regulatory body relating to a contravention of securities legislation, or (iii) an order restricting trading in securities that was in effect for a period of 30 or more consecutive days; or
-
 - (b) during the last 10 years, made: (i) a declaration of bankruptcy, (ii) a voluntary assignment in bankruptcy, (iii) a proposal under any bankruptcy or insolvency legislation, or (iv) a proceeding, arrangement or compromise with creditors, or appointment of a receiver, receiver -manager or trustee to hold assets ~~;~~
 
 To the Trust’s knowledge, no director, executive officer or control person of the Trustee of the Trust or the Trust has ever pled guilty to, or been found guilty of: (i) a summary conviction or indictable offence under the Criminal Code (Canada); (ii) a quasi-criminal offence in any jurisdiction of Canada or a foreign jurisdiction; (iii) a misdemeanor or felony under the criminal legislation of the United States of America, or any state or territory of the United States of America; or (iv) an offence under the criminal legislation of any other foreign jurisdiction.
@@ -1838,41 +1702,25 @@ This offering is being made in accordance with certain statutory prospectus exem
 The Units are being offered on a continuous basis pursuant to exemptions from the requirements of applicable securities legislation. In order to subscribe for Units, Subscribers must agree to provide the Trust, directly or care of the Agent or a Permitted Firm, with such information and to execute and deliver to the Trust, directly or care of the Agent or a Permitted Firm, the form of Subscription Agreement (including the certificates, acknowledgements, questionnaires and other documents as the Trust may request) in order to enable it to determine the availability of an exemption, including the following:
 
 - (a) if the Subscriber is relying on “offering memorandum” exemption to the prospectus requirement in section 2.9 of NI 45-106 (the “ **Offering Memorandum Exemption** ”) and the Subscriber is resident in or otherwise subject to the securities laws of British Columbia, two copies of a Risk Acknowledgement Form (Form 45-106F4);
-
 - (b) if the Subscriber is relying on the Offering Memorandum Exemption and the Subscriber is resident in or otherwise subject to the securities laws of Manitoba:
-
    - (i) two copies of a Risk Acknowledgement Form (Form 45-106F4), and
-
    - (ii) if the Subscriber is investing more than $10,000 pursuant to the Offering Memorandum Exemption, the Subscriber must meet the definition of “eligible investor” (as defined in NI 45-106) and an “Eligible Investor Questionnaire”;
-
 - (c) if the Subscriber is relying on the Offering Memorandum Exemption and the Subscriber is resident in or otherwise subject to the securities laws of Alberta, Ontario or Saskatchewan:
 
 <!-- page 58 -->
 
 - (i) two copies of a Risk Acknowledgement Form (Form 45-106F4), and
-
    - (ii) if the Subscriber is an individual, two copies of Schedule 1 and Schedule 2 attached to the Risk Acknowledgement Form (Form 45-106F4). Subscriber investing more than $10,000 in a 12-month period must meet the definition of “eligible investor”. Subscriber investing more than $30,000 (but not more than $100,000) in a 12 month period must meet the definition of “eligible investor” and have received suitability advice with respect to the investment from a portfolio manager, investment dealer or exempt market dealer. These limits do not apply to “accredited investors” (as defined in NI 45-106 or the _Securities Act_ (Ontario)) or persons described in section 2.5 of NI 45-106 (however, such Subscriber must complete Schedule 1 and Schedule 2 attached to the Risk Acknowledgement Form (Form 45-106F4);
-
 - (d) if the Subscriber is relying on the “accredited investor” exemption to the prospectus requirement in section 2.3 of NI 45-106 and the Subscriber is resident in or otherwise subject to the securities laws of British Columbia, Alberta, Manitoba, Ontario or Saskatchewan:
-
    - (i) the Subscriber must be an “accredited investor” as defined in NI 45-106 or section 73.3 (2) of the _Securities Act_ (Ontario), and
-
    - (ii) if applicable, two copies of a Risk Acknowledgment Form for Individual Accredited Investors (Form 45-106F9);
-
 - (e) if the Subscriber is relying on the “minimum investment” exemption ($150,000) to the prospectus requirement in section 2.10 of NI 45-106 and the Subscriber is resident in or otherwise subject to the securities laws of British Columbia, Alberta, Manitoba, Ontario or Saskatchewan:
-
    - (i) the Subscriber is not an individual (as defined in applicable securities laws), and
-
    - (ii) the conditions of section 2.10 of NI 45-106 are satisfied;
-
 - (f) if the Subscriber is relying on the “family, friends and business associates” exemption to the prospectus requirement in section 2.5 of NI 45-106 (subject to section 2.6 of NI 45-106 for Saskatchewan residents and 2.6.1 of NI 45-106 for Ontario residents) and the Subscriber is resident in or otherwise subject to the securities laws of British Columbia, Alberta, Manitoba, Ontario or Saskatchewan:
-
    - (i) such supporting documentation that the Trust or its legal counsel may request to establish the Subscriber’s qualification to rely on such exemption, and
-
    - (ii) if applicable, two copies of:
-
       - A. a Risk Acknowledgment Form (Form 45-106F12) (Ontario residents); or
-
       - B. a Risk Acknowledgement Form (Form 45-106F5) (Saskatchewan residents), as applicable.
 
 In addition to the foregoing, Units may be issued pursuant to other available exemptions from the prospectus requirements of applicable securities legislation provided the conditions of such exemptions are satisfied.
@@ -1880,7 +1728,6 @@ In addition to the foregoing, Units may be issued pursuant to other available ex
 Subscribers may subscribe for Units by returning to the Trust, directly or care of the Agent or Permitted Firm, as the case may be, the following:
 
 - (a) a completed Subscription Agreement (including all applicable schedules, appendices, acknowledgements, certificates and other documents requested by the Trust); and
-
 - (b) a certified cheque, bank draft or by wire transfer payable to the Trust, or, if subscribing through Fundserv, payment must be made through the Fundserv system.
 
 In accordance with the requirements of NI 45-106, the subscription monies advanced by each Subscriber will be held in trust for the Subscriber until midnight on the second business day after the Subscription Agreement is signed by the
@@ -2026,9 +1873,7 @@ The Trust will be entitled for each taxation year to reduce (or receive a refund
 Under the Trust Declaration, an amount equal to the net income (including taxable capital gains) of the Trust (determined without reference to paragraph 82(1)(b) and subsection 104(6) of the Tax Act), plus the non-taxable portion of any net capital gain realized by the Trust, but excluding:
 
 - (i) income and capital gains arising on or in connection with an _in specie_ distribution on the redemption of Units which are paid or payable and designated by the Trust to redeeming Unitholders;
-
 - (ii) capital gains, which may be offset by capital losses, if any, carried forward from prior years or, if not so offset, tax on which is recoverable by the Trust; and
-
 - (iii) income, which may be offset by non-capital losses, if any, carried forward from prior years,
 
 may be payable in the year to Unitholders, subject to the qualifications described below.
@@ -2264,13 +2109,9 @@ Investments in real estate properties are relatively illiquid. Such illiquidity 
 The economic performance and value of the Limited Partnership’s interest in properties acquired by it will be subject to all of the risks associated with investing in real estate, including, but not limited to:
 
 - changes in the national, regional and local economic climate;
-
 - local conditions, including a reduction in demand for properties like the properties acquired by the Limited Partnership;
-
 - the attractiveness of the properties acquired by the Limited Partnership to purchasers and renters;
-
 - competition from other available similar projects; and
-
 - changes in laws and governmental regulations, including those governing usage, zoning, the environment and taxes.
 
 #### **_Competition_**
@@ -2348,7 +2189,6 @@ The applicable contractual and statutory rights are summarized below. Subscriber
 If you are a resident in British Columbia and this Offering Memorandum, together with any amendments hereto, contains a misrepresentation, you have a statutory right to sue:
 
 - (a) the Trust to cancel your agreement to buy the Units; or
-
 - (b) for damages against the Trust, the Trustee, every person who was a director of the Trustee at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 If a misrepresentation is contained in a record incorporated by reference in, or is deemed to be incorporated into, this Offering Memorandum, the misrepresentation is deemed to be contained in this Offering Memorandum.
@@ -2362,7 +2202,6 @@ You must commence your action to cancel the agreement within 180 days after the 
 If you are a resident in Alberta and this Offering Memorandum, together with any amendments hereto, contains a misrepresentation, you have a statutory right to sue:
 
 - (a) the Trust to cancel your agreement to buy the Units; or
-
 - (b) for damages against the Trust, the Trustee, every person who was a director of the Trustee at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 If a misrepresentation is contained in a record incorporated by reference in, or is deemed to be incorporated into, this Offering Memorandum, the misrepresentation is deemed to be contained in this Offering Memorandum.
@@ -2376,7 +2215,6 @@ You must commence your action to cancel the agreement within 180 days after the 
 If you are a resident of Ontario and there is a misrepresentation in this Offering Memorandum, together with any amendment to it, you have a statutory right to sue:
 
 - (a) the Trust to cancel your agreement to buy the Units; or
-
 - (b) for damages against the Trust.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Units. If you intend to rely on the rights described in (a) or (b) above, you must do so within strict time limitations.
@@ -2394,15 +2232,10 @@ A misrepresentation is defined in the _Securities Act_ (Ontario) as an untrue st
 If you are resident in Saskatchewan and this Offering Memorandum, together with any amendments hereto, contains a misrepresentation, subject to certain limitations, you have a statutory right to sue:
 
 - (a) the Trust to cancel your agreement to buy the Units; or
-
 - (b) for damages against:
-
    - (i) the Trust, the Trustee, every person who was a director or the promoter of the Trustee or the Trust, respectively, at the date of this Offering Memorandum,
-
    - (ii) every person or company whose consent has been filed respecting the Offering, but only with respect to reports, opinions or statements that have been made by them,
-
    - (iii) every person who, or company that, in addition to the persons or companies mentioned in clauses (i) and (ii), signed this Offering Memorandum, and
-
    - (iv) every person who, or company that, sells the Units on behalf of the Trust under this Offering Memorandum.
 
 This statutory right to sue is available to you whether or not you relied on the misrepresentation. However, there are various defences available to the persons or companies that you have a right to sue. In particular, they have a defence if you knew of the misrepresentation when you purchased the Units. If you intend to rely on the rights described in (a) or (b) above, you must do so within strict time limitations.
@@ -2420,7 +2253,6 @@ In addition, subject to certain limitations, where any advertising or sales lite
 If you are a resident in Manitoba and this Offering Memorandum, together with any amendments hereto, contains a misrepresentation, you have a statutory right to sue:
 
 - (a) the Trust to cancel your agreement to buy the Units; or
-
 - (b) for damages against the Trust, the Trustee, every person who was a director of the Trustee at the date of this Offering Memorandum, and every person or company who signed this Offering Memorandum.
 
 If a misrepresentation is contained in a record incorporated by reference in, or is deemed to be incorporated into, this Offering Memorandum, the misrepresentation is deemed to be contained in this Offering Memorandum.
@@ -2508,15 +2340,10 @@ Our objectives are to obtain reasonable assurance about whether the consolidated
 As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
 
 - Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
-
 - Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the REIT’s internal control.
-
 - Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
-
 - Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the REIT’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the REIT to cease to continue as a going concern.
-
 - Evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
-
 - Plan and perform the group audit to obtain sufficient appropriate audit evidence regarding the financial information of the entities or business units within the REIT as a basis for forming an opinion on the consolidated financial statements. We are responsible for the direction, supervision and review of the audit work performed for the purposes of the group audit. We remain solely responsible for our audit opinion.
 
 We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audits and significant audit findings, including any significant deficiencies in internal control that we identify during our audits.
@@ -2808,9 +2635,7 @@ The fair value is the price that would be received to sell an asset or paid to t
 Fair value measurements recognized in the consolidated statement of financial position are categorized in accordance with the following levels:
 
 - Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities.
-
 - Level 2: Quoted prices in active markets for similar assets or liabilities or valuation techniques where significant inputs are based on observable market data.
-
 - Level 3: Valuation techniques for which any significant input is not based on observable market data.
 
 Each type of fair value is categorized based on the lowest level input that is significant to the fair value measurement in its entirety.
@@ -3072,15 +2897,10 @@ The REIT presents units as equity, notwithstanding the fact that the units meet 
 The REIT has determined the units can be presented as equity and not financial liabilities because the REIT units have all of the following features, as defined in IAS 32 (hereinafter referred to as the "puttable exemption"):
 
 - Units entitle the holder to a pro rata share of the REIT’s net assets in the event of its liquidation. Net assets are those assets that remain after deducting all other claims on the assets;
-
 - Units are the class of instruments that are subordinate to all other classes of instruments as they have no priority over other claims to the assets of the REIT on liquidation, and do not need to be converted into another instrument before they are in the class of instruments that is subordinate to all other classes of instruments;
-
 - All instruments in the class of instruments that is subordinate to all other classes of instruments have identical features;
-
 - Apart from the contractual obligation for the REIT to redeem the units for cash or another financial asset, the units do not include any contractual obligation to deliver cash or another financial asset to another entity, or to exchange financial assets or financial liabilities with another entity under conditions that are potentially unfavorable to the REIT, and it is not a contract that will or may be settled in the REIT's own instruments;
-
 - The total expected cash flows attributable to the units over their lives are based substantially on the profit or loss, and the change in the recognized net assets and unrecognized net assets of the REIT over the life of the units; and
-
 - Units are initially recognized at the fair value of the consideration received by the REIT. Any transaction costs arising on the issuance of units are recognized directly in unitholders' equity as a reduction of the proceeds received.
 
 <!-- page 99 -->
@@ -3112,7 +2932,6 @@ The REIT issued the following units:
 The total value of units tendered for redemption will be paid to a unitholder by way of a cash payment no later than the last day of the calendar month following the calendar quarter in which the redemption date occurs, subject to the following limitations:
 
 - i. the total amount payable by the REIT by cash payment in respect of the redemption of units for the calendar quarter in which the redemption date occurs will not exceed $50,000; and
-
 - ii. the total amount payable by the REIT by cash payment in respect of the redemption of units in any twelve month period ending at the end of the calendar quarter in which the redemption date occurs will not exceed 1/4 of 1% of the aggregate subscription price of all units that were issued and outstanding at the start of such twelve month period.
 
 Notwithstanding the foregoing, the Trustee, in its sole discretion, may but will in no way be obligated to make cash payments in excess of the limits set out in the Trust Declaration.
@@ -3281,7 +3100,6 @@ The REIT is subject to various federal, provincial/state and municipal laws rela
 Redemptions will be paid by way of a cash payment no later than the last day of the calendar month following the calendar quarter in which the redemption date occurs, subject to the following limitations:
 
 - a) the total amount payable by the REIT by cash payment in respect of the redemption of units for the calendar quarter in which the redemption date occurs will not exceed $50,000; and
-
 - b) the total amount payable by the REIT by cash payment in respect of the redemption of units in any twelve month period ending at the end of the calendar quarter in which the redemption date occurs will not exceed 1/4 of 1% of the aggregate subscription price of all units that were issued and outstanding at the start of such twelve month period.
 
 If any of the conditions in (a) and (b) immediately above preclude the payment of the redemption price in cash, and the REIT does not, in its sole discretion, waive such limitation, payment will be made in specie.
@@ -3291,9 +3109,7 @@ Payment of Redemption Price in Specie
 If any of the conditions in (a) and (b) immediately above preclude the payment of the redemption price in cash, and the Trustee does not, in its sole discretion, waive such limitation in respect of all units tendered for redemption in any particular calendar quarter, the Redemption Price shall be paid and satisfied by way of any of the following methods to be selected by the Trustee, using its sole discretion:
 
 - a. the issuance and delivery of a number of Trust Notes, each in the principal amount of $100, having an aggregate principal amount equal to the redemption price per Unit multiplied by the number of units tendered for redemption;
-
 - b. a distribution in specie to the Unitholder of a number of Limited Partnership units having an aggregate value determined on the redemption date based on the redemption price of the Limited Partnership units under the terms and conditions of the Limited Partnership Agreement, equal to the redemption price per unit multiplied by the number of units tendered for redemption; or
-
 - c. a distribution in specie to the unitholder of a number of debt securities (each in the principal amount of $100) having an aggregate principal amount equal to the redemption price per unit multiplied by the number of units tendered for redemption.
 
 To date, all redemption requests have been paid by way of cash payment.
@@ -3319,7 +3135,6 @@ The Manager is related to the REIT by virtue of having officers and directors in
 As of December 31, 2024, the Limited Partnership Agreement states that net income or loss of the Limited Partnership from the ordinary course of operations of the properties will be allocated as follows:
 
 - Firstly, 0.01% to each of the General Partner to a maximum of $100 per annum; and
-
 - Secondly, the balance of net income or loss shall be allocated to the REIT, as the sole Limited Partner.
 
 From inception to date no net income or loss was allocated, nor any payments made or are due to the Manager under any provision contained within the Limited Partnership Agreement.
@@ -3341,15 +3156,10 @@ For the year ended December 31, 2024, the Manager was entitled to charge asset m
 #### **10. RELATED PARTY TRANSACTIONS (continued)**
 
 - **_c._** Re-positioning and financing fees that will be payable if those services are provided by the Manager. No such fees were payable for either 2024 or 2023.
-
 - **_d._** A disposition fee of 1.00% of the sales price of a property may apply, provided that such fee will only be payable in the event that the Limited Partnership must sell, transfer, assign or dispose of a property or interest therein to generate cash amounts to satisfy redemptions of Limited Partnership units by the Trust. No such dispositions occurred in 2024 or 2023.
-
 - **_e._** Upon termination of the Management Agreement:
-
    - i. by the Limited Partnership by giving the Manager 90 days written notice of intention to terminate the Management Agreement, whether at the end of a term or otherwise;
-
    - ii. by the Manager in the event that the Limited Partnership commits a breach or default of a material term of the asset management agreement that is not cured within 90 days of the Limited Partnership receiving notice thereof; or
-
    - iii. by the Manager by giving the Limited Partnership 90 days prior written notice of intention to terminate the Management Agreement in the event that the Limited Partnership engages another person to provide services similar to the services provided by the Manager to the Limited Partnership under the Management Agreement (collectively, the “Termination Events”)
 
 the Limited Partnership shall pay to the Manager, in immediately available funds on the date of termination an amount equal to the greater of the following: (1) twelve times the total amount of the asset management fee received and/or earned by the Manager pursuant to the Management Agreement during the most recently completed quarter on or prior to the termination date; and (2) $2,500,000, in each case, plus applicable taxes.
@@ -3460,11 +3270,8 @@ On incorporation of the new entities that act as Lessors, these entities assumed
 **Notes** :
 
 - All properties are Fee Simple Interest, see Schedule 2 – Mortgage Summary for list of encumbrances.
-
 - There are no restrictions on sale or disposal on the Properties
-
 - Due to the age of some of the buildings there may be asbestos present
-
 - Utilities are currently being provided on all Properties
 
 <!-- page 110 -->

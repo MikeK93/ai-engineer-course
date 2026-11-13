@@ -1,0 +1,17 @@
+- (B) a written agreement or trust instrument,
+- (C) being the general partner or controlling the general partner of the other person or company, or
+- (D) being the trustee of the other person or company;
+- (ii) and, for the purposes of British Columbia, Manitoba, New Brunswick, Nova Scotia, Newfoundland and Labrador, Ontario and Saskatchewan securities law, an issuer is deemed to be controlled by another person or company or by two or more companies where:
+- (A) voting securities of the issuer carrying more than 50% of the votes for the election of directors are held, other than by way of security only, by or for the benefit of the other person or company or by or for the benefit of the other companies; and
+- (B) the votes carried by those securities are entitled, if exercised, to elect a majority of the board of directors of the issuer;
+- (g) "control person" has the same meaning as in securities legislation except in Manitoba, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island and Québec, where control person means any person that holds or is one of a combination of person that holds
+- (i) a sufficient number of any of the securities of an issuer so as to affect materially the control of the issuer, or
+- (ii) more than 20% of the outstanding voting securities of an issuer except where there is evidence showing that the holding of those securities does not affect materially the control of the issuer;
+- (h) "director"means
+- (i) a member of the board of directors of a company or an individual who performs similar functions for a company, and
+- (ii) with respect to a person that is not a company, an individual who performs functions similar to those of a director of a company;
+- (i) "eligibility adviser"means
+- (i) a person that is registered as an investment dealer or in an equivalent category of registration under the securities legislation of the jurisdiction of a purchaser and authorized to give advice with respect to the type of security being distributed, and
+- (ii) in Saskatchewan or Manitoba, also means a lawyer who is a practicing member in good standing with a law society of a jurisdiction of Canada or a public accountant who is a member in good standing of an institute or association of chartered accountants, certified general accountants or certified management accountants in a jurisdiction of Canada provided that the lawyer or public accountant must not
+- (A) have a professional, business or personal relationship with the issuer, or any of its directors, executive officers, founders, or control persons, and
+- (B) have acted for or been retained personally or otherwise as an employee, executive officer, director, associate or partner of a person that has acted for or been retained by the issuer or any of its directors, executive officers, founders or control persons within the previous 12 months;

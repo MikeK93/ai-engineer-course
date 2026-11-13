@@ -5,7 +5,7 @@ source: pdfs/gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1.
 doc_type: listing
 as_of: '2026-02-20'
 pages: 1-2
-content_hash: ee385860cf4a26a6576f7628c1d9d1202977af92d8e114ce3f8f98d1cee00282
+content_hash: b9930c23fd7956b1b9bc8e97b4e7ddd7306b9b5bf421bbaa13350f2c3da8ccdb
 ---
 
 <!-- page 1 -->
@@ -23,7 +23,6 @@ Available SF 2,702 SF Industrial For Lease Building Size 2,702 SF
 # Illinois Ave/Monroe St
 
    - ±14,976 SF Contractor's Yard
-
 - ±2,702 SF Office/Shop Freestanding Building Excellent Street to Alley Access Huge Secured Concrete Yard Kitchenette
 
 Convenient Access to the 91 and 710 Freeways

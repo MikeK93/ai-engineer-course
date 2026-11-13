@@ -177,3 +177,31 @@ def test_dedup_exact_and_near_duplicates_keep_first_by_id():
 def test_dedup_never_merges_versions_of_one_file():
     docs = [doc("om@original", LONG, version_of="om"), doc("om@addendum", LONG, version_of="om")]
     assert find_duplicates(docs) == {}
+
+
+# --- normalization: lists, bad characters, garbled pages --------------------------
+
+def _norm(text: str) -> str:
+    return normalize_pages([Page(number=1, text=text, n_chars=len(text))])[0].text
+
+
+def test_bullet_points_have_no_blank_lines_between_them():
+    text = "Highlights:\n\n- first point\n\n- second point\n\n\n- third point\n\nSteps:\n\n1. one\n\n2) two\n\nNormal paragraph.\n\nAnother."
+    assert _norm(text) == ("Highlights:\n\n- first point\n- second point\n- third point\n\nSteps:\n\n1. one\n2) two\n\n"
+                           "Normal paragraph.\n\nAnother.")
+
+
+def test_empty_bullet_markers_are_removed():
+    assert _norm("- one\n\n-\n\n- two") == "- one\n- two"
+
+
+def test_private_use_and_replacement_characters_are_removed():
+    assert _norm("Price \uf04d\uf05f 10 \ufffd units \u200b ok") == "Price 10 units ok"
+
+
+def test_garbled_text_layer_is_detected_but_normal_text_is_not():
+    from src.rag.normalize import is_garbled
+
+    assert is_garbled("\uf04d\uf05f\uf060\uf06a " * 20)
+    assert not is_garbled("A normal page of text with one odd glyph \uf04d in it, which is fine.")
+    assert not is_garbled("short")

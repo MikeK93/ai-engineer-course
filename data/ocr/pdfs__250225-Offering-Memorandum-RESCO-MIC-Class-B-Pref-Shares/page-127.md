@@ -1,0 +1,24 @@
+- (v) a trustee, custodian, or administrator acting on behalf of, or for the benefit of the spouse of the person,
+- (vi) a holding entity of the spouse of the person, or
+- (vii) an RRSP or a RRIF of the spouse of the person;
+- (v) "person" includes
+- (i) an individual,
+- (ii) a corporation,
+- (iii) a partnership, trust, fund and an association, syndicate, organization or other organized group of persons, whether incorporated or not, and
+- (iv) an individual or other person in that person's capacity as a trustee, executor, administrator or personal or other legal representative;
+- (w) "regulator"means:
+- (i) the Executive Director, as defined under section 1 of the Securities Act (Alberta);
+- (ii) the Executive Director, as defined under section 1 of the Securities Act (British Columbia); and
+- (iii) such other person as is referred to in Appendix D of National Instrument 14-101 – Definitions;
+- (x) "related entity" means, for an issuer, a person that controls or is controlled by the issuer or that is controlled by the same person that controls the issuer;
+- (y) "related liabilities"means
+- (i) liabilities incurred or assumed for the purpose of financing the acquisition or ownership of financial assets, or
+- (ii) liabilities that are secured by financial assets;
+- (z) "Schedule III bank" means an authorized foreign bank named in Schedule III of the Bank Act (Canada);
+- (aa) "securities legislation"means:
+- (i) for Alberta, the Securities Act (Alberta) and the regulations and rules under such Act and the blanket rulings and orders issued by the Alberta Securities Commission; and
+- (ii) for other Canadian jurisdictions, such other statutes and instruments as are listed in Appendix B of National Instrument 14-101 – Definitions;
+- (bb) "securities regulatory authority"means:
+- (i) the Alberta Securities Commission;
+- (ii) in respect of any local jurisdiction other than Alberta, means the securities commission or similar regulatory authority listed in Appendix C of National Instrument 14-101 – Definitions;
+- (cc) "spouse" means, an individual who,

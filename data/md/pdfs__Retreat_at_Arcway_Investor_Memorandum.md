@@ -12,7 +12,7 @@ ocr_pages:
 - 19
 - 20
 - 30
-content_hash: 6a2a7b8e6076107b0aa1013bcc13405db6086a04809836e026aae8d5b8e518ec
+content_hash: 6bf5ca4d2bcfd2fc115c7f277521b4fd2410dd21aba918a658543173b09207a5
 ---
 
 <!-- page 1 -->
@@ -140,27 +140,22 @@ Retreat at Arc Way
 ###### **1. Enhanced Unit Renovation**
 
    - i. Unit interiors are inferior compared to surrounding competition. Ashcroft will renovate and modernize the property to be more competitive with properties in the area by investing an average of approximately $8,800/unit on interior renovations over the next 24 months.
-
    - ii. Rents at the Property are expected to increase by an average of approximately $479/mo as a result of both the renovations and increasing the rents to current market levels.
 
 **2. Exterior and Common Area Capital Improvements**
 
    - i. Ashcroft plans to further elevate the quality of the Property by improving and modernizing the existing amenities to create a better living experience for residents. All construction will be overseen by Ashcroft’s in-house team, Birchstone Construction.
-
    - ii. The business plan at the Property includes: (i) repainting the property, (ii) updating the amenity and common areas,, (iii) addressing minor deferred maintenance, and (iv) improving the curb appeal, landscaping, and signage.
-
    - iii. Ashcroft anticipates reserving funds for Capital Improvements such as roof repairs and other deferred maintenance to preserve the Property.
 
 **3. Operational Improvement and Repositioning**
 
    - i. Upon the takeover of Retreat at Arc Way, the Partnership will retain Ashcroft’s in-house property management team, Birchstone Residential (“Birchstone”), to manage the Property. Birchstone will bring a modern, best-in-class approach to tighten operations and improve resident retention, which will increase performance of the asset throughout the hold period. Through a successful implementation of the business plan, Retreat at Arc Way will be repositioned into one of the most desirable communities in the area.
-
    - ii. Ashcroft and Birchstone have identified several areas to improve operations and increase revenue. Based on market research, it is the belief that rents at the Property are significantly below market. Ashcroft and Birchstone plan to immediately bring rents to a market level in order to increase income. Additionally, we will begin to charge residents for washer/dryer sets and implement a monthly package locker fee.
 
 **4. Private Loan Providing Maximum Flexibility**
 
    - i. Based on the projected cash flow, Ashcroft will pursue a 75% LTV initial loan from a private lender. The initial term will be 3 years with two one-year extension options. This loan will provide investors with maximum flexibility by allowing for a capital event. Additionally, Ashcroft will be purchasing an interest rate cap to further mitigate risk on increases in interest rates.
-
    - ii. As NOI grows over year 1 and 2 through the repositioning of the asset, Ashcroft will explore refinancing with a longer term fixed-rate loan. Although this has not been modeled into projections, Ashcroft plans to focus on a refinance that could return significant equity to the investors.
 
 ###### **5. Exit Strategy**
@@ -267,7 +262,6 @@ Retreat at Arc Way
 ###### **Community Amenities**
 
 - Resort Style Pool
-
 - Resident Clubhouse & Business Center
 
 ||**Property Information**|
@@ -287,27 +281,18 @@ Retreat at Arc Way
 |**Education**|Gwinnett County School District: Minor Elementary School Berkmar Middle School Berkmar High School|
 
 - Fitness Center
-
 - Grilling Area
-
 - Dog Park
-
 - Children's Playground
-
 - Sports Court
 
 ###### **Standard Unit Features**
 
 - Laminate Countertops
-
 - White / Black Appliances
-
 - Tile / Carpet Flooring
-
 - Washer/Dryer Connections
-
 - Walk in Closets
-
 - Balcony/Patio
 
 <!-- page 16 -->
@@ -396,17 +381,11 @@ Retreat at Arc Way
 _In 2021, Microsoft, Google, Deluxe Corp., Norfolk Southern, and Thyssenkrupp will add a combined 4,500 new high-paying office jobs. Furthermore, thousands of new jobs are expected from expansions announced by Amazon, The Home Depot, and Masterbrand Cabinets._
 
    - **MAJOR CORPORATE RELOCATIONS AND EXPANSIONS**
-
 - Facebook is planning new $42B datacenter campus along I-20 east of Atlanta
-
 - Coca-Cola is moving its Minute Maid brand to Atlanta after 50+ Years in Houston
-
 - Papa John's International is moving its main HQ to Atlanta from Louisville
-
 - NY-based apartment company Common to open 2nd HQ in Atlanta
-
 - Rivian to build a $5B electric car manufacturing plant slated to employ over 7,500 people
-
 - Amazon, HelloFresh, Home Depot, and Goodyear all rapidly expanding logistics and distribution facilities across the MSA
 
 <!-- page 25 -->
@@ -529,13 +508,9 @@ VALUE-ADD FUN D ) 2
 ###### **INVESTMENT CRITERIA**
 
 - Communities located in the growth markets of the Sun Belt including Dallas-Fort Worth, Atlanta, Orlando, Tampa, Jacksonville, Raleigh/Durham, Charlotte, and Phoenix
-
 - Class A/B properties with excellent opportunity for value creation through improvements
-
 - Underperforming or distressed multifamily properties
-
 - • 200+ unit assets in highly desirable submarkets
-
 - • $20 million to $150 million total capitalization per property
 
 In an effort to continue our focus on capital preservation and further mitigate risk while still having upside potential, we have launched the **Ashcroft Value-Add Fund II (“AVAF2”).** This investment vehicle has been created with one singular purpose in mind: to reduce our investors’ risk. AVAF2 will continue to use the same conservative business plan Ashcroft was founded with, acquiring quality multifamily assets, offering value-add opportunity in strong performing markets throughout the country.
@@ -636,9 +611,7 @@ AVAF2
 ### Investment Approach
 
 - Ashcroft seeks to identify assets in markets with strong multifamily fundamentals, employment growth, population growth, and other key demand drivers.
-
 - Value-add characteristics allow for repositioning assets through capital improvements, renovation of unit interiors, operational improvements, expense reductions, and implementation of incremental revenue generating amenities.
-
 - Currently invested in 5 markets and actively evaluating opportunities in additional sunbelt markets noted below.
 
 Key Invested Markets Acquisition Criteria 1 ▪ Properties located in high-growth markets of the Sun Potential Target Markets Belt ▪ Class A/B communities with strong value-add opportunity remaining Raleigh/Durham ▪ Underperforming multifamily properties ▪ 200 to 1,000-unit assets Charlotte ▪ $20 million to $200 million total capitalization for Atlanta single properties ▪ Up to $1+ billion for portfolios Las Vegas Jacksonville ▪ Preference towards free & clear of debt Denver Orlando Phoenix Nashville Austin DFW Tampa San Antonio
@@ -654,11 +627,8 @@ AVAF2
 ### WHY THE SUNBELT MARKET?
 
 - The average population growth in the major Sun Belt markets has outpaced the U.S. Average by nearly double in the last five-years. The top seven metropolitan areas for population growth in 2020 were all in the greater Sun Belt region.2
-
 - Over the next decade, the Sun Belt population growth is expected to accelerate by another 19 million (+13%), whereas non-Sun Belt states are forecasted to rise by only 3 million (+2%).3
-
 - Due to friendly tax environments, individuals and businesses are motivated by the greater economic opportunity and affordability throughout the Sun Belt region. As seen by the relocation and expansion by major companies like; Tesla, Oracle, JetBlue Airways, Toyota, Apple and Amazon.4
-
 - The rapid population and job growth has created strong demand for multifamily housing as evidenced by the strong rent growth across major Sun Belt metros (see chart to right).
 
 ###### **5 Year Average Population Growth****1**
@@ -682,13 +652,9 @@ AVAF2
 5-YEAR AVERAGE ANNUAL 1.2% JOB GROWTH 2 US National Average: .02% 5 5-YEAR AVERAGE 2.2% NET ABSORPTION 6 US National Average: 1.9% 5
 
 - Visa is expanding their presence in downtown Atlanta with a $31.9M investment in a new state-of-the-art facility, expecting to bring over 1,000 new jobs to the area over the next few years.
-
 - Home to 16 Fortune 500 Headquarters such as Coca-Cola, Home Depot, and UPS and Delta Airlines.
-
 - Rivian has announced the development of a $5B electric truck plant that will bring 7,500 new jobs to Atlanta.
-
 - The Average Household Income has increased 7.8% in the last 12 months compared to the national average of 6.7%.
-
 - Assembly Yards: Major development of former GM Plant expected to add 15,000+ jobs by 2021 and be completed by the Spring of 2022.
 
 **$8.5B+ Transaction Volume**2 **454K+ Total Rental Inventory**2
@@ -710,13 +676,9 @@ _Data As of December 2021_
 ###### **Demand Drivers**
 
 - DFW is the only region in the U.S. to host three Fortune 15 companies (Exxon Mobil, McKesson and AT&T).
-
 - Named “Best State for Business” from Chief Executive Magazine for 15 consecutive years.
-
 - Booming Industrial sector with over 980MM SF anchored by the likes of Amazon, Toyota and Lockheed Martin.
-
 - Added over 1 million people and 100+ headquarter expansions or relocations over the last 10 years.
-
 - Features some of the largest new mixed-use developments in the nation including Grandscape and Cypress Waters, which are 400 and 1,000 acres respectively.
 
 **$3.9B+ Transaction Volume**2 **755K+ Total Rental Inventory**2
@@ -734,11 +696,8 @@ _Data As of December 2021_
 ###### **Demand Drivers**
 
 - Jacksonville is the largest city in the Sunshine state and was ranked #1 for income growth in the U.S. for 2021.
-
 - Thriving financial and technology sector supported by firms such as Bank of America, JP Morgan, Wells Fargo, and the relocation of corporate headquarters for companies like Nymbus and Dun & Bradstreet.
-
 - Rapidly growing healthcare industry with Mayo Clinic and Baptist Health expanding their presence.
-
 - JAXPORT is one of the largest trade ports in the country and recently announced a $25M expansion plan that will be completed in Q1 of 2022. JAXPORT has an annual economic impact of $27B, supporting 130k+ jobs.
 
 Transaction Total Rental $1.4B+ Volume 2 94K+ Inventory 2
@@ -756,13 +715,9 @@ _Data As of December 2021_
 ###### **Demand Drivers**
 
 - Orlando has consistently posted some of the strongest population and job growth figures in the nation over the past decade and employment growth rates had been especially strong in the five years prior to the pandemic, increasing at more than double the national rate.
-
 - The Average Household Income has increased 8.3% in the last 12 months compared to the national average of 6.7%.
-
 - University of Central Florida enrolls over 72k students and supports 13k+ jobs ($7.6B annual economic impact).
-
 - In addition to the tourist related industries including Walt Disney World and Universal Studios, the healthcare, education, and technology industries have been key contributors to the growth and diversification in the market.
-
 - $4 billion expansion of passenger rail service by Virgin Trains which will generate 10k jobs and provide service between Orlando to South Florida. The project is currently 70% complete and will be finished by the end of 2022.
 
 **Transaction Total Rental $2.7B+ Volume**2 **176K+ Inventory**2
@@ -784,13 +739,9 @@ _Data As of December 2021_
 ###### **Demand Drivers**
 
 - One of the largest financial hubs in the Southeast, supported by JP Morgan and Raymond James.
-
 - Emerging biotech industry employing over 90,000 people; representing over 17% of the total workforce.
-
 - Rapidly growing Cybersecurity sector as seen by the relocation of international firm ReliaQuest.
-
 - $14 billion military and cyber security industry anchored by 9 out of the top 10 defense contractors in the US.
-
 - Water Street: $3.5 billion, 56 contiguous acre development (backed by Bill Gates) is expected to complete Phase One by 2022. This live-work-play development will nearly double the footprint of downtown Tampa once completed.
 
 **Transaction Total Rental $3.1B+ Volume**2 **193K+ Inventory**2
@@ -808,15 +759,10 @@ _Data As of December 2021_
 ###### **Demand Drivers**
 
 - Ranked as the #2 most business-friendly state.
-
 - Home to three of the six largest US banks as Bank of America, Truist, and Wells Fargo maintain east coast operations in the Charlotte CBD.
-
 - Ranked as the #6 best cities to start a business.
-
 - Charlotte Douglas International Airport was ranked as the 6th busiest airport in the world.
-
 - Global fintech company, Credit Karma, will add 600 new jobs and invest more than $13 million in a new high-tech engineering headquarters in Mecklenburg County.
-
 - The Lynx Blue Line has undergone recent expansion, offering 18.9 miles of service throughout Charlotte. The Lynx is the first major rapid rail service of any kind in the state.
 
 **Transaction Total Rental $3.2B+ Volume**2 **181K+ Inventory**2
@@ -832,15 +778,10 @@ _Data As of December 2021_
 **Demand Drivers** 7,33,34,35,36
 
 - Ranked as the #2 most business-friendly state.
-
 - Anchored by thriving technology and life sciences industries, Raleigh consistently ranks as one of the fastest-growing and most affluent cities in the Southeast.
-
 - The Average Household Income has increased 7.8% in the last 12 months compared to the national average of 6.7%.
-
 - 13 Fortune 500 companies located in the state of North Carolina: Bank of America, Lowes, Honeywell International, among others.
-
 - Major infrastructure upgrades are happening across the state with $110 million donated by Apple to upgrade broadband, roads and bridges, and public schools.
-
 - Apple and Google are both set to invest over $1B each to build out new campuses and engineering hubs.
 
 **$1.9B+ Transaction Volume**2 **105K+ Total Rental Inventory**2
@@ -889,41 +830,23 @@ Past performance is not indicative of future results; investors may lose investm
 ### Ashcroft Leadership Team
 
 - **Management Team Biography** • Mr. Roessler has more than 14 years of experience in the multifamily housing industry. • Before founding Ashcroft Capital, Mr. Roessler spent 8 years at M&A Real Estate Partners as the director of asset management overseeing a portfolio of 25
-
 - **Frank Roessler** assets consisting of large, value-add multifamily communities across numerous U.S. metros.
-
 - _Founder and CEO_ • As CEO of Ashcroft, Mr. Roessler leads and oversees all aspects of strategic planning and company operations, including oversight and implementation of acquisitions, due diligence, property management, asset management, debt placement, and maintaining relationships with intermediaries.
-
 - • Mr. Fairless is primarily responsible for equity procurement through a deep and proprietary network of high net worth individuals. Mr. Fairless also is responsible for maintaining investor communication and corporate marketing.
-
 - **Joe Fairless** • In addition to his responsibilities with Ashcroft Capital, Joe created the podcast, Best Real Estate Investing Advice Ever Show, which is the longest running
-
 - _Co-Founder and Partner_ daily real estate podcast in the world and generates over 500,000 monthly downloads.
-
 - • Joe is also a proud Member of the Texas Tech Alumni Advisor Board for the College of Media and Communication, as well as being recognized as Outstanding Alumni at Texas Tech University, where he is a former Adjunct Professor.
-
 - • Mr. Lebenhart has over 15 years of experience in real estate acquisition and asset management in the multifamily housing industry, including over 11 years at DRA Advisors.
-
 - **Scott Lebenhart** • Mr. Lebenhart’s experience includes the acquisition of over $5 billion of institutional quality multifamily, industrial, office, and retail assets throughout the
-
 - _Chief Investment Officer_ U.S., including more than $1 billion of multifamily assets at Ashcroft since he joined the firm. • As Chief Investment Officer, Mr. Lebenhart leads and oversees all aspects of Ashcroft’s acquisition program, including sourcing and underwriting new deals, contract negotiations, overseeing due diligence and obtaining debt financing.
-
 - • Mr. Kay has 20+ years of experience across private real estate and private equity with expertise in multifamily assets, including at a prior firm which has acquired over 64,000 units in JV’s with operating partners.
-
 - **Bill Kay** • Mr. Kay’s experience includes the raising of ~$10 billion of equity for a variety of private real estate and private equity vehicles across primary, secondary,
-
 - _Managing Director of_ and co-investment funds and separate accounts. Mr. Kay has a deep track record of building and scaling world-class institutional investment management _Capital Markets_ businesses. • As Managing Director of Capital Markets, Mr. Kay is responsible for sourcing and managing efficient institutional equity capital solutions for Ashcroft Capital and he also actively participates in the investment and asset management process across the firm.
-
 - • Ms. Wilhelm has 11+ years of experience overseeing the asset management program for large multifamily portfolios at leading firms including RXR Realty, CBRE Global Investors, JPI, and Gables Residential.
-
 - **Traci Wilhelm** • Ms. Wilhelm’s experience includes managing over $5.4 billion of residential assets in a variety of leading U.S. metros including Sun Belt markets.
-
 - _Director of Asset_ • As Director of Asset Management, Ms. Wilhelm leads and oversees the asset management team to optimize the execution of the business plan for acquired
-
 - _Management_ assets and serves as a key liaison with Birchstone Residential, Ashcroft’s captive property and construction management affiliate. Her expertise includes the adoption of technologies and systems to improve portfolio yield and overall financial performance.
-
 - • Ms. Zaydfudim has 9 years of experience in finance and accounting, including as Vice President of Finance at 60 Guilders, a vertically integrated real estate investment and management firm that has acquired 10 million + square feet of property in NYC across 39 buildings. At 60 Guilders, she was responsible for the financial reporting, accounting, auditing, and compliance functions of the firm.
-
 - **Kseniia Zaydfudim** • At KPMG, LLP, Ms. Zaydfudim performed audits of real estate clients and tax compliance services for REITs and private equity clients. _Chief Financial Officer_ • As the Chief Financial Officer, Ms. Zaydfudim oversees a team that manages the finance, accounting and investor reporting across the management company and the Ashcroft portfolio, including the Ashcroft Value-Add Fund. Her team supports required reporting to institutional lenders, and Ashcroft’s investor network of over four thousand accredited investors.
 
 <!-- page 47 -->
@@ -933,29 +856,17 @@ Past performance is not indicative of future results; investors may lose investm
 ###### **Management Team Biography**
 
 - **Evan Polaski** • Mr. Polaski joined Ashcroft Capital in January of 2020 and currently serves as an Investor Relations Manager.
-
 - _Investor Relations_ • Prior to joining Ashcroft, Mr. Polaski has spent 9 years investing his own capital in real estate projects. _Manager_ • Throughout his career, Mr. Polaski has been involved in raising in excess of $1B of capital on both the debt and equity side of the real estate business. • Mr. Watts joined Ashcroft Capital in September of 2019 and currently serves as the Director of Investor Relations.
-
 - **Travis Watts** • Mr. Watts is a proven leader in the real estate industry, where he’s been investing since 2009 in multi-family, single-family and vacation rentals. He now
-
 - _Director of Investor_ dedicates his time to educating others in the world of investing and has made it his mission to share passive investment strategies in order to help others
-
 - _Relations_ achieve and maintain wealth in real estate.
-
 - • Mr. Watts is concurrently a podcast Host @ Best Ever Real Estate, as well as an educator, speaker and mentor across the real estate industry. • Ms. Collins joined Ashcroft Capital in April of 2016 and currently serves as Director of Investor Services. • Ms. Collins has more than 19 years of experience in the real estate industry, including investing in and development of residential and commercial
-
 - **Chautaqua Collins** properties, mortgage lending and consulting. She’s responsible for overseeing the investment process, as well as managing communication between
-
 - _Director of Investor_ Ashcroft’s corporate management and its investors.
-
 - _Services_ • Ms. Collins has completed curriculum from the International Technological University, earning both an Accredited Consultant and Executive Assistant certifications in Real Estate.
-
 - • Ms. Jackson currently serves as an Investor Relations Consultant for Ashcroft Capital.
-
 - **Danielle Jackson** • Ms. Jackson has 13+ years of experience across the financial services and asset management industries, with an investor relations background covering the _Investor Relations_ spectrum of real estate and private equity.
-
 - _Consultant_ • Since 2008, Ms. Jackson has been investing personal capital into various real estate assets. • Mr. Braig joined Ashcroft Capital in 2021 and currently serves an Investor Relations Consultant.
-
 - **Cameron Braig** • In previous experiences, Cameron worked with institutional and high net worth investors in accessing and managing alternative investments such as real _Investor Relations_ estate, private equity, hedge funds and venture capital. _Consultant_ • As an Investor Relations Consultant, Cameron works with Ashcroft's current accredited investor network and investors new to the AVAF, answering questions, coordinating investor events, and attending industry conferences.
 
 <!-- page 48 -->
@@ -969,39 +880,28 @@ Ashcroft’s purpose-built, institutional platform drives synergies within its v
 ###### **Institutional Acquisition Approach**
 
    - Ashcroft begins with the end in mind
-
 - Throughout the underwriting and due diligence process, the Ashcroft acquisitions and asset management teams closely collaborate with our internal property management and construction management company, Birchstone Residential.
-
 - Disciplined approach creates highperforming strategies at acquisition - Integrated approach with asset management team throughout investment lifecycle
-
    - Ashcroft and Birchstone collectively formulate unique business plans for each acquisition target
-
 - The collaboration across Ashcroft’s fully integrated platform enables them to effectively execute the property’s business plan immediately upon acquisition.
-
 - Robust operational infrastructure including finance, accounting, legal, and compliance teams to support reporting and accounting needs for institutional lenders and investors.
 
 ###### **Robust Asset Management**
 
 - Key functions include business plan execution, budgeting, capital funding, operations, hold/sell/refinance recommendations, and valuation support
-
 - Frequent site visits and monitoring
-
 - Robust reporting
 
 **In-House Construction Management**
 
 - Save time / money on capital projects
-
 - Shortened renovation periods when units turnover
-
 - Improves ROI by avoiding GC fees and capitalizing on economies of scale through bulk purchasing
 
 ###### **In-House Property Management**
 
 - Birchstone strives to improve the quality of life for residents, driving investor returns
-
 - Exclusive focus on Ashcroft’s portfolio for superior alignment and control
-
 - Passion for innovation to drive efficiency and resident experience
 
 <!-- page 49 -->
@@ -1017,29 +917,17 @@ Birchstone Residential was purpose-built to execute the value-add business plan 
 ###### **Key Points**
 
 - Birchstone was created to seek to provide best-in-class service that attracts new residents and enriches the lifestyles of current residents.
-
 - Purpose-built team of 15 senior leaders supported by an extended team of over 250.
-
 - Drives the operational and financial performance of the Ashcroft portfolio by optimizing occupancy, rents, and NOI at the property level.
-
 - Comprehensive property management platform providing all essential services including leasing, maintenance, and construction management exclusively for Ashcroft properties.
-
 - Strong alignment of interest with Ashcroft and its investors due to incentive program
-
 - Committed to a people-centric culture and employee development through training, job enrichment, and accelerated advancement.
-
 - In-house construction management team allows for enhanced quality control:
-
    - Cost reduction achieved by avoiding general contractor fees while capitalizing on economies of scale;
-
    - Direct in-house relationships control cost and boost ROI on capital spent;
-
    - Significant cost savings achieved through bulk purchasing directly from national manufacturers and regional distributors;
-
    - Faster renovations reduce turnover time in-between leases;
-
       - $100mm+ in projects completed since inception as of 9/30/21; and
-
    - $30mm+ budgeted in 2021.
 
 INVESTOR SATISFACTION EMPLOYEE STRONGER EXPERIENCE RETURNS People first. RESIDENT INCREASED EXPERIENCE REVENUE REDUCED TURNOVER COST
@@ -1067,75 +955,40 @@ ASHCROFT CAPITAL END NOTES
 ###### **Sources:**
 
 1. Retreat at Arc Way
-
 2. CoStar U.S. Market Data
-
 3. Clarion Partners - Thought Leadership - The Rise of the Sun Belt
-
 4. South Florida in 2021
-
 5. CoStar - United States Multifamily Report 2021
-
 6. CoStar - Atlanta Multifamily Market Report 2021
-
 7. America's Top States for Business 2021
-
 8. Visa to Expand Presence in Atlanta
-
 9. Fortune 500 in Metro Atlanta
-
 10. Rivian to build $5B Electric Truck Plant
-
 11. Where metro Atlanta’s big development projects stand
-
 12. CoStar – DWF Multifamily Market Report 2021
-
 13. Fortune 1000
-
 14. 2021 - Best & Worst States for Business
-
 15. Costar Dallas Industrial Market Report
-
 23. Brightline Train Expansion
-
 24. CoStar – Tampa Multifamily Market Report 2021
-
 25. Cybersecurity Firm Reliaquest Moving HQ to Water Street
-
 26. Tampa Cybersecurity & Defense
-
 27. Water Street Development - Tampa
-
 28. CoStar – Charlotte Multifamily Market Report 2021
-
 29. Best States to Start a Business
-
 30. Charlotte Ranked 6th Busiest Airport in the Country
-
 31. Charlotte Office Market Report
-
 32. Lynx Blue Line
-
 33. CoStar – Raleigh/Durham Market Report 2021
-
 34. Fortune 500 Companies in North Carolina
-
    35. Apple Commits $430B in U.S. Investments
-
    36. Raleigh-Durham is Prioritizing Innovation and Entrepreneurship as Companies like Apple and Google Move to the Region
-
 16. Texas Retail and Development Was Named the Most Innovative in the World
-
 17. CoStar – Jacksonville Multifamily Market Report 2021
-
 18. Analytics Company Moving Headquarters from New Jersey to Jacksonville
-
 19. JAXPORT Economic Impact
-
 20. CoStar – Orlando Multifamily Market Report 2021
-
 21. Orlando Yardi Report
-
 22. UCF Economic Impact
 
 <!-- page 53 -->

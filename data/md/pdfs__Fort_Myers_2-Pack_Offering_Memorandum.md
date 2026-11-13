@@ -5,7 +5,7 @@ source: pdfs/Fort Myers 2-Pack Offering Memorandum.pdf
 doc_type: single_asset_om
 as_of: '2023-10-26'
 pages: 1-28
-content_hash: a7997bc4735c1cec1ed83be25e2afecd3fcbc20e83f3eac7dc858685c7544039
+content_hash: 63fcb6f3534c8a98b2f555237a85a141cd7cdc73924f1c9b562e8ab84e4f47dd
 ---
 
 <!-- page 1 -->
@@ -244,25 +244,15 @@ dedicated to preserving the ecology of the area that it was built upon; approxim
 ###### Other Demand Generators
 
 - Gulf Coast Medical Center
-
 - Hertz Global Headquarters
-
 - JetBlue Park (Boston Red Sox)
-
 - Hammond Stadium at Lee County Sports Complex (Minnesota Twins)
-
 - Hertz Arena (Florida Everblades and Gulf Coast Showcase)
-
 - Florida SouthWestern State College
-
 - Gartner
-
 - Chico’s FAS Headquarters
-
 - NeoGenomics
-
 - Barbara B. Mann Performing Arts Hall
-
 - Caloosa Sound Convention Center & Amphitheater
 
 Gulf Coast Medical Center

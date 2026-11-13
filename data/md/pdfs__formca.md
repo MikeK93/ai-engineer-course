@@ -5,7 +5,7 @@ source: pdfs/formca.pdf
 doc_type: fund_om
 as_of: '2023-09-08'
 pages: 1-45
-content_hash: b4b61ed8d039877afcb7965cd641286aab0e4d910bffb5764ddebdde9a6471df
+content_hash: 30442e279c00e4052f12ba7f1e31c48708438558d5436815e5c99145ebc5b5f6
 ---
 
 <!-- page 1 -->
@@ -29,7 +29,6 @@ The Company is offering bonus shares to investors who make an investment in this
 <!-- page 2 -->
 
 - Invest $10,000 and receive 10% bonus shares
-
 - Invest $25,000 and receive 20% bonus shares
 
 However, investors who make an investment in this Offering of at least $750 during the special bonus offering period beginning at 12:01 am Pacific Time (7:01 am UTC (UTC+7)) on December 4 and ending at 11:59 pm Pacific time (6:59 am UTC the next day (UTC+7)) on December 10 will receive 5% bonus shares.
@@ -94,47 +93,28 @@ In order to scale the Company by recruiting superior talent, growing our investo
 # **_Significant Milestones_**
 
 - _2014 – The idea was born._ After years of making money for others the traditional way, Craig Cecilio saw how everyday investors kept getting locked out of an entire asset class, one that has long fed the wealthy. In 2014, Craig decided there had to be a way to break the cycle and came up with the idea that became DiversyFund. He wanted to open up wealth-building opportunities to all Americans, no matter their economic status.
-
 - _May 2015 – Open to all_ . An amendment to the JOBS Act allowed companies like DiversyFund to open up investments to everyone (including non-accredited investors). This was a huge step in allowing every investor to invest easily and conveniently online.
-
 - _August 2016 – Partnering with the right people_ . Craig partnered with Alan Lewis to form and launch DiversyFund, Inc. With Alan’s corporate transactions background as a corporate lawyer and investment banker on Wall Street, he and Craig share the same mission of democratizing investing for everyone.
-
 - _2016-2018 – Laying the groundwork_ . We were successful in raising our initial funds through a series of convertible note offerings, creating a brand and building a team and developing our tech-enabled investment platform.
-
 - _November 2018 –DF Growth REIT I offering qualified by the SEC_ . DiversyFund began offering shares of DF Growth REIT I to investors (including non-accredited investors) in its first SEC-qualified Regulation A offering. DF Growth REIT I files annual and semi-annual reports including audited financial statements, information on business operations, related party transactions, and management discussion and analysis of DF Growth REIT I’s performance.
-
 - _April 2019 – Platform launch_ . We publicly launched our DiversyFund Platform, allowing individuals to invest in DF Growth REIT I at a $2,500 minimum entry point.
-
 - _June 2019 – Open to all_ . We significantly lowered the minimum investment amount in DF Growth REIT I to $500, opening up the opportunity to invest in commercial multifamily real estate to even more everyday investors.
-
 - _November 2019 – Building our community_ . We reached nearly 3,000 investments by a community of more than 2,000 investors on the DiversyFund Platform. Many of DF Growth REIT I’s investors made multiple investments through the newly-added auto-deposit feature.
 
 <!-- page 6 -->
 
 - _March 2020_ – _Enhancing and expanding our technology platform_ . We launched our mobile version of the DiversyFund Platform and added new features to the investor dashboard, making investing in commercial real estate even easier and more convenient for the everyday investor.
-
 - _January 2021 – DF Growth REIT II offering qualified by the SEC_ . DiversyFund began offering shares of DF Growth REIT II to investors, including non-accredited investors, in its second SEC-qualified Regulation A offering.
-
 - _November 2021_ – _DF Growth REIT I closed._ DF Growth REIT I reached its maximum offering amount and was closed to new investors.
-
 - _December 2021_ – _DiversyFund reaches new AUM milestone._ DiversyFund exceeded $100,000,000 in multifamily real estate assets under management with properties in states across the Sun Belt.
-
 - _July 2022 – Value Add Growth REIT III Offering Launched_ . DiversyFund filed an Offering Memorandum with the SEC under Regulation Crowdfunding and began offering shares of Value Add Growth REIT III to investors, including non-accredited investors, in its third fund offering.
-
 - _October 2022 – DF Growth REIT IV Offering Circular filed with the SEC_ . DiversyFund began seeking SEC qualification of its DF Growth REIT IV offering to investors, including non-accredited investors, in its fourth Regulation A offering.
-
 - _November 2022 – Value Add Growth REIT III Offering Closed._ Value Add Growth REIT III reached its maximum offering amount and was closed to new investors.
-
 - _November 2022 – Building our community_ . Our community topped 300,000 with nearly 28,000 active investors on the DiversyFund Platform.
-
 - _December 2022_ – _DiversyFund reaches new AUM Milestone._ DiversyFund exceeded $180,000,000 in multifamily real estate assets under management with properties in states across the Sun Belt.
-
 - _January 2023 – Premier Plan Single Asset Offerings Launched_ . DiversyFund began again offering shares of single asset funds to accredited investors in its Regulation D offering, DF Village Creek Partners, LLC.
-
 - _February 2023 – DiversyFund Continues Growing the Team._ DiversyFund made significant additions to its technology, legal, compliance, product and marketing leadership, establishing a new foundation for growth in 2023.
-
 - _April 2023_ – _Premier Plan Opportunities Fund Launched._ DiversyFund began offering shares of its new DF Distressed Opportunities Fund to accredited investors in its first Regulation D fund offering.
-
 - _July 2023_ – _Amendment to DF Growth REIT IV Offering Circular filed with the SEC_ .
 
 # **_Addressable Market and Target Customers_**
@@ -148,9 +128,7 @@ This market segment comprises a significant portion of the population1 , with av
 Our value proposition for the everyday investor:
 
 - We educate them on the importance of diversification and the role of alternative assets in building balanced investment portfolios;
-
 - We offer access to previously inaccessible investments; and
-
 - We make the process easy, convenient and 100% online.
 
 # **_Data and Technology Platform_**
@@ -160,19 +138,12 @@ The first version of the DiversyFund Platform launched and began accepting inves
 Since public launch of the DiversyFund Platform in 2019, our marketing and product teams have worked closely together to continue developing new key features and improving platform capabilities and user experience. Some of the features we have added to our portal for our customers:
 
 - Data integrations with Customer Data Platform;
-
 - Mobile payment options;
-
 - Recurring auto-deposit;
-
 - Mobile application;
-
 - Integrated compliance checks;
-
 - Advanced user analytics;
-
 - Customer experience platform; and
-
 - Expanded knowledge library for users.
 
 We use data analysis to optimize costs and to more efficiently build and service our community. For example, we partner with Experian to enrich customer profiles in our customer relationship management platform. Expanded customer profiles allow us to respond more efficiently to customer needs and preferences. We have also partnered
@@ -260,13 +231,9 @@ A large portion of the proceeds of this offering will be used to continue buildi
 We define community building as our customer experience. There is a critical difference between audience and community. A community engages in a two-way conversation–a chance for us to interact with our customers and potential customers. Developing our community of advocates is key to increasing our lifetime customer value and lowering our consumer acquisition cost. Developing and servicing our online community has multiple benefits:
 
 - Providing real time customer support;
-
 - Promoting shareable content to increase awareness and education;
-
 - Collecting user generated content;
-
 - Developing and spreading the referral program; and
-
 - Growing the number of DiversyFund advocates.
 
 <!-- page 12 -->
@@ -276,11 +243,8 @@ We define community building as our customer experience. There is a critical dif
 A digital-first mindset is a foundational value of DiversyFund. Users everywhere have become more comfortable conducting various traditional activities online, such as banking, investing and learning. We want to be at the forefront of these trends and are committed to providing the best experience for our users to manage their alternative investing activities 100% online. As when we began DiversyFund, our goal is still to build out a largely self-service customer support platform that will:
 
 - Give customers faster access to the answers and information they need;
-
 - Allow customers to control their experience by making changes without needing to call or email. For example, a bank might let their customers change their daily withdrawal limit online;
-
 - Offer a clear path to contact a live customer support team when necessary; and
-
 - Free up customer service staff to answer more complex questions and have more meaningful interactions.
 
 Not only does this approach match user expectations for increasingly fast support and self-directed assistance, but it also allows us to maintain a lean internal team and keep overhead costs low. We rely on our technology, content and community to build our customer experience instead of outdated sales teams and call centers.
@@ -296,27 +260,15 @@ The Company is a privately-held Delaware c-corporation. We own and operate the D
 <!-- page 13 -->
 
 - Premier Plan Direct Single Asset Investments offered to accredited investors include
-
    - DF Village Creek Partners, LLC, an SPE that owns and operates a multifamily real estate in Fort Worth, Texas.
-
    - DF Independent Partners, LLC, an SPE that owns and operates a multifamily real estate near Monterey, California
-
    - DF Colony Partners, LLC, an SPE that owns and operates a multifamily real estate in San Antonio, Texas.
-
 - Premier Plan Fund Investments offered to accredited investors include
-
    - DF Distressed Opportunities Fund I, LLC, an investment fund sponsored by the Company that targets value add and opportunistic multifamily real estate assets for investment, renovation and sale following stabilization and capital appreciation.
-
--
-
 - Real Estate Investment Trusts (REITs) offered to non-accredited and accredited investors include
-
 - Value Add Growth REIT IV, a “real estate investment trust” sponsored by the Company and expected to be offered for investment following qualification by the SEC that focuses on long-term capital appreciation from the renovation and repositioning of apartment buildings and single- and multifamily properties. Value Add Growth REIT IV will be offered to non-accredited as well as accredited investors under Regulation A, allowing any U.S. investor–not just high net worth individuals—to invest directly in a diversified portfolio of multifamily real estate assets.
-
 - Value Add Growth REIT III, LLC is a REIT focused on long-term capital appreciation from the renovation and repositioning of apartment buildings and single- and multifamily properties. Value Add Growth REIT III conducted an offering pursuant to Regulation Crowdfunding, raising nearly $5,000,000 in 2022.
-
 - DF Growth REIT II, LLC is a REIT focused on long-term capital appreciation from the renovation and repositioning of apartment buildings and single- and multifamily properties that was offered to nonaccredited as well as accredited investors under Regulation A. DF Growth REIT II raised nearly $9,000,000 in 2022.
-
 - DF Growth REIT, LLC is a REIT focused on long-term capital appreciation from the renovation and repositioning of apartment buildings and single- and multifamily properties that was offered to nonaccredited as well as accredited investors under Regulation A. DF Growth REIT raised nearly $70,000,000 before it closed in 2021.
 
 We experienced significant growth since the launch of DF Growth REIT in April 2019 as measured by growth in the size of our investor community and increase in the number of investments made through the platform. As of August 15, 2023, we had an investor community of more than 325,000 and nearly 28,000 investors had made at least one investment in one of our Programs. From the Company’s launch to the date of this Memorandum, we have sponsored more than $200 million of multifamily value add real estate assets, based on pro forma exit values over a 2 to 5 year hold period.
@@ -406,11 +358,8 @@ with the Company, against expenses for which such person has not otherwise been 
 **OUR BUSINESS AND OPERATIONS ARE SUBJECT TO RAPID CHANGE. IF WE FAIL TO EFFECTIVELY MANAGE THE CHANGING MARKET, OUR BUSINESS AND OPERATING RESULTS COULD BE HARMED.** Our business is subject to rapid change in terms of the scope of our operations and the industry in which we operate. This change may place significant demands on our management, as well as our financial and operational resources. If we do not effectively manage changes in the market and their effects on our business, the efficiency of our operations and the quality of our services could suffer, which could adversely affect our business and operating results. To effectively manage these changes, we will need to continue to take measures which are difficult to guarantee, including measures to:
 
 - implement appropriate operational, financial and management controls, systems and procedures;
-
 - adapt the nature and scope of our services;
-
 - change our sales, marketing and distribution infrastructure and capabilities; and
-
 - provide adequate training and supervision to maintain high quality standards.
 
 **POLITICAL AND ECONOMIC FACTORS MAY ADVERSELY AFFECT OUR BUSINESS AND FINANCIAL RESULTS.** Trade, monetary and fiscal policies, and political and economic conditions may substantially change. When there is a slowdown in the economy, employment levels and interest rates may decrease with a corresponding impact on our business. Customers may react to worsening conditions by reducing their spending on the products and services we intend to offer. If any of these circumstances remain in effect for an extended period, there could be a material adverse effect on our financial results.
@@ -436,39 +385,24 @@ capital invested s and, ultimately, our revenues. Alternatively, in the face of 
 **THE PERFORMANCE OF OUR INVESTMENT PROGRAMS DEPENDS PRIMARILY ON THE PERFORMANCE AND NET VALUE OF THE UNDERLYING PROPERTIES THAT OUR PROGRAMS OWN OR IN WHICH OUR PROGRAMS MAKE DEBT OR EQUITY INVESTMENTS, AND POOR PERFORMANCE BY ANY OF THESE PROPERTIES MAY ADVERSELY AFFECT THE PERFORMANCE OF OUR PROGRAMS, OUR FINANCIAL CONDITION AND RESULTS OF OPERATIONS.** The performance and net value of these properties is subject to risks typically associated with real estate, which include the following, many of which are partially or completely outside of our control:
 
 - climate change, pandemics, natural disasters such as hurricanes, earthquakes and floods, or acts of war or terrorism, including the consequences of terrorist attacks such as those that occurred on September 11, 2001, may result in substantial damage to the properties;
-
 - adverse changes in national and local economic and real estate conditions, including potential increases in interest rates and declines in real estate values, may adversely affect the investments of our Programs;
-
 - an oversupply of (or a reduction in demand for) space in the areas where particular properties are located and the attractiveness of competing properties to prospective tenants may limit our Programs’ ability to attract or retain tenants;
-
 - changes in governmental laws and regulations, fiscal policies and zoning ordinances may adversely affect the use of or rental income generated by the properties, and the related costs of compliance and the potential for liability under applicable laws may result in losses to our Programs;
-
 - <mark>remediation and liabilities associated with environmental conditions affecting properties may result in significant costs to our Programs;</mark>
-
 - <mark>uninsured or underinsured property losses, increased property insurance premiums or an unanticipated increase in property taxes may result in losses to our Programs;</mark>
-
 - <mark>an inability to realize estimated market rents may adversely affect the financial conditions of our Programs;</mark>
-
 - <mark>the geographic concentration of investments in a limited number of regions may expose our Programs to adverse conditions in such regions;</mark>
-
 - <mark>properties that have significant vacancies could be difficult to sell, which could diminish the return on these properties;</mark>
-
 - <mark>lease defaults or terminations by tenants could reduce our Programs’ net income;</mark>
-
 - <mark>loan defaults could cause loss of a property to foreclosure;</mark>
-
 - <mark>potential development and construction delays and resultant increased costs and risks may hinder our Programs’ results of operations and decrease net income;</mark>
-
 - <mark>actions of any joint venture partners that our Programs may have could reduce the returns on joint venture investments;</mark>
-
 - <mark>prepayments can adversely affect the yields on any debt investments our Programs may make;</mark>
 
 <!-- page 21 -->
 
 - <mark>the profitability of investments in any retail properties will be significantly impacted by the success and economic viability of the retail tenants;</mark>
-
 - many of our Programs’ investments are illiquid and our Programs may not be able to vary their portfolios in response to changes in economic and other conditions; and
-
 - <mark>if our Programs overestimate the value or income-producing ability or incorrectly price the risks of investments, they may experience losses.</mark>
 
 **HISTORICAL RETURNS ATTRIBUTABLE TO OUR PROGRAMS MAY VARY SIGNIFICANTLY FROM FUTURE RESULTS PROVIDED BY OUR PROGRAMS, OUR INVESTMENT STRATEGIES, OUR OPERATIONS OR ANY RETURNS EXPECTED ON AN INVESTMENT IN OUR SHARES.** The returns of our Programs are not directly linked to returns on our debt or equity securities, since an investment in our shares is not an investment in any of our Programs (although we typically invest a limited amount of capital in our Programs to create an alignment of interest with investors in our Programs). Therefore, you should not conclude that continued positive performance of our Programs will necessarily result in positive returns on an investment in the Company. However, poor performance of our Programs would cause a decline in our revenue from such Programs and would have a negative effect on our performance. Moreover, the historical returns of our Programs should not be considered indicative of, and may vary significantly from, the future returns of these or any future Programs we may form, in part because our Programs’ returns have benefited from investment opportunities and general market conditions that may not repeat themselves, including the availability of debt capital on attractive terms, and there can be no assurance that our current or future Programs will be able to avail themselves of profitable investment opportunities.
@@ -578,17 +512,13 @@ This concentrated control may have the effect of delaying, preventing or deterri
 **LIMITATIONS ON RIGHTS IN INVESTMENT AGREEMENT** : To purchase Class B Common Shares, you are required to sign our Investment Agreement. The Investment Agreement would limit your rights in several important ways if you believe you have claims against us arising from the purchase of your Class B Common Shares:
 
 - Any claims arising from your purchase of Class B Common Shares or the Investment Agreement must be brought in the state or federal courts located in San Diego, California, which might not be convenient to you.
-
 - You would not be entitled to a jury trial.
-
 - You would not be entitled to recover any lost profits or special, consequential, or punitive damages.
-
 - If you lost your claim against us, you would be required to pay our expenses, including reasonable attorneys’ fees. If you won, we would be required to pay yours.
 
 **LIMITS ON TRANSFERABILITY** : There are several obstacles to selling or otherwise transferring your Class B Common Shares:
 
 - There will be no established market for your Class B Common Shares, meaning you could have difficulty finding a buyer.
-
 - Under the Company’s Certificate of Incorporation and the Shareholders’ Agreement, the Class B Common Shares may not be transferred in some circumstances.
 
 Taking this into account, you should plan to own your Class B Common Shares indefinitely.
@@ -640,7 +570,6 @@ The following table describes our capital structure as of August 15, 2023:
 |Convertible Notes|Principal Amount: $150,000|Interest Rate: 2%|Maturity Date: 180 days after issuance||
 
 - *As set forth in the Second Amended and Restated Company’s Certificate of Incorporation
-
 - **To be issued on conversion of convertible notes
 
 <!-- page 32 -->
@@ -682,15 +611,10 @@ We generate revenues from our real estate and investment income. For the year en
 Our operating expenses consist of salaries and wages, payroll taxes, employee benefits, contractors, advertising and promotion, bank charges, education and training, licenses and fees, professional fees, legal fees and expenses, recruiting, computer expense, financing expense, bad debt expense, interest expense, depreciation expense, amortization expense, equity kicker expense, and other operating expenses. Total operating expenses decreased to $12,003,065 during Fiscal 2022 from $15,342,381 during Fiscal 2021. This increase was largely driven by the following:
 
 - Advertising and promotion expenses decreased to $1,597,902 in Fiscal 2022 from $5,121,835 for Fiscal 2021 due to the Company’s suspension of REIT II’s offering and the termination of marketing campaigns related to that offering.
-
 - Equity kicker expenses decreased to $1,259,750 in Fiscal 2022 from $3,343,475 for Fiscal 2021. This decrease was primarily driven by a decrease in the amount of equity kickers offered to investors in the Company.
-
 - Interest expenses decreased to $298,170 in Fiscal 2022 compared to $644,361 in Fiscal 2021 as a result of the repayment of certain loans.
-
 - Contractor expenses decreased to $1,236,609 in Fiscal 2022 from $1,562,952 in Fiscal 2021 due to a decrease in the number of marketing and product development contractors engaged by the Company.
-
 - These decreases were offset in part by an increase of $2,225,595 in legal fees, from $518,984 in Fiscal 2021 to $2,744, 579 in Fiscal 2022. This increase was primarily driven by the SEC’s investigation and enforcement actions, described above.
-
 - Additionally, salaries and wages expense increased to $2,932,764 in Fiscal 2022 from $2,393,621 in Fiscal 2021 as a result of new hires, particularly in the marketing, finance, product development and legal and compliance teams.
 
 <!-- page 34 -->
@@ -734,11 +658,8 @@ Looking ahead, we expect the coming year to continue to be challenging for the b
 We seek to identify and make investments based in part on major macroeconomic trends because we believe those trends are likely to drive outsized growth which in turn can deliver better than average performance. We expect the following factors to contribute to performance in the coming 12-24 months:
 
 - Interest rate hikes by the Federal Reserve to combat record high inflation;
-
 - Continuing rent increases caused by a post pandemic spike in demand, inflation and ongoing limitations on the supply of housing;
-
 - Ongoing sunbelt growth in which existing dynamics of strong population and job growth is accelerated by migration of people and companies to the region; and
-
 - Increasing demand for well-located, cash-flowing real estate assets.
 
 <!-- page 36 -->
@@ -754,10 +675,10 @@ The following summarizes the fees that the Company, as Sponsor, may receive from
 |**Type of Fee**|**Description and Amount**|
 |---|---|
 |_Organization & OfferingExpense_ _Reimbursement_|The Sponsor is reimbursed for direct expenses incurred by theSponsor and its affiliates to organize and operate the funds and conduct offerings of fund securities, including:|
-||� Marketing expenses paid to vendors, contractors, and consultants;|
-||� Payroll expenses of marketing employees;|
-||� Softwarecosts; � Fees paid to vendors, contractors, and consultants relating to the Sponsor’s online fintech platform and smartphone applications; used tomarket and operate the Company; and|
-||� Payroll expenses and software costs from product and tech employees working on the fintech platform and smartphone applications.|
+|| Marketing expenses paid to vendors, contractors, and consultants;|
+|| Payroll expenses of marketing employees;|
+|| Softwarecosts; Fees paid to vendors, contractors, and consultants relating to the Sponsor’s online fintech platform and smartphone applications; used tomarket and operate the Company; and|
+|| Payroll expenses and software costs from product and tech employees working on the fintech platform and smartphone applications.|
 |_Asset Management Fee_|The Sponsor charges affiliated funds an annual asset management fee equal to 2% of the capital raised from the sale of fund shares.|
 |_Acquisition Fee_|The Sponsor receives from each Project Entity (or from a fund itself, if thefund owns real estate directly) an acquisition fee of between 1% and 4% ofthe total project costs, including both “hard” costs (_e.g._, the cost of property) and “soft” costs (_e.g._, professional fees).|
 ||Where property is owned by an entity in which there is another financial partner– a joint venture – the Sponsor might be entitled to a similar acquisition fee to the extent negotiated with the financial partners in such joint venture (which could be higher than the 1-4% acquisition fee for direct investment).|
@@ -874,11 +795,8 @@ Stockholders waive their information rights including rights granted to stockhol
 For a year, the securities can be resold only:
 
 - in an IPO or other public offering registered with the SEC;
-
 - to the company;
-
 - to an accredited investor; and
-
 - to a member of the family of the purchaser or the equivalent, to a trust controlled by the purchaser, to a trust created for the benefit of a member of the family of the purchaser or the equivalent, or in connection with the death or divorce of the purchaser or other similar circumstance.
 
 In addition, the Stockholders Agreement contains restrictions on transfer described above.
@@ -898,9 +816,7 @@ If the company decides to issue more shares, an investor could experience value 
 The type of dilution that hurts early-stage investors most occurs when the company sells more shares in a “down round,” meaning at a lower valuation than in earlier offerings. An example of how this might occur is as follows (numbers are for illustrative purposes only):
 
 - In June 2023 Jane invests $20,000 for shares that represent 2% of a company valued at $1 million.
-
 - In December the company is doing very well and sells $5 million in shares to venture capitalists on a valuation (before the new investment) of $10 million. Jane now owns only 1.3% of the company but her stake is worth $200,000.
-
 - In June 2024 the company has run into serious problems and in order to stay afloat it raises $1 million at a valuation of only $2 million (the “down round”). Jane now owns only 0.89% of the company and her stake is worth only $26,660.
 
 This type of dilution might also happen upon conversion of convertible notes into shares. Typically, the terms of convertible notes issued by early-stage companies provide that in the event of another round of financing, the holders of the convertible notes get to convert their notes into equity at a “discount” to the price paid by the new investors, i.e., they get more shares than the new investors would for the same price. Additionally, convertible notes may have a “price cap” on the conversion price, which effectively acts as a share price ceiling. Either way, the holders of the convertible notes get more shares for their money than new investors. In the event that the financing is a “down round” the holders of the convertible notes will dilute existing equity holders, and even more than the new investors do, because they get more shares for their money. Investors should pay careful attention to the aggregate total amount of convertible notes that the company has issued (and may issue in the future, and the terms of those notes.
@@ -946,13 +862,9 @@ The company is required to file a report electronically with the SEC annually an
 The company must continue to comply with the ongoing reporting requirements until:
 
 - (1) it is required to file reports under Section 13(a) or Section 15(d) of the Exchange Act;
-
 - (2) it has filed at least one annual report pursuant to Regulation Crowdfunding and has fewer than three hundred holders of record and has total assets that do not exceed $10,000,000;
-
 - (3) it has filed at least three annual reports pursuant to Regulation Crowdfunding;
-
 - (4) it or another party repurchases all of the securities issued in reliance on Section 4(a)(6) of the Securities Act, including any payment in full of debt securities or any complete redemption of redeemable securities; or
-
 - (5) it liquidates or dissolves its business in accordance with state law.
 
 # **Compliance failure**
