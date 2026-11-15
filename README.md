@@ -171,8 +171,8 @@ Optional `.env` variables (defaults shown in `.env.example`):
 | `python main.py ocr [--only TEXT...] [--limit N]` | 3 | implemented (needs `pip install -r requirements-ocr.txt`) |
 | `python main.py chunk [--only TEXT...] [--out DIR]` | 4 | implemented |
 | `python main.py chunk-compare` | 4 | implemented |
-| `python main.py index` | 5 | not implemented |
-| `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank` | 5 | not implemented |
+| `python main.py index` | 5 | implemented (first run embeds on CPU, about 30 min; later runs reuse `.cache/embeddings.sqlite`) |
+| `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank [-k N] [--doc-type T...] [--as-of-min YYYY] [--include-boilerplate] [--include-skip]` | 5 | implemented |
 | `python main.py ask "<question>"` | 6 | not implemented |
 | `python main.py eval-retrieval` | 7 | not implemented |
 | `python main.py rag-eval` | 7 | not implemented |

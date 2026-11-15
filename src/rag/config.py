@@ -65,6 +65,11 @@ BOILERPLATE_PHRASES = (
     "marcus & millichap is not affiliated with, sponsored by, or endorsed by",
 )
 
+COLLECTION = "chunks"                 # Qdrant collection name
+EMBEDDING_CACHE = CACHE_DIR / "embeddings.sqlite"   # vectors keyed by model + text
+# bge models embed a search query with this prefix; passages are embedded as they are.
+BGE_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
+
 K = 5                                 # chunks sent to the model
 CANDIDATES = 20                       # per search before fusion, and into the reranker
 RRF_K = 60
@@ -93,6 +98,15 @@ class ChunkPaths:
     chunks: Path = CHUNKS
     summary: Path = DATA / "chunks_manifest.json"   # always the latest run
     summary_dir: Path = MANIFEST_DIR                # previous run, moved: chunks-manifest-<pipeline_version>-<hash>.json
+
+
+@dataclass(frozen=True)
+class IndexPaths:
+    """Every location `index` and `search` read or write. Nothing here is committed: it is rebuilt from `chunks`."""
+
+    chunks: Path = CHUNKS
+    index: Path = INDEX_DIR              # embedded Qdrant
+    embedding_cache: Path = EMBEDDING_CACHE
 
 
 # --- models (override in .env) ----------------------------------------------

@@ -1,5 +1,6 @@
 import argparse
 import json
+import sys
 from dataclasses import replace
 from pathlib import Path
 
@@ -135,9 +136,44 @@ def cmd_chunk_compare(args):
     print(f"Compared the documents in {config}. Also written to output/chunk-compare.md")
 
 
+def cmd_index(args):
+    from src.rag.config import IndexPaths
+    from src.rag.embed import Embedder
+    from src.rag.index import build_index, open_client
+    from src.rag.store import read_jsonl
+
+    paths = IndexPaths()
+    if not paths.chunks.is_file():
+        raise SystemExit(f"{paths.chunks} not found. Run `python main.py chunk` first.")
+    chunks = read_jsonl(paths.chunks)
+    n = build_index(chunks, Embedder(cache=paths.embedding_cache), open_client(paths.index))
+    print(f"{n} chunks indexed in {paths.index} (vectors cached in {paths.embedding_cache}). "
+          "BM25 is rebuilt in memory from chunks.jsonl on every search.")
+
+
+def cmd_search(args):
+    from src.rag.config import IndexPaths
+    from src.rag.index import Filters
+    from src.rag.retrieve import load_retriever
+
+    paths = IndexPaths()
+    if not paths.index.exists():
+        raise SystemExit(f"{paths.index} not found. Run `python main.py index` first.")
+    sys.stdout.reconfigure(errors="replace")           # chunk text may hold characters the console cannot show
+    filters = Filters(doc_types=tuple(args.doc_type) if args.doc_type else None, as_of_min=args.as_of_min,
+                      include_boilerplate=args.include_boilerplate, include_skip=args.include_skip)
+    hits = load_retriever(paths, log=print).search(args.query, args.config, filters=filters, k=args.k)
+    if not hits:
+        print("No hits.")
+    for rank, hit in enumerate(hits, start=1):
+        c = hit.chunk
+        where = f"{c['source']} p.{c['page_start']}" + (f"-{c['page_end']}" if c["page_end"] != c["page_start"] else "")
+        print(f"{rank}. {hit.score:.4f}  {dict(hit.ranks)}  {c['chunk_id']}")
+        print(f"   {where} | {c['section']} | {c['doc_type']} | as_of {c['as_of']}")
+        print(f"   {' '.join(c['text'].split())[:240]}")
+
+
 RAG_STUBS = {
-    "index": (5, "Embed data/chunks.jsonl into Qdrant and build the BM25 index"),
-    "search": (5, "Search the index (vector, bm25, hybrid, rerank) and print the top hits"),
     "ask": (6, "Answer a question from retrieved chunks, with citations or an abstain"),
     "eval-retrieval": (7, "recall@k and MRR for each search config on the test set"),
     "rag-eval": (7, "Score RAG answers on the test set, run the judge, check the gate"),
@@ -154,10 +190,7 @@ def cmd_rag_stub(args):
 def _add_rag_stubs(sub):
     for name, (phase, what) in RAG_STUBS.items():
         p = sub.add_parser(name, help=f"[RAG, phase {phase}, not implemented] {what}")
-        if name == "search":
-            p.add_argument("query")
-            p.add_argument("--config", choices=["vector", "bm25", "hybrid", "rerank"], default="hybrid")
-        elif name == "ask":
+        if name == "ask":
             p.add_argument("question")
         p.set_defaults(fn=cmd_rag_stub)
 
@@ -215,6 +248,18 @@ def main():
     p = sub.add_parser("chunk-compare", help="[RAG] Compare heading-aware chunks with fixed windows")
     p.add_argument("--config", help="YAML of documents to compare (default measurements/chunking/targets.yaml)")
     p.set_defaults(fn=cmd_chunk_compare)
+
+    sub.add_parser("index", help="[RAG] Embed data/chunks.jsonl into the Qdrant index (index/)").set_defaults(fn=cmd_index)
+
+    p = sub.add_parser("search", help="[RAG] Search the index and print the top hits")
+    p.add_argument("query")
+    p.add_argument("--config", choices=["vector", "bm25", "hybrid", "rerank"], default="hybrid")
+    p.add_argument("-k", type=int, default=5, help="Hits to print")
+    p.add_argument("--doc-type", nargs="+", help="Only these document types, e.g. listing single_asset_om")
+    p.add_argument("--as-of-min", help="Only documents dated on or after this, e.g. 2024 or 2024-06")
+    p.add_argument("--include-boilerplate", action="store_true", help="Also search disclaimers and tables of contents")
+    p.add_argument("--include-skip", action="store_true", help="Also search sale / rent comparables")
+    p.set_defaults(fn=cmd_search)
 
     _add_rag_stubs(sub)
 

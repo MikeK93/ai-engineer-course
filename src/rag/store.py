@@ -122,6 +122,10 @@ def read_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def read_jsonl(path: Path) -> list[dict]:
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
 def write_jsonl(path: Path, events: list[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     lines = (json.dumps(e, ensure_ascii=False, sort_keys=True) for e in events)
