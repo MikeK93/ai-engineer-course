@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-15 | Phase 7 | Test-set lint
+
+What: `src/rag_eval/lint.py` and `python main.py lint-testset`. Each evidence quote must be in exactly one expected document and in no other. `must` groups are AND, options inside a group are OR, and a hit has to be in a chunk that contains the quote. A heading counts, because retrieval searches `embed_prefix` plus the text. No-answer rows have no evidence, no `must`, and the abstain sentence. Chunk ids are returned at run time and are not written into `evals/testset.json`.
+Why: a quote that also sits in a second document can make retrieval credit the wrong file. Checking that before scoring keeps the test set editable without storing chunk ids that go stale on the next chunk run.
+Effect: 29 cases, 0 errors. Every evidence quote is in exactly one expected document, and every `must` string is in those chunks.
+
 ## 2026-11-15 | Phase 6 | Answer path
 
 What: `context`, `llm_rag`, `answer`; command `ask` (default `--config rerank`, same filters as `search`, `--log`). Retrieved chunks are packed in rank order under 2,500 tokens (`tiktoken` `cl100k_base`), labelled `S1..Sn`, header `source · section · as_of`. The model (`RAG_MODEL`, prompt `prompts/rag/v1/system.txt`) is called with `response_format=RagAnswer` at temperature 0. The body is validated with `model_validate_json`; if that fails, fences and surrounding text are trimmed and validation is tried once more. Citations are stripped, unknown labels dropped, duplicates removed, then mapped back to `chunk_id`, source, section. Each question is appended to `output/answers-*.jsonl`.

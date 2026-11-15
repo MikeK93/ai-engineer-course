@@ -172,6 +172,12 @@ def cmd_ask(args):
     print(f"Log: {log_path}")
 
 
+def cmd_lint_testset(_args):
+    from src.rag_eval.lint import run
+
+    raise SystemExit(run())
+
+
 def cmd_search(args):
     from src.rag.config import IndexPaths
     from src.rag.index import Filters
@@ -289,6 +295,9 @@ def main():
     p.add_argument("--include-skip", action="store_true", help="Also use sale / rent comparables")
     p.add_argument("--log", help="Append the JSONL record here (default output/answers-<timestamp>.jsonl)")
     p.set_defaults(fn=cmd_ask)
+
+    sub.add_parser("lint-testset", help="[RAG] Check evals/testset.json against data/chunks.jsonl").set_defaults(
+        fn=cmd_lint_testset)
 
     _add_rag_stubs(sub)
 

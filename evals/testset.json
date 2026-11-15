@@ -1,0 +1,295 @@
+[
+  {
+    "id": "e01",
+    "kind": "exact",
+    "question": "What is the land list price for 9850 East Girard Avenue?",
+    "source": "pdfs__gs01_33_Unit_Multifamily_Development",
+    "evidence": ["|Land List Price:|$1,250,000|"],
+    "must": [["$1,250,000"]],
+    "reference": "$1,250,000"
+  },
+  {
+    "id": "e02",
+    "kind": "exact",
+    "question": "What is the lot size of the 33-unit Denver development?",
+    "source": "pdfs__gs01_33_Unit_Multifamily_Development",
+    "evidence": ["|Lot Size:|0.78 Acres (34,076 SF)|"],
+    "must": [["0.78 Acres"], ["34,076 SF"]],
+    "reference": "0.78 Acres (34,076 SF)"
+  },
+  {
+    "id": "e03",
+    "kind": "exact",
+    "question": "What is the monthly lease rate at 16213 Illinois Ave?",
+    "source": "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1",
+    "evidence": ["Lease Rate/Mo: $7,937"],
+    "must": [["$7,937"]],
+    "reference": "$7,937 per month"
+  },
+  {
+    "id": "e04",
+    "kind": "exact",
+    "question": "What is the asking price of 1028 Johnson Street, Kingston?",
+    "source": "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2",
+    "evidence": ["ASKING PRICE: $1,189,900"],
+    "must": [["$1,189,900"]],
+    "reference": "$1,189,900"
+  },
+  {
+    "id": "e05",
+    "kind": "exact",
+    "question": "What is the asking price of 849 North Bunker Hill Avenue?",
+    "source": "pdfs__gs03_849_N_Bunker_Hill_OM",
+    "evidence": ["|**Price**|**$16,995,000**|"],
+    "must": [["$16,995,000"]],
+    "reference": "$16,995,000"
+  },
+  {
+    "id": "e06",
+    "kind": "exact",
+    "question": "What asset management fee does Centurion REIT's Asset Manager receive?",
+    "source": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final",
+    "evidence": ["the Asset Manager is entitled to a 1.00% per annum asset management fee (plus HST) on Net Asset Value payable monthly based on the number of Investor Units outstanding at the beginning of the month"],
+    "must": [["1.00% per annum"], ["plus HST"], ["Net Asset Value"]],
+    "reference": "1.00% per annum (plus HST) on Net Asset Value"
+  },
+  {
+    "id": "p01",
+    "kind": "paraphrase",
+    "question": "How much is the seller asking for the Denver land planned for 33 apartments?",
+    "source": "pdfs__gs01_33_Unit_Multifamily_Development",
+    "evidence": ["|Land List Price:|$1,250,000|", "|Proposed Project:|Multifamily - 33 Units|"],
+    "must": [["$1,250,000"]],
+    "reference": "$1,250,000"
+  },
+  {
+    "id": "p02",
+    "kind": "paraphrase",
+    "question": "How tall, in floors, is the building at 8000 Wisconsin Avenue?",
+    "source": "pdfs__gs06_8000_Wisconsin_Avenue",
+    "evidence": ["The 20-story building has been designed as a state-of-the art apartment complex"],
+    "must": [["20-story"]],
+    "reference": "20 stories"
+  },
+  {
+    "id": "p03",
+    "kind": "paraphrase",
+    "question": "What would it cost per month to rent the fenced contractor's yard and shop in Paramount?",
+    "source": "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1",
+    "evidence": ["Lease Rate/Mo: $7,937"],
+    "must": [["$7,937"]],
+    "reference": "$7,937 per month"
+  },
+  {
+    "id": "p04",
+    "kind": "paraphrase",
+    "question": "Where is the 14-unit building on Meridian Street located?",
+    "source": "pdfs__gs04_5623_Meridian_Los_Angeles",
+    "evidence": ["|**Address**|5623 Meridian Street, Los Angeles, CA 90042|", "|**Number of Units**|14 units|"],
+    "must": [["Los Angeles, CA 90042"]],
+    "reference": "Los Angeles, CA 90042"
+  },
+  {
+    "id": "p05",
+    "kind": "paraphrase",
+    "question": "What does a buyer pay per apartment at 849 N Bunker Hill?",
+    "source": "pdfs__gs03_849_N_Bunker_Hill_OM",
+    "evidence": ["|Price/Unit|$459,324|"],
+    "must": [["$459,324"]],
+    "reference": "$459,324 per unit"
+  },
+  {
+    "id": "s01",
+    "kind": "similar-doc",
+    "question": "How many units does 708-712 New Depot Street have?",
+    "source": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM",
+    "evidence": ["Plans in Place to Build 33 Apartment Units"],
+    "must": [["33 Apartment Units"]],
+    "reference": "33 apartment units"
+  },
+  {
+    "id": "s02",
+    "kind": "similar-doc",
+    "question": "What is the asking price of 708-712 New Depot Street?",
+    "source": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM",
+    "evidence": ["**Price: $6,450,000**"],
+    "must": [["$6,450,000"]],
+    "reference": "$6,450,000"
+  },
+  {
+    "id": "s03",
+    "kind": "similar-doc",
+    "question": "What cap rate does the 849 North Bunker Hill offering memorandum state?",
+    "source": "pdfs__gs03_849_N_Bunker_Hill_OM",
+    "evidence": ["|Cap Rate|3.93%|"],
+    "must": [["3.93%"]],
+    "reference": "3.93%"
+  },
+  {
+    "id": "s04",
+    "kind": "similar-doc",
+    "question": "What does the property overview say about the soft-story status of 5623 Meridian Street?",
+    "source": "pdfs__gs04_5623_Meridian_Los_Angeles",
+    "evidence": ["|**Soft Story**|Yes, work not completed|"],
+    "must": [["Yes, work not completed"]],
+    "reference": "Yes, work not completed"
+  },
+  {
+    "id": "o01",
+    "kind": "outdated-version",
+    "question": "Where does a shareholder send redemption instructions for the OAM European Value Fund?",
+    "source": [
+      "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1",
+      "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original"
+    ],
+    "evidence": [
+      "provide signed redemption instructions to the Fund at its principal office as set out above (the “principal office”)",
+      "provide signed redemption instructions to the Fund at its registered office as set out above (the “registered office”)"
+    ],
+    "must": [["principal office"], ["registered office"]],
+    "reference": "To the Fund's principal office under the 23 December 2021 addendum. That replaced the registered office named in the December 2020 offering memorandum."
+  },
+  {
+    "id": "o02",
+    "kind": "outdated-version",
+    "question": "What is the Investment Advisor's address for the OAM European Value Fund?",
+    "source": [
+      "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1",
+      "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original"
+    ],
+    "evidence": [
+      "Overseas Asset Management (Cayman) Ltd. c/o Campbells Corporate Services Limited Floor 4, Willow House, Cricket Square Grand Cayman KY1-9010, Cayman Islands",
+      "Overseas Asset Management (Cayman) Ltd. The Pavilion, Cricket Square, P.O. Box 597 Grand Cayman KY1-1107 Cayman Islands"
+    ],
+    "must": [["KY1-9010"], ["Campbells Corporate Services Limited"], ["The Pavilion, Cricket Square, P.O. Box 597"], ["KY1-1107"]],
+    "reference": "c/o Campbells Corporate Services Limited, Floor 4, Willow House, Cricket Square, Grand Cayman KY1-9010, in the 23 December 2021 addendum. That replaced The Pavilion, Cricket Square, P.O. Box 597, Grand Cayman KY1-1107, in the December 2020 offering memorandum."
+  },
+  {
+    "id": "o03",
+    "kind": "outdated-version",
+    "question": "What was the Investment Advisor's address in the December 2020 OAM offering memorandum?",
+    "source": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+    "evidence": ["Overseas Asset Management (Cayman) Ltd. The Pavilion, Cricket Square, P.O. Box 597 Grand Cayman KY1-1107 Cayman Islands"],
+    "must": [["The Pavilion, Cricket Square, P.O. Box 597"], ["KY1-1107"]],
+    "reference": "The Pavilion, Cricket Square, P.O. Box 597, Grand Cayman KY1-1107, Cayman Islands."
+  },
+  {
+    "id": "o04",
+    "kind": "outdated-version",
+    "question": "What is the cut-off time for OAM redemption requests?",
+    "source": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+    "evidence": ["at its registered office as set out above (the “registered office”). The instructions should be received not later than 3:30 p.m. Cayman time fourteen (14) days prior to the relevant Redemption Day"],
+    "must": [["3:30 p.m. Cayman time"], ["fourteen (14) days"]],
+    "reference": "Not later than 3:30 p.m. Cayman time, fourteen (14) days before the relevant Redemption Day."
+  },
+  {
+    "id": "n01",
+    "kind": "no-answer",
+    "question": "What is the asking price of 8000 Wisconsin Avenue?",
+    "source": "pdfs__gs06_8000_Wisconsin_Avenue",
+    "reference": "Not in the documents."
+  },
+  {
+    "id": "n02",
+    "kind": "no-answer",
+    "question": "What is the asking price of 88 Prospect Avenue?",
+    "source": null,
+    "reference": "Not in the documents."
+  },
+  {
+    "id": "n03",
+    "kind": "no-answer",
+    "question": "What is the cap rate for 1028 Johnson Street, Kingston?",
+    "source": "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2",
+    "reference": "Not in the documents."
+  },
+  {
+    "id": "n04",
+    "kind": "no-answer",
+    "question": "What performance fee does Centurion Apartment REIT's Asset Manager receive?",
+    "source": "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final",
+    "reference": "Not in the documents."
+  },
+  {
+    "id": "m01",
+    "kind": "multi-chunk",
+    "question": "For the Denver 33-unit project, what is the land list price and the proposed unit mix?",
+    "source": "pdfs__gs01_33_Unit_Multifamily_Development",
+    "evidence": [
+      "|Land List Price:|$1,250,000|",
+      "33 units (24 two bed/two bath, 3 two bed/1.5 bath, 6 one bed/one bath)"
+    ],
+    "must": [["$1,250,000"], ["24 two bed/two bath, 3 two bed/1.5 bath, 6 one bed/one bath"]],
+    "reference": "$1,250,000; 24 two bed/two bath, 3 two bed/1.5 bath, and 6 one bed/one bath."
+  },
+  {
+    "id": "m02",
+    "kind": "multi-chunk",
+    "question": "For 849 N Bunker Hill, what is the asking price and what amenities does it list?",
+    "source": "pdfs__gs03_849_N_Bunker_Hill_OM",
+    "evidence": [
+      "|**Price**|**$16,995,000**|",
+      "- Elevator",
+      "- Central A/C and Heat\n- Fitness Center\n- Kitchen Island",
+      "- EV Chargers in Parking Spaces",
+      "- Rooftop Lounge Area with View of L.A. Downtown and Dodger Stadium"
+    ],
+    "must": [["$16,995,000"], ["Elevator"], ["Fitness Center"], ["EV Chargers"], ["Rooftop Lounge"]],
+    "reference": "$16,995,000. Amenities include an elevator, a fitness center, EV chargers in the parking spaces, and a rooftop lounge."
+  },
+  {
+    "id": "m03",
+    "kind": "multi-chunk",
+    "question": "What did the 23 December 2021 OAM addendum change?",
+    "source": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1",
+    "evidence": [
+      "c/o Campbells Corporate Services Limited Floor 4, Willow House, Cricket Square Grand Cayman KY1-9010, Cayman Islands",
+      "Registered Office of the Fund:",
+      "Principal Office of the Fund:",
+      "signed redemption instructions to the Fund at its principal office",
+      "The Fund’s audited financial statements are filed with the CSX and are expressly incorporated herein by reference. This Offering Memorandum must be read with the Fund’s audited financial statements which are available for inspection during normal business hours on any business day (public holidays excepted) at the principal office of the Fund without charge.",
+      "Copies of the following documents are available for inspection during normal business hours on any business day (public holidays excepted) at the principal office of the Fund without charge:-",
+      "omitting the word “Law” and substituting it with the word “Act”"
+    ],
+    "must": [
+      ["KY1-9010"],
+      ["Registered Office of the Fund"],
+      ["Principal Office of the Fund"],
+      ["redemption instructions"],
+      ["audited financial statements"],
+      ["documents are available for inspection"],
+      ["substituting it with the word “Act”"]
+    ],
+    "reference": "The Investment Advisor's address; the registered office and a stated principal office; the redemption-instructions paragraph; the report-to-shareholders paragraph; the documents-available paragraph; and references to “Law”, which are deemed references to “Act”."
+  },
+  {
+    "id": "f01",
+    "kind": "fund-vs-listing",
+    "question": "What is the minimum initial subscription for the OAM European Value Fund?",
+    "source": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+    "doc_type": "fund_om",
+    "evidence": ["The minimum initial subscription is US$250,000.00 per investor."],
+    "must": [["US$250,000.00"], ["per investor"]],
+    "reference": "US$250,000.00 per investor."
+  },
+  {
+    "id": "f02",
+    "kind": "fund-vs-listing",
+    "question": "Who is the investment advisor of the OAM European Value Fund?",
+    "source": "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original",
+    "doc_type": "fund_om",
+    "evidence": ["The Investment Advisor of the Fund is Overseas Asset Management (Cayman) Ltd. The Investment Advisor is an ordinary resident company incorporated in the Cayman Islands in 1989. The Investment Advisor is licensed under the Companies Management Act (as revised)"],
+    "must": [["Overseas Asset Management (Cayman) Ltd."]],
+    "reference": "Overseas Asset Management (Cayman) Ltd."
+  },
+  {
+    "id": "f03",
+    "kind": "fund-vs-listing",
+    "question": "What is the zoning for the Denver 33-unit project?",
+    "source": "pdfs__gs01_33_Unit_Multifamily_Development",
+    "doc_type": ["listing", "single_asset_om"],
+    "evidence": ["|Zoning:|B3, Denver County|"],
+    "must": [["B3, Denver County"]],
+    "reference": "B3, Denver County"
+  }
+]
