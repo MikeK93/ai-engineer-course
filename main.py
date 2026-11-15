@@ -151,6 +151,27 @@ def cmd_index(args):
           "BM25 is rebuilt in memory from chunks.jsonl on every search.")
 
 
+def cmd_ask(args):
+    from datetime import datetime, timezone
+
+    from src.rag.answer import answer_question, answers_path
+    from src.rag.config import IndexPaths
+    from src.rag.index import Filters
+    from src.rag.retrieve import load_retriever
+
+    paths = IndexPaths()
+    if not paths.index.exists():
+        raise SystemExit(f"{paths.index} not found. Run `python main.py index` first.")
+    sys.stdout.reconfigure(errors="replace")
+    filters = Filters(doc_types=tuple(args.doc_type) if args.doc_type else None, as_of_min=args.as_of_min,
+                      include_boilerplate=args.include_boilerplate, include_skip=args.include_skip)
+    log_path = Path(args.log) if args.log else answers_path(datetime.now(timezone.utc))
+    result = answer_question(args.question, retriever=load_retriever(paths, log=print), config=args.config,
+                             filters=filters, k=args.k, log_path=log_path, log=print)
+    print(json.dumps(result.to_log(), ensure_ascii=False, indent=2))
+    print(f"Log: {log_path}")
+
+
 def cmd_search(args):
     from src.rag.config import IndexPaths
     from src.rag.index import Filters
@@ -174,7 +195,6 @@ def cmd_search(args):
 
 
 RAG_STUBS = {
-    "ask": (6, "Answer a question from retrieved chunks, with citations or an abstain"),
     "eval-retrieval": (7, "recall@k and MRR for each search config on the test set"),
     "rag-eval": (7, "Score RAG answers on the test set, run the judge, check the gate"),
     "rag-all": (9, "Run ingest, chunk, index and both evals in one go"),
@@ -190,8 +210,6 @@ def cmd_rag_stub(args):
 def _add_rag_stubs(sub):
     for name, (phase, what) in RAG_STUBS.items():
         p = sub.add_parser(name, help=f"[RAG, phase {phase}, not implemented] {what}")
-        if name == "ask":
-            p.add_argument("question")
         p.set_defaults(fn=cmd_rag_stub)
 
 
@@ -260,6 +278,17 @@ def main():
     p.add_argument("--include-boilerplate", action="store_true", help="Also search disclaimers and tables of contents")
     p.add_argument("--include-skip", action="store_true", help="Also search sale / rent comparables")
     p.set_defaults(fn=cmd_search)
+
+    p = sub.add_parser("ask", help="[RAG] Answer a question from the index, with citations")
+    p.add_argument("question")
+    p.add_argument("--config", choices=["vector", "bm25", "hybrid", "rerank"], default="rerank")
+    p.add_argument("-k", type=int, default=5, help="Chunks retrieved before packing the context")
+    p.add_argument("--doc-type", nargs="+", help="Only these document types, e.g. listing single_asset_om")
+    p.add_argument("--as-of-min", help="Only documents dated on or after this, e.g. 2024 or 2024-06")
+    p.add_argument("--include-boilerplate", action="store_true")
+    p.add_argument("--include-skip", action="store_true", help="Also use sale / rent comparables")
+    p.add_argument("--log", help="Append the JSONL record here (default output/answers-<timestamp>.jsonl)")
+    p.set_defaults(fn=cmd_ask)
 
     _add_rag_stubs(sub)
 

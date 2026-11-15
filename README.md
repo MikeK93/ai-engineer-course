@@ -173,7 +173,7 @@ Optional `.env` variables (defaults shown in `.env.example`):
 | `python main.py chunk-compare` | 4 | implemented |
 | `python main.py index` | 5 | implemented (first run embeds on CPU, about 30 min; later runs reuse `.cache/embeddings.sqlite`) |
 | `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank [-k N] [--doc-type T...] [--as-of-min YYYY] [--include-boilerplate] [--include-skip]` | 5 | implemented |
-| `python main.py ask "<question>"` | 6 | not implemented |
+| `python main.py ask "<question>" --config vector\|bm25\|hybrid\|rerank [-k N] [--doc-type T...] [--as-of-min YYYY] [--include-boilerplate] [--include-skip] [--log PATH]` | 6 | implemented (default config `rerank`; writes `output/answers-<timestamp>.jsonl`) |
 | `python main.py eval-retrieval` | 7 | not implemented |
 | `python main.py rag-eval` | 7 | not implemented |
 | `python main.py rag-all` | 9 | not implemented |

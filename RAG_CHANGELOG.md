@@ -6,6 +6,15 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-15 | Phase 6 | Answer path
+
+What: `context`, `llm_rag`, `answer`; command `ask` (default `--config rerank`, same filters as `search`, `--log`). Retrieved chunks are packed in rank order under 2,500 tokens (`tiktoken` `cl100k_base`), labelled `S1..Sn`, header `source · section · as_of`. The model (`RAG_MODEL`, prompt `prompts/rag/v1/system.txt`) is called with `response_format=RagAnswer` at temperature 0. The body is validated with `model_validate_json`; if that fails, fences and surrounding text are trimmed and validation is tried once more. Citations are stripped, unknown labels dropped, duplicates removed, then mapped back to `chunk_id`, source, section. Each question is appended to `output/answers-*.jsonl`.
+Why:
+- `src/llm.py` stays the block-1 extractor. The answer call is a separate LiteLLM request.
+- Empty retrieval, or a `found` answer with no valid label, returns the constant `Not in the documents.` and does not trust the model text. A real abstain also skips inventing citations.
+- Prompt v1: only the `<sources>` block, copy numbers and addresses exactly, the named property beats a comparable, the later `as_of` wins and the older figure is named, fund text is about the fund and listing text about the building, a similar property is not an answer. History of that prompt lives in this file.
+Effect: `1028 Johnson Street` asking price came back `$1,189,900`, cited `...Johnson_Street...#0` (S1, p.1, as_of 2026-08-10). Four of the five packed chunks were other properties; only S1 was cited. A made-up address (`1 Imaginary Lane`) was answered `Not in the documents.` with no citations, after five unrelated hits (rerank scores all negative). Model calls: 1,722 and 2,430 prompt tokens, about $0.001 each, 1.9 s and 1.5 s. Answer accuracy is not measured yet (Phase 7).
+
 ## 2026-11-13 | Phase 5 | Index and retrieval
 
 What: `embed`, `bm25`, `index`, `retrieve`, `rerank`; commands `index` and `search --config vector|bm25|hybrid|rerank` (`-k`, `--doc-type`, `--as-of-min`, `--include-boilerplate`, `--include-skip`). Hybrid = vector top 20 + BM25 top 20, RRF `1/(60+rank)`. Rerank = cross-encoder (`ms-marco-MiniLM-L-6-v2`) over the top 20 hybrid hits, best 5 kept.

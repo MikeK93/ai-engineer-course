@@ -73,7 +73,10 @@ BGE_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
 K = 5                                 # chunks sent to the model
 CANDIDATES = 20                       # per search before fusion, and into the reranker
 RRF_K = 60
-CONTEXT_BUDGET = 2500                 # tokens of sources in the prompt
+CONTEXT_BUDGET = 2500                 # tokens of sources in the prompt, counted with tiktoken (the answer model, not bge)
+ANSWER_ENCODING = "cl100k_base"       # tiktoken encoding used only for that budget
+ANSWER_TIMEOUT = 120
+ANSWER_RETRIES = 3
 
 @dataclass(frozen=True)
 class IngestPaths:
