@@ -175,7 +175,7 @@ Optional `.env` variables (defaults shown in `.env.example`):
 | `python main.py search "<query>" --config vector\|bm25\|hybrid\|rerank [-k N] [--doc-type T...] [--as-of-min YYYY] [--include-boilerplate] [--include-skip]` | 5 | implemented |
 | `python main.py ask "<question>" --config vector\|bm25\|hybrid\|rerank [-k N] [--doc-type T...] [--as-of-min YYYY] [--include-boilerplate] [--include-skip] [--log PATH]` | 6 | implemented (default config `rerank`; writes `output/answers-<timestamp>.jsonl`) |
 | `python main.py lint-testset` | 7 | implemented |
-| `python main.py eval-retrieval` | 7 | not implemented |
+| `python main.py eval-retrieval [-k N]` | 7 | implemented (vector, bm25, hybrid, rerank on answerable cases; writes `output/retrieval-<timestamp>.json`) |
 | `python main.py rag-eval` | 7 | not implemented |
 | `python main.py rag-all` | 9 | not implemented |
 

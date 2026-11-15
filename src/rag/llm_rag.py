@@ -18,7 +18,7 @@ from .config import ANSWER_RETRIES, ANSWER_TIMEOUT, RAG_MODEL, RAG_PROMPTS
 
 litellm.suppress_debug_info = True
 
-PROMPT_VERSION = "v1"
+PROMPT_VERSION = "v2"
 SYSTEM_PROMPT = RAG_PROMPTS / PROMPT_VERSION / "system.txt"
 
 

@@ -178,6 +178,13 @@ def cmd_lint_testset(_args):
     raise SystemExit(run())
 
 
+def cmd_eval_retrieval(args):
+    from src.rag_eval.retrieval_eval import run
+
+    sys.stdout.reconfigure(errors="replace")
+    raise SystemExit(run(k=args.k))
+
+
 def cmd_search(args):
     from src.rag.config import IndexPaths
     from src.rag.index import Filters
@@ -201,7 +208,6 @@ def cmd_search(args):
 
 
 RAG_STUBS = {
-    "eval-retrieval": (7, "recall@k and MRR for each search config on the test set"),
     "rag-eval": (7, "Score RAG answers on the test set, run the judge, check the gate"),
     "rag-all": (9, "Run ingest, chunk, index and both evals in one go"),
 }
@@ -298,6 +304,10 @@ def main():
 
     sub.add_parser("lint-testset", help="[RAG] Check evals/testset.json against data/chunks.jsonl").set_defaults(
         fn=cmd_lint_testset)
+
+    p = sub.add_parser("eval-retrieval", help="[RAG] recall@k and MRR for each search config on the answerable test cases")
+    p.add_argument("-k", type=int, default=5, help="Chunks retrieved per question")
+    p.set_defaults(fn=cmd_eval_retrieval)
 
     _add_rag_stubs(sub)
 

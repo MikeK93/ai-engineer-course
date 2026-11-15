@@ -6,6 +6,27 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-15 | Phase 6 | Answer prompt v2
+
+What: `prompts/rag/v2/system.txt`. `PROMPT_VERSION` in `src/rag/llm_rag.py` is `v2`. `prompts/rag/v1/system.txt` is unchanged. v2 keeps every v1 rule and adds commercial real estate wording taken from `prompts/v4.md` and `src/schema.py`: a story is a floor (Single Story = 1, 21 stories = 21; also Floor Plans and Highlights), soft-story is a structural condition, lot size is the listing size in square feet (also acres, square meters, hectares), SF means square feet, units are property units, asking price is the numeric total price and usually sits in Pricing & Financial Summary, price per square foot and price per unit are separate, the seller is the broker, the property name is not the street address, property type is the listed type rather than a future plan, and Opportunity and Comparables sections are other properties.
+Why: questions say "floors", "lot size", and "asking price" while the brochures say "20-story", "Lot Size", and "Asking Price". The glossary only tells the model how to read those words. Extractor exceptions (inferring country and condition) stay out, so a missing fact is still "Not in the documents."
+Effect: not measured. Answer accuracy is still open.
+
+## 2026-11-15 | Phase 7 | Retrieval metrics
+
+What: `src/rag_eval/retrieval_eval.py` and `python main.py eval-retrieval`. Scores the answerable cases only (a no-answer row has no relevant chunk). recall@k is the mean share of relevant chunk ids in the top k. MRR is the mean of 1/rank of the first one, or 0. A miss is a question missing at least one of those ids. A case `doc_type` is applied with the same `Filters` as `search`. The table is also written to `output/retrieval-<timestamp>.json`. No answer model call.
+Why: an answer score cannot tell a missed chunk from a bad generation. The metric function takes rankings and nothing else, so the 0.67 / 0.50 check does not load the index.
+Effect: 25 answerable questions, k=5. Vector and rerank averages include loading the model on the first query.
+
+| Config | recall@5 | MRR | ms/query | Miss |
+|---|---|---|---|---|
+| vector | 0.85 | 0.75 | 813.6 | p02, p03, o02, m01, m02, m03 |
+| bm25 | 0.84 | 0.66 | 18.1 | p02, p05, o02, m03, f02 |
+| hybrid | 0.88 | 0.85 | 254.0 | p02, p05, o02, m03 |
+| rerank | 0.92 | 0.82 | 3061.8 | p02, m02, m03 |
+
+p02 (Wisconsin floors) is missing in every config. m03 lists more evidence chunks than k=5 can hold, so it stays a partial miss. Rerank raises recall and drops m02, which hybrid had found.
+
 ## 2026-11-15 | Phase 7 | Test-set lint
 
 What: `src/rag_eval/lint.py` and `python main.py lint-testset`. Each evidence quote must be in exactly one expected document and in no other. `must` groups are AND, options inside a group are OR, and a hit has to be in a chunk that contains the quote. A heading counts, because retrieval searches `embed_prefix` plus the text. No-answer rows have no evidence, no `must`, and the abstain sentence. Chunk ids are returned at run time and are not written into `evals/testset.json`.
