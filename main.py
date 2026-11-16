@@ -185,6 +185,13 @@ def cmd_eval_retrieval(args):
     raise SystemExit(run(k=args.k))
 
 
+def cmd_rag_eval(args):
+    from src.rag_eval.run import run
+
+    sys.stdout.reconfigure(errors="replace")
+    raise SystemExit(run(repeat=args.repeat, k=args.k))
+
+
 def cmd_search(args):
     from src.rag.config import IndexPaths
     from src.rag.index import Filters
@@ -208,7 +215,6 @@ def cmd_search(args):
 
 
 RAG_STUBS = {
-    "rag-eval": (7, "Score RAG answers on the test set, run the judge, check the gate"),
     "rag-all": (9, "Run ingest, chunk, index and both evals in one go"),
 }
 
@@ -308,6 +314,11 @@ def main():
     p = sub.add_parser("eval-retrieval", help="[RAG] recall@k and MRR for each search config on the answerable test cases")
     p.add_argument("-k", type=int, default=5, help="Chunks retrieved per question")
     p.set_defaults(fn=cmd_eval_retrieval)
+
+    p = sub.add_parser("rag-eval", help="[RAG] Answer the test set, score it, run the judge, check the gate")
+    p.add_argument("--repeat", type=int, default=1, help="Answer the set this many times")
+    p.add_argument("-k", type=int, default=5, help="Chunks retrieved per question")
+    p.set_defaults(fn=cmd_rag_eval)
 
     _add_rag_stubs(sub)
 

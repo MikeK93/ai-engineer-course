@@ -6,6 +6,24 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-16 | Phase 6 | The answer sees the document title
+
+What: each source block in the answer prompt is `source · embed_prefix · as_of`, then the chunk text. `embed_prefix` is the document title plus the section.
+Why: search embeds that prefix, but the answer model only saw the file name and the section. For the Paramount lease, "Paramount" is in the title and not in the chunk text, so the model had `$7,937` and the fenced yard and still abstained.
+Effect: not re-measured. The previous p03 abstain is the case this changes.
+
+## 2026-11-15 | Phase 4 | A bare title leaves a disclaimer section
+
+What: a plain all-caps title (`PROPERTY OVERVIEW`) that follows a disclaimer, confidentiality, or contents heading starts its own section. `PIPELINE_VERSION` is `rag-v3`.
+Why: the converter left that title as a normal line, and the line before it was the OCR scrap `COFFESI`, so the 20-story description of 8000 Wisconsin Avenue stayed inside `NOTICE OF CONFIDENTIALITY` and was tagged boilerplate. Search drops boilerplate, so the floor count could not be retrieved.
+Effect: that paragraph is now `OFFERING MEMORANDUM > PROPERTY OVERVIEW`, kind `content`. Re-chunk of the corpus: 4,628 to 4,629 chunks, boilerplate still 56.
+
+## 2026-11-15 | Phase 7 | Answer scoring, judge, and gate
+
+What: `score`, `judge`, `gate`, `run`, and `python main.py rag-eval [--repeat N]`. Facts match `must` groups after normalization, with prices and decimals within 1% and years and small counts exact. `cited` needs an evidence chunk among the citations. No-answer scores `abstain` only. The judge (`JUDGE_MODEL`, `prompts/rag/judge-v1/`) returns `reason` then `verdict`, with the reference in the prompt. Groundedness splits the answer into claims against the cited chunk text, and an abstain makes no judge call. The gate uses floors (`recall@5` 0.8, `pass` 0.7, `abstain` 1.0, `grounded` 0.85) and, once `evals/baseline.json` exists, a 0.05 tolerance with `false_abstain` lower-is-better plus per-case regressions. The report is `output/report-<prompt>-<timestamp>.md` and `output/eval-<prompt>-<timestamp>.json`, including cost per 1000 questions from the measured tokens.
+Why: a keyword can pass for the wrong reason, and a right fact from the wrong document should fail. The judge covers the wording a string cannot see. Floors fail a weak run before a baseline exists. The report is written even when the gate fails, so the answers can be labeled.
+Effect: one `rag-eval` on prompt v2, 29 questions, rerank. recall@5 0.92, pass 0.69, facts 0.76, cited 0.84, abstain 0.50, false_abstain 0.12, judge 0.69, grounded 0.92. Exact 6/6. Multi-chunk 0/3. The gate failed the initial floors on pass (0.69 < 0.70) and abstain (0.50 < 1.0). Answers cost $1.70 per 1000 questions, the judge $0.21. Floors stay as set until the hand labels.
+
 ## 2026-11-15 | Phase 6 | Answer prompt v2
 
 What: `prompts/rag/v2/system.txt`. `PROMPT_VERSION` in `src/rag/llm_rag.py` is `v2`. `prompts/rag/v1/system.txt` is unchanged. v2 keeps every v1 rule and adds commercial real estate wording taken from `prompts/v4.md` and `src/schema.py`: a story is a floor (Single Story = 1, 21 stories = 21; also Floor Plans and Highlights), soft-story is a structural condition, lot size is the listing size in square feet (also acres, square meters, hectares), SF means square feet, units are property units, asking price is the numeric total price and usually sits in Pricing & Financial Summary, price per square foot and price per unit are separate, the seller is the broker, the property name is not the street address, property type is the listed type rather than a future plan, and Opportunity and Comparables sections are other properties.

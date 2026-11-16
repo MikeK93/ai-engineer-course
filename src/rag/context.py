@@ -2,9 +2,11 @@
 
 Chunks are taken in rank order. A chunk that does not fit in `CONTEXT_BUDGET` is skipped and the next
 one is tried, so one long chunk cannot push out a shorter one behind it. Packed chunks are labelled
-`S1`, `S2`, ... and the header of each is `source · section · as_of`. The token counter is tiktoken,
-because this budget limits the answer model's prompt, not the embedding model. It is injected, so
-tests do not depend on an encoding.
+`S1`, `S2`, ... and the header of each is `source · embed_prefix · as_of`. `embed_prefix` is the
+document title plus the section, the same string search embeds. The chunk text often omits the city,
+which lives only in that title. When a chunk has no prefix, the header uses `section`. The token
+counter is tiktoken, because this budget limits the answer model's prompt, not the embedding model.
+It is injected, so tests do not depend on an encoding.
 """
 
 from collections.abc import Callable
@@ -41,7 +43,8 @@ def pack_context(hits: list, *, budget: int = CONTEXT_BUDGET,
 
 
 def _block(label: str, chunk: dict) -> str:
-    header = f"[{label}] {chunk['source']} · {chunk['section']} · {chunk['as_of']}"
+    place = chunk.get("embed_prefix") or chunk.get("section") or ""
+    header = f"[{label}] {chunk['source']} · {place} · {chunk['as_of']}"
     return f"{header}\n{chunk['text']}"
 
 

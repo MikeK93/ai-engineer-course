@@ -30,6 +30,16 @@ def test_small_parent_keeps_its_child_subsection():
     assert chunk.section == "Parent" and "Child\n\nc0 " in chunk.text
 
 
+def test_a_bare_title_escapes_a_boilerplate_section():
+    body = ("### NOTICE OF CONFIDENTIALITY\n\n" + sentence(40, "legal")
+            + "\n\nPROPERTY OVERVIEW\n\nThe 20-story building has 437 units.\n")
+    chunks = chunk_document(front(), body, words, target=200, cap=300, min_tokens=40)
+    assert chunks[0].kind == "boilerplate" and "20-story" not in chunks[0].text
+    assert chunks[1].section == "PROPERTY OVERVIEW" and chunks[1].kind == "content"
+    assert chunks[1].title == "Test Doc"
+    assert chunks[1].text.startswith("The 20-story building")
+
+
 def test_boilerplate_section_does_not_swallow_the_following_section():
     body = (f"# Table of Contents\n\nSummary . . . 4\n\n## Offering Summary\n\n| Price | $1,250,000 |\n|---|---|\n"
             f"| Size | 34,076 SF |\n\n{sentence(30, 'o')}\n")

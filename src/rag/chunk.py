@@ -181,6 +181,32 @@ def _join_split_paragraphs(blocks: list[_Block]) -> list[_Block]:
     return out
 
 
+def _section_title(line: str) -> str | None:
+    """A bare section title, for example `PROPERTY OVERVIEW`.
+
+    The converter often leaves these as plain lines. Two to six all-caps words, no digits, so a
+    contents line like `01 PROPERTY OVERVIEW 02 FLOOR PLANS` and a one-word scrap stay text.
+    """
+    words = line.strip().split()
+    if not 2 <= len(words) <= 6 or _is_boilerplate_heading(line):
+        return None
+    if all(re.fullmatch(r"[A-Z][A-Z&/-]*", word) for word in words):
+        return line.strip()
+    return None
+
+
+def _title_split(text: str) -> tuple[str, str, str] | None:
+    """`(title, text before it, text after it)` when a line of `text` is a bare section title."""
+    lines = text.split("\n")
+    for index, line in enumerate(lines):
+        title = _section_title(line)
+        if title:
+            before = "\n".join(lines[:index]).strip()
+            after = "\n".join(lines[index + 1:]).strip()
+            return title, before, after
+    return None
+
+
 def _looks_like_title(block: _Block) -> bool:
     """A short single line the converter did not mark as a heading, for example `INVESTMENT OVERVIEW`."""
     text = block.text
@@ -355,24 +381,42 @@ def _cut(front: dict, body: str, count: Counter, target: int, cap: int, min_toke
         ))
         parts, pages, used, ctx = [], set(), 0, None
 
+    def open_heading(block: _Block) -> None:
+        nonlocal parts, pages, used
+        # The converter's heading levels are unreliable: later sections often come out as children of
+        # "Table of contents" or "Disclaimer". Those headings never contain subsections.
+        stack[:] = [(level, name) for level, name in stack if not _is_boilerplate_heading(name)]
+        while stack and stack[-1][0] >= block.level:
+            stack.pop()
+        stack.append((block.level, block.text))
+        if parts:
+            # A small chunk keeps its own child subsection; any other heading starts a new chunk.
+            is_child = bool(ctx.stack) and len(stack) > len(ctx.stack) and tuple(stack[:len(ctx.stack)]) == ctx.stack
+            clean = not _is_boilerplate_heading(block.text) and not _is_boilerplate_heading(ctx.stack[-1][1]) if ctx.stack else False
+            if is_child and clean and used < min_tokens:
+                parts.append(block.text)
+                pages.add(block.page)
+                used += count(block.text)
+            else:
+                flush()
+
     for block in _parse_blocks(body, _first_page(front)):
-        if block.kind == "heading":
-            # The converter's heading levels are unreliable: later sections often come out as children of
-            # "Table of contents" or "Disclaimer". Those headings never contain subsections.
-            stack[:] = [(level, name) for level, name in stack if not _is_boilerplate_heading(name)]
-            while stack and stack[-1][0] >= block.level:
-                stack.pop()
-            stack.append((block.level, block.text))
-            if parts:
-                # A small chunk keeps its own child subsection; any other heading starts a new chunk.
-                is_child = bool(ctx.stack) and len(stack) > len(ctx.stack) and tuple(stack[:len(ctx.stack)]) == ctx.stack
-                clean = not _is_boilerplate_heading(block.text) and not _is_boilerplate_heading(ctx.stack[-1][1]) if ctx.stack else False
-                if is_child and clean and used < min_tokens:
-                    parts.append(block.text)
+        if block.kind == "paragraph" and stack and _is_boilerplate_heading(stack[-1][1]):
+            split = _title_split(block.text)
+            if split:
+                # A plain title after a disclaimer starts a real section. Anything before it, such as an
+                # OCR scrap on the previous page, stays in the disclaimer chunk.
+                heading, before, after = split
+                if before:
+                    parts.append(before)
                     pages.add(block.page)
-                    used += count(block.text)
-                else:
-                    flush()
+                    used += count(before)
+                open_heading(_Block("heading", heading, block.page, 2))
+                if not after:
+                    continue
+                block = _Block(block.kind, after, block.page)
+        if block.kind == "heading":
+            open_heading(block)
             continue
 
         new_ctx = context(block.page)

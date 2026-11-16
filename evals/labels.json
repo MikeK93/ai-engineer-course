@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p02",
+    "correct": false,
+    "grounded": true,
+    "note": "Abstain. The reference is 20 stories, and that chunk was not retrieved."
+  },
+  {
+    "id": "p03",
+    "correct": false,
+    "grounded": true,
+    "note": "Abstain. The reference is $7,937 per month."
+  },
+  {
+    "id": "s01",
+    "correct": null,
+    "grounded": null,
+    "note": "Answer says plans to build 33 units. Reference says 33 apartment units. Read the cited chunk before setting either flag."
+  },
+  {
+    "id": "s04",
+    "correct": null,
+    "grounded": null,
+    "note": "Answer says the soft-story work is not completed. Reference is 'Yes, work not completed'. Check the cited chunk."
+  },
+  {
+    "id": "o02",
+    "correct": null,
+    "grounded": null,
+    "note": "Answer gives the 2021 address and the company name. Reference also requires the 2020 address it replaced."
+  },
+  {
+    "id": "o03",
+    "correct": null,
+    "grounded": null,
+    "note": "Answer has the 2020 address plus the company name. Reference is only the address. Check that the name is in the cited chunk."
+  },
+  {
+    "id": "n03",
+    "correct": false,
+    "grounded": false,
+    "note": "Computes a 4.38% cap rate. The reference says the documents do not state one."
+  },
+  {
+    "id": "n04",
+    "correct": null,
+    "grounded": null,
+    "note": "Reference is an abstain. Answer describes a carry allocation and says the percentage is not stated."
+  },
+  {
+    "id": "m01",
+    "correct": null,
+    "grounded": null,
+    "note": "Price matches. Unit mix differs from the reference. Check whether the cited chunks actually say this mix."
+  },
+  {
+    "id": "m02",
+    "correct": false,
+    "grounded": true,
+    "note": "Abstain. The reference states the price and the amenities."
+  },
+  {
+    "id": "m03",
+    "correct": null,
+    "grounded": null,
+    "note": "Answer names some addendum changes and does not mention the registered office, principal office, or the report-to-shareholders paragraph."
+  },
+  {
+    "id": "e04",
+    "correct": true,
+    "grounded": true,
+    "note": "Asking price is $1,189,900, cited from the Johnson Street brochure."
+  },
+  {
+    "id": "n01",
+    "correct": true,
+    "grounded": true,
+    "note": "Abstain, and the reference is an abstain."
+  },
+  {
+    "id": "o04",
+    "correct": true,
+    "grounded": true,
+    "note": "States the 3:30 p.m. Cayman time cutoff, fourteen days before the Redemption Day."
+  },
+  {
+    "id": "f01",
+    "correct": true,
+    "grounded": true,
+    "note": "States US$250,000 per investor, and adds a waiver by the Board. Confirm the waiver is in the cited chunk."
+  }
+]

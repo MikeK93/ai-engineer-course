@@ -380,7 +380,7 @@
     },
     "pdfs__gs06_8000_Wisconsin_Avenue": {
       "boilerplate": 3,
-      "chunks": 24,
+      "chunks": 25,
       "dropped_duplicate": 0,
       "dropped_pagination": 0,
       "dropped_short": 0,
@@ -434,10 +434,10 @@
   ],
   "max_tokens": 493,
   "n_boilerplate": 56,
-  "n_chunks": 4628,
+  "n_chunks": 4629,
   "n_ocr": 208,
   "n_page_sections": 11,
   "over_cap": [],
-  "pipeline_version": "rag-v2",
+  "pipeline_version": "rag-v3",
   "tokenizer": "BAAI/bge-small-en-v1.5"
 }

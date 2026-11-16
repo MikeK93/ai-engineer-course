@@ -38,6 +38,13 @@ def test_pack_keeps_rank_order_labels_and_skips_what_does_not_fit():
     assert "beta" not in packed.text and packed.n_tokens <= 80
 
 
+def test_pack_shows_the_embed_prefix_when_the_body_omits_the_city():
+    item = hit(0, "Lease Rate/Mo: $7,937 and a fenced contractor's yard.")
+    item.chunk["embed_prefix"] = "16213 Illinois Ave, Paramount, CA - Industrial For Lease | Illinois Ave/Monroe St"
+    packed = pack_context([item], budget=1000, count=words)
+    assert "Paramount" in packed.text and "$7,937" in packed.text
+
+
 def test_pack_of_nothing_is_empty():
     assert pack_context([], budget=100, count=words).labels == {}
 

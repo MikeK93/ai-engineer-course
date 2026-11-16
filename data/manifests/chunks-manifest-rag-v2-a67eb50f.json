@@ -1,0 +1,443 @@
+{
+  "cleanup": {
+    "dropped_duplicate": 89,
+    "dropped_pagination": 11,
+    "dropped_short": 21,
+    "skip_candidates": 22,
+    "squashed": 593
+  },
+  "dataset_version": "a2ac54a7946c",
+  "docs": {
+    "html__20-ohltown-rd-austintown-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "html__2223-barrett-drive-greenfield-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 3
+    },
+    "html__5301-e-39th-ave-denver-sale": {
+      "boilerplate": 0,
+      "chunks": 2,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 3
+    },
+    "html__600-coolidge-dr-folsom-lease": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 1
+    },
+    "html__6515-carnegie-avenue-cleveland-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "html__6855-philips-hwy-jacksonville-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "html__6900-w-morelos-pl-chandler-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "html__8747-squires-ln-ne-warren-sale": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "html__km-8-carretera-antigua-a-minatitln-av-universidad-col-el-encanto-coatzacoalcos-sale": {
+      "boilerplate": 0,
+      "chunks": 5,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 3
+    },
+    "html__terra-cotta-road-lake-elsinore-sale": {
+      "boilerplate": 0,
+      "chunks": 2,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 3
+    },
+    "pdfs__1028_Johnson_Street_Listing_Brochure_1__compressed_2": {
+      "boilerplate": 0,
+      "chunks": 2,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 1
+    },
+    "pdfs__250225-Offering-Memorandum-RESCO-MIC-Class-B-Pref-Shares": {
+      "boilerplate": 3,
+      "chunks": 348,
+      "dropped_duplicate": 16,
+      "dropped_pagination": 1,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 49
+    },
+    "pdfs__4Q-Partners---EN---Final-Offering-Memorandum-Nov-2020-FINAL-75c9a0bb-bc02-4f4f-9552-515008c913a2": {
+      "boilerplate": 0,
+      "chunks": 574,
+      "dropped_duplicate": 17,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 46
+    },
+    "pdfs__AIE-REIT-2025-Offering-Memorandum-with-FS-Conformed5371153.1": {
+      "boilerplate": 3,
+      "chunks": 343,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 6,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 40
+    },
+    "pdfs__BGMFll-Offering-Memorandum_03.31.2026_1": {
+      "boilerplate": 1,
+      "chunks": 137,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 2,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 20
+    },
+    "pdfs__Centurion_REIT_Offering_Memorandum_April_2025_August_2025_Final": {
+      "boilerplate": 4,
+      "chunks": 551,
+      "dropped_duplicate": 1,
+      "dropped_pagination": 0,
+      "dropped_short": 4,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 164
+    },
+    "pdfs__Equiton-EREID-Offering-Memorandum-and-Financials-EN-20240425": {
+      "boilerplate": 4,
+      "chunks": 388,
+      "dropped_duplicate": 2,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 43
+    },
+    "pdfs__Fort_Myers_2-Pack_Offering_Memorandum": {
+      "boilerplate": 5,
+      "chunks": 158,
+      "dropped_duplicate": 4,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 3,
+      "squashed": 6
+    },
+    "pdfs__LMIC-OM-FINAL-Oct-28-2025": {
+      "boilerplate": 3,
+      "chunks": 245,
+      "dropped_duplicate": 25,
+      "dropped_pagination": 1,
+      "dropped_short": 0,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 36
+    },
+    "pdfs__Listing-Brochure-Tesson-Hills-1": {
+      "boilerplate": 1,
+      "chunks": 5,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "pdfs__Lund-PointeApts_OfferingMemorandum": {
+      "boilerplate": 0,
+      "chunks": 13,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 7,
+      "dropped_short": 1,
+      "page_sections": 0,
+      "skip_candidates": 2,
+      "squashed": 5
+    },
+    "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@addendum-1": {
+      "boilerplate": 0,
+      "chunks": 7,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "pdfs__OAM-European-Value-Fund-Offering-Memorandum-2020-12-31---Addendum-2021-12-23@original": {
+      "boilerplate": 1,
+      "chunks": 131,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 1,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 23
+    },
+    "pdfs__PORTER_SQUARE_SHOPPING_CENTER": {
+      "boilerplate": 0,
+      "chunks": 13,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 0
+    },
+    "pdfs__Retreat_at_Arcway_Investor_Memorandum": {
+      "boilerplate": 0,
+      "chunks": 71,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 4,
+      "squashed": 10
+    },
+    "pdfs__Shannon-Lake-Listing-Brochure-1-1-1": {
+      "boilerplate": 0,
+      "chunks": 5,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "pdfs__Topaz": {
+      "boilerplate": 3,
+      "chunks": 31,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 1,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 9
+    },
+    "pdfs__VIOCITY_REAL_ESTATE_INVESTMENT_TRUST": {
+      "boilerplate": 3,
+      "chunks": 234,
+      "dropped_duplicate": 1,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 18
+    },
+    "pdfs__b0d07518-2a0c-4e0b-ad0a-83421417a6eb": {
+      "boilerplate": 3,
+      "chunks": 17,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 11
+    },
+    "pdfs__connave-2025-r03-offering-memorandum": {
+      "boilerplate": 11,
+      "chunks": 1088,
+      "dropped_duplicate": 23,
+      "dropped_pagination": 0,
+      "dropped_short": 2,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 29
+    },
+    "pdfs__document": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 3,
+      "skip_candidates": 0,
+      "squashed": 0
+    },
+    "pdfs__formca": {
+      "boilerplate": 1,
+      "chunks": 117,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 13
+    },
+    "pdfs__gs01_33_Unit_Multifamily_Development": {
+      "boilerplate": 2,
+      "chunks": 12,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 7
+    },
+    "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM": {
+      "boilerplate": 2,
+      "chunks": 13,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 1,
+      "page_sections": 0,
+      "skip_candidates": 6,
+      "squashed": 5
+    },
+    "pdfs__gs03_849_N_Bunker_Hill_OM": {
+      "boilerplate": 1,
+      "chunks": 24,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 2,
+      "dropped_short": 1,
+      "page_sections": 0,
+      "skip_candidates": 7,
+      "squashed": 5
+    },
+    "pdfs__gs04_5623_Meridian_Los_Angeles": {
+      "boilerplate": 1,
+      "chunks": 12,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 4
+    },
+    "pdfs__gs05_6563_OASIS_AVENUE_-_TWENTYNINE_PALMS_CA_92277": {
+      "boilerplate": 1,
+      "chunks": 18,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 1,
+      "page_sections": 1,
+      "skip_candidates": 0,
+      "squashed": 7
+    },
+    "pdfs__gs06_8000_Wisconsin_Avenue": {
+      "boilerplate": 3,
+      "chunks": 24,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 2
+    },
+    "pdfs__gs10_document": {
+      "boilerplate": 0,
+      "chunks": 6,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 1,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 8
+    },
+    "pdfs__gs7_a3a5f396-7f32-4b27-bec3-6d8a06525a08": {
+      "boilerplate": 0,
+      "chunks": 2,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 1
+    },
+    "pdfs__gs8_COMMGATE_FLYER_67.0_acres_I-45_and_FM_2004": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 1
+    },
+    "pdfs__gs9_16213-Illinois-Ave-AIR-Listing-Brochure-Industrial-for-Lease-1": {
+      "boilerplate": 0,
+      "chunks": 3,
+      "dropped_duplicate": 0,
+      "dropped_pagination": 0,
+      "dropped_short": 0,
+      "page_sections": 0,
+      "skip_candidates": 0,
+      "squashed": 1
+    }
+  },
+  "kept_whole_sentence_above_cap": [
+    "pdfs__connave-2025-r03-offering-memorandum#458"
+  ],
+  "max_tokens": 493,
+  "n_boilerplate": 56,
+  "n_chunks": 4628,
+  "n_ocr": 208,
+  "n_page_sections": 11,
+  "over_cap": [],
+  "pipeline_version": "rag-v2",
+  "tokenizer": "BAAI/bge-small-en-v1.5"
+}

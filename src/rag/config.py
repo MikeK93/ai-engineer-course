@@ -37,7 +37,7 @@ RAG_PROMPTS = PROMPTS / "rag"         # prompts/rag/v2/system.txt, judge-v1/...
 EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
 
 # --- pipeline constants -----------------------------------------------------
-PIPELINE_VERSION = "rag-v2"           # bump when ingest or chunk behavior changes
+PIPELINE_VERSION = "rag-v3"           # bump when ingest or chunk behavior changes
 EXTRACT_VERSION = "extract-v2"        # bump when an extractor changes: invalidates the extraction cache
 EXTRACT_CACHE = CACHE_DIR / "ingest"  # extracted pages, keyed by file hash + EXTRACT_VERSION
 
