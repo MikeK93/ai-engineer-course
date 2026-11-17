@@ -180,6 +180,7 @@ Optional `.env` variables (defaults shown in `.env.example`):
 | `python main.py calibrate [--eval FILE]` | 7 | implemented (re-judges the 15 labeled answers; writes `output/calibration-judge-v1-<timestamp>.json`) |
 | `python main.py save-baseline [--eval FILE]` | 7 | implemented (writes `evals/baseline.json` from a `rag-eval --repeat 3` JSON) |
 | `python main.py k-sweep` | 7 | implemented (k=3, 5, 10; writes `RAG_REPORT.md`) |
+| `python main.py aggregate-reports` | 7 | implemented (one row per `output/report-v*.md` in `RAG_REPORT.md`) |
 | `python main.py rag-all` | 9 | not implemented |
 
 `rag-eval` is not called `eval` because `python main.py eval RUN_DIR` already scores block-1 extraction runs.

@@ -1,4 +1,4 @@
-"""Run the answer eval. Public API: `run`.
+"""Run the answer eval. Public API: `run`, `format_facts_delta`.
 
 Lints the test set, scores retrieval, answers every case, then scores facts, citations, abstain,
 correctness, and groundedness. `--repeat N` answers the set N times. The report is
@@ -21,7 +21,7 @@ from src.rag_eval.gate import gate
 from src.rag_eval.judge import Judgement, judge_correct, judge_grounded
 from src.rag_eval.lint import TESTSET, lint
 from src.rag_eval.retrieval_eval import evaluate, format_report
-from src.rag_eval.score import aggregate, score_case, stability
+from src.rag_eval.score import aggregate, missing_groups, score_case, stability
 
 BASELINE = EVALS_DIR / "baseline.json"
 
@@ -70,12 +70,16 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
     questions = len(cases) * repeat
     baseline = json.loads(baseline_path.read_text(encoding="utf-8")) if baseline_path.exists() else None
     failures = gate(metrics, baseline=baseline, passed={row["id"] for row in runs[-1] if row["pass"]})
+    source, previous = _baseline_cases(baseline)
 
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     report = report_path or OUTPUT_DIR / f"report-{PROMPT_VERSION}-{stamp}.md"
     payload = eval_path or OUTPUT_DIR / f"eval-{PROMPT_VERSION}-{stamp}.json"
     report.parent.mkdir(parents=True, exist_ok=True)
-    body = _markdown(metrics, steady, spent, questions, retrieval, runs[-1], failures)
+    body = _markdown(
+        metrics, steady, spent, questions, retrieval, runs[-1], failures,
+        format_facts_delta(runs[-1], previous, source=source) if baseline else "",
+    )
     report.write_text(body, encoding="utf-8")
     payload.write_text(json.dumps({
         "prompt": PROMPT_VERSION, "repeat": repeat, "k": k, "config": config,
@@ -113,6 +117,7 @@ def _once(cases, relevant, texts, answer, correct, grounded, log) -> list[dict]:
         support = _safe(grounded, (result.answer, result.found, sources), log, case["id"], "grounded")
         row = {
             "id": case["id"], "kind": case["kind"], "question": case["question"],
+            "must": case.get("must") or [],
             "reference": case["reference"], "answer": result.answer, "found": result.found,
             "cited_ids": list(result.cited_ids), "relevant": list(relevant.get(case["id"], ())),
             "prompt_tokens": result.prompt_tokens, "completion_tokens": result.completion_tokens,
@@ -184,7 +189,60 @@ def _cost_block(spent: dict, questions: int) -> dict:
     }
 
 
-def _markdown(metrics, steady, spent, questions, retrieval, rows, failures) -> str:
+def format_facts_delta(current: list[dict], previous: list[dict] | None, *, source: str) -> str:
+    """Cases whose facts score changed against the baseline's saved run."""
+    lines = ["## Facts compared with the baseline run", ""]
+    if previous is None:
+        where = f"`{source}`" if source else "the baseline source"
+        lines += [
+            f"{where} is not in output/, so this report cannot name which cases changed.",
+            "",
+        ]
+        return "\n".join(lines)
+    before = {row["id"]: row.get("facts") for row in previous}
+    fell = [row for row in current if before.get(row["id"]) is True and row.get("facts") is False]
+    rose = [row for row in current if before.get(row["id"]) is False and row.get("facts") is True]
+    lines += [
+        "The gate's facts number is the average across the baseline's repeats. "
+        f"These cases are compared with the saved run `{source}`, the only per-case record.",
+        "",
+        _change_block("Fell", fell, show_missing=True),
+        _change_block("Rose", rose, show_missing=False),
+    ]
+    return "\n".join(lines)
+
+
+def _baseline_cases(baseline: dict | None) -> tuple[str, list[dict] | None]:
+    if not baseline:
+        return "", None
+    source = str(baseline.get("source") or "")
+    path = OUTPUT_DIR / source if source else None
+    if path is None or not path.exists():
+        return source, None
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    return source, list(payload.get("cases") or [])
+
+
+def _change_block(title: str, rows: list[dict], *, show_missing: bool) -> str:
+    lines = [f"### {title}", ""]
+    if not rows:
+        return "\n".join(lines + ["None.", ""])
+    for row in rows:
+        lines += [f"#### {row['id']}", ""]
+        if show_missing:
+            lines += [
+                f"Facts missing: {_groups(missing_groups(row.get('must') or [], row.get('answer') or ''))}",
+                "",
+            ]
+        lines += [f"Answer: {row.get('answer') or ''}", ""]
+    return "\n".join(lines)
+
+
+def _groups(groups: list[list[str]]) -> str:
+    return "; ".join(", ".join(group) for group in groups) or "none"
+
+
+def _markdown(metrics, steady, spent, questions, retrieval, rows, failures, facts_delta: str = "") -> str:
     cost = _cost_block(spent, questions)
     lines = [
         f"# RAG eval {PROMPT_VERSION}",
@@ -237,9 +295,14 @@ def _markdown(metrics, steady, spent, questions, retrieval, rows, failures) -> s
             f"Judge: {row['judge_reason'] or 'none'}",
             "",
         ]
+        if row["facts"] is False:
+            lines.append(f"Facts missing: {_groups(missing_groups(row.get('must') or [], row['answer']))}")
+            lines.append("")
         if row["unsupported"]:
             lines.append("Unsupported: " + "; ".join(row["unsupported"]))
             lines.append("")
+    if facts_delta:
+        lines += [facts_delta.rstrip(), ""]
     lines += ["## Gate", ""]
     lines.append("\n".join(failures) if failures else "Passed.")
     lines.append("")

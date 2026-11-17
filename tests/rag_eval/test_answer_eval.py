@@ -6,8 +6,8 @@ from types import SimpleNamespace
 from src.rag.answer import ABSTAIN, AnswerResult
 from src.rag_eval.gate import gate
 from src.rag_eval.judge import Claims, Judgement, Verdict, judge_correct, judge_grounded
-from src.rag_eval.run import cost_per_1000, run
-from src.rag_eval.score import aggregate, score_case, stability
+from src.rag_eval.run import cost_per_1000, format_facts_delta, run
+from src.rag_eval.score import aggregate, missing_groups, score_case, stability
 
 
 def _case(kind="exact", must=None):
@@ -37,6 +37,21 @@ def test_facts_accept_a_price_within_one_percent_and_a_plural():
     year = score_case(_case(must=[["2020"]]), found=True, answer="Updated in 2021.",
                       cited_ids=["d#0"], relevant=("d#0",))
     assert year.facts is False
+
+
+def test_missing_groups_names_the_group_the_answer_skipped():
+    assert missing_groups([["Yes, work not completed"]], "The work is not completed.") == [["Yes, work not completed"]]
+    assert missing_groups([["KY1-9010"], ["The Pavilion"]], "The new address is KY1-9010.") == [["The Pavilion"]]
+
+
+def test_facts_delta_names_the_case_that_lost_a_fact():
+    current = [{"id": "s04", "facts": False, "must": [["Yes, work not completed"]],
+                "answer": "The work is not completed."}]
+    previous = [{"id": "s04", "facts": True, "answer": "Yes, work not completed."}]
+    text = format_facts_delta(current, previous, source="eval-v2.json")
+    assert "#### s04" in text
+    assert "Yes, work not completed" in text
+    assert "### Rose" in text and "None." in text
 
 
 def test_groups_are_and_and_options_inside_are_or():

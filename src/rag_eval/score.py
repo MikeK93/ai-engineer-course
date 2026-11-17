@@ -1,4 +1,4 @@
-"""Deterministic answer scores. Public API: `score_case`, `aggregate`, `stability`.
+"""Deterministic answer scores. Public API: `score_case`, `aggregate`, `stability`, `missing_groups`.
 
 `facts` is true when the answer was found and every `must` group has one option in the answer.
 Groups are AND, options inside a group are OR. A number matches within 1% when it is a price-sized
@@ -84,9 +84,14 @@ def norm(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _facts(groups: list, answer: str) -> bool:
+def missing_groups(groups: list, answer: str) -> list[list[str]]:
+    """`must` groups with no option in the answer. Empty when every group hits."""
     folded = norm(answer)
-    return all(any(_option(option, folded) for option in group) for group in groups)
+    return [list(group) for group in groups if not any(_option(option, folded) for option in group)]
+
+
+def _facts(groups: list, answer: str) -> bool:
+    return not missing_groups(groups, answer)
 
 
 def _option(option: str, folded_answer: str) -> bool:

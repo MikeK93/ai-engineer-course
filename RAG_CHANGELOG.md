@@ -6,6 +6,18 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | Facts delta in the eval report
+
+What: `rag-eval` writes `## Facts compared with the baseline run` before the gate. It names cases whose facts score changed against the saved baseline run, and for a case that fell it prints the `must` groups missing from the answer. Worth reading also prints `Facts missing` when facts is no.
+Why: the gate line `facts 0.76 fell below 0.81` is an average. It did not say which cases lost a fact.
+Effect: on the v3 report the fell list is s04 (`Yes, work not completed`) and o02 (the old Pavilion address and KY1-1107). The gate result is unchanged.
+
+## 2026-11-17 | Phase 7 | Eval runs in the RAG report
+
+What: `python main.py aggregate-reports` reads every `output/report-v*.md` and writes one table into `RAG_REPORT.md`. Columns are the metrics, flaky ids, and the gate result. Rows are unstamped reports first, then by time. The table contains the numbers, not links to the output files.
+Why: the per-run reports are not committed. The committed report has to show how v2 and v3 scored without pointing at those files.
+Effect: five rows. v3 is the only run with abstain 1.00. Its gate line is the facts drop and the s04 regression.
+
 ## 2026-11-17 | Phase 6 | Answer prompt v3
 
 What: `prompts/rag/v3/system.txt`. `PROMPT_VERSION` is `v3`. v2 is unchanged. v3 adds two abstain rules: do not calculate a number the sources do not write, and a different fee or allocation is not the fee the question names.

@@ -217,6 +217,16 @@ def cmd_k_sweep(_args):
     raise SystemExit(sweep())
 
 
+def cmd_aggregate_reports(_args):
+    from src.rag.config import OUTPUT_DIR, ROOT
+    from src.rag_eval.aggregate import format_runs, load_reports, splice
+
+    report = ROOT / "RAG_REPORT.md"
+    text = report.read_text(encoding="utf-8") if report.exists() else "# RAG report\n"
+    report.write_text(splice(text, format_runs(load_reports(OUTPUT_DIR))), encoding="utf-8")
+    print(f"Report: {report}")
+
+
 def _latest_eval() -> Path:
     from src.rag.config import OUTPUT_DIR
 
@@ -364,6 +374,8 @@ def main():
 
     sub.add_parser("k-sweep", help="[RAG] Answer the test set at k=3, 5 and 10 and write RAG_REPORT.md").set_defaults(
         fn=cmd_k_sweep)
+    sub.add_parser("aggregate-reports", help="[RAG] Add every output/report-v*.md row to RAG_REPORT.md").set_defaults(
+        fn=cmd_aggregate_reports)
 
     _add_rag_stubs(sub)
 
