@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | Judge calibration
+
+What: `python main.py calibrate [--eval FILE]` re-judges the 15 labeled answers and writes `output/calibration-judge-v1-<timestamp>.json`. It uses the saved answer text. It does not call the answer model. A grounded score of None, which an abstain produces, is left out of that axis.
+Why: the labels exist to catch a judge that passes an answer a person rejected. That is `false_pass`. Agreement alone can hide it.
+Effect: on `eval-v2-20261116T203842Z.json`, correct agreement 0.93 (15), false_pass 0.00, false_fail 0.07 (`o03`). Grounded agreement 0.86 (14), false_pass 0.00, false_fail 0.14 (`n03`, `m02`). No judge-v2. The three misses are the judge rejecting an extra company name, a computed cap rate, and a claim that the brochure lists no amenities.
+
 ## 2026-11-17 | Phase 7 | Hand labels, and the s01 reference
 
 What: `evals/labels.json` has 15 grades of the answers in `output/eval-v2-20261116T203842Z.json` (`correct`, `grounded`, a note). `p02` was removed after the disclaimer split fixed that abstain, and `f02` took its place. In `evals/testset.json`, the `s01` reference is "Plan to build 33 apartment units". The question, evidence, and `must` string `33 Apartment Units` are unchanged.

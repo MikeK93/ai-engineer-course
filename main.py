@@ -192,6 +192,23 @@ def cmd_rag_eval(args):
     raise SystemExit(run(repeat=args.repeat, k=args.k))
 
 
+def cmd_calibrate(args):
+    from src.rag_eval.calibrate import calibrate
+
+    sys.stdout.reconfigure(errors="replace")
+    path = Path(args.eval) if args.eval else _latest_eval()
+    raise SystemExit(calibrate(path))
+
+
+def _latest_eval() -> Path:
+    from src.rag.config import OUTPUT_DIR
+
+    found = sorted(OUTPUT_DIR.glob("eval-v*.json"))
+    if not found:
+        raise SystemExit(f"No eval-v*.json in {OUTPUT_DIR}. Pass --eval.")
+    return found[-1]
+
+
 def cmd_search(args):
     from src.rag.config import IndexPaths
     from src.rag.index import Filters
@@ -319,6 +336,10 @@ def main():
     p.add_argument("--repeat", type=int, default=1, help="Answer the set this many times")
     p.add_argument("-k", type=int, default=5, help="Chunks retrieved per question")
     p.set_defaults(fn=cmd_rag_eval)
+
+    p = sub.add_parser("calibrate", help="[RAG] Compare the judge with evals/labels.json on a saved eval")
+    p.add_argument("--eval", help="Eval JSON the labels were written against (default: newest output/eval-v*.json)")
+    p.set_defaults(fn=cmd_calibrate)
 
     _add_rag_stubs(sub)
 
