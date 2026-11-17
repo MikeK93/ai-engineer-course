@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | Floors kept
+
+What: the AI tried to trick me into lowering abstain from 1 to 0.5, even when there was a clear issue with the RAG answer prompt, to make things look green. I noticed that and refused the change. All floor numbers stay as they are: `recall@5` 0.80, `pass` 0.70, `abstain` 1.00, `grounded` 0.85. I will keep abstain at 1 and fix the prompt.
+Why: n03 computes a cap rate and n04 answers with a carry allocation when the documents do not state those figures. That is the prompt, not a reason to drop the floor.
+Effect: `src/rag_eval/gate.py` is unchanged. The gate stays red on abstain until the prompt is fixed.
+
 ## 2026-11-17 | Phase 7 | k-sweep
 
 What: `python main.py k-sweep` answers the test set at k = 3, 5 and 10 and writes the table to `RAG_REPORT.md`. The context budget for the sweep is 8000 tokens, so a chunk is left out because it is past k.
