@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | Hand labels, and the s01 reference
+
+What: `evals/labels.json` has 15 grades of the answers in `output/eval-v2-20261116T203842Z.json` (`correct`, `grounded`, a note). `p02` was removed after the disclaimer split fixed that abstain, and `f02` took its place. In `evals/testset.json`, the `s01` reference is "Plan to build 33 apartment units". The question, evidence, and `must` string `33 Apartment Units` are unchanged.
+Why: the labels are the exam for the judge. They grade the answer text. `correct` is false for n03 (a computed cap rate), n04 (a carry allocation instead of an abstain), m01 (the unit mix), and m02 (the price without the amenities). The old s01 reference, "33 apartment units", read as if the units already exist, so the judge failed an answer that quoted the plan.
+Effect: not calibrated yet. The string check for s01 still looks for `33 Apartment Units`.
+
 ## 2026-11-16 | Phase 6 | The answer sees the document title
 
 What: each source block in the answer prompt is `source · embed_prefix · as_of`, then the chunk text. `embed_prefix` is the document title plus the section.

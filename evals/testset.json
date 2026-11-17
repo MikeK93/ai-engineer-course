@@ -105,7 +105,7 @@
     "source": "pdfs__gs02_708-712_New_Depot_St_Bunker_Hill_Construction_OM",
     "evidence": ["Plans in Place to Build 33 Apartment Units"],
     "must": [["33 Apartment Units"]],
-    "reference": "33 apartment units"
+    "reference": "Plan to build 33 apartment units"
   },
   {
     "id": "s02",

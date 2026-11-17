@@ -1,68 +1,68 @@
 [
   {
-    "id": "p02",
-    "correct": false,
+    "id": "f02",
+    "correct": true,
     "grounded": true,
-    "note": "Abstain. The reference is 20 stories, and that chunk was not retrieved."
+    "note": "Answer names Overseas Asset Management (Cayman) Ltd., matching the reference. It cites the 2021 addendum, not the December 2020 memorandum. Check that the name is in the cited chunk."
   },
   {
     "id": "p03",
-    "correct": false,
+    "correct": true,
     "grounded": true,
-    "note": "Abstain. The reference is $7,937 per month."
+    "note": "Answer is $7,937 per month."
   },
   {
     "id": "s01",
-    "correct": null,
-    "grounded": null,
+    "correct": true,
+    "grounded": true,
     "note": "Answer says plans to build 33 units. Reference says 33 apartment units. Read the cited chunk before setting either flag."
   },
   {
     "id": "s04",
-    "correct": null,
-    "grounded": null,
+    "correct": true,
+    "grounded": true,
     "note": "Answer says the soft-story work is not completed. Reference is 'Yes, work not completed'. Check the cited chunk."
   },
   {
     "id": "o02",
-    "correct": null,
-    "grounded": null,
+    "correct": true,
+    "grounded": true,
     "note": "Answer gives the 2021 address and the company name. Reference also requires the 2020 address it replaced."
   },
   {
     "id": "o03",
-    "correct": null,
-    "grounded": null,
+    "correct": true,
+    "grounded": true,
     "note": "Answer has the 2020 address plus the company name. Reference is only the address. Check that the name is in the cited chunk."
   },
   {
     "id": "n03",
     "correct": false,
-    "grounded": false,
-    "note": "Computes a 4.38% cap rate. The reference says the documents do not state one."
+    "grounded": true,
+    "note": "There is no explicit cap rate in the doc. But LLM computes a 4.38% cap rate base on availabel information. The reference says the documents do not state one."
   },
   {
     "id": "n04",
-    "correct": null,
-    "grounded": null,
-    "note": "Reference is an abstain. Answer describes a carry allocation and says the percentage is not stated."
+    "correct": false,
+    "grounded": true,
+    "note": "Reference is an abstain. Answer describes a carry allocation and says the percentage is not stated. No document chunks mention about percentage of carry allocation so it should be 'Not in the documents.'"
   },
   {
     "id": "m01",
-    "correct": null,
-    "grounded": null,
-    "note": "Price matches. Unit mix differs from the reference. Check whether the cited chunks actually say this mix."
+    "correct": false,
+    "grounded": true,
+    "note": "Price matches. Unit mix differs from the reference. It does not read the Investment Overview section, but instead looks at the Finantial Breakdown section."
   },
   {
     "id": "m02",
     "correct": false,
     "grounded": true,
-    "note": "Abstain. The reference states the price and the amenities."
+    "note": "The reference states the price and the amenities."
   },
   {
     "id": "m03",
-    "correct": null,
-    "grounded": null,
+    "correct": true,
+    "grounded": true,
     "note": "Answer names some addendum changes and does not mention the registered office, principal office, or the report-to-shareholders paragraph."
   },
   {
