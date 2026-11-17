@@ -200,6 +200,16 @@ def cmd_calibrate(args):
     raise SystemExit(calibrate(path))
 
 
+def cmd_save_baseline(args):
+    from src.rag_eval.baseline import write_baseline
+
+    path = Path(args.eval) if args.eval else _latest_eval()
+    baseline = write_baseline(path)
+    print(f"Baseline: evals/baseline.json from {path.name}")
+    print(f"passed every repeat: {len(baseline['passed'])}")
+    print(f"flaky: {', '.join(baseline['flaky']) or 'none'}")
+
+
 def _latest_eval() -> Path:
     from src.rag.config import OUTPUT_DIR
 
@@ -340,6 +350,10 @@ def main():
     p = sub.add_parser("calibrate", help="[RAG] Compare the judge with evals/labels.json on a saved eval")
     p.add_argument("--eval", help="Eval JSON the labels were written against (default: newest output/eval-v*.json)")
     p.set_defaults(fn=cmd_calibrate)
+
+    p = sub.add_parser("save-baseline", help="[RAG] Write evals/baseline.json from a repeated rag-eval JSON")
+    p.add_argument("--eval", help="Eval JSON from rag-eval --repeat 3 (default: newest output/eval-v*.json)")
+    p.set_defaults(fn=cmd_save_baseline)
 
     _add_rag_stubs(sub)
 

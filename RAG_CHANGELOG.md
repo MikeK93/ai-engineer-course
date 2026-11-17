@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | Baseline from three repeats
+
+What: `python main.py save-baseline` writes `evals/baseline.json` from a `rag-eval --repeat 3` JSON. Metrics are that run's averages. `passed` is the ids that passed every repeat. `flaky` passed on some repeats only.
+Why: one run cannot tell a real drop from a case that flips at temperature 0. The gate treats a later failure of a `passed` id as a regression, and stays quiet when a flaky id fails.
+Effect: from `eval-v2-20261117T110607Z.json`, pass 0.72, facts 0.81, cited 0.92, abstain 0.58, false_abstain 0.01, judge 0.84, grounded 0.96, recall@5 0.96. 19 ids passed every time. Flaky: e02, o02, n04, f02.
+
 ## 2026-11-17 | Phase 7 | Judge calibration
 
 What: `python main.py calibrate [--eval FILE]` re-judges the 15 labeled answers and writes `output/calibration-judge-v1-<timestamp>.json`. It uses the saved answer text. It does not call the answer model. A grounded score of None, which an abstain produces, is left out of that axis.

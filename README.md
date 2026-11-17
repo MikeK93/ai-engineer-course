@@ -178,6 +178,7 @@ Optional `.env` variables (defaults shown in `.env.example`):
 | `python main.py eval-retrieval [-k N]` | 7 | implemented (vector, bm25, hybrid, rerank on answerable cases; writes `output/retrieval-<timestamp>.json`) |
 | `python main.py rag-eval [--repeat N] [-k N]` | 7 | implemented (answers the test set, scores, judges, writes `output/report-<prompt>-<timestamp>.md`) |
 | `python main.py calibrate [--eval FILE]` | 7 | implemented (re-judges the 15 labeled answers; writes `output/calibration-judge-v1-<timestamp>.json`) |
+| `python main.py save-baseline [--eval FILE]` | 7 | implemented (writes `evals/baseline.json` from a `rag-eval --repeat 3` JSON) |
 | `python main.py rag-all` | 9 | not implemented |
 
 `rag-eval` is not called `eval` because `python main.py eval RUN_DIR` already scores block-1 extraction runs.
