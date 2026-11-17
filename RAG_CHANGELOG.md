@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 6 | Answer prompt v3
+
+What: `prompts/rag/v3/system.txt`. `PROMPT_VERSION` is `v3`. v2 is unchanged. v3 adds two abstain rules: do not calculate a number the sources do not write, and a different fee or allocation is not the fee the question names.
+Why: n03 divided NOI by price and called the result a cap rate. n04 answered "performance fee" with a carry allocation. v2 never forbade either move.
+Effect: one `rag-eval`, `output/report-v3-20261117T155837Z.md`. Abstain 0.58 to 1.00. n03 and n04 both answered `Not in the documents.` Pass 0.72 to 0.76. Facts 0.81 to 0.76, which is just past the 0.05 band, so the gate failed on facts and on s04 (the soft-story answer no longer contains the string `Yes, work not completed`). Recall 0.96 and grounded 1.00 held. e04 and e06 still passed.
+
 ## 2026-11-17 | Phase 7 | Floors kept
 
 What: the AI tried to trick me into lowering abstain from 1 to 0.5, even when there was a clear issue with the RAG answer prompt, to make things look green. I noticed that and refused the change. All floor numbers stay as they are: `recall@5` 0.80, `pass` 0.70, `abstain` 1.00, `grounded` 0.85. I will keep abstain at 1 and fix the prompt.
