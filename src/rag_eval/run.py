@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from src.rag.answer import AnswerResult, answer_question, answers_path
-from src.rag.config import EVALS_DIR, K, OUTPUT_DIR, IndexPaths
+from src.rag.config import CONTEXT_BUDGET, EVALS_DIR, K, OUTPUT_DIR, IndexPaths
 from src.rag.index import Filters
 from src.rag.llm_rag import PROMPT_VERSION
 from src.rag.store import read_jsonl
@@ -92,11 +92,11 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
     return 0
 
 
-def _answer(retriever, config: str, k: int, log_path: Path, log):
+def _answer(retriever, config: str, k: int, log_path: Path, log, budget: int = CONTEXT_BUDGET):
     def answer(case: dict) -> AnswerResult:
         return answer_question(
             case["question"], retriever=retriever, config=config, filters=_filters(case), k=k,
-            log_path=log_path, log=log,
+            budget=budget, log_path=log_path, log=log,
         )
     return answer
 

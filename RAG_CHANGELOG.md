@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-17 | Phase 7 | k-sweep
+
+What: `python main.py k-sweep` answers the test set at k = 3, 5 and 10 and writes the table to `RAG_REPORT.md`. The context budget for the sweep is 8000 tokens, so a chunk is left out because it is past k.
+Why: at k=5 the Bunker Hill amenities chunk was 10th, so the model never saw it. The sweep shows what 3 and 10 do to quality and cost.
+Effect: recall 0.89 / 0.96 / 1.00. Pass 0.83 / 0.72 / 0.83. Answer cost per 1000 questions $1.20 / $1.63 / $2.29. At k=3, m02 abstains. At k=10 it cites the price and the amenities and passes. Default k stays 5.
+
 ## 2026-11-17 | Phase 7 | Baseline from three repeats
 
 What: `python main.py save-baseline` writes `evals/baseline.json` from a `rag-eval --repeat 3` JSON. Metrics are that run's averages. `passed` is the ids that passed every repeat. `flaky` passed on some repeats only.

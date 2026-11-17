@@ -210,6 +210,13 @@ def cmd_save_baseline(args):
     print(f"flaky: {', '.join(baseline['flaky']) or 'none'}")
 
 
+def cmd_k_sweep(_args):
+    from src.rag_eval.sweep import sweep
+
+    sys.stdout.reconfigure(errors="replace")
+    raise SystemExit(sweep())
+
+
 def _latest_eval() -> Path:
     from src.rag.config import OUTPUT_DIR
 
@@ -354,6 +361,9 @@ def main():
     p = sub.add_parser("save-baseline", help="[RAG] Write evals/baseline.json from a repeated rag-eval JSON")
     p.add_argument("--eval", help="Eval JSON from rag-eval --repeat 3 (default: newest output/eval-v*.json)")
     p.set_defaults(fn=cmd_save_baseline)
+
+    sub.add_parser("k-sweep", help="[RAG] Answer the test set at k=3, 5 and 10 and write RAG_REPORT.md").set_defaults(
+        fn=cmd_k_sweep)
 
     _add_rag_stubs(sub)
 
