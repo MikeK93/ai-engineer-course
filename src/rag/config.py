@@ -33,7 +33,7 @@ CACHE_DIR = ROOT / ".cache"           # embedding cache
 OUTPUT_DIR = ROOT / "output"          # answer logs, eval reports
 
 # --- prompts and evals (committed) ------------------------------------------
-RAG_PROMPTS = PROMPTS / "rag"         # prompts/rag/v3/system.txt, judge-v1/...
+RAG_PROMPTS = PROMPTS / "rag"         # prompts/rag/v5/system.txt, judge-v1/...
 EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
 
 # --- pipeline constants -----------------------------------------------------

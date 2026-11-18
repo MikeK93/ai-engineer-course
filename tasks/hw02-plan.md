@@ -77,7 +77,7 @@ Exit check: `data/html/` has 10 files, `doc_meta.yaml` has one entry per file, e
 - [x] Add `.gitignore` entries: `index/`, `.cache/`, `output/`.
 - [x] Add empty subcommand stubs to `main.py`: `ingest`, `ocr`, `chunk`, `index`, `search`, `ask`, `eval-retrieval`, `rag-eval`, `rag-all`. The RAG answer eval is `rag-eval` because `eval` already scores block-1 extraction runs. Each stub prints which phase implements it and exits with code 2.
 - [x] Update the root `README.md`: add a "RAG pipeline" section with the status (Phase 1 done, commands are stubs), the new setup steps (extra dependencies, `.env` variables, optional OCR requirements), a command table that marks every command as not implemented yet, and the planned folder layout. Rewrite it as each phase lands; Phase 9 finishes it.
-- [ ] Install the new dependencies in your venv: `pip install -r requirements.txt` (large: it pulls in PyTorch). Not needed for `--help`; first needed in Phase 2 (`pymupdf4llm`) and Phase 5 (`sentence-transformers`).
+- [x] Install the new dependencies in your venv: `pip install -r requirements.txt` (large: it pulls in PyTorch). Not needed for `--help`; first needed in Phase 2 (`pymupdf4llm`) and Phase 5 (`sentence-transformers`).
 
 Exit check: `python main.py --help` lists the new commands, old commands still work, each stub exits with a clear message, `import src.rag.config` works.
 
@@ -87,39 +87,51 @@ Exit check: `python main.py --help` lists the new commands, old commands still w
 
 ## Phase 2. Ingest to Markdown
 
-Files: `src/rag/ingest.py`, `src/rag/extract_pdf.py`, `src/rag/extract_html.py`, `src/rag/normalize.py`, `src/rag/dedup.py`, `src/rag/meta.py`, `src/rag/versions.py`.
-
-- [ ] `meta.py`: load `doc_meta.yaml`, fail loudly if a document has no entry. Parse the optional `versions:` list.
-- [ ] `versions.py` (`src/rag/versions.py`): split one extracted document into logical versions. Two sources of split points: (1) the `start` values from `doc_meta.yaml`, always applied; (2) automatic detection of marker headings (`Addendum`, `Supplement`, `Amendment`, `Errata`, `Amended and Restated`) that only **proposes** a split to `audit.jsonl` as `version_marker_found` with file and page. Auto-detected markers are never applied until you add them to `versions:`, so a table-of-contents entry or a one-line mention can't split a document by accident.
-- [ ] Each logical version becomes its own Markdown file `data/md/<doc_id>@<suffix>.md` with its own `as_of`, and updates get `replaces` plus `version_of: <doc_id>` in front matter. Page numbers stay relative to the original PDF. A document without `versions:` writes `<doc_id>.md` as before.
-- [ ] Dedup runs per logical version, not per PDF, so an original and its addendum are never collapsed into one. Check the audit log shows both kept.
-- [ ] `extract_pdf.py`: `pymupdf4llm` per page (keep page boundaries). Per page record char count and image count.
-- [ ] Mark a page `ocr_required` when `< MIN_CHARS_PER_PAGE` chars and at least 1 image. Blank page without an image is skipped quietly. Write both to `audit.jsonl` with document and page.
-- [ ] `extract_html.py` optional unwrap fallback (the files now in `data/html/` are already plain HTML, produced by `scripts/fetch_listing_html.py`, so this only matters if a raw Chrome "view-source" save shows up again): such files are Chrome "view-source" pages (the real markup is escaped inside a syntax-highlighted table, about 5,300 lines each, with no real `<title>` or `<h1>`). Before parsing, rebuild the original HTML: take every `<td class="line-content">` cell, strip the highlight tags, un-escape entities, join the lines. A check on 3 files showed this recovers the real `<title>` and the listing facts (Asking Price, Building Size, Lot Size, Year Built, Zoning). If a file is already normal HTML, skip the unwrap. Then:
-- [ ] `extract_html.py`: drop `script`, `style`, `nav`, `footer`, cookie banners; keep `main` (fallback `body`); `h1-h3` to Markdown headings, lists to `-` , tables to pipe tables.
-- [ ] `normalize.py`: NFKC, one newline style, drop `Cf` characters, drop lines repeated on more than half the pages, drop page-number lines, join hyphenation, collapse whitespace. Leave numbers, addresses, table rows untouched. Do not lowercase stored text.
-- [ ] Two hashes: `raw_hash` (file bytes, for incremental skip) and `doc_hash` (whitespace-collapsed, lowercased text, for duplicates).
-- [ ] `dedup.py`: exact duplicates by `doc_hash`; near-duplicates by word 5-shingles + Jaccard `> 0.8`, keep newer `as_of`. A real older edition must be kept: confirm by checking the two older fund OMs are not dropped. Log every decision.
-- [ ] `ingest.py`: write `data/md/<doc_id>.md` with front matter (`source`, `title`, `doc_type`, `as_of`, `source_url`, `doc_hash`, `pipeline_version`). Pick up `data/ocr/<doc_id>/page-<n>.md` if present and insert in page order.
-- [ ] Write `data/manifest.json`: per file raw hash, doc hash, status, pages, chars, `ocr_required` pages, chunk count later. `dataset_version` = hash of pipeline version + all raw hashes.
-- [ ] Incremental: unchanged raw hash + same pipeline version skips the file. One broken file is recorded as `error`, the batch continues.
-- [ ] Spot-check 4 files by eye: `gs01` (offering summary table), `gs9` (scrambled lease grid), one mid-size OM, a slice of Centurion. Note what `pymupdf4llm` gets wrong.
-
-Exit check: `python main.py ingest` writes one `.md` per kept document, `audit.jsonl` lists `ocr_required` pages and dedup decisions, a second run skips everything.
-
----
+Files (few, deep modules; each has one small public function):
 
 
+| File                   | Public API                                                                  | Hides                                                                                                   |
+| ---------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `src/rag/meta.py`      | `load_catalog()`                                                            | YAML parsing, validation of every field, orphan and duplicate checks; reports all problems in one error |
+| `src/rag/extract.py`   | `extract_pdf(path)`, `extract_html(path)`, `default_extractors()`           | layout-aware PDF to Markdown, scanned-page detection, HTML cleanup, view-source unwrap                  |
+| `src/rag/normalize.py` | `normalize_pages(pages)`                                                    | NFKC, invisible chars, headers/footers, page numbers, hyphenation                                       |
+| `src/rag/versions.py`  | `split_versions(entry, pages)`, `find_version_markers(pages)`               | page/heading version splits, addendum suggestions                                                       |
+| `src/rag/dedup.py`     | `find_duplicates(docs)`                                                     | content hash, shingles, Jaccard, version-group exemption                                                |
+| `src/rag/store.py`     | `write_markdown`, `read_markdown`, `load_ocr_pages`, cache and JSON helpers | on-disk formats (later phases read documents only through this)                                         |
+| `src/rag/ingest.py`    | `ingest(...)`                                                               | orchestration, extraction cache, parallelism, manifest, audit log                                       |
+
+
+Design rules applied: extractors and paths are injected (`extractors=`, `IngestPaths`), so a new format is one function plus one registry entry and tests run with fake extractors and a temp folder; only the slow step (extraction) is cached, everything else is recomputed every run so output depends only on inputs and code.
+
+- [x] `meta.py`: load `doc_meta.yaml`, fail loudly on missing/orphan files, bad `doc_type`, bad `as_of`, missing `source_url` for HTML. Parses `versions:`.
+- [x] `versions.py`: split by `versions:` start (page number or heading). Marker detection only proposes (`version_marker` events in `audit.jsonl`), never applies.
+- [x] One Markdown file per logical version, `data/md/<doc_id>@<suffix>.md`, own `as_of`, `version_of` and `replaces` in front matter; page numbers stay relative to the original PDF.
+- [x] Dedup runs per logical version; versions of one file are never merged.
+- [x] `extract_pdf`: `pymupdf4llm` layout engine per page, built-in OCR off, pages kept separate.
+- [x] A page with `< MIN_CHARS_PER_PAGE` chars and at least 1 image is `ocr_required`; without an image it is `blank`. Both go to `audit.jsonl` and the manifest.
+- [x] `extract_html`: keeps `main` (fallback `body`), drops scripts, nav, footer, aside, forms and hidden elements; headings, lists and tables become Markdown; optional Chrome view-source unwrap.
+- [x] `normalize_pages`: see table above. Table rows are never treated as repeated headers.
+- [x] Hashes: `raw_hash` (file bytes, extraction cache key) and `content_hash` (normalized text, duplicates and `dataset_version`).
+- [x] `ingest`: front matter (`doc_id`, `title`, `source`, `doc_type`, `as_of`, `source_url`, `version_of`, `replaces`, `pages`, `ocr_pages`, `content_hash`). Merges `data/ocr/<doc_id>/page-<n>.md` into the right page.
+- [x] `data/manifest.json` (per file: raw hash, status, pages, `ocr_required_pages`, `blank_pages`, docs; per doc: chars, hash; `duplicates`; `dataset_version`) and an audit log `data/audit/audit-<UTC timestamp>.jsonl` (one new file per run). When a run changes the manifest, the previous `data/manifest.json` is moved to `data/manifests/manifest-<extract_version>-<hash>.json`.
+- [x] Incremental: a second run skips extraction for unchanged files (`--full` forces it). One broken file is recorded as `error`, the batch continues and the command exits 1.
+- [x] Tests: `tests/rag/` (17 tests, no models or real PDFs). Run `python -m pytest`.
+- [x] Run `python main.py ingest` on the real corpus and check the numbers below.
+- [x] Spot-check 4 files by eye: `gs01` (offering summary table), `gs9` (scrambled lease grid), one mid-size OM, a slice of Centurion. Note what `pymupdf4llm` gets wrong.
+
+Exit check: `python main.py ingest` writes one `.md` per kept document, the newest audit file lists `ocr_required` pages and dedup decisions, a second run skips extraction. `ocr` (Phase 3) reads `ocr_required_pages` from the manifest.
 
 ## Phase 3. OCR fallback (separate command)
 
 Files: `src/rag/ocr.py`, `requirements-ocr.txt`.
 
-- [ ] `python main.py ocr`: read `audit.jsonl`, find `ocr_required` pages, run Docling on those pages only, write `data/ocr/<doc_id>/page-<n>.md`.
-- [ ] Skip pages that already have an OCR file.
-- [ ] Mark OCR text so chunks later get `ocr: true`.
-- [ ] Re-run `ingest` and confirm OCR pages are merged in page order.
-- [ ] Commit `data/ocr/`. Ingest must work without Docling installed.
+- [x] `python main.py ocr [--only TEXT...] [--limit N]`: read `data/manifest.json`, find `ocr_required_pages`, run Docling (CPU, full-page OCR, one page at a time) on those pages only, write `data/ocr/<doc_id>/page-<n>.md` as each page finishes, so an interrupted run resumes.
+- [x] Skip pages that already have an OCR file. An empty file means "OCR found nothing": the page is resolved and becomes `blank` on the next ingest.
+- [x] Mark OCR text so chunks later get `ocr: true`: the front matter lists `ocr_pages` per document (the chunker reads it in Phase 4).
+- [x] Re-run `ingest` and confirm OCR pages are merged in page order. Result: 0 pages need OCR, `dataset_version` changed to `5c24822b709a`.
+- [x] Commit `data/ocr/`. Ingest must work without Docling installed: `ocr.py` is not imported by `ingest`, and the engine is injected (`OcrEngine`), so the 3 OCR tests use a fake one.
+- [x] Real run on the corpus: 124 pages OCRed in about 34 minutes on CPU, 4 found no text (`gs06` page 10, Topaz pages 7, 9, 38).
+- [x] Spot-check a few OCR pages by eye (the financial statements of RESCO, BGMFll and LMIC) and note what Docling gets wrong. Known so far: a stray `$` glued to a number in one BGMFll cell.
 
 Exit check: with Docling installed, `ocr` then `ingest` fills the previously missing pages. Without Docling, `ingest` still runs and just reports the OCR pages as pending.
 
@@ -129,17 +141,21 @@ Exit check: with Docling installed, `ocr` then `ingest` fills the previously mis
 
 ## Phase 4. Chunking
 
-Files: `src/rag/chunk.py`, `src/rag/chunk_fixed.py` (baseline only), `src/rag/tokens.py`.
+Files: `src/rag/chunk.py`, `src/rag/tokens.py`. The fixed-window baseline and the comparison live in `measurements/chunking/`, outside the pipeline.
 
-- [ ] Parse each `data/md/*.md`: front matter, heading tree, blocks (paragraph, list, table).
-- [ ] Chunk by heading: pack whole blocks up to ~400 tokens (`cl100k_base`), `section` = heading path.
-- [ ] Never cut a paragraph. A table over the limit splits between rows and repeats the header row in each piece. Hard cap 480 tokens including the section title.
-- [ ] Tag `kind: boilerplate` for headings containing "disclaimer", "confidentiality", "table of contents", and known legal phrases.
-- [ ] Chunk fields: `chunk_id` (`source#index`, stable), `source`, `title`, `section`, `doc_type`, `as_of`, `version_of`, `replaces`, `doc_hash`, `page` span, `kind`, `ocr`, `n_tokens`, `text`, `pipeline_version`. `version_of` and `replaces` are empty for ordinary documents; the context header and the `S1` label show `as_of` so the model can see which version a chunk comes from.
-- [ ] Write `data/chunks.jsonl`.
-- [ ] `chunk_fixed.py`: fixed 400/80 window, used only for the comparison.
-- [ ] Comparison script on 4 files (`gs01`, `gs9`, one mid-size OM, a slice of Centurion). Count: chunks, mid-sentence starts, cut table rows, empty `section`, avg and max tokens. Paste the table into README.
-- [ ] Update manifest chunk counts.
+- [x] `chunk.py`: parse each `data/md/*.md` (front matter, headings, blocks: paragraph, list, table; page markers set the page).
+- [x] Decided 2026-11-12: token counts use the embedding model's own tokenizer (`BAAI/bge-small-en-v1.5`), not `cl100k_base`, because `cl100k_base` undercounts number-heavy tables and the model silently drops everything past 512 tokens. One embedding model in the whole app. `tiktoken` is used only for the answer-model context budget in Phase 6. The tokenizer sits behind `tokens.py` (`count_tokens`, `token_spans`).
+- [x] Chunk by heading: pack whole blocks up to ~400 tokens, `section` = heading path. Sibling sections never merge; a chunk under 80 tokens keeps only its own child subsection.
+- [x] Decided 2026-11-12: with no heading, `section` = `<title> > page <n>`, the embedded text uses the title only, and `section_source` is `heading` or `page` (30 of 5,243 chunks use the page fallback).
+- [x] Never cut a paragraph unless it is over the cap: then it splits between sentences (and between words only for a single huge sentence). A table over the limit splits between rows and repeats the header row; a row that is itself too big (a paragraph stuck in one cell) becomes several complete rows with the label cells repeated. Hard cap 480 tokens including the title and section: max in the corpus is 480, none over.
+- [x] Tag `kind: boilerplate`: the chunk's own heading contains "disclaimer", "confidentiality", "table of contents" or "non-endorsement", or its text starts with a known legal phrase. Boilerplate headings never become the parent of later headings (the converter's heading levels are unreliable). 61 chunks are tagged.
+- [x] Chunk fields: `chunk_id` (`<doc_id>#<index>`), `doc_id`, `source`, `title`, `section`, `section_source`, `embed_prefix`, `doc_type`, `as_of`, `version_of`, `replaces`, `doc_hash` (the document's `content_hash`), `page_start`, `page_end`, `kind`, `ocr`, `n_tokens`, `text`, `pipeline_version`. `embed_prefix` is the string to put before the text when embedding (title + heading path, or the title alone when there is no heading), so Phase 5 does not rebuild it.
+- [x] `python main.py chunk` writes `data/chunks.jsonl` (5,243 chunks, 42 documents) and `data/chunks_manifest.json`. Exits 1 if any chunk is over the cap.
+- [x] `measurements/chunking/fixed.py`: fixed 400/80 window, used only for the comparison.
+- [x] `python main.py chunk-compare` (`measurements/chunking/compare.py`, documents in `targets.yaml`) on `gs01`, `gs9`, `Retreat at Arcway` and the first 40 pages of Centurion. Table pasted into the README.
+- [x] Chunk counts are written to `data/chunks_manifest.json`, not into `data/manifest.json`: the ingest manifest stays owned by `ingest`, and `chunk` must not change what `ingest` would archive.
+- [x] Side fixes found by the first full run: `normalize` now removes table-of-contents dot leaders (each dot costs a token) and shortens padded table separator rows (`|-----|` to `|---|`). Both changed `data/md/` and `dataset_version`.
+- [x] Spot-check 10 random chunks by eye (a table split across chunks, an OCR chunk, an OAM addendum chunk) and note what is wrong. Known limitation: a short title-like line directly before a real heading can end a chunk (for example "Location and Market Overview").
 
 Exit check: `python main.py chunk` writes `chunks.jsonl`, no chunk over 480 tokens, no table row cut, comparison table exists.
 
@@ -151,14 +167,14 @@ Exit check: `python main.py chunk` writes `chunks.jsonl`, no chunk over 480 toke
 
 Files: `src/rag/embed.py`, `src/rag/index.py`, `src/rag/bm25.py`, `src/rag/retrieve.py`, `src/rag/rerank.py`.
 
-- [ ] `embed.py`: load `bge-small-en-v1.5` once, apply the model card's query prefix, cache vectors by `EMBED_MODEL + "\n" + text`.
-- [ ] Embedded string = section path + chunk text. Stored payload text stays clean.
-- [ ] `index.py`: build Qdrant (local path, cosine), one point per chunk, payload = whole chunk. Rebuild from `chunks.jsonl` only.
-- [ ] `bm25.py`: tokenizer that keeps `$1,250,000`, `80231`, `9850` whole. Same string as the embedding input.
-- [ ] `retrieve.py`: vector top 20 + BM25 top 20, both with filters (`doc_type`, `as_of`, exclude `kind=boilerplate` by default), fuse with RRF `1/(60+rank)`, return top K.
-- [ ] `rerank.py`: cross-encoder over the top 20 hybrid hits, keep 5.
-- [ ] Unit checks without models: RRF example (`[A,B,C]` and `[C,D]` gives `C` then `A`), filter test (boilerplate and wrong `doc_type` never returned).
-- [ ] `python main.py search "<query>" --config vector|bm25|hybrid|rerank` prints top hits.
+- [x] `embed.py`: load `bge-small-en-v1.5` once, apply the model card's query prefix, cache vectors by `EMBED_MODEL + "\n" + text`.
+- [x] Embedded string = section path + chunk text. Stored payload text stays clean.
+- [x] `index.py`: build Qdrant (local path, cosine), one point per chunk, payload = whole chunk. Rebuild from `chunks.jsonl` only.
+- [x] `bm25.py`: tokenizer that keeps `$1,250,000`, `80231`, `9850` whole. Same string as the embedding input.
+- [x] `retrieve.py`: vector top 20 + BM25 top 20, both with filters (`doc_type`, `as_of`, exclude `kind=boilerplate` by default), fuse with RRF `1/(60+rank)`, return top K.
+- [x] `rerank.py`: cross-encoder over the top 20 hybrid hits, keep 5.
+- [x] Unit checks without models: RRF example (`[A,B,C]` and `[C,D]` gives `C` then `A`), filter test (boilerplate and wrong `doc_type` never returned).
+- [x] `python main.py search "<query>" --config vector|bm25|hybrid|rerank` prints top hits.
 
 Exit check: `index` builds from `chunks.jsonl`, `search` returns sensible hits in all four configs, filter tests pass.
 
@@ -168,16 +184,16 @@ Exit check: `index` builds from `chunks.jsonl`, `search` returns sensible hits i
 
 ## Phase 6. RAG answer path
 
-Files: `src/rag/context.py`, `src/rag/llm_rag.py`, `src/rag/answer.py`, `prompts/rag/v1/system.txt`, `prompts/rag/CHANGELOG.md`.
+Files: `src/rag/context.py`, `src/rag/llm_rag.py`, `src/rag/answer.py`, `prompts/rag/v1/system.txt`. Prompt history is an entry in `RAG_CHANGELOG.md`.
 
-- [ ] `context.py`: greedy pack in rank order under `CONTEXT_BUDGET` (`tiktoken`), skip a block that does not fit, label `S1..Sn`, header = `source · section · as_of`. Keep `label -> chunk` map.
-- [ ] `llm_rag.py`: new LiteLLM call with strict JSON schema `{found, answer, citations}`, temperature 0, returns tokens, latency, cost. Does not touch `src/llm.py`.
-- [ ] `answer.py`: empty retrieval returns the abstain constant without a model call; call model; strip brackets, drop unknown labels, dedupe; `found` with no valid label becomes abstain; map labels to `chunk_id`, source, section.
-- [ ] Abstain sentence is a constant in code.
-- [ ] `prompts/rag/v1/system.txt`: answer only from `<sources>`, cite labels, copy numbers and addresses exactly, subject property beats comparables, later `as_of` wins and name the older figure, fund text is about the fund and listing text about the building, similar property is not an answer.
-- [ ] `prompts/rag/CHANGELOG.md`: v1 entry.
-- [ ] Log per question: query, retrieved ids, ids in context, cited ids, invalid labels, tokens, cost, latency. Write to `output/answers-*.jsonl`.
-- [ ] `python main.py ask "<question>"` prints answer plus citations.
+- [x] `context.py`: greedy pack in rank order under `CONTEXT_BUDGET` (`tiktoken`), skip a block that does not fit, label `S1..Sn`, header = `source · section · as_of`. Keep `label -> chunk` map.
+- [x] `llm_rag.py`: new LiteLLM call with strict JSON schema `{found, answer, citations}`, temperature 0, returns tokens, latency, cost. Does not touch `src/llm.py`.
+- [x] `answer.py`: empty retrieval returns the abstain constant without a model call; call model; strip brackets, drop unknown labels, dedupe; `found` with no valid label becomes abstain; map labels to `chunk_id`, source, section.
+- [x] Abstain sentence is a constant in code.
+- [x] `prompts/rag/v1/system.txt`: answer only from `<sources>`, cite labels, copy numbers and addresses exactly, subject property beats comparables, later `as_of` wins and name the older figure, fund text is about the fund and listing text about the building, similar property is not an answer.
+- [x] Prompt v1 recorded in `RAG_CHANGELOG.md`.
+- [x] Log per question: query, retrieved ids, ids in context, cited ids, invalid labels, tokens, cost, latency. Write to `output/answers-*.jsonl`.
+- [x] `python main.py ask "<question>"` prints answer plus citations.
 
 Exit check: `ask` answers a known question with a citation, and says "not in the documents" for a made-up property.
 
@@ -191,11 +207,11 @@ Files: `evals/testset.json`, `evals/labels.json`, `evals/baseline.json`, `src/ra
 
 **MANUAL (after Phase 4 is stable)**
 
-- [ ] Write `evals/testset.json` by reading the Markdown and chunks. About 28 questions: 6 exact facts, 5 paraphrases, 4 similar-document traps (for example gs02 vs gs03), 3 outdated-version traps (from in-document addenda and any downloaded older editions; the expected answer is the newer value, and it should name the older one), 4 no-answer (2 missing property, 2 field never stated), 3 multi-chunk, 3 fund-vs-listing.
-- [ ] Each case: `id`, `kind`, `question`, `source`, `evidence` (short quote), `must` (fact groups: groups are AND, options inside are OR), `reference`, optional `doc_type` filter. No-answer cases have no `must` and no `evidence`.
-- [ ] Verify every expected answer yourself. AI may draft, you check.
-- [ ] Review Appendix A: 29 proposed questions, mark each `keep`, `edit`, or `drop`, fill the 3 `TBD` rows, and add `evidence` and `must` for each kept row.
-- [ ] Outdated-version traps (candidates for the OAM file are already in Appendix A as o01-o04): once `versions:` is in `doc_meta.yaml` and the split Markdown exists, ask the assistant to propose 3 to 5 candidate questions per version pair. For each it quotes the old value and the new value from the two Markdown files with page numbers. You accept, edit, or drop each one. Use these templates:
+- [x] Write `evals/testset.json` by reading the Markdown and chunks. About 28 questions: 6 exact facts, 5 paraphrases, 4 similar-document traps (for example gs02 vs gs03), 3 outdated-version traps (from in-document addenda and any downloaded older editions; the expected answer is the newer value, and it should name the older one), 4 no-answer (2 missing property, 2 field never stated), 3 multi-chunk, 3 fund-vs-listing.
+- [x] Each case: `id`, `kind`, `question`, `source`, `evidence` (short quote), `must` (fact groups: groups are AND, options inside are OR), `reference`, optional `doc_type` filter. No-answer cases have no `must` and no `evidence`.
+- [x] Verify every expected answer yourself. AI may draft, you check.
+- [x] Review Appendix A: 29 proposed questions, mark each `keep`, `edit`, or `drop`, fill the 3 `TBD` rows, and add `evidence` and `must` for each kept row.
+- [x] Outdated-version traps (candidates for the OAM file are already in Appendix A as o01-o04): once `versions:` is in `doc_meta.yaml` and the split Markdown exists, ask the assistant to propose 3 to 5 candidate questions per version pair. For each it quotes the old value and the new value from the two Markdown files with page numbers. You accept, edit, or drop each one. Use these templates:
   - Current value: "What is  for <fund/property>?" Expected: the newer value, and the answer names the older one.
   - Direct comparison: "Did  change between the original and the addendum?" Expected: states both values.
   - Old-only trap: "What was  in the original ?" Expected: the older value, citing the original version. This checks that the newer-wins rule does not erase history.
@@ -203,26 +219,33 @@ Files: `evals/testset.json`, `evals/labels.json`, `evals/baseline.json`, `src/ra
 
 **Code**
 
-- [ ] `lint.py`: `evidence` found in exactly the expected document, each `must` string present in the evidence chunks, no-answer cases have no `must`/`evidence`, duplicate ids, each `kind` has at least 2 cases. Resolve evidence to current chunk ids at run time.
-- [ ] `retrieval_eval.py`: recall@5, MRR, ms/query, missed ids, for vector / bm25 / hybrid / hybrid+rerank on answerable cases. Fake-data unit test: ranks 2, 1, missing gives recall 0.67 and MRR 0.50.
-- [ ] `score.py`: deterministic `facts`, `cited` (a resolved relevant chunk is among citations), `abstain`, `pass`. Numbers within 1%, strings normalized. Inapplicable scores are `None`.
-- [ ] `judge.py`: `reason` then `verdict`, uses `JUDGE_MODEL`, reference in the prompt. Groundedness: claim-level check against cited chunk text, abstain returns no claims.
-- [ ] `gate.py`: baseline tolerance 0.05, `false_abstain` lower-is-better, per-case regression list, absolute floors (initial: `recall@5 >= 0.8`, `pass >= 0.7`, `abstain = 1.0`, `grounded >= 0.85`; tune later). Exit 1 on failure.
-- [ ] `run.py`: run all cases, `--repeat N`, aggregate by kind, write `output/report-<prompt>.md` and `eval-*.json`.
-- [ ] Write cost per 1000 questions from measured tokens.
+- [x] `lint.py`: `evidence` found in exactly the expected document, each `must` string present in the evidence chunks, no-answer cases have no `must`/`evidence`, duplicate ids, each `kind` has at least 2 cases. Resolve evidence to current chunk ids at run time. `python main.py lint-testset`.
+- [x] `retrieval_eval.py`: recall@5, MRR, ms/query, missed ids, for vector / bm25 / hybrid / hybrid+rerank on answerable cases. Fake-data unit test: ranks 2, 1, missing gives recall 0.67 and MRR 0.50.
+- [x] `score.py`: deterministic `facts`, `cited` (a resolved relevant chunk is among citations), `abstain`, `pass`. Numbers within 1%, strings normalized. Inapplicable scores are `None`.
+- [x] `judge.py`: `reason` then `verdict`, uses `JUDGE_MODEL`, reference in the prompt. Groundedness: claim-level check against cited chunk text, abstain returns no claims.
+- [x] `gate.py`: baseline tolerance 0.05, `false_abstain` lower-is-better, per-case regression list, absolute floors (initial: `recall@5 >= 0.8`, `pass >= 0.7`, `abstain = 1.0`, `grounded >= 0.85`; tune later). Exit 1 on failure.
+- [x] `run.py`: run all cases, `--repeat N`, aggregate by kind, write `output/report-<prompt>-<timestamp>.md` and `eval-*.json`. `python main.py rag-eval`.
+- [x] Write cost per 1000 questions from measured tokens.
 
 **MANUAL (after the first full run)**
 
-- [ ] Hand-label 15 of the bot's real answers (`correct`, `grounded`, one-line note). At least 5 must be wrong answers. Save as `evals/labels.json`.
+- [x] Hand-label 15 of the bot's real answers (`correct`, `grounded`, one-line note). At least 5 must be wrong answers. Save as `evals/labels.json`.
 
 **Code**
 
-- [ ] `calibrate`: run the judge on the 15, print agreement, false pass, false fail, disagreement ids. Iterate `judge-v2` if agreement is low.
-- [ ] Build `evals/baseline.json` from 3 repeated runs, record flaky cases.
-- [ ] k-sweep (3, 5, 10): quality, tokens, cost. Table goes in `REPORT.md`.
-- [ ] Set real floor values from the first run and commit.
+- [x] `calibrate`: run the judge on the 15, print agreement, false pass, false fail, disagreement ids. `python main.py calibrate`. Agreement was not low enough to write `judge-v2` (correct 0.93, grounded 0.86, false_pass 0.00 on both).
+- [x] Build `evals/baseline.json` from 3 repeated runs, record flaky cases. `python main.py save-baseline`. From `eval-v2-20261117T110607Z.json`: 19 passed every time; flaky e02, o02, n04, f02.
+- [x] k-sweep (3, 5, 10): quality, tokens, cost. Table is in `RAG_REPORT.md`. `python main.py k-sweep`. Recall 0.89 / 0.96 / 1.00, pass 0.83 / 0.72 / 0.83, answer cost per 1000 $1.20 / $1.63 / $2.29. Default k stays 5.
+- [x] Set real floor values from the first run and commit.
 
-Exit check: lint passes, retrieval table has four configs, answer metrics and calibration are printed, the gate passes on baseline and fails on a deliberately worse prompt (`v2` experiment).
+**Exit check**
+
+- [x] Lint passes. `python main.py lint-testset`: 29 cases, 0 errors.
+- [x] Retrieval table has four configs (`vector`, `bm25`, `hybrid`, `rerank`): recall@5, MRR, ms/query, missed ids. Printed under `## Retrieval` by `python main.py rag-eval`.
+- [x] Answer metrics are printed: recall@5, pass, facts, cited, abstain, false abstain, judge, grounded, cost per 1000.
+- [x] Calibration is printed. `python main.py calibrate`: correct agreement 0.93, grounded agreement 0.86, false pass 0.00 on both.
+- [x] The gate passes on the shipped prompt against `evals/baseline.json`. Prompt v5 (`report-v5-20261117T220624Z`) passed. Floors stay recall@5 0.80, pass 0.70, abstain 1.00, grounded 0.85.
+- [x] The gate fails on a worse prompt. v3 (`report-v3-20261117T155837Z`) exited 1: facts 0.76 fell below 0.81, regression s04. v4 exited 1 on regression s04. The shipped prompt is v5.
 
 ---
 
@@ -251,7 +274,7 @@ Exit check: a green run on the baseline and a red run on a worse prompt, both vi
 ## Phase 9. Report and README
 
 - [ ] `README.md`: new RAG section with setup, commands, project layout, one-command run, cost per 1000 questions, chunking rationale and the fixed-window comparison table, known limits (photo-only pages, over-detected tables), follow-up rewrite listed as a future extension.
-- [ ] `REPORT.md`: add a RAG section. Retrieval table (four configs), answer metrics, k-sweep, judge calibration, 3 to 5 failures (expected, actual, stage, why), what you would change next. Leave the extraction report as it is.
+- [ ] `REPORT.md`: add a RAG section. Retrieval table (four configs), answer metrics, judge calibration, 3 to 5 failures (expected, actual, stage, why), what you would change next. The k-sweep table is in `RAG_REPORT.md`. Leave the extraction report as it is.
 - [ ] `.env.example` updated, no secrets committed, `index/` and `output/` ignored.
 - [ ] Final check against the homework list: code, `data/` + manifest, `prompts/` with changelog, `evals/`, `.github/workflows/`, `REPORT.md`, `README.md`.
 - [ ] Repo is public and the link is ready.

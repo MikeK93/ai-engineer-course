@@ -6,6 +6,18 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-18 | Phase 6 | Answer prompt v5
+
+What: `prompts/rag/v5/system.txt`. `PROMPT_VERSION` is `v5`. v4 is unchanged. The glossary intro now says the meanings are for reading only and do not replace the source's words. A cell that starts with Yes or No is copied as written, including the words after it. Yes is not turned into "has" or "is".
+Why: v4 still rewrote the soft-story cell as "has a soft story, and the work is not completed". The glossary line that defines soft-story was winning over the copy rule.
+Effect: one `rag-eval`, `output/report-v5-20261117T220624Z.md`. s04 passed and kept the cell text. Gate passed. Facts 0.84 to 0.88, pass 0.86 to 0.90, abstain stayed 1.00, false abstain 0.04 to 0.00. o02 still passed. m02 still missed the amenities.
+
+## 2026-11-17 | Phase 6 | Answer prompt v4
+
+What: `prompts/rag/v4/system.txt`. `PROMPT_VERSION` is `v4`. v3 is unchanged. v4 keeps the v3 abstain rules and adds three sentences: the fee rule applies to fees only; short table-cell values are copied as written and not turned into a sentence; when sources disagree, the older figure and its date stay in the answer, including an older address.
+Why: v3 paraphrased the soft-story cell and dropped the older Investment Advisor address. The fee rule was being read as a reason to omit a different address.
+Effect: one `rag-eval`, `output/report-v4-20261117T214822Z.md`. o02 passed and named the older address. s04 still paraphrased the cell, so facts stayed no and the gate failed on `regression: s04`. Facts 0.76 to 0.84, pass 0.76 to 0.86, abstain stayed 1.00. m01 rose. m02 abstained.
+
 ## 2026-11-17 | Phase 7 | Facts delta in the eval report
 
 What: `rag-eval` writes `## Facts compared with the baseline run` before the gate. It names cases whose facts score changed against the saved baseline run, and for a case that fell it prints the `must` groups missing from the answer. Worth reading also prints `Facts missing` when facts is no.
