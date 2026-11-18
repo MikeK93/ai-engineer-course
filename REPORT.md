@@ -44,4 +44,18 @@ So my choice for production would be `gemini-3.5-flash`. Feels like a good balan
 
 Worth noting that the API runs were done with raw PDF files being passed to the model because the files contained images describing listed property which will result in 0 text after pdf -> text convertion.
 
-The local run supports the same choice. `ollama_chat/qwen2.5:3b` (text, prompt v4, temperature 0) reached 49.3% field accuracy, 90% valid responses, and about 58s / 88s latency at $0 per 1000 docs. Address fields and `deal_type` are usable (city, zip, and street around 80-90%), and everything that depends on an enum or on a figure inside an image is not. I would use it only if API cost had to be zero and the task were limited to those address and deal-type fields. For the full schema I would stay on `gemini-3.5-flash` with the PDF input. 
+The local run supports the same choice. `ollama_chat/qwen2.5:3b` (text, prompt v4, temperature 0) reached 49.3% field accuracy, 90% valid responses, and about 58s / 88s latency at $0 per 1000 docs. Address fields and `deal_type` are usable (city, zip, and street around 80-90%), and everything that depends on an enum or on a figure inside an image is not. I would use it only if API cost had to be zero and the task were limited to those address and deal-type fields. For the full schema I would stay on `gemini-3.5-flash` with the PDF input.
+
+# RAG
+
+The same offering documents are searched, then answered with citations. Retrieval is compared four ways: vector, BM25, hybrid, and hybrid plus a reranker. The answer model sees the reranked chunks. The current prompt is v5. It cites the source for each claim and abstains when the documents do not state the fact. A string check scores the required facts and whether an evidence chunk was cited. A judge scores wording that check cannot see, and the judge was compared with the hand labels before it was kept. A gate checks each run against the saved baseline.
+
+The measured tables are in [RAG_REPORT.md](RAG_REPORT.md). That file holds the k-sweep and the eval runs. `python main.py k-sweep` answers the test set at k = 3, 5, and 10 and writes the k-sweep. `python main.py aggregate-reports` writes one row per scored eval run, including the gate result. Rerun those two commands to regenerate the tables.
+
+Later prompt versions require an abstain when a figure is not written in the sources, including when the sources name a different fee. They also require a short table cell to be copied as written, and an older figure to stay in the answer when sources disagree. Answers use the top 5 reranked chunks.
+
+## What I'd do next
+
+1. Address the reranking and embedding misses. Some evidence chunks are retrieved by one search method and then dropped before the answer, so the model never sees them. The known case is 849 N Bunker Hill amenities (chunk pdfs__gs03_849_N_Bunker_Hill_OM#3): rerank leaves it outside the top 5 even though hybrid ranks it higher.
+2. Add a few samples whose saved answers are wrong, so the hand labels and the report include clear failures and not only near-misses.
+ 

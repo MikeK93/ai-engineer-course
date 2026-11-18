@@ -134,7 +134,7 @@ results/           run outputs and reports
 
 ---
 
-# RAG pipeline (work in progress)
+# RAG pipeline
 
 Second slice of the same project: the same documents, indexed as chunks and answered with citations. The plan, decisions and phase checklist are in [`tasks/hw02-plan.md`](tasks/hw02-plan.md).
 
@@ -143,7 +143,7 @@ data/pdfs + data/html -> ingest -> data/md -> chunk -> data/chunks.jsonl -> inde
    -> search (hybrid, rerank) -> answer with citations or "not in the documents" -> evals in CI
 ```
 
-**Status:** Phase 1 (scaffolding) is done. Every RAG command below is a stub that prints the phase that implements it and exits with code 2. The block-1 commands above are unchanged.
+**Status:** The pipeline is implemented through Phase 8: ingest, chunk, index, answer, eval, gate, and CI. One command runs it: `python main.py rag-all` (also `make run`). `make extract` remains the block-1 extraction recipe.
 
 ## Extra setup
 
@@ -185,7 +185,34 @@ Optional `.env` variables (defaults shown in `.env.example`):
 
 `rag-eval` is not called `eval` because `python main.py eval RUN_DIR` already scores block-1 extraction runs.
 
-Chunking strategy comparison (by heading vs fixed windows) and the decision are in `RAG_CHANGELOG.md`. Documents to compare are listed in `measurements/chunking/targets.yaml`.
+## Cost per 1000 questions
+
+Cost per 1000 questions is the k-sweep table in [`RAG_REPORT.md`](RAG_REPORT.md). That sweep uses prompt v2 and rerank, with a context budget of 8000 tokens, at k = 3, 5 and 10. Answer cost is $1.20, $1.63 and $2.29 per 1000 questions. Judge cost is $0.19, $0.22 and $0.24 per 1000 questions. k=5 is the current default.
+
+## Chunking
+
+Production chunking is by heading. `chunk` cuts each document on its headings. Fixed 400/80 windows remain a baseline in `measurements/chunking/`. `python main.py chunk-compare` measures them on the documents listed in `measurements/chunking/targets.yaml`. Sizes use the bge tokenizer.
+
+On these four documents, heading chunks have no mid-sentence starts and no cut table rows. Every chunk has a section for citations, and `embed_prefix` (title and section) gives numbers context. Tables carry the answers; cutting a row separates a number from its label. Heading chunks are smaller than the fixed windows, and 30 to 40 percent more numerous. The decision is recorded in [`RAG_CHANGELOG.md`](RAG_CHANGELOG.md).
+
+| Document | Strategy | Chunks | Avg tokens | Max | Mid-sentence starts | Cut table rows | Empty section |
+|---|---|---|---|---|---|---|---|
+| gs01 | by heading | 19 | 177 | 394 | 0 | 0 | 0 |
+| gs01 | fixed 400/80 | 10 | 382 | 400 | 1 | 4 | 10 |
+| gs9 | by heading | 4 | 227 | 394 | 0 | 0 | 0 |
+| gs9 | fixed 400/80 | 3 | 350 | 400 | 1 | 0 | 3 |
+| Retreat at Arcway | by heading | 80 | 267 | 477 | 0 | 0 | 0 |
+| Retreat at Arcway | fixed 400/80 | 61 | 398 | 400 | 23 | 35 | 61 |
+| Centurion p1-40 | by heading | 137 | 236 | 479 | 0 | 0 | 0 |
+| Centurion p1-40 | fixed 400/80 | 98 | 398 | 400 | 49 | 28 | 98 |
+
+## Known limits
+
+Photo-only pages need OCR. A page under 50 characters with an image is marked `ocr_required`, and the same flag covers a page drawn as outlines (more than 20 vector paths and no text layer). `python main.py ocr` reads those pages with Docling. CI does not run OCR.
+
+Some tables are over-detected when a PDF is converted to Markdown.
+
+Follow-up rewrite is not implemented. It is a future extension. Each question is answered on its own.
 
 ## RAG layout
 
@@ -198,7 +225,9 @@ data/html/           saved listing pages
 data/md/             Markdown per document version (generated)
 data/ocr/            OCR output for pages with no text layer (generated, committed)
 data/chunks.jsonl    chunks with metadata (generated, committed)
-prompts/rag/         RAG and judge prompts with their own changelog (planned)
-evals/               test set, labels, baseline (planned)
+prompts/rag/         versioned RAG and judge prompts; history in RAG_CHANGELOG.md
+evals/               testset.json, labels.json, baseline.json, baseline.source-metadata.json
 index/, .cache/, output/   rebuilt locally, not committed
 ```
+
+`prompts/rag/` holds versioned answer prompts (`v1` through `v5`) and the judge prompts (`judge-v1`). Their history is [`RAG_CHANGELOG.md`](RAG_CHANGELOG.md). `prompts/rag/` has no `CHANGELOG.md`. `evals/` holds `testset.json`, `labels.json`, `baseline.json`, and `baseline.source-metadata.json`. `index/`, `.cache/`, and `output/` are rebuilt locally and are not committed.
