@@ -48,10 +48,18 @@ def test_facts_delta_names_the_case_that_lost_a_fact():
     current = [{"id": "s04", "facts": False, "must": [["Yes, work not completed"]],
                 "answer": "The work is not completed."}]
     previous = [{"id": "s04", "facts": True, "answer": "Yes, work not completed."}]
-    text = format_facts_delta(current, previous, source="eval-v2.json")
+    text = format_facts_delta(current, previous)
     assert "#### s04" in text
-    assert "Yes, work not completed" in text
+    assert "Facts missing: Yes, work not completed" in text
+    assert "Baseline answer: Yes, work not completed." in text
     assert "### Rose" in text and "None." in text
+    assert "output/" not in format_facts_delta(current, None)
+    cited = format_facts_delta(
+        [{"id": "f02", "facts": True, "pass": False, "cited": False, "cited_ids": ["addendum#1"], "answer": "same"}],
+        [{"id": "f02", "facts": True, "pass": True, "cited": True, "cited_ids": ["original#1"], "answer": "same"}],
+    )
+    assert "### Other score changes" in cited and "cited yes -> no" in cited
+    assert "Baseline cited: original#1" in cited
 
 
 def test_groups_are_and_and_options_inside_are_or():

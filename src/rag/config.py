@@ -34,7 +34,7 @@ OUTPUT_DIR = ROOT / "output"          # answer logs, eval reports
 
 # --- prompts and evals (committed) ------------------------------------------
 RAG_PROMPTS = PROMPTS / "rag"         # prompts/rag/v5/system.txt, judge-v1/...
-EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json
+EVALS_DIR = ROOT / "evals"            # testset.json, labels.json, baseline.json, baseline.source-metadata.json
 
 # --- pipeline constants -----------------------------------------------------
 PIPELINE_VERSION = "rag-v3"           # bump when ingest or chunk behavior changes

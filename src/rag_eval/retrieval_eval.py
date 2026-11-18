@@ -112,22 +112,26 @@ def evaluate(cases: list[dict], relevant: dict[str, tuple[str, ...]], search: Se
     return RetrievalReport(k, tuple(rows))
 
 
+def _table(columns: tuple[str, ...], rows: list[tuple[str, ...]]) -> str:
+    header = "| " + " | ".join(columns) + " |"
+    rule = "| " + " | ".join("---" for _ in columns) + " |"
+    body = ["| " + " | ".join(row) + " |" for row in rows]
+    return "\n".join((header, rule, *body))
+
+
 def format_report(report: RetrievalReport) -> str:
-    header = f"{'config':<10} {f'recall@{report.k}':>8} {'MRR':>6} {'ms/query':>8}  miss"
-    lines = [header]
-    gaps: list[str] = []
+    """Two markdown tables: one row per config, then one row per missing evidence chunk."""
+    metrics = []
+    gaps = []
     for row in report.configs:
         shown = ", ".join(row.score.misses) if row.score.misses else "none"
-        lines.append(
-            f"{row.config:<10} {row.score.recall:8.2f} {row.score.mrr:6.2f} {row.ms_per_query:8.1f}  {shown}"
-        )
+        metrics.append((row.config, f"{row.score.recall:.2f}", f"{row.score.mrr:.2f}", f"{row.ms_per_query:.1f}", shown))
         for case_id, ids in row.score.missing:
-            gaps.append(f"{row.config:<10} {case_id}  missing {', '.join(ids)}")
+            gaps.append((row.config, case_id, ", ".join(ids)))
+    parts = [_table(("config", f"recall@{report.k}", "MRR", "ms/query", "miss"), metrics)]
     if gaps:
-        lines.append("")
-        lines.append("missing evidence chunks:")
-        lines.extend(gaps)
-    return "\n".join(lines)
+        parts.append(_table(("config", "id", "missing"), gaps))
+    return "\n\n".join(parts)
 
 
 def retrieval_path(now: datetime | None = None) -> Path:

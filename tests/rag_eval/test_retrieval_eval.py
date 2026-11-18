@@ -63,4 +63,8 @@ def test_evaluate_skips_no_answer_and_passes_the_case_filter():
     assert by_config["vector"].score.mrr == 0.5
     assert by_config["vector"].ms_per_query == 12.5
     assert by_config["rerank"].score.misses == ("e01", "f01")
-    assert "e01" in format_report(report) and "rerank" in format_report(report)
+    text = format_report(report)
+    assert text.startswith("| config | recall@5 | MRR | ms/query | miss |")
+    assert "| rerank | 0.00 | 0.00 | 25.0 | e01, f01 |" in text
+    assert "| config | id | missing |" in text
+    assert "| rerank | e01 | gold |" in text

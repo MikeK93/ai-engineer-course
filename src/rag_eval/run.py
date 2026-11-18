@@ -17,6 +17,7 @@ from src.rag.config import CONTEXT_BUDGET, EVALS_DIR, K, OUTPUT_DIR, IndexPaths
 from src.rag.index import Filters
 from src.rag.llm_rag import PROMPT_VERSION
 from src.rag.store import read_jsonl
+from src.rag_eval.baseline import metadata_path
 from src.rag_eval.gate import gate
 from src.rag_eval.judge import Judgement, judge_correct, judge_grounded
 from src.rag_eval.lint import TESTSET, lint
@@ -72,7 +73,7 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
         questions = len(cases) * repeat
         baseline = json.loads(baseline_path.read_text(encoding="utf-8")) if baseline_path.exists() else None
         failures = gate(metrics, baseline=baseline, passed={row["id"] for row in runs[-1] if row["pass"]})
-        source, previous = _baseline_cases(baseline)
+        previous = _baseline_cases(baseline_path) if baseline else None
 
         stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
         report = report_path or OUTPUT_DIR / f"report-{PROMPT_VERSION}-{stamp}.md"
@@ -80,7 +81,7 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
         report.parent.mkdir(parents=True, exist_ok=True)
         body = _markdown(
             metrics, steady, spent, questions, retrieval, runs[-1], failures,
-            format_facts_delta(runs[-1], previous, source=source) if baseline else "",
+            format_facts_delta(runs[-1], previous) if baseline else "",
         )
         report.write_text(body, encoding="utf-8")
         payload.write_text(json.dumps({
@@ -194,52 +195,91 @@ def _cost_block(spent: dict, questions: int) -> dict:
     }
 
 
-def format_facts_delta(current: list[dict], previous: list[dict] | None, *, source: str) -> str:
-    """Cases whose facts score changed against the baseline's saved run."""
+def format_facts_delta(current: list[dict], previous: list[dict] | None) -> str:
+    """Cases whose saved scores changed. `previous` is the committed baseline metadata."""
     lines = ["## Facts compared with the baseline run", ""]
     if previous is None:
-        where = f"`{source}`" if source else "the baseline source"
         lines += [
-            f"{where} is not in output/, so this report cannot name which cases changed.",
+            "`evals/baseline.source-metadata.json` is missing, so this report cannot name which cases changed.",
             "",
         ]
         return "\n".join(lines)
-    before = {row["id"]: row.get("facts") for row in previous}
-    fell = [row for row in current if before.get(row["id"]) is True and row.get("facts") is False]
-    rose = [row for row in current if before.get(row["id"]) is False and row.get("facts") is True]
+    before = {row["id"]: row for row in previous}
+    fell = [row for row in current if _flag(before, row, "facts") is True and row.get("facts") is False]
+    rose = [row for row in current if _flag(before, row, "facts") is False and row.get("facts") is True]
+    shown = {row["id"] for row in fell + rose}
+    other = [row for row in current if row["id"] not in shown and _score_changed(before.get(row["id"]), row)]
     lines += [
         "The gate's facts number is the average across the baseline's repeats. "
-        f"These cases are compared with the saved run `{source}`, the only per-case record.",
+        "These cases are compared with the saved run in `evals/baseline.source-metadata.json`.",
         "",
-        _change_block("Fell", fell, show_missing=True),
-        _change_block("Rose", rose, show_missing=False),
+        _change_block("Fell", fell, before, show_missing=True),
+        _change_block("Rose", rose, before, show_missing=False),
+        _change_block("Other score changes", other, before, show_missing=False, show_flags=True),
     ]
     return "\n".join(lines)
 
 
-def _baseline_cases(baseline: dict | None) -> tuple[str, list[dict] | None]:
-    if not baseline:
-        return "", None
-    source = str(baseline.get("source") or "")
-    path = OUTPUT_DIR / source if source else None
-    if path is None or not path.exists():
-        return source, None
+def _baseline_cases(baseline_path: Path) -> list[dict] | None:
+    """Per-case rows from the metadata file next to the baseline. Missing file means no comparison."""
+    path = metadata_path(baseline_path)
+    if not path.is_file():
+        return None
     payload = json.loads(path.read_text(encoding="utf-8"))
-    return source, list(payload.get("cases") or [])
+    return list(payload.get("cases") or [])
 
 
-def _change_block(title: str, rows: list[dict], *, show_missing: bool) -> str:
+def _flag(before: dict[str, dict], row: dict, key: str):
+    saved = before.get(row["id"]) or {}
+    return saved.get(key)
+
+
+def _score_changed(saved: dict | None, row: dict) -> bool:
+    if not saved:
+        return False
+    return any(saved.get(key) != row.get(key) for key in ("pass", "cited", "abstain", "false_abstain"))
+
+
+def _mark(value) -> str:
+    if value is True:
+        return "yes"
+    if value is False:
+        return "no"
+    return "n/a"
+
+
+def _flag_line(saved: dict, row: dict) -> str:
+    parts = []
+    for key in ("pass", "facts", "cited", "abstain", "false_abstain"):
+        if saved.get(key) != row.get(key):
+            parts.append(f"{key} {_mark(saved.get(key))} -> {_mark(row.get(key))}")
+    return "; ".join(parts)
+
+
+def _ids(value) -> str:
+    return ", ".join(value or []) or "none"
+
+
+def _change_block(title: str, rows: list[dict], before: dict[str, dict], *,
+                  show_missing: bool, show_flags: bool = False) -> str:
     lines = [f"### {title}", ""]
     if not rows:
         return "\n".join(lines + ["None.", ""])
     for row in rows:
+        saved = before.get(row["id"]) or {}
         lines += [f"#### {row['id']}", ""]
+        if show_flags:
+            lines += [f"Changed: {_flag_line(saved, row)}", ""]
         if show_missing:
             lines += [
                 f"Facts missing: {_groups(missing_groups(row.get('must') or [], row.get('answer') or ''))}",
                 "",
             ]
+        if saved.get("answer"):
+            lines += [f"Baseline answer: {saved['answer']}", ""]
         lines += [f"Answer: {row.get('answer') or ''}", ""]
+        if _ids(saved.get("cited_ids")) != _ids(row.get("cited_ids")):
+            lines += [f"Baseline cited: {_ids(saved.get('cited_ids'))}", "", f"Cited: {_ids(row.get('cited_ids'))}", ""]
     return "\n".join(lines)
 
 

@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-18 | Phase 7 | Baseline source metadata
+
+What: `save-baseline` writes `evals/baseline.source-metadata.json` beside `evals/baseline.json`. Each saved case keeps its scores, answer, citations, evidence ids, and `must` groups. The facts section reads that file. It no longer looks for the eval JSON under `output/`.
+Why: the per-case record was only in a gitignored eval file, so Actions could say `regression: s04` and could not show the answer that used to pass.
+Effect: the metadata is built from `eval-v2-20261117T110607Z.json`. A later `rag-eval` can name a facts or citation change against that saved run.
+
 ## 2026-11-18 | Phase 8 | CI workflow and rag-all
 
 What: `.github/workflows/evals.yml` runs unit tests, test-set lint, index, retrieval metrics, then `rag-eval` on Python 3.12 with CPU torch. It caches the Hugging Face models and `.cache/embeddings.sqlite`, and uploads `output/report-*.md` even when the gate fails. `python main.py rag-all` runs ingest, chunk, index, retrieval eval, and answer eval. It does not run OCR. Chunk and index are skipped when the dataset version, pipeline version, chunk hash, and embedding model match the last run. `make run` calls `rag-all`. The old extraction recipe is `make extract`.
