@@ -6,6 +6,12 @@ Entry: `## date | phase | title (commit)`, then **What**, **Why** (including wha
 
 ---
 
+## 2026-11-18 | Phase 8 | CI workflow and rag-all
+
+What: `.github/workflows/evals.yml` runs unit tests, test-set lint, index, retrieval metrics, then `rag-eval` on Python 3.12 with CPU torch. It caches the Hugging Face models and `.cache/embeddings.sqlite`, and uploads `output/report-*.md` even when the gate fails. `python main.py rag-all` runs ingest, chunk, index, retrieval eval, and answer eval. It does not run OCR. Chunk and index are skipped when the dataset version, pipeline version, chunk hash, and embedding model match the last run. `make run` calls `rag-all`. The old extraction recipe is `make extract`.
+Why: Phase 8 needs one command for the local pipeline and a workflow that fails when the gate fails.
+Effect: not run on GitHub Actions yet. The two API keys still have to be added as repository secrets. The first uncached index can take longer than the 20 minute job limit.
+
 ## 2026-11-18 | Phase 6 | Answer prompt v5
 
 What: `prompts/rag/v5/system.txt`. `PROMPT_VERSION` is `v5`. v4 is unchanged. The glossary intro now says the meanings are for reading only and do not replace the source's words. A cell that starts with Yes or No is copied as written, including the words after it. Yes is not turned into "has" or "is".

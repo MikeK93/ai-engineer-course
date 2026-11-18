@@ -217,6 +217,76 @@ def cmd_k_sweep(_args):
     raise SystemExit(sweep())
 
 
+def cmd_rag_all(_args):
+    from src.rag.chunk import chunk_corpus
+    from src.rag.config import EMBED_MODEL, INDEX_DIR, PIPELINE_VERSION, ChunkPaths, IngestPaths, IndexPaths
+    from src.rag.ingest import ingest, summarize
+    from src.rag.pipeline import chunk_current, index_current, index_stamp, run_all
+    from src.rag.store import file_sha256, read_json
+
+    sys.stdout.reconfigure(errors="replace")
+    ingest_paths, chunk_paths, index_paths = IngestPaths(), ChunkPaths(), IndexPaths()
+    stamp_path = INDEX_DIR / "stamp"
+
+    def do_ingest():
+        manifest = ingest(paths=ingest_paths)
+        print(summarize(manifest))
+        if any(file["status"] == "error" for file in manifest["files"].values()):
+            raise SystemExit(1)
+
+    def do_chunk():
+        summary = chunk_corpus(paths=chunk_paths)
+        print(f"{summary['n_chunks']} chunks ({summary['n_boilerplate']} boilerplate, "
+              f"{summary['n_ocr']} from OCR pages), max {summary['max_tokens']} tokens")
+        if summary["over_cap"]:
+            print(f"{len(summary['over_cap'])} chunks are over the cap, for example {summary['over_cap'][:3]}")
+            raise SystemExit(1)
+
+    def do_index():
+        from src.rag.embed import Embedder
+        from src.rag.index import build_index, open_client
+        from src.rag.store import read_jsonl
+
+        if not index_paths.chunks.is_file():
+            raise SystemExit(f"{index_paths.chunks} not found. Run `python main.py chunk` first.")
+        client = open_client(index_paths.index)
+        try:
+            chunks = read_jsonl(index_paths.chunks)
+            n = build_index(chunks, Embedder(cache=index_paths.embedding_cache), client)
+        finally:
+            client.close()
+        stamp_path.write_text(index_stamp(file_sha256(index_paths.chunks), EMBED_MODEL), encoding="utf-8")
+        print(f"{n} chunks indexed in {index_paths.index}")
+
+    def chunks_ready() -> bool:
+        if not (chunk_paths.chunks.is_file() and chunk_paths.summary.is_file() and ingest_paths.manifest.is_file()):
+            return False
+        manifest = read_json(ingest_paths.manifest)
+        return chunk_current(
+            read_json(chunk_paths.summary),
+            dataset_version=manifest.get("dataset_version"),
+            pipeline_version=PIPELINE_VERSION,
+        )
+
+    def index_ready() -> bool:
+        saved = stamp_path.read_text(encoding="utf-8") if stamp_path.is_file() else None
+        digest = file_sha256(index_paths.chunks) if index_paths.chunks.is_file() else ""
+        return index_paths.index.exists() and index_current(saved, digest, EMBED_MODEL)
+
+    def do_retrieval() -> int:
+        from src.rag_eval.retrieval_eval import run
+        return run()
+
+    def do_answer() -> int:
+        from src.rag_eval.run import run
+        return run()
+
+    raise SystemExit(run_all(
+        ingest=do_ingest, chunk=do_chunk, index=do_index, retrieval=do_retrieval, answer=do_answer,
+        chunk_current=chunks_ready, index_current=index_ready,
+    ))
+
+
 def cmd_aggregate_reports(_args):
     from src.rag.config import OUTPUT_DIR, ROOT
     from src.rag_eval.aggregate import format_runs, load_reports, splice
@@ -258,9 +328,7 @@ def cmd_search(args):
         print(f"   {' '.join(c['text'].split())[:240]}")
 
 
-RAG_STUBS = {
-    "rag-all": (9, "Run ingest, chunk, index and both evals in one go"),
-}
+RAG_STUBS = {}
 
 
 def cmd_rag_stub(args):
@@ -376,6 +444,8 @@ def main():
         fn=cmd_k_sweep)
     sub.add_parser("aggregate-reports", help="[RAG] Add every output/report-v*.md row to RAG_REPORT.md").set_defaults(
         fn=cmd_aggregate_reports)
+    sub.add_parser("rag-all", help="[RAG] Ingest, chunk, index, retrieval eval, and answer eval. Skips OCR and unchanged inputs").set_defaults(
+        fn=cmd_rag_all)
 
     _add_rag_stubs(sub)
 

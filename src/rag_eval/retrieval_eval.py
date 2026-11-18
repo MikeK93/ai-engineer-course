@@ -147,20 +147,26 @@ def run(k: int = K, *, testset: Path = TESTSET, chunks_path: Path | None = None,
             log(error)
         log(f"eval-retrieval: test set failed lint ({len(result.errors)} errors)")
         return 1
+    retriever = None
     if search is None:
         if not paths.index.exists():
             log(f"{paths.index} not found. Run `python main.py index` first.")
             return 1
         from src.rag.retrieve import load_retriever
 
-        search = load_retriever(paths, log=lambda _: None).search
-    report = evaluate(cases, result.chunk_ids, search, k=k, log=log)
-    log(format_report(report))
-    path = log_path or retrieval_path()
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(report.to_dict(), indent=2), encoding="utf-8")
-    log(f"Log: {path}")
-    return 0
+        retriever = load_retriever(paths, log=lambda _: None)
+        search = retriever.search
+    try:
+        report = evaluate(cases, result.chunk_ids, search, k=k, log=log)
+        log(format_report(report))
+        path = log_path or retrieval_path()
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(report.to_dict(), indent=2), encoding="utf-8")
+        log(f"Log: {path}")
+        return 0
+    finally:
+        if retriever is not None:
+            retriever.close()
 
 
 def _filters(case: dict) -> Filters:

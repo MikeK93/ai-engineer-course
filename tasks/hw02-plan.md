@@ -255,14 +255,14 @@ Files: `evals/testset.json`, `evals/labels.json`, `evals/baseline.json`, `src/ra
 
 Files: `.github/workflows/evals.yml`, `Makefile`.
 
-- [ ] Workflow trigger: `push` and `pull_request`, paths `prompts/rag/**`, `evals/**`, `src/rag/**`, `src/rag_eval/**`, `data/chunks.jsonl`, `requirements.txt`.
-- [ ] Python 3.12, CPU-only torch (`--index-url https://download.pytorch.org/whl/cpu`), `pip install -r requirements.txt`.
-- [ ] `actions/cache` for the Hugging Face model folder and the vector cache (key: hash of `chunks.jsonl` + embed model).
-- [ ] Steps in order: offline unit checks, test-set lint, index build, retrieval metrics, answer eval + judge + gate.
-- [ ] **MANUAL** before the first CI run: add `GEMINI_API_KEY` and `OPENROUTER_API_KEY` as GitHub repo secrets (Settings -> Secrets and variables -> Actions). The workflow reads both; without them the answer and judge steps fail.
-- [ ] Upload `output/report-*.md` with `if: always()`. Timeout 20 minutes.
-- [ ] `Makefile`: `run` calls `python main.py rag-all`.
-- [ ] `python main.py rag-all`: ingest, chunk, index, retrieval eval, answer eval, print report table. Skips `ocr`, skips unchanged inputs.
+- [x] Workflow trigger: `push` and `pull_request`, paths `prompts/rag/**`, `evals/**`, `src/rag/**`, `src/rag_eval/**`, `data/chunks.jsonl`, `requirements.txt`. `.github/workflows/evals.yml` is included so the workflow file itself triggers a run.
+- [x] Python 3.12, CPU-only torch (`--index-url https://download.pytorch.org/whl/cpu`), `pip install -r requirements.txt`.
+- [x] `actions/cache` for the Hugging Face model folder and the vector cache (key: hash of `chunks.jsonl` + embed model).
+- [x] Steps in order: offline unit checks, test-set lint, index build, retrieval metrics, answer eval + judge + gate.
+- [x] **MANUAL** before the first CI run: add `GEMINI_API_KEY` and `OPENROUTER_API_KEY` as GitHub repo secrets (Settings -> Secrets and variables -> Actions). The workflow reads both; without them the answer and judge steps fail.
+- [x] Upload `output/report-*.md` with `if: always()`. Timeout 20 minutes.
+- [x] `Makefile`: `run` calls `python main.py rag-all`. The block-1 extraction recipe is `make extract`.
+- [x] `python main.py rag-all`: ingest, chunk, index, retrieval eval, answer eval, print report table. Skips `ocr`, skips unchanged inputs.
 - [ ] Push a branch and confirm the workflow passes. Then make a worse prompt change and confirm it fails.
 
 Exit check: a green run on the baseline and a red run on a worse prompt, both visible in GitHub Actions.

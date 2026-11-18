@@ -47,6 +47,7 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
         log(f"rag-eval: test set failed lint ({len(checked.errors)} errors)")
         return 1
     texts = {chunk["chunk_id"]: chunk.get("text") or "" for chunk in chunks if chunk.get("chunk_id")}
+    retriever = None
     if answer is None or search is None:
         if not paths.index.exists():
             log(f"{paths.index} not found. Run `python main.py index` first.")
@@ -57,43 +58,47 @@ def run(repeat: int = 1, k: int = K, config: str = "rerank", *, testset: Path = 
         search = search or retriever.search
         answer = answer or _answer(retriever, config, k, answers_path(), log)
 
-    retrieval = evaluate(cases, checked.chunk_ids, search, k=k, log=log)
-    log(format_report(retrieval))
-    runs: list[list[dict]] = []
-    for number in range(1, repeat + 1):
-        log(f"rag-eval: repeat {number}/{repeat}, prompt {PROMPT_VERSION}")
-        runs.append(_once(cases, checked.chunk_ids, texts, answer, correct, grounded, log))
+    try:
+        retrieval = evaluate(cases, checked.chunk_ids, search, k=k, log=log)
+        log(format_report(retrieval))
+        runs: list[list[dict]] = []
+        for number in range(1, repeat + 1):
+            log(f"rag-eval: repeat {number}/{repeat}, prompt {PROMPT_VERSION}")
+            runs.append(_once(cases, checked.chunk_ids, texts, answer, correct, grounded, log))
 
-    metrics = _metrics(runs, _recall(retrieval, config))
-    steady = stability([[bool(row["pass"]) for row in rows] for rows in runs], [case["id"] for case in cases])
-    spent = _spend(runs)
-    questions = len(cases) * repeat
-    baseline = json.loads(baseline_path.read_text(encoding="utf-8")) if baseline_path.exists() else None
-    failures = gate(metrics, baseline=baseline, passed={row["id"] for row in runs[-1] if row["pass"]})
-    source, previous = _baseline_cases(baseline)
+        metrics = _metrics(runs, _recall(retrieval, config))
+        steady = stability([[bool(row["pass"]) for row in rows] for rows in runs], [case["id"] for case in cases])
+        spent = _spend(runs)
+        questions = len(cases) * repeat
+        baseline = json.loads(baseline_path.read_text(encoding="utf-8")) if baseline_path.exists() else None
+        failures = gate(metrics, baseline=baseline, passed={row["id"] for row in runs[-1] if row["pass"]})
+        source, previous = _baseline_cases(baseline)
 
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    report = report_path or OUTPUT_DIR / f"report-{PROMPT_VERSION}-{stamp}.md"
-    payload = eval_path or OUTPUT_DIR / f"eval-{PROMPT_VERSION}-{stamp}.json"
-    report.parent.mkdir(parents=True, exist_ok=True)
-    body = _markdown(
-        metrics, steady, spent, questions, retrieval, runs[-1], failures,
-        format_facts_delta(runs[-1], previous, source=source) if baseline else "",
-    )
-    report.write_text(body, encoding="utf-8")
-    payload.write_text(json.dumps({
-        "prompt": PROMPT_VERSION, "repeat": repeat, "k": k, "config": config,
-        "metrics": metrics, "stability": steady, "cost": _cost_block(spent, questions),
-        "retrieval": retrieval.to_dict(), "cases": runs[-1], "gate": failures,
-    }, indent=2), encoding="utf-8")
-    log(body)
-    log(f"Report: {report}")
-    log(f"Log: {payload}")
-    if failures:
-        log(f"rag-eval: gate failed ({len(failures)})")
-        return 1
-    log("rag-eval: gate passed")
-    return 0
+        stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+        report = report_path or OUTPUT_DIR / f"report-{PROMPT_VERSION}-{stamp}.md"
+        payload = eval_path or OUTPUT_DIR / f"eval-{PROMPT_VERSION}-{stamp}.json"
+        report.parent.mkdir(parents=True, exist_ok=True)
+        body = _markdown(
+            metrics, steady, spent, questions, retrieval, runs[-1], failures,
+            format_facts_delta(runs[-1], previous, source=source) if baseline else "",
+        )
+        report.write_text(body, encoding="utf-8")
+        payload.write_text(json.dumps({
+            "prompt": PROMPT_VERSION, "repeat": repeat, "k": k, "config": config,
+            "metrics": metrics, "stability": steady, "cost": _cost_block(spent, questions),
+            "retrieval": retrieval.to_dict(), "cases": runs[-1], "gate": failures,
+        }, indent=2), encoding="utf-8")
+        log(body)
+        log(f"Report: {report}")
+        log(f"Log: {payload}")
+        if failures:
+            log(f"rag-eval: gate failed ({len(failures)})")
+            return 1
+        log("rag-eval: gate passed")
+        return 0
+    finally:
+        if retriever is not None:
+            retriever.close()
 
 
 def _answer(retriever, config: str, k: int, log_path: Path, log, budget: int = CONTEXT_BUDGET):

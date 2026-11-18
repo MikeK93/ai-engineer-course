@@ -1,0 +1,72 @@
+name: RAG evals
+
+on:
+  push:
+    paths:
+      - "prompts/rag/**"
+      - "evals/**"
+      - "src/rag/**"
+      - "src/rag_eval/**"
+      - "data/chunks.jsonl"
+      - "requirements.txt"
+      - ".github/workflows/evals.yml"
+  pull_request:
+    paths:
+      - "prompts/rag/**"
+      - "evals/**"
+      - "src/rag/**"
+      - "src/rag_eval/**"
+      - "data/chunks.jsonl"
+      - "requirements.txt"
+      - ".github/workflows/evals.yml"
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            .cache/embeddings.sqlite
+          key: rag-${{ hashFiles('data/chunks.jsonl') }}-BAAI-bge-small-en-v1.5-ms-marco-MiniLM-L-6-v2
+          restore-keys: |
+            rag-
+
+      - name: Install CPU torch and requirements
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      - name: Offline unit checks
+        run: python -m pytest tests/rag tests/rag_eval -q
+
+      - name: Test-set lint
+        run: python main.py lint-testset
+
+      - name: Index build
+        run: python main.py index
+
+      - name: Retrieval metrics
+        run: python main.py eval-retrieval
+
+      - name: Answer eval, judge, and gate
+        run: python main.py rag-eval
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rag-reports
+          path: output/report-*.md
+          if-no-files-found: warn

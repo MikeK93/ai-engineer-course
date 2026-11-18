@@ -48,6 +48,10 @@ class Retriever:
         self.log = log
         self.chunks = {c["chunk_id"]: c for c in chunks}
 
+    def close(self) -> None:
+        """Release the local Qdrant lock so the next command in this process can open the index."""
+        self.client.close()
+
     def search(self, query: str, config: str = "hybrid", *, filters: Filters = Filters(), k: int = K) -> list[Hit]:
         if config not in CONFIGS:
             raise ValueError(f"unknown config {config!r}; use one of {CONFIGS}")
